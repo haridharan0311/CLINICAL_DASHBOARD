@@ -1,0 +1,2001 @@
+alert_id,clinic_id,alert_type,reference_id,severity,trigger_metric,triggered_date,is_resolved
+AL0001,CL0021,Disease_Spike,DIS001,Medium,Cases increased 376% in 48 hours,2023-07-19,True
+AL0002,CL0045,Low_Stock,DRG052,Critical,Current stock 50 < Buffer 136,2021-08-15,True
+AL0003,CL0002,Outbreak_Warning,DIS036,Critical,Geospatial cluster detected: 36 cases within 5km radius,2024-01-09,True
+AL0004,CL0050,Disease_Spike,DIS021,Medium,Cases increased 401% in 24 hours,2025-08-26,True
+AL0005,CL0027,Disease_Spike,DIS050,Critical,Cases increased 170% in 72 hours,2025-02-23,True
+AL0006,CL0046,Outbreak_Warning,DIS004,High,Geospatial cluster detected: 29 cases within 5km radius,2024-06-27,True
+AL0007,CL0016,Outbreak_Warning,DIS020,Medium,Geospatial cluster detected: 22 cases within 5km radius,2022-01-15,True
+AL0008,CL0002,Low_Stock,DRG047,Critical,Current stock 30 < Buffer 145,2024-06-03,False
+AL0009,CL0041,Low_Stock,DRG094,Medium,Current stock 35 < Buffer 96,2022-06-08,True
+AL0010,CL0049,Low_Stock,DRG061,Medium,Current stock 34 < Buffer 119,2022-06-11,True
+AL0011,CL0025,Disease_Spike,DIS019,Critical,Cases increased 320% in 72 hours,2021-05-24,True
+AL0012,CL0048,Outbreak_Warning,DIS023,Critical,Geospatial cluster detected: 17 cases within 5km radius,2023-09-13,True
+AL0013,CL0027,Low_Stock,DRG014,Medium,Current stock 29 < Buffer 80,2025-05-21,True
+AL0014,CL0032,Outbreak_Warning,DIS044,High,Geospatial cluster detected: 45 cases within 5km radius,2025-01-25,True
+AL0015,CL0018,Outbreak_Warning,DIS021,Medium,Geospatial cluster detected: 14 cases within 5km radius,2022-07-07,True
+AL0016,CL0042,Outbreak_Warning,DIS038,High,Geospatial cluster detected: 11 cases within 5km radius,2025-07-12,True
+AL0017,CL0036,Disease_Spike,DIS014,Critical,Cases increased 179% in 48 hours,2022-02-13,True
+AL0018,CL0028,Low_Stock,DRG093,Critical,Current stock 14 < Buffer 100,2022-07-15,True
+AL0019,CL0038,Disease_Spike,DIS032,High,Cases increased 439% in 72 hours,2021-06-08,True
+AL0020,CL0009,Outbreak_Warning,DIS003,Medium,Geospatial cluster detected: 19 cases within 5km radius,2024-12-03,False
+AL0021,CL0034,Disease_Spike,DIS033,High,Cases increased 181% in 72 hours,2025-06-01,True
+AL0022,CL0047,Low_Stock,DRG038,High,Current stock 35 < Buffer 110,2025-01-06,True
+AL0023,CL0004,Disease_Spike,DIS009,High,Cases increased 500% in 72 hours,2023-01-22,True
+AL0024,CL0030,Low_Stock,DRG022,Medium,Current stock 11 < Buffer 67,2024-06-10,False
+AL0025,CL0028,Outbreak_Warning,DIS019,Critical,Geospatial cluster detected: 46 cases within 5km radius,2024-01-16,True
+AL0026,CL0007,Outbreak_Warning,DIS010,High,Geospatial cluster detected: 18 cases within 5km radius,2025-02-12,True
+AL0027,CL0003,Disease_Spike,DIS008,Critical,Cases increased 223% in 48 hours,2022-05-04,True
+AL0028,CL0034,Low_Stock,DRG053,Medium,Current stock 30 < Buffer 110,2024-07-18,True
+AL0029,CL0002,Outbreak_Warning,DIS039,Medium,Geospatial cluster detected: 40 cases within 5km radius,2025-10-01,True
+AL0030,CL0041,Low_Stock,DRG068,Critical,Current stock 27 < Buffer 82,2023-07-07,True
+AL0031,CL0018,Low_Stock,DRG017,Critical,Current stock 11 < Buffer 123,2024-02-26,True
+AL0032,CL0017,Outbreak_Warning,DIS025,Critical,Geospatial cluster detected: 40 cases within 5km radius,2025-03-07,True
+AL0033,CL0022,Disease_Spike,DIS033,Medium,Cases increased 255% in 72 hours,2023-06-16,True
+AL0034,CL0037,Outbreak_Warning,DIS044,Critical,Geospatial cluster detected: 31 cases within 5km radius,2024-07-11,True
+AL0035,CL0017,Outbreak_Warning,DIS022,Critical,Geospatial cluster detected: 26 cases within 5km radius,2025-07-09,True
+AL0036,CL0026,Low_Stock,DRG040,Critical,Current stock 24 < Buffer 98,2022-04-02,True
+AL0037,CL0016,Outbreak_Warning,DIS041,Medium,Geospatial cluster detected: 16 cases within 5km radius,2022-01-15,True
+AL0038,CL0026,Low_Stock,DRG010,Critical,Current stock 22 < Buffer 70,2025-02-19,True
+AL0039,CL0038,Disease_Spike,DIS009,Critical,Cases increased 176% in 24 hours,2021-06-09,True
+AL0040,CL0017,Low_Stock,DRG036,Critical,Current stock 45 < Buffer 120,2022-07-26,True
+AL0041,CL0002,Outbreak_Warning,DIS026,Medium,Geospatial cluster detected: 23 cases within 5km radius,2025-04-16,True
+AL0042,CL0011,Disease_Spike,DIS048,Medium,Cases increased 500% in 48 hours,2025-07-28,True
+AL0043,CL0042,Disease_Spike,DIS016,High,Cases increased 349% in 24 hours,2022-08-23,True
+AL0044,CL0019,Outbreak_Warning,DIS037,High,Geospatial cluster detected: 23 cases within 5km radius,2023-08-08,True
+AL0045,CL0020,Low_Stock,DRG085,High,Current stock 46 < Buffer 108,2022-06-22,True
+AL0046,CL0009,Outbreak_Warning,DIS018,High,Geospatial cluster detected: 32 cases within 5km radius,2024-07-24,True
+AL0047,CL0034,Low_Stock,DRG030,Critical,Current stock 14 < Buffer 101,2022-02-27,True
+AL0048,CL0018,Outbreak_Warning,DIS035,Medium,Geospatial cluster detected: 49 cases within 5km radius,2023-02-09,True
+AL0049,CL0023,Low_Stock,DRG090,High,Current stock 45 < Buffer 115,2025-02-26,True
+AL0050,CL0026,Low_Stock,DRG029,High,Current stock 5 < Buffer 110,2022-11-26,True
+AL0051,CL0018,Outbreak_Warning,DIS039,High,Geospatial cluster detected: 12 cases within 5km radius,2022-01-19,True
+AL0052,CL0028,Disease_Spike,DIS048,Critical,Cases increased 314% in 24 hours,2024-01-12,True
+AL0053,CL0036,Outbreak_Warning,DIS039,Medium,Geospatial cluster detected: 19 cases within 5km radius,2024-02-17,True
+AL0054,CL0039,Outbreak_Warning,DIS041,Critical,Geospatial cluster detected: 29 cases within 5km radius,2025-02-12,True
+AL0055,CL0007,Disease_Spike,DIS021,High,Cases increased 293% in 24 hours,2021-11-28,True
+AL0056,CL0009,Outbreak_Warning,DIS012,High,Geospatial cluster detected: 23 cases within 5km radius,2021-08-01,True
+AL0057,CL0046,Disease_Spike,DIS011,High,Cases increased 460% in 48 hours,2024-01-11,True
+AL0058,CL0048,Outbreak_Warning,DIS050,Critical,Geospatial cluster detected: 49 cases within 5km radius,2024-07-08,True
+AL0059,CL0029,Low_Stock,DRG078,Medium,Current stock 9 < Buffer 142,2025-07-12,True
+AL0060,CL0004,Disease_Spike,DIS014,Critical,Cases increased 178% in 48 hours,2023-07-03,True
+AL0061,CL0001,Low_Stock,DRG004,Medium,Current stock 39 < Buffer 134,2021-08-08,True
+AL0062,CL0007,Disease_Spike,DIS014,Critical,Cases increased 444% in 72 hours,2025-12-17,True
+AL0063,CL0030,Outbreak_Warning,DIS004,High,Geospatial cluster detected: 43 cases within 5km radius,2025-01-08,True
+AL0064,CL0005,Low_Stock,DRG002,Medium,Current stock 24 < Buffer 120,2021-07-06,False
+AL0065,CL0022,Disease_Spike,DIS048,Critical,Cases increased 420% in 72 hours,2022-07-03,True
+AL0066,CL0048,Outbreak_Warning,DIS006,Medium,Geospatial cluster detected: 29 cases within 5km radius,2022-08-07,False
+AL0067,CL0019,Low_Stock,DRG097,Critical,Current stock 32 < Buffer 107,2024-07-28,False
+AL0068,CL0026,Outbreak_Warning,DIS017,High,Geospatial cluster detected: 28 cases within 5km radius,2022-05-24,True
+AL0069,CL0015,Low_Stock,DRG043,High,Current stock 7 < Buffer 98,2023-06-08,True
+AL0070,CL0048,Low_Stock,DRG071,Medium,Current stock 40 < Buffer 80,2021-02-19,True
+AL0071,CL0035,Outbreak_Warning,DIS018,Medium,Geospatial cluster detected: 48 cases within 5km radius,2023-01-19,True
+AL0072,CL0037,Disease_Spike,DIS035,Critical,Cases increased 286% in 24 hours,2022-07-26,True
+AL0073,CL0032,Disease_Spike,DIS032,High,Cases increased 185% in 48 hours,2024-01-20,True
+AL0074,CL0029,Outbreak_Warning,DIS038,High,Geospatial cluster detected: 44 cases within 5km radius,2022-12-22,True
+AL0075,CL0032,Low_Stock,DRG086,Critical,Current stock 43 < Buffer 97,2022-08-04,True
+AL0076,CL0025,Disease_Spike,DIS004,High,Cases increased 333% in 24 hours,2021-02-22,False
+AL0077,CL0037,Disease_Spike,DIS029,Medium,Cases increased 179% in 48 hours,2021-04-18,True
+AL0078,CL0034,Outbreak_Warning,DIS006,High,Geospatial cluster detected: 19 cases within 5km radius,2022-02-27,True
+AL0079,CL0028,Disease_Spike,DIS012,Critical,Cases increased 374% in 72 hours,2022-07-28,True
+AL0080,CL0011,Outbreak_Warning,DIS037,Medium,Geospatial cluster detected: 40 cases within 5km radius,2023-06-09,True
+AL0081,CL0043,Disease_Spike,DIS039,Medium,Cases increased 351% in 48 hours,2025-07-07,True
+AL0082,CL0030,Outbreak_Warning,DIS049,High,Geospatial cluster detected: 36 cases within 5km radius,2023-08-12,True
+AL0083,CL0042,Disease_Spike,DIS039,High,Cases increased 367% in 48 hours,2023-01-16,True
+AL0084,CL0048,Low_Stock,DRG075,Critical,Current stock 15 < Buffer 110,2024-04-13,True
+AL0085,CL0011,Disease_Spike,DIS040,Medium,Cases increased 330% in 48 hours,2021-02-19,True
+AL0086,CL0013,Outbreak_Warning,DIS041,Critical,Geospatial cluster detected: 19 cases within 5km radius,2024-02-07,True
+AL0087,CL0020,Disease_Spike,DIS026,High,Cases increased 371% in 24 hours,2024-01-17,True
+AL0088,CL0036,Outbreak_Warning,DIS028,Medium,Geospatial cluster detected: 40 cases within 5km radius,2021-06-24,True
+AL0089,CL0024,Low_Stock,DRG019,Critical,Current stock 17 < Buffer 100,2021-02-02,True
+AL0090,CL0045,Low_Stock,DRG063,Critical,Current stock 37 < Buffer 107,2022-02-14,True
+AL0091,CL0030,Low_Stock,DRG059,Medium,Current stock 9 < Buffer 144,2024-02-02,True
+AL0092,CL0019,Disease_Spike,DIS001,High,Cases increased 257% in 48 hours,2024-08-07,True
+AL0093,CL0005,Disease_Spike,DIS041,Critical,Cases increased 473% in 48 hours,2023-07-02,False
+AL0094,CL0018,Low_Stock,DRG057,Medium,Current stock 25 < Buffer 101,2023-02-23,True
+AL0095,CL0019,Low_Stock,DRG096,Medium,Current stock 19 < Buffer 129,2024-08-04,True
+AL0096,CL0046,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 39 cases within 5km radius,2023-07-02,True
+AL0097,CL0031,Outbreak_Warning,DIS016,High,Geospatial cluster detected: 20 cases within 5km radius,2024-11-04,True
+AL0098,CL0044,Disease_Spike,DIS009,Medium,Cases increased 500% in 48 hours,2022-08-08,True
+AL0099,CL0030,Low_Stock,DRG032,Medium,Current stock 42 < Buffer 66,2025-01-02,True
+AL0100,CL0025,Outbreak_Warning,DIS049,High,Geospatial cluster detected: 42 cases within 5km radius,2022-08-04,True
+AL0101,CL0015,Outbreak_Warning,DIS049,High,Geospatial cluster detected: 33 cases within 5km radius,2022-04-12,True
+AL0102,CL0050,Outbreak_Warning,DIS023,Medium,Geospatial cluster detected: 23 cases within 5km radius,2024-07-17,True
+AL0103,CL0020,Disease_Spike,DIS026,Medium,Cases increased 371% in 24 hours,2025-12-10,True
+AL0104,CL0018,Disease_Spike,DIS028,High,Cases increased 191% in 72 hours,2024-07-28,True
+AL0105,CL0040,Low_Stock,DRG072,Critical,Current stock 43 < Buffer 77,2022-01-17,True
+AL0106,CL0048,Disease_Spike,DIS021,Critical,Cases increased 206% in 24 hours,2022-08-28,True
+AL0107,CL0028,Low_Stock,DRG086,High,Current stock 22 < Buffer 92,2022-07-19,True
+AL0108,CL0006,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 18 cases within 5km radius,2025-10-15,True
+AL0109,CL0034,Disease_Spike,DIS033,Critical,Cases increased 451% in 72 hours,2021-01-05,True
+AL0110,CL0013,Disease_Spike,DIS042,High,Cases increased 393% in 48 hours,2021-06-18,True
+AL0111,CL0048,Low_Stock,DRG054,Medium,Current stock 29 < Buffer 150,2022-07-03,True
+AL0112,CL0042,Low_Stock,DRG048,Medium,Current stock 12 < Buffer 133,2025-01-04,True
+AL0113,CL0003,Outbreak_Warning,DIS004,Medium,Geospatial cluster detected: 37 cases within 5km radius,2024-06-07,True
+AL0114,CL0050,Outbreak_Warning,DIS004,High,Geospatial cluster detected: 36 cases within 5km radius,2024-08-23,True
+AL0115,CL0018,Low_Stock,DRG059,High,Current stock 43 < Buffer 133,2021-01-25,True
+AL0116,CL0024,Low_Stock,DRG006,High,Current stock 37 < Buffer 125,2021-01-09,True
+AL0117,CL0023,Disease_Spike,DIS045,Critical,Cases increased 410% in 24 hours,2021-05-11,True
+AL0118,CL0007,Outbreak_Warning,DIS005,Critical,Geospatial cluster detected: 26 cases within 5km radius,2024-06-10,True
+AL0119,CL0016,Disease_Spike,DIS033,Critical,Cases increased 387% in 48 hours,2024-08-16,True
+AL0120,CL0048,Low_Stock,DRG043,Critical,Current stock 9 < Buffer 107,2021-07-27,True
+AL0121,CL0012,Outbreak_Warning,DIS030,Medium,Geospatial cluster detected: 34 cases within 5km radius,2023-01-15,True
+AL0122,CL0002,Disease_Spike,DIS023,Medium,Cases increased 365% in 24 hours,2021-02-05,True
+AL0123,CL0050,Low_Stock,DRG001,Critical,Current stock 14 < Buffer 73,2021-01-21,True
+AL0124,CL0041,Low_Stock,DRG092,Medium,Current stock 12 < Buffer 128,2024-02-22,True
+AL0125,CL0046,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 34 cases within 5km radius,2023-10-06,True
+AL0126,CL0033,Disease_Spike,DIS050,Critical,Cases increased 224% in 24 hours,2023-12-17,False
+AL0127,CL0043,Disease_Spike,DIS008,Medium,Cases increased 261% in 48 hours,2022-06-03,True
+AL0128,CL0018,Disease_Spike,DIS022,Medium,Cases increased 425% in 24 hours,2021-12-19,True
+AL0129,CL0024,Outbreak_Warning,DIS005,High,Geospatial cluster detected: 12 cases within 5km radius,2022-07-23,True
+AL0130,CL0031,Low_Stock,DRG007,High,Current stock 28 < Buffer 104,2025-07-20,True
+AL0131,CL0010,Disease_Spike,DIS021,High,Cases increased 325% in 24 hours,2023-08-10,True
+AL0132,CL0023,Low_Stock,DRG007,Critical,Current stock 35 < Buffer 142,2025-07-07,True
+AL0133,CL0046,Disease_Spike,DIS041,Medium,Cases increased 491% in 48 hours,2025-11-18,True
+AL0134,CL0029,Disease_Spike,DIS042,High,Cases increased 290% in 72 hours,2024-07-18,True
+AL0135,CL0006,Disease_Spike,DIS024,Critical,Cases increased 382% in 48 hours,2025-12-06,True
+AL0136,CL0044,Low_Stock,DRG001,Critical,Current stock 15 < Buffer 94,2025-08-04,True
+AL0137,CL0047,Disease_Spike,DIS024,Medium,Cases increased 455% in 48 hours,2022-06-06,True
+AL0138,CL0048,Disease_Spike,DIS038,Critical,Cases increased 308% in 24 hours,2022-06-08,True
+AL0139,CL0010,Low_Stock,DRG013,High,Current stock 28 < Buffer 139,2023-04-21,True
+AL0140,CL0006,Low_Stock,DRG056,Medium,Current stock 11 < Buffer 106,2025-06-16,True
+AL0141,CL0045,Outbreak_Warning,DIS033,Medium,Geospatial cluster detected: 27 cases within 5km radius,2025-08-23,True
+AL0142,CL0026,Disease_Spike,DIS005,Critical,Cases increased 453% in 48 hours,2021-07-25,True
+AL0143,CL0049,Low_Stock,DRG059,Critical,Current stock 29 < Buffer 124,2022-06-15,True
+AL0144,CL0018,Low_Stock,DRG075,High,Current stock 9 < Buffer 99,2023-12-24,True
+AL0145,CL0044,Low_Stock,DRG097,Medium,Current stock 21 < Buffer 138,2022-12-25,True
+AL0146,CL0028,Outbreak_Warning,DIS003,Medium,Geospatial cluster detected: 40 cases within 5km radius,2024-01-20,False
+AL0147,CL0007,Low_Stock,DRG012,Critical,Current stock 11 < Buffer 86,2022-02-13,True
+AL0148,CL0047,Low_Stock,DRG042,Medium,Current stock 19 < Buffer 123,2022-12-02,True
+AL0149,CL0045,Outbreak_Warning,DIS013,High,Geospatial cluster detected: 39 cases within 5km radius,2024-08-17,True
+AL0150,CL0028,Outbreak_Warning,DIS017,Critical,Geospatial cluster detected: 32 cases within 5km radius,2024-12-17,True
+AL0151,CL0016,Outbreak_Warning,DIS027,High,Geospatial cluster detected: 27 cases within 5km radius,2022-07-05,True
+AL0152,CL0042,Outbreak_Warning,DIS007,High,Geospatial cluster detected: 22 cases within 5km radius,2024-06-01,True
+AL0153,CL0014,Outbreak_Warning,DIS016,Medium,Geospatial cluster detected: 10 cases within 5km radius,2021-08-21,True
+AL0154,CL0024,Low_Stock,DRG057,Medium,Current stock 8 < Buffer 105,2024-06-28,True
+AL0155,CL0040,Outbreak_Warning,DIS048,Critical,Geospatial cluster detected: 25 cases within 5km radius,2024-07-10,True
+AL0156,CL0041,Disease_Spike,DIS037,High,Cases increased 160% in 72 hours,2023-02-09,True
+AL0157,CL0014,Low_Stock,DRG018,High,Current stock 35 < Buffer 92,2022-12-17,True
+AL0158,CL0010,Outbreak_Warning,DIS048,High,Geospatial cluster detected: 13 cases within 5km radius,2021-07-07,True
+AL0159,CL0040,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 38 cases within 5km radius,2024-08-02,True
+AL0160,CL0031,Disease_Spike,DIS008,Medium,Cases increased 375% in 24 hours,2023-10-16,True
+AL0161,CL0007,Outbreak_Warning,DIS028,High,Geospatial cluster detected: 48 cases within 5km radius,2025-04-03,True
+AL0162,CL0050,Disease_Spike,DIS026,Critical,Cases increased 439% in 48 hours,2022-01-07,True
+AL0163,CL0012,Outbreak_Warning,DIS021,High,Geospatial cluster detected: 41 cases within 5km radius,2023-01-20,False
+AL0164,CL0033,Low_Stock,DRG041,Critical,Current stock 47 < Buffer 75,2025-12-26,True
+AL0165,CL0027,Disease_Spike,DIS041,High,Cases increased 500% in 24 hours,2022-07-15,True
+AL0166,CL0002,Disease_Spike,DIS042,Critical,Cases increased 373% in 24 hours,2022-06-19,False
+AL0167,CL0007,Outbreak_Warning,DIS049,Medium,Geospatial cluster detected: 13 cases within 5km radius,2025-01-18,True
+AL0168,CL0033,Low_Stock,DRG051,Critical,Current stock 13 < Buffer 119,2025-07-11,True
+AL0169,CL0026,Disease_Spike,DIS002,Critical,Cases increased 179% in 48 hours,2023-04-09,True
+AL0170,CL0033,Outbreak_Warning,DIS025,High,Geospatial cluster detected: 35 cases within 5km radius,2022-08-06,True
+AL0171,CL0049,Disease_Spike,DIS027,Critical,Cases increased 212% in 72 hours,2022-06-08,True
+AL0172,CL0015,Disease_Spike,DIS014,Critical,Cases increased 366% in 24 hours,2021-12-25,True
+AL0173,CL0019,Outbreak_Warning,DIS003,High,Geospatial cluster detected: 40 cases within 5km radius,2024-12-11,True
+AL0174,CL0046,Low_Stock,DRG037,Medium,Current stock 15 < Buffer 134,2022-08-20,True
+AL0175,CL0013,Disease_Spike,DIS018,Critical,Cases increased 335% in 48 hours,2022-01-09,True
+AL0176,CL0049,Low_Stock,DRG001,Medium,Current stock 16 < Buffer 150,2021-06-13,True
+AL0177,CL0041,Disease_Spike,DIS048,Critical,Cases increased 401% in 72 hours,2023-01-08,True
+AL0178,CL0017,Low_Stock,DRG077,High,Current stock 13 < Buffer 78,2025-10-16,True
+AL0179,CL0044,Outbreak_Warning,DIS025,Medium,Geospatial cluster detected: 48 cases within 5km radius,2025-01-04,True
+AL0180,CL0008,Low_Stock,DRG025,Medium,Current stock 35 < Buffer 148,2022-12-10,True
+AL0181,CL0023,Low_Stock,DRG084,Critical,Current stock 31 < Buffer 113,2023-01-26,True
+AL0182,CL0007,Outbreak_Warning,DIS014,Medium,Geospatial cluster detected: 47 cases within 5km radius,2024-02-05,True
+AL0183,CL0037,Disease_Spike,DIS038,Medium,Cases increased 256% in 48 hours,2021-01-17,True
+AL0184,CL0017,Outbreak_Warning,DIS015,Critical,Geospatial cluster detected: 32 cases within 5km radius,2022-08-20,True
+AL0185,CL0038,Outbreak_Warning,DIS030,High,Geospatial cluster detected: 48 cases within 5km radius,2024-01-12,True
+AL0186,CL0022,Low_Stock,DRG016,Critical,Current stock 38 < Buffer 86,2021-12-10,True
+AL0187,CL0032,Outbreak_Warning,DIS036,Critical,Geospatial cluster detected: 10 cases within 5km radius,2022-08-13,True
+AL0188,CL0015,Disease_Spike,DIS006,Critical,Cases increased 393% in 72 hours,2022-04-24,False
+AL0189,CL0040,Disease_Spike,DIS001,Medium,Cases increased 346% in 48 hours,2022-03-03,True
+AL0190,CL0035,Outbreak_Warning,DIS043,Medium,Geospatial cluster detected: 20 cases within 5km radius,2022-12-14,True
+AL0191,CL0034,Outbreak_Warning,DIS031,High,Geospatial cluster detected: 13 cases within 5km radius,2023-09-26,True
+AL0192,CL0027,Disease_Spike,DIS020,Critical,Cases increased 196% in 24 hours,2021-07-23,False
+AL0193,CL0029,Low_Stock,DRG028,High,Current stock 12 < Buffer 104,2023-02-22,False
+AL0194,CL0018,Low_Stock,DRG052,High,Current stock 19 < Buffer 84,2021-05-09,False
+AL0195,CL0014,Disease_Spike,DIS015,Medium,Cases increased 383% in 72 hours,2021-02-16,True
+AL0196,CL0020,Low_Stock,DRG091,Medium,Current stock 22 < Buffer 105,2021-03-12,False
+AL0197,CL0029,Disease_Spike,DIS047,High,Cases increased 327% in 48 hours,2023-01-24,False
+AL0198,CL0004,Low_Stock,DRG084,Critical,Current stock 48 < Buffer 116,2023-08-11,True
+AL0199,CL0038,Disease_Spike,DIS029,Critical,Cases increased 430% in 24 hours,2023-01-11,True
+AL0200,CL0025,Disease_Spike,DIS019,Medium,Cases increased 192% in 48 hours,2022-01-28,True
+AL0201,CL0007,Disease_Spike,DIS026,Critical,Cases increased 438% in 72 hours,2025-12-12,True
+AL0202,CL0048,Disease_Spike,DIS023,High,Cases increased 180% in 24 hours,2024-02-22,True
+AL0203,CL0037,Outbreak_Warning,DIS004,Medium,Geospatial cluster detected: 49 cases within 5km radius,2023-08-14,True
+AL0204,CL0020,Low_Stock,DRG091,Medium,Current stock 6 < Buffer 78,2024-06-01,False
+AL0205,CL0026,Disease_Spike,DIS012,Medium,Cases increased 440% in 24 hours,2023-12-27,True
+AL0206,CL0050,Disease_Spike,DIS019,Critical,Cases increased 306% in 72 hours,2025-02-11,False
+AL0207,CL0033,Disease_Spike,DIS039,High,Cases increased 451% in 24 hours,2024-12-16,True
+AL0208,CL0004,Outbreak_Warning,DIS039,High,Geospatial cluster detected: 37 cases within 5km radius,2021-12-14,True
+AL0209,CL0022,Outbreak_Warning,DIS040,High,Geospatial cluster detected: 37 cases within 5km radius,2021-07-18,True
+AL0210,CL0010,Outbreak_Warning,DIS019,High,Geospatial cluster detected: 41 cases within 5km radius,2022-05-18,True
+AL0211,CL0003,Low_Stock,DRG048,Medium,Current stock 8 < Buffer 122,2024-12-19,True
+AL0212,CL0004,Outbreak_Warning,DIS009,High,Geospatial cluster detected: 17 cases within 5km radius,2022-08-10,True
+AL0213,CL0044,Disease_Spike,DIS022,Medium,Cases increased 331% in 48 hours,2022-06-05,True
+AL0214,CL0031,Low_Stock,DRG008,Critical,Current stock 31 < Buffer 94,2024-06-14,False
+AL0215,CL0031,Disease_Spike,DIS018,Medium,Cases increased 296% in 24 hours,2023-10-08,True
+AL0216,CL0025,Disease_Spike,DIS048,Medium,Cases increased 261% in 72 hours,2021-09-25,True
+AL0217,CL0024,Outbreak_Warning,DIS038,High,Geospatial cluster detected: 47 cases within 5km radius,2025-12-03,True
+AL0218,CL0009,Outbreak_Warning,DIS003,Critical,Geospatial cluster detected: 31 cases within 5km radius,2021-06-26,True
+AL0219,CL0044,Disease_Spike,DIS017,Medium,Cases increased 295% in 72 hours,2022-12-09,True
+AL0220,CL0018,Low_Stock,DRG089,Medium,Current stock 13 < Buffer 125,2022-01-23,True
+AL0221,CL0028,Low_Stock,DRG056,High,Current stock 7 < Buffer 66,2023-06-09,True
+AL0222,CL0020,Outbreak_Warning,DIS046,Critical,Geospatial cluster detected: 12 cases within 5km radius,2023-06-27,True
+AL0223,CL0002,Disease_Spike,DIS042,Critical,Cases increased 257% in 24 hours,2021-02-26,True
+AL0224,CL0018,Low_Stock,DRG071,Critical,Current stock 21 < Buffer 85,2023-06-22,True
+AL0225,CL0005,Disease_Spike,DIS008,Medium,Cases increased 437% in 72 hours,2024-03-28,True
+AL0226,CL0007,Disease_Spike,DIS011,Medium,Cases increased 150% in 72 hours,2021-03-26,True
+AL0227,CL0048,Outbreak_Warning,DIS021,Medium,Geospatial cluster detected: 16 cases within 5km radius,2023-01-01,False
+AL0228,CL0021,Low_Stock,DRG041,Critical,Current stock 27 < Buffer 99,2024-12-23,True
+AL0229,CL0036,Disease_Spike,DIS024,High,Cases increased 355% in 48 hours,2021-12-20,True
+AL0230,CL0040,Disease_Spike,DIS029,High,Cases increased 194% in 24 hours,2021-12-06,True
+AL0231,CL0013,Low_Stock,DRG031,Critical,Current stock 18 < Buffer 80,2022-12-25,True
+AL0232,CL0033,Outbreak_Warning,DIS021,Critical,Geospatial cluster detected: 35 cases within 5km radius,2023-01-12,True
+AL0233,CL0028,Low_Stock,DRG025,Critical,Current stock 29 < Buffer 121,2021-12-12,True
+AL0234,CL0028,Low_Stock,DRG036,Critical,Current stock 34 < Buffer 74,2023-12-11,True
+AL0235,CL0004,Disease_Spike,DIS020,Critical,Cases increased 327% in 72 hours,2025-06-05,True
+AL0236,CL0039,Disease_Spike,DIS028,High,Cases increased 181% in 24 hours,2022-12-04,True
+AL0237,CL0011,Outbreak_Warning,DIS034,Critical,Geospatial cluster detected: 17 cases within 5km radius,2022-09-03,True
+AL0238,CL0010,Disease_Spike,DIS038,Critical,Cases increased 193% in 72 hours,2024-06-19,True
+AL0239,CL0002,Low_Stock,DRG035,High,Current stock 38 < Buffer 145,2024-08-16,True
+AL0240,CL0012,Disease_Spike,DIS031,High,Cases increased 452% in 72 hours,2023-12-12,True
+AL0241,CL0003,Disease_Spike,DIS006,Critical,Cases increased 188% in 72 hours,2022-10-25,True
+AL0242,CL0005,Outbreak_Warning,DIS012,Critical,Geospatial cluster detected: 44 cases within 5km radius,2022-02-10,True
+AL0243,CL0013,Low_Stock,DRG052,High,Current stock 35 < Buffer 79,2024-12-26,True
+AL0244,CL0038,Low_Stock,DRG014,High,Current stock 25 < Buffer 129,2022-08-13,True
+AL0245,CL0040,Low_Stock,DRG034,Medium,Current stock 30 < Buffer 107,2024-01-18,True
+AL0246,CL0023,Low_Stock,DRG032,Critical,Current stock 11 < Buffer 105,2024-10-23,True
+AL0247,CL0040,Low_Stock,DRG095,High,Current stock 12 < Buffer 144,2024-08-28,True
+AL0248,CL0047,Outbreak_Warning,DIS018,Critical,Geospatial cluster detected: 38 cases within 5km radius,2025-06-09,True
+AL0249,CL0030,Disease_Spike,DIS005,Critical,Cases increased 165% in 48 hours,2025-07-24,True
+AL0250,CL0034,Outbreak_Warning,DIS012,Critical,Geospatial cluster detected: 45 cases within 5km radius,2023-07-11,True
+AL0251,CL0032,Outbreak_Warning,DIS008,Medium,Geospatial cluster detected: 37 cases within 5km radius,2025-09-16,True
+AL0252,CL0036,Low_Stock,DRG023,Critical,Current stock 44 < Buffer 67,2021-09-02,True
+AL0253,CL0044,Low_Stock,DRG022,High,Current stock 26 < Buffer 116,2023-08-25,True
+AL0254,CL0033,Disease_Spike,DIS002,High,Cases increased 458% in 24 hours,2025-08-13,True
+AL0255,CL0039,Disease_Spike,DIS049,Critical,Cases increased 184% in 48 hours,2023-06-17,True
+AL0256,CL0013,Disease_Spike,DIS032,High,Cases increased 361% in 48 hours,2021-06-22,True
+AL0257,CL0015,Low_Stock,DRG066,High,Current stock 24 < Buffer 80,2024-08-02,True
+AL0258,CL0031,Low_Stock,DRG079,High,Current stock 17 < Buffer 125,2024-08-07,True
+AL0259,CL0047,Outbreak_Warning,DIS016,Critical,Geospatial cluster detected: 23 cases within 5km radius,2025-07-14,True
+AL0260,CL0017,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 42 cases within 5km radius,2025-04-26,True
+AL0261,CL0045,Outbreak_Warning,DIS005,Critical,Geospatial cluster detected: 36 cases within 5km radius,2025-03-06,False
+AL0262,CL0006,Outbreak_Warning,DIS007,Medium,Geospatial cluster detected: 27 cases within 5km radius,2025-02-12,True
+AL0263,CL0003,Outbreak_Warning,DIS047,Medium,Geospatial cluster detected: 37 cases within 5km radius,2022-07-02,True
+AL0264,CL0016,Disease_Spike,DIS020,Critical,Cases increased 201% in 24 hours,2021-06-24,True
+AL0265,CL0013,Low_Stock,DRG048,Medium,Current stock 10 < Buffer 66,2025-01-13,True
+AL0266,CL0022,Disease_Spike,DIS029,Critical,Cases increased 263% in 24 hours,2024-02-14,True
+AL0267,CL0029,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 21 cases within 5km radius,2023-02-25,True
+AL0268,CL0035,Low_Stock,DRG065,Medium,Current stock 41 < Buffer 77,2023-01-05,True
+AL0269,CL0044,Disease_Spike,DIS004,Critical,Cases increased 243% in 72 hours,2021-08-17,True
+AL0270,CL0021,Disease_Spike,DIS041,High,Cases increased 487% in 72 hours,2024-06-16,True
+AL0271,CL0015,Outbreak_Warning,DIS028,High,Geospatial cluster detected: 19 cases within 5km radius,2023-12-04,True
+AL0272,CL0049,Disease_Spike,DIS002,Critical,Cases increased 161% in 24 hours,2023-07-24,False
+AL0273,CL0038,Low_Stock,DRG061,Medium,Current stock 49 < Buffer 93,2021-12-14,True
+AL0274,CL0014,Low_Stock,DRG099,High,Current stock 43 < Buffer 84,2025-03-18,True
+AL0275,CL0035,Disease_Spike,DIS038,Medium,Cases increased 311% in 24 hours,2024-07-09,True
+AL0276,CL0032,Disease_Spike,DIS027,High,Cases increased 271% in 72 hours,2021-06-04,True
+AL0277,CL0015,Outbreak_Warning,DIS012,High,Geospatial cluster detected: 23 cases within 5km radius,2023-11-17,True
+AL0278,CL0017,Outbreak_Warning,DIS009,Medium,Geospatial cluster detected: 10 cases within 5km radius,2022-07-21,True
+AL0279,CL0022,Low_Stock,DRG040,Medium,Current stock 31 < Buffer 60,2024-07-17,True
+AL0280,CL0018,Disease_Spike,DIS014,High,Cases increased 483% in 48 hours,2023-02-23,False
+AL0281,CL0048,Outbreak_Warning,DIS044,Medium,Geospatial cluster detected: 18 cases within 5km radius,2023-01-02,True
+AL0282,CL0020,Outbreak_Warning,DIS006,Critical,Geospatial cluster detected: 14 cases within 5km radius,2022-08-03,True
+AL0283,CL0020,Low_Stock,DRG069,Medium,Current stock 22 < Buffer 69,2025-02-18,True
+AL0284,CL0046,Outbreak_Warning,DIS010,Critical,Geospatial cluster detected: 44 cases within 5km radius,2023-08-13,True
+AL0285,CL0047,Low_Stock,DRG001,High,Current stock 39 < Buffer 104,2022-06-01,True
+AL0286,CL0048,Disease_Spike,DIS011,Critical,Cases increased 284% in 24 hours,2021-01-19,True
+AL0287,CL0010,Low_Stock,DRG063,High,Current stock 9 < Buffer 143,2024-07-20,True
+AL0288,CL0012,Low_Stock,DRG028,High,Current stock 7 < Buffer 89,2022-02-20,True
+AL0289,CL0031,Outbreak_Warning,DIS045,Medium,Geospatial cluster detected: 20 cases within 5km radius,2024-06-03,True
+AL0290,CL0034,Outbreak_Warning,DIS025,Critical,Geospatial cluster detected: 24 cases within 5km radius,2021-12-14,True
+AL0291,CL0038,Low_Stock,DRG080,Critical,Current stock 43 < Buffer 127,2022-07-01,True
+AL0292,CL0046,Outbreak_Warning,DIS026,High,Geospatial cluster detected: 23 cases within 5km radius,2025-06-01,True
+AL0293,CL0010,Outbreak_Warning,DIS027,Critical,Geospatial cluster detected: 33 cases within 5km radius,2024-01-15,True
+AL0294,CL0037,Disease_Spike,DIS032,Medium,Cases increased 287% in 24 hours,2022-07-17,True
+AL0295,CL0031,Outbreak_Warning,DIS021,High,Geospatial cluster detected: 17 cases within 5km radius,2022-08-04,True
+AL0296,CL0032,Outbreak_Warning,DIS011,High,Geospatial cluster detected: 37 cases within 5km radius,2024-12-14,True
+AL0297,CL0035,Outbreak_Warning,DIS045,High,Geospatial cluster detected: 12 cases within 5km radius,2023-12-01,True
+AL0298,CL0009,Disease_Spike,DIS016,Medium,Cases increased 429% in 48 hours,2021-08-02,True
+AL0299,CL0045,Disease_Spike,DIS013,High,Cases increased 356% in 24 hours,2024-01-02,True
+AL0300,CL0046,Outbreak_Warning,DIS004,High,Geospatial cluster detected: 50 cases within 5km radius,2022-02-20,True
+AL0301,CL0025,Outbreak_Warning,DIS027,Critical,Geospatial cluster detected: 48 cases within 5km radius,2022-12-17,True
+AL0302,CL0034,Disease_Spike,DIS032,Critical,Cases increased 328% in 48 hours,2023-06-26,True
+AL0303,CL0030,Disease_Spike,DIS032,High,Cases increased 439% in 48 hours,2025-05-12,True
+AL0304,CL0044,Low_Stock,DRG056,Critical,Current stock 38 < Buffer 60,2025-06-05,True
+AL0305,CL0036,Disease_Spike,DIS042,Medium,Cases increased 315% in 72 hours,2024-06-21,True
+AL0306,CL0036,Disease_Spike,DIS037,Medium,Cases increased 353% in 72 hours,2024-01-01,True
+AL0307,CL0005,Disease_Spike,DIS005,High,Cases increased 254% in 24 hours,2021-06-17,True
+AL0308,CL0013,Outbreak_Warning,DIS017,Critical,Geospatial cluster detected: 15 cases within 5km radius,2025-01-06,True
+AL0309,CL0041,Disease_Spike,DIS024,Critical,Cases increased 371% in 48 hours,2022-08-16,True
+AL0310,CL0025,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 38 cases within 5km radius,2021-01-24,True
+AL0311,CL0007,Disease_Spike,DIS036,Critical,Cases increased 260% in 24 hours,2023-06-07,True
+AL0312,CL0011,Low_Stock,DRG018,High,Current stock 49 < Buffer 86,2024-01-27,False
+AL0313,CL0011,Low_Stock,DRG094,Medium,Current stock 5 < Buffer 75,2025-02-08,False
+AL0314,CL0009,Low_Stock,DRG071,Critical,Current stock 26 < Buffer 122,2023-08-06,True
+AL0315,CL0048,Low_Stock,DRG040,High,Current stock 6 < Buffer 66,2025-02-21,True
+AL0316,CL0013,Low_Stock,DRG040,High,Current stock 46 < Buffer 63,2024-02-02,True
+AL0317,CL0026,Disease_Spike,DIS011,Medium,Cases increased 296% in 72 hours,2025-04-15,True
+AL0318,CL0016,Outbreak_Warning,DIS038,Critical,Geospatial cluster detected: 17 cases within 5km radius,2021-02-18,True
+AL0319,CL0011,Outbreak_Warning,DIS021,Medium,Geospatial cluster detected: 43 cases within 5km radius,2025-08-10,True
+AL0320,CL0017,Outbreak_Warning,DIS049,Medium,Geospatial cluster detected: 23 cases within 5km radius,2024-07-12,True
+AL0321,CL0007,Disease_Spike,DIS049,Critical,Cases increased 392% in 48 hours,2023-11-07,True
+AL0322,CL0018,Low_Stock,DRG097,High,Current stock 14 < Buffer 88,2024-07-12,True
+AL0323,CL0033,Low_Stock,DRG078,Critical,Current stock 28 < Buffer 147,2022-10-26,True
+AL0324,CL0041,Outbreak_Warning,DIS031,High,Geospatial cluster detected: 39 cases within 5km radius,2023-01-07,True
+AL0325,CL0044,Disease_Spike,DIS025,Critical,Cases increased 360% in 48 hours,2024-06-14,False
+AL0326,CL0022,Outbreak_Warning,DIS006,Critical,Geospatial cluster detected: 31 cases within 5km radius,2024-01-03,True
+AL0327,CL0042,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 49 cases within 5km radius,2024-07-03,True
+AL0328,CL0026,Outbreak_Warning,DIS042,Medium,Geospatial cluster detected: 34 cases within 5km radius,2022-07-07,True
+AL0329,CL0034,Low_Stock,DRG079,Critical,Current stock 5 < Buffer 123,2021-06-14,True
+AL0330,CL0036,Low_Stock,DRG039,Medium,Current stock 24 < Buffer 105,2025-07-12,True
+AL0331,CL0028,Outbreak_Warning,DIS029,Medium,Geospatial cluster detected: 47 cases within 5km radius,2021-06-04,True
+AL0332,CL0046,Low_Stock,DRG042,Critical,Current stock 49 < Buffer 126,2021-12-04,True
+AL0333,CL0037,Outbreak_Warning,DIS036,Critical,Geospatial cluster detected: 16 cases within 5km radius,2023-01-14,True
+AL0334,CL0024,Low_Stock,DRG022,Medium,Current stock 45 < Buffer 111,2022-08-04,True
+AL0335,CL0010,Disease_Spike,DIS029,Critical,Cases increased 454% in 24 hours,2022-09-27,False
+AL0336,CL0003,Outbreak_Warning,DIS027,Medium,Geospatial cluster detected: 42 cases within 5km radius,2021-09-05,True
+AL0337,CL0042,Low_Stock,DRG027,Medium,Current stock 7 < Buffer 112,2022-08-10,True
+AL0338,CL0010,Outbreak_Warning,DIS005,Medium,Geospatial cluster detected: 18 cases within 5km radius,2021-05-18,True
+AL0339,CL0048,Outbreak_Warning,DIS012,Critical,Geospatial cluster detected: 45 cases within 5km radius,2025-03-03,True
+AL0340,CL0015,Outbreak_Warning,DIS033,High,Geospatial cluster detected: 17 cases within 5km radius,2022-11-26,True
+AL0341,CL0028,Low_Stock,DRG002,Medium,Current stock 11 < Buffer 82,2024-06-13,True
+AL0342,CL0045,Low_Stock,DRG045,Critical,Current stock 37 < Buffer 82,2021-02-18,True
+AL0343,CL0041,Outbreak_Warning,DIS018,Medium,Geospatial cluster detected: 33 cases within 5km radius,2025-07-20,True
+AL0344,CL0038,Disease_Spike,DIS041,High,Cases increased 187% in 48 hours,2022-04-09,True
+AL0345,CL0011,Disease_Spike,DIS041,Critical,Cases increased 298% in 24 hours,2021-07-20,True
+AL0346,CL0007,Disease_Spike,DIS036,Medium,Cases increased 401% in 24 hours,2023-06-15,True
+AL0347,CL0009,Low_Stock,DRG086,Medium,Current stock 25 < Buffer 67,2024-12-02,True
+AL0348,CL0039,Low_Stock,DRG060,Critical,Current stock 37 < Buffer 130,2021-12-23,True
+AL0349,CL0041,Low_Stock,DRG091,Critical,Current stock 21 < Buffer 119,2021-01-07,True
+AL0350,CL0017,Low_Stock,DRG073,Medium,Current stock 31 < Buffer 75,2021-06-26,True
+AL0351,CL0050,Low_Stock,DRG040,High,Current stock 25 < Buffer 109,2024-10-25,True
+AL0352,CL0004,Disease_Spike,DIS031,High,Cases increased 367% in 72 hours,2022-02-22,True
+AL0353,CL0001,Low_Stock,DRG024,Critical,Current stock 41 < Buffer 118,2024-01-02,False
+AL0354,CL0019,Low_Stock,DRG033,Medium,Current stock 38 < Buffer 123,2022-01-05,True
+AL0355,CL0043,Low_Stock,DRG060,Medium,Current stock 49 < Buffer 128,2021-06-05,True
+AL0356,CL0017,Low_Stock,DRG041,Critical,Current stock 6 < Buffer 146,2025-05-01,True
+AL0357,CL0022,Outbreak_Warning,DIS037,Medium,Geospatial cluster detected: 23 cases within 5km radius,2023-06-13,True
+AL0358,CL0048,Outbreak_Warning,DIS045,High,Geospatial cluster detected: 26 cases within 5km radius,2025-06-11,True
+AL0359,CL0017,Low_Stock,DRG077,Critical,Current stock 23 < Buffer 63,2023-07-03,True
+AL0360,CL0025,Outbreak_Warning,DIS038,Medium,Geospatial cluster detected: 43 cases within 5km radius,2021-02-07,True
+AL0361,CL0019,Disease_Spike,DIS035,Critical,Cases increased 425% in 72 hours,2021-08-11,True
+AL0362,CL0012,Disease_Spike,DIS004,Medium,Cases increased 213% in 24 hours,2025-02-11,True
+AL0363,CL0035,Low_Stock,DRG094,High,Current stock 49 < Buffer 105,2021-08-02,True
+AL0364,CL0012,Low_Stock,DRG030,High,Current stock 21 < Buffer 150,2023-07-20,True
+AL0365,CL0009,Outbreak_Warning,DIS022,Medium,Geospatial cluster detected: 30 cases within 5km radius,2024-03-18,True
+AL0366,CL0024,Low_Stock,DRG089,High,Current stock 50 < Buffer 136,2023-07-25,True
+AL0367,CL0009,Low_Stock,DRG018,Medium,Current stock 16 < Buffer 144,2021-08-19,True
+AL0368,CL0046,Low_Stock,DRG099,High,Current stock 21 < Buffer 129,2022-08-05,True
+AL0369,CL0047,Outbreak_Warning,DIS046,Critical,Geospatial cluster detected: 18 cases within 5km radius,2023-12-13,True
+AL0370,CL0021,Disease_Spike,DIS012,Critical,Cases increased 387% in 72 hours,2022-08-14,True
+AL0371,CL0011,Outbreak_Warning,DIS002,Critical,Geospatial cluster detected: 30 cases within 5km radius,2024-12-11,True
+AL0372,CL0041,Disease_Spike,DIS045,Critical,Cases increased 189% in 48 hours,2025-06-11,True
+AL0373,CL0036,Low_Stock,DRG037,Medium,Current stock 33 < Buffer 86,2025-06-23,True
+AL0374,CL0012,Outbreak_Warning,DIS001,Critical,Geospatial cluster detected: 27 cases within 5km radius,2024-12-06,True
+AL0375,CL0035,Disease_Spike,DIS040,Critical,Cases increased 176% in 24 hours,2022-12-02,True
+AL0376,CL0034,Disease_Spike,DIS023,High,Cases increased 333% in 48 hours,2023-12-08,True
+AL0377,CL0039,Outbreak_Warning,DIS034,Critical,Geospatial cluster detected: 24 cases within 5km radius,2021-12-21,True
+AL0378,CL0032,Disease_Spike,DIS041,High,Cases increased 244% in 24 hours,2025-06-12,True
+AL0379,CL0020,Outbreak_Warning,DIS004,Critical,Geospatial cluster detected: 21 cases within 5km radius,2021-07-02,True
+AL0380,CL0038,Low_Stock,DRG072,Critical,Current stock 11 < Buffer 101,2024-04-01,True
+AL0381,CL0023,Disease_Spike,DIS017,High,Cases increased 363% in 72 hours,2025-07-12,True
+AL0382,CL0044,Disease_Spike,DIS048,Medium,Cases increased 321% in 48 hours,2024-09-05,True
+AL0383,CL0008,Outbreak_Warning,DIS032,Medium,Geospatial cluster detected: 45 cases within 5km radius,2023-06-05,True
+AL0384,CL0039,Outbreak_Warning,DIS045,High,Geospatial cluster detected: 19 cases within 5km radius,2023-01-02,True
+AL0385,CL0010,Disease_Spike,DIS004,Critical,Cases increased 193% in 24 hours,2022-06-20,True
+AL0386,CL0027,Low_Stock,DRG059,High,Current stock 32 < Buffer 124,2021-01-27,True
+AL0387,CL0015,Low_Stock,DRG038,Critical,Current stock 36 < Buffer 146,2021-12-19,True
+AL0388,CL0043,Low_Stock,DRG073,Critical,Current stock 21 < Buffer 119,2021-12-25,True
+AL0389,CL0038,Outbreak_Warning,DIS044,Medium,Geospatial cluster detected: 25 cases within 5km radius,2023-01-19,True
+AL0390,CL0034,Outbreak_Warning,DIS006,High,Geospatial cluster detected: 13 cases within 5km radius,2025-08-17,True
+AL0391,CL0035,Disease_Spike,DIS041,High,Cases increased 264% in 72 hours,2025-03-02,True
+AL0392,CL0012,Disease_Spike,DIS038,High,Cases increased 460% in 24 hours,2023-12-10,True
+AL0393,CL0032,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 49 cases within 5km radius,2021-04-10,False
+AL0394,CL0009,Outbreak_Warning,DIS005,Medium,Geospatial cluster detected: 34 cases within 5km radius,2021-12-17,False
+AL0395,CL0048,Outbreak_Warning,DIS025,Critical,Geospatial cluster detected: 24 cases within 5km radius,2023-06-16,True
+AL0396,CL0016,Disease_Spike,DIS033,Critical,Cases increased 481% in 72 hours,2025-12-14,True
+AL0397,CL0042,Low_Stock,DRG044,High,Current stock 7 < Buffer 140,2024-02-06,True
+AL0398,CL0030,Low_Stock,DRG010,Critical,Current stock 21 < Buffer 90,2024-06-24,True
+AL0399,CL0013,Low_Stock,DRG030,Medium,Current stock 9 < Buffer 97,2022-02-08,True
+AL0400,CL0021,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 10 cases within 5km radius,2022-06-08,True
+AL0401,CL0030,Low_Stock,DRG025,Critical,Current stock 47 < Buffer 91,2024-07-02,True
+AL0402,CL0013,Outbreak_Warning,DIS018,Medium,Geospatial cluster detected: 41 cases within 5km radius,2024-07-02,True
+AL0403,CL0040,Outbreak_Warning,DIS003,High,Geospatial cluster detected: 31 cases within 5km radius,2024-08-25,False
+AL0404,CL0017,Outbreak_Warning,DIS027,High,Geospatial cluster detected: 14 cases within 5km radius,2025-07-14,True
+AL0405,CL0011,Disease_Spike,DIS041,Medium,Cases increased 465% in 24 hours,2025-12-25,True
+AL0406,CL0039,Outbreak_Warning,DIS002,Medium,Geospatial cluster detected: 48 cases within 5km radius,2024-08-22,True
+AL0407,CL0018,Low_Stock,DRG033,High,Current stock 39 < Buffer 114,2022-08-14,True
+AL0408,CL0004,Outbreak_Warning,DIS007,High,Geospatial cluster detected: 11 cases within 5km radius,2025-01-27,True
+AL0409,CL0014,Disease_Spike,DIS001,Critical,Cases increased 390% in 72 hours,2021-03-11,True
+AL0410,CL0035,Low_Stock,DRG090,High,Current stock 18 < Buffer 120,2024-06-25,True
+AL0411,CL0023,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 36 cases within 5km radius,2022-07-11,True
+AL0412,CL0020,Low_Stock,DRG033,Critical,Current stock 30 < Buffer 145,2023-12-22,False
+AL0413,CL0011,Disease_Spike,DIS025,Medium,Cases increased 315% in 48 hours,2023-08-12,True
+AL0414,CL0006,Low_Stock,DRG001,High,Current stock 33 < Buffer 98,2024-01-03,True
+AL0415,CL0003,Disease_Spike,DIS044,Medium,Cases increased 304% in 48 hours,2022-04-25,True
+AL0416,CL0001,Disease_Spike,DIS003,Medium,Cases increased 468% in 48 hours,2022-02-15,True
+AL0417,CL0049,Disease_Spike,DIS032,Medium,Cases increased 366% in 48 hours,2022-02-17,True
+AL0418,CL0018,Disease_Spike,DIS049,High,Cases increased 424% in 24 hours,2025-11-04,True
+AL0419,CL0026,Disease_Spike,DIS023,High,Cases increased 441% in 24 hours,2021-01-05,True
+AL0420,CL0044,Low_Stock,DRG027,Medium,Current stock 42 < Buffer 79,2024-12-11,True
+AL0421,CL0022,Outbreak_Warning,DIS011,High,Geospatial cluster detected: 34 cases within 5km radius,2023-08-08,True
+AL0422,CL0047,Low_Stock,DRG016,Critical,Current stock 46 < Buffer 129,2021-07-05,False
+AL0423,CL0036,Outbreak_Warning,DIS031,Medium,Geospatial cluster detected: 20 cases within 5km radius,2025-02-10,False
+AL0424,CL0031,Disease_Spike,DIS033,Critical,Cases increased 267% in 48 hours,2025-08-07,True
+AL0425,CL0034,Disease_Spike,DIS018,Medium,Cases increased 307% in 48 hours,2024-07-01,False
+AL0426,CL0014,Low_Stock,DRG069,High,Current stock 15 < Buffer 95,2024-03-14,True
+AL0427,CL0019,Disease_Spike,DIS017,High,Cases increased 471% in 24 hours,2024-06-07,True
+AL0428,CL0047,Low_Stock,DRG066,Medium,Current stock 28 < Buffer 65,2024-09-06,False
+AL0429,CL0014,Outbreak_Warning,DIS018,Medium,Geospatial cluster detected: 41 cases within 5km radius,2023-08-28,True
+AL0430,CL0037,Disease_Spike,DIS048,Critical,Cases increased 457% in 48 hours,2025-06-13,True
+AL0431,CL0015,Low_Stock,DRG023,Medium,Current stock 20 < Buffer 61,2024-04-26,True
+AL0432,CL0033,Low_Stock,DRG017,High,Current stock 26 < Buffer 96,2021-08-22,True
+AL0433,CL0046,Disease_Spike,DIS015,Critical,Cases increased 449% in 72 hours,2021-06-01,True
+AL0434,CL0004,Disease_Spike,DIS005,High,Cases increased 323% in 24 hours,2021-12-14,True
+AL0435,CL0047,Disease_Spike,DIS017,Critical,Cases increased 266% in 48 hours,2023-08-08,True
+AL0436,CL0002,Outbreak_Warning,DIS035,High,Geospatial cluster detected: 29 cases within 5km radius,2021-08-24,True
+AL0437,CL0039,Outbreak_Warning,DIS032,Medium,Geospatial cluster detected: 35 cases within 5km radius,2025-08-20,True
+AL0438,CL0011,Disease_Spike,DIS030,Critical,Cases increased 451% in 24 hours,2023-06-25,True
+AL0439,CL0015,Disease_Spike,DIS028,Medium,Cases increased 277% in 24 hours,2021-02-14,True
+AL0440,CL0024,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 28 cases within 5km radius,2023-12-12,True
+AL0441,CL0007,Low_Stock,DRG060,Critical,Current stock 23 < Buffer 97,2022-02-24,True
+AL0442,CL0005,Disease_Spike,DIS033,Medium,Cases increased 373% in 72 hours,2023-11-21,True
+AL0443,CL0034,Low_Stock,DRG002,Critical,Current stock 44 < Buffer 87,2024-02-23,True
+AL0444,CL0019,Outbreak_Warning,DIS035,Critical,Geospatial cluster detected: 16 cases within 5km radius,2021-07-26,True
+AL0445,CL0034,Disease_Spike,DIS049,Medium,Cases increased 492% in 24 hours,2021-12-06,True
+AL0446,CL0006,Disease_Spike,DIS021,High,Cases increased 254% in 72 hours,2024-02-19,True
+AL0447,CL0046,Outbreak_Warning,DIS004,Medium,Geospatial cluster detected: 42 cases within 5km radius,2021-07-13,True
+AL0448,CL0022,Disease_Spike,DIS047,Medium,Cases increased 291% in 72 hours,2021-07-13,True
+AL0449,CL0024,Disease_Spike,DIS035,Medium,Cases increased 422% in 24 hours,2025-01-01,True
+AL0450,CL0012,Outbreak_Warning,DIS018,Critical,Geospatial cluster detected: 44 cases within 5km radius,2024-09-18,True
+AL0451,CL0029,Disease_Spike,DIS002,Medium,Cases increased 177% in 48 hours,2023-06-27,True
+AL0452,CL0043,Low_Stock,DRG001,Critical,Current stock 23 < Buffer 63,2024-07-19,True
+AL0453,CL0039,Disease_Spike,DIS033,Medium,Cases increased 433% in 48 hours,2024-12-10,True
+AL0454,CL0003,Disease_Spike,DIS044,Medium,Cases increased 468% in 72 hours,2022-07-01,True
+AL0455,CL0009,Disease_Spike,DIS006,Medium,Cases increased 402% in 48 hours,2022-02-11,True
+AL0456,CL0038,Outbreak_Warning,DIS034,High,Geospatial cluster detected: 35 cases within 5km radius,2022-07-05,True
+AL0457,CL0029,Low_Stock,DRG074,Critical,Current stock 23 < Buffer 90,2024-07-11,True
+AL0458,CL0030,Outbreak_Warning,DIS032,Critical,Geospatial cluster detected: 20 cases within 5km radius,2021-05-18,True
+AL0459,CL0050,Outbreak_Warning,DIS015,Critical,Geospatial cluster detected: 40 cases within 5km radius,2022-06-02,True
+AL0460,CL0037,Outbreak_Warning,DIS015,Medium,Geospatial cluster detected: 41 cases within 5km radius,2021-09-15,True
+AL0461,CL0025,Low_Stock,DRG081,Medium,Current stock 37 < Buffer 97,2024-01-19,True
+AL0462,CL0014,Outbreak_Warning,DIS026,Medium,Geospatial cluster detected: 30 cases within 5km radius,2022-08-02,True
+AL0463,CL0023,Disease_Spike,DIS031,Medium,Cases increased 176% in 48 hours,2025-08-10,True
+AL0464,CL0030,Disease_Spike,DIS035,High,Cases increased 275% in 72 hours,2024-12-07,True
+AL0465,CL0018,Outbreak_Warning,DIS033,Medium,Geospatial cluster detected: 15 cases within 5km radius,2021-06-02,True
+AL0466,CL0047,Disease_Spike,DIS014,Medium,Cases increased 242% in 72 hours,2023-06-12,False
+AL0467,CL0031,Low_Stock,DRG003,Medium,Current stock 31 < Buffer 97,2024-01-27,True
+AL0468,CL0041,Outbreak_Warning,DIS046,High,Geospatial cluster detected: 29 cases within 5km radius,2021-04-20,True
+AL0469,CL0023,Outbreak_Warning,DIS013,High,Geospatial cluster detected: 29 cases within 5km radius,2025-03-24,True
+AL0470,CL0015,Outbreak_Warning,DIS008,High,Geospatial cluster detected: 21 cases within 5km radius,2024-02-18,False
+AL0471,CL0030,Outbreak_Warning,DIS007,Critical,Geospatial cluster detected: 16 cases within 5km radius,2024-08-21,True
+AL0472,CL0047,Disease_Spike,DIS011,High,Cases increased 236% in 48 hours,2023-12-03,True
+AL0473,CL0047,Disease_Spike,DIS050,High,Cases increased 155% in 72 hours,2024-08-18,True
+AL0474,CL0025,Low_Stock,DRG086,High,Current stock 19 < Buffer 66,2022-12-28,True
+AL0475,CL0021,Outbreak_Warning,DIS045,High,Geospatial cluster detected: 39 cases within 5km radius,2022-12-18,True
+AL0476,CL0022,Disease_Spike,DIS009,Medium,Cases increased 303% in 24 hours,2025-01-02,True
+AL0477,CL0032,Disease_Spike,DIS018,High,Cases increased 254% in 24 hours,2022-07-14,True
+AL0478,CL0023,Outbreak_Warning,DIS006,Medium,Geospatial cluster detected: 30 cases within 5km radius,2025-05-27,True
+AL0479,CL0034,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 13 cases within 5km radius,2022-05-17,True
+AL0480,CL0015,Low_Stock,DRG011,High,Current stock 39 < Buffer 65,2022-12-11,True
+AL0481,CL0013,Disease_Spike,DIS046,Medium,Cases increased 437% in 24 hours,2023-06-27,True
+AL0482,CL0030,Outbreak_Warning,DIS042,Critical,Geospatial cluster detected: 19 cases within 5km radius,2025-12-10,True
+AL0483,CL0031,Disease_Spike,DIS043,Critical,Cases increased 172% in 72 hours,2021-06-07,True
+AL0484,CL0017,Disease_Spike,DIS013,Critical,Cases increased 405% in 48 hours,2025-10-10,True
+AL0485,CL0045,Low_Stock,DRG046,High,Current stock 31 < Buffer 62,2021-07-25,True
+AL0486,CL0042,Outbreak_Warning,DIS011,High,Geospatial cluster detected: 10 cases within 5km radius,2022-06-14,True
+AL0487,CL0002,Outbreak_Warning,DIS011,Medium,Geospatial cluster detected: 33 cases within 5km radius,2025-06-28,False
+AL0488,CL0035,Outbreak_Warning,DIS027,Critical,Geospatial cluster detected: 36 cases within 5km radius,2022-08-23,True
+AL0489,CL0009,Low_Stock,DRG035,Critical,Current stock 42 < Buffer 119,2023-07-02,True
+AL0490,CL0027,Disease_Spike,DIS021,Medium,Cases increased 317% in 24 hours,2025-11-09,False
+AL0491,CL0001,Low_Stock,DRG036,Medium,Current stock 28 < Buffer 109,2025-11-16,True
+AL0492,CL0038,Low_Stock,DRG083,High,Current stock 26 < Buffer 100,2024-12-03,True
+AL0493,CL0038,Low_Stock,DRG065,High,Current stock 20 < Buffer 99,2021-02-09,False
+AL0494,CL0004,Disease_Spike,DIS026,Critical,Cases increased 263% in 72 hours,2021-01-20,False
+AL0495,CL0044,Low_Stock,DRG020,Medium,Current stock 32 < Buffer 85,2025-11-15,True
+AL0496,CL0026,Outbreak_Warning,DIS035,High,Geospatial cluster detected: 41 cases within 5km radius,2021-12-23,False
+AL0497,CL0034,Outbreak_Warning,DIS019,High,Geospatial cluster detected: 31 cases within 5km radius,2022-02-13,True
+AL0498,CL0014,Disease_Spike,DIS006,Medium,Cases increased 479% in 72 hours,2022-07-17,True
+AL0499,CL0042,Outbreak_Warning,DIS021,High,Geospatial cluster detected: 25 cases within 5km radius,2025-09-10,True
+AL0500,CL0024,Low_Stock,DRG098,Medium,Current stock 49 < Buffer 76,2024-11-07,True
+AL0501,CL0034,Low_Stock,DRG043,Medium,Current stock 48 < Buffer 118,2021-08-13,True
+AL0502,CL0027,Disease_Spike,DIS049,High,Cases increased 223% in 72 hours,2022-02-21,True
+AL0503,CL0040,Disease_Spike,DIS036,Medium,Cases increased 388% in 72 hours,2023-06-02,True
+AL0504,CL0015,Outbreak_Warning,DIS035,Critical,Geospatial cluster detected: 25 cases within 5km radius,2022-01-28,False
+AL0505,CL0050,Outbreak_Warning,DIS022,Medium,Geospatial cluster detected: 25 cases within 5km radius,2021-07-07,True
+AL0506,CL0023,Disease_Spike,DIS040,High,Cases increased 341% in 48 hours,2022-08-15,True
+AL0507,CL0004,Outbreak_Warning,DIS010,Critical,Geospatial cluster detected: 11 cases within 5km radius,2022-06-10,True
+AL0508,CL0010,Outbreak_Warning,DIS010,High,Geospatial cluster detected: 14 cases within 5km radius,2024-01-04,True
+AL0509,CL0019,Low_Stock,DRG084,Medium,Current stock 13 < Buffer 115,2022-12-19,True
+AL0510,CL0002,Low_Stock,DRG040,Medium,Current stock 35 < Buffer 138,2021-12-13,True
+AL0511,CL0026,Low_Stock,DRG057,High,Current stock 17 < Buffer 108,2024-08-11,True
+AL0512,CL0045,Low_Stock,DRG083,Critical,Current stock 18 < Buffer 138,2025-04-26,True
+AL0513,CL0041,Low_Stock,DRG019,High,Current stock 35 < Buffer 124,2024-01-09,True
+AL0514,CL0032,Outbreak_Warning,DIS011,Medium,Geospatial cluster detected: 15 cases within 5km radius,2024-06-05,True
+AL0515,CL0019,Low_Stock,DRG013,High,Current stock 15 < Buffer 65,2021-12-18,True
+AL0516,CL0002,Disease_Spike,DIS041,Critical,Cases increased 339% in 72 hours,2025-07-04,True
+AL0517,CL0037,Outbreak_Warning,DIS044,Critical,Geospatial cluster detected: 12 cases within 5km radius,2021-09-04,True
+AL0518,CL0029,Low_Stock,DRG035,Critical,Current stock 7 < Buffer 140,2022-12-24,True
+AL0519,CL0050,Outbreak_Warning,DIS021,Critical,Geospatial cluster detected: 10 cases within 5km radius,2023-01-27,True
+AL0520,CL0039,Outbreak_Warning,DIS001,High,Geospatial cluster detected: 43 cases within 5km radius,2022-06-04,True
+AL0521,CL0034,Outbreak_Warning,DIS043,Medium,Geospatial cluster detected: 24 cases within 5km radius,2022-01-26,True
+AL0522,CL0008,Outbreak_Warning,DIS045,High,Geospatial cluster detected: 30 cases within 5km radius,2023-06-10,True
+AL0523,CL0029,Outbreak_Warning,DIS019,Critical,Geospatial cluster detected: 47 cases within 5km radius,2022-03-25,True
+AL0524,CL0014,Outbreak_Warning,DIS023,Critical,Geospatial cluster detected: 18 cases within 5km radius,2023-12-20,True
+AL0525,CL0029,Outbreak_Warning,DIS046,High,Geospatial cluster detected: 16 cases within 5km radius,2025-12-26,True
+AL0526,CL0044,Outbreak_Warning,DIS005,Medium,Geospatial cluster detected: 44 cases within 5km radius,2022-02-27,True
+AL0527,CL0003,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 17 cases within 5km radius,2022-07-01,True
+AL0528,CL0040,Outbreak_Warning,DIS047,High,Geospatial cluster detected: 42 cases within 5km radius,2023-07-25,True
+AL0529,CL0007,Disease_Spike,DIS045,Medium,Cases increased 204% in 72 hours,2021-02-06,True
+AL0530,CL0047,Low_Stock,DRG020,Medium,Current stock 30 < Buffer 95,2025-11-28,True
+AL0531,CL0010,Disease_Spike,DIS015,Medium,Cases increased 152% in 48 hours,2025-08-28,True
+AL0532,CL0039,Outbreak_Warning,DIS024,High,Geospatial cluster detected: 49 cases within 5km radius,2023-01-23,True
+AL0533,CL0025,Disease_Spike,DIS023,Critical,Cases increased 189% in 24 hours,2022-12-03,False
+AL0534,CL0027,Disease_Spike,DIS041,Critical,Cases increased 480% in 48 hours,2021-08-17,True
+AL0535,CL0003,Disease_Spike,DIS009,High,Cases increased 496% in 72 hours,2023-10-20,True
+AL0536,CL0014,Low_Stock,DRG013,Medium,Current stock 32 < Buffer 99,2024-06-25,True
+AL0537,CL0044,Disease_Spike,DIS025,Critical,Cases increased 307% in 24 hours,2025-07-20,True
+AL0538,CL0037,Disease_Spike,DIS047,Critical,Cases increased 277% in 72 hours,2022-11-26,True
+AL0539,CL0040,Low_Stock,DRG084,Critical,Current stock 21 < Buffer 94,2023-02-16,True
+AL0540,CL0004,Disease_Spike,DIS005,High,Cases increased 242% in 48 hours,2023-04-09,True
+AL0541,CL0020,Low_Stock,DRG081,Medium,Current stock 41 < Buffer 137,2021-12-22,True
+AL0542,CL0033,Low_Stock,DRG077,High,Current stock 24 < Buffer 110,2024-07-08,True
+AL0543,CL0003,Disease_Spike,DIS019,High,Cases increased 195% in 72 hours,2021-08-21,True
+AL0544,CL0016,Low_Stock,DRG100,High,Current stock 39 < Buffer 97,2023-08-18,True
+AL0545,CL0027,Low_Stock,DRG019,Critical,Current stock 37 < Buffer 96,2022-08-20,True
+AL0546,CL0001,Outbreak_Warning,DIS005,High,Geospatial cluster detected: 35 cases within 5km radius,2025-02-24,True
+AL0547,CL0022,Outbreak_Warning,DIS010,Medium,Geospatial cluster detected: 29 cases within 5km radius,2025-12-27,True
+AL0548,CL0034,Low_Stock,DRG099,Medium,Current stock 17 < Buffer 94,2023-06-03,True
+AL0549,CL0040,Low_Stock,DRG038,High,Current stock 37 < Buffer 119,2025-01-10,True
+AL0550,CL0043,Disease_Spike,DIS014,Critical,Cases increased 210% in 72 hours,2022-06-18,True
+AL0551,CL0017,Low_Stock,DRG062,Critical,Current stock 45 < Buffer 91,2021-08-02,True
+AL0552,CL0025,Disease_Spike,DIS043,High,Cases increased 446% in 48 hours,2021-10-18,True
+AL0553,CL0023,Outbreak_Warning,DIS038,Medium,Geospatial cluster detected: 31 cases within 5km radius,2025-08-25,True
+AL0554,CL0025,Disease_Spike,DIS003,High,Cases increased 453% in 72 hours,2021-07-17,True
+AL0555,CL0028,Low_Stock,DRG011,High,Current stock 9 < Buffer 62,2024-07-25,True
+AL0556,CL0001,Disease_Spike,DIS049,Critical,Cases increased 357% in 72 hours,2025-01-12,True
+AL0557,CL0031,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 33 cases within 5km radius,2024-07-21,True
+AL0558,CL0026,Outbreak_Warning,DIS008,Critical,Geospatial cluster detected: 49 cases within 5km radius,2021-12-22,True
+AL0559,CL0041,Low_Stock,DRG089,Medium,Current stock 47 < Buffer 87,2025-09-27,True
+AL0560,CL0033,Low_Stock,DRG098,High,Current stock 44 < Buffer 71,2022-07-10,True
+AL0561,CL0038,Outbreak_Warning,DIS044,High,Geospatial cluster detected: 49 cases within 5km radius,2023-07-21,True
+AL0562,CL0047,Disease_Spike,DIS027,High,Cases increased 238% in 72 hours,2021-05-05,True
+AL0563,CL0008,Disease_Spike,DIS013,High,Cases increased 243% in 24 hours,2023-02-02,True
+AL0564,CL0027,Low_Stock,DRG098,Critical,Current stock 14 < Buffer 67,2023-12-09,True
+AL0565,CL0003,Disease_Spike,DIS012,High,Cases increased 367% in 24 hours,2024-01-20,False
+AL0566,CL0037,Outbreak_Warning,DIS001,High,Geospatial cluster detected: 21 cases within 5km radius,2022-07-07,True
+AL0567,CL0013,Disease_Spike,DIS035,High,Cases increased 189% in 24 hours,2025-07-26,True
+AL0568,CL0001,Disease_Spike,DIS036,Medium,Cases increased 154% in 48 hours,2025-02-23,False
+AL0569,CL0039,Low_Stock,DRG080,High,Current stock 47 < Buffer 86,2024-06-10,True
+AL0570,CL0015,Low_Stock,DRG089,High,Current stock 42 < Buffer 107,2025-12-11,True
+AL0571,CL0007,Low_Stock,DRG029,Critical,Current stock 44 < Buffer 97,2023-02-28,True
+AL0572,CL0021,Outbreak_Warning,DIS002,Critical,Geospatial cluster detected: 50 cases within 5km radius,2023-07-06,True
+AL0573,CL0027,Low_Stock,DRG058,High,Current stock 18 < Buffer 99,2022-12-28,False
+AL0574,CL0034,Disease_Spike,DIS035,Medium,Cases increased 313% in 24 hours,2024-03-22,True
+AL0575,CL0008,Low_Stock,DRG026,Critical,Current stock 5 < Buffer 76,2021-01-05,True
+AL0576,CL0007,Low_Stock,DRG011,Critical,Current stock 20 < Buffer 83,2023-10-07,True
+AL0577,CL0018,Outbreak_Warning,DIS006,Medium,Geospatial cluster detected: 22 cases within 5km radius,2022-04-11,True
+AL0578,CL0046,Outbreak_Warning,DIS048,Critical,Geospatial cluster detected: 39 cases within 5km radius,2025-07-20,True
+AL0579,CL0044,Outbreak_Warning,DIS029,High,Geospatial cluster detected: 32 cases within 5km radius,2025-05-10,False
+AL0580,CL0033,Outbreak_Warning,DIS041,Medium,Geospatial cluster detected: 17 cases within 5km radius,2022-07-14,True
+AL0581,CL0010,Outbreak_Warning,DIS013,Medium,Geospatial cluster detected: 10 cases within 5km radius,2024-07-08,True
+AL0582,CL0020,Outbreak_Warning,DIS040,Critical,Geospatial cluster detected: 20 cases within 5km radius,2022-06-06,True
+AL0583,CL0007,Outbreak_Warning,DIS042,High,Geospatial cluster detected: 26 cases within 5km radius,2025-12-08,True
+AL0584,CL0028,Low_Stock,DRG099,Medium,Current stock 32 < Buffer 103,2021-02-21,True
+AL0585,CL0028,Disease_Spike,DIS013,Critical,Cases increased 296% in 24 hours,2024-01-12,True
+AL0586,CL0015,Low_Stock,DRG075,Medium,Current stock 21 < Buffer 133,2022-01-13,False
+AL0587,CL0013,Outbreak_Warning,DIS043,Critical,Geospatial cluster detected: 49 cases within 5km radius,2023-02-26,True
+AL0588,CL0005,Low_Stock,DRG089,High,Current stock 15 < Buffer 94,2025-08-08,True
+AL0589,CL0037,Outbreak_Warning,DIS019,Medium,Geospatial cluster detected: 39 cases within 5km radius,2025-12-02,True
+AL0590,CL0020,Outbreak_Warning,DIS028,Critical,Geospatial cluster detected: 13 cases within 5km radius,2023-01-22,True
+AL0591,CL0036,Disease_Spike,DIS044,High,Cases increased 233% in 72 hours,2021-12-18,True
+AL0592,CL0023,Disease_Spike,DIS008,High,Cases increased 361% in 24 hours,2024-12-12,True
+AL0593,CL0042,Outbreak_Warning,DIS020,Medium,Geospatial cluster detected: 42 cases within 5km radius,2021-06-07,True
+AL0594,CL0044,Outbreak_Warning,DIS048,High,Geospatial cluster detected: 30 cases within 5km radius,2021-01-20,True
+AL0595,CL0031,Low_Stock,DRG041,High,Current stock 24 < Buffer 105,2022-04-10,True
+AL0596,CL0027,Outbreak_Warning,DIS015,Medium,Geospatial cluster detected: 30 cases within 5km radius,2023-02-01,True
+AL0597,CL0012,Disease_Spike,DIS041,Critical,Cases increased 161% in 48 hours,2025-02-08,True
+AL0598,CL0035,Low_Stock,DRG062,High,Current stock 19 < Buffer 91,2024-08-09,True
+AL0599,CL0042,Low_Stock,DRG055,Medium,Current stock 5 < Buffer 68,2024-07-06,False
+AL0600,CL0007,Disease_Spike,DIS026,High,Cases increased 419% in 72 hours,2021-06-12,True
+AL0601,CL0018,Low_Stock,DRG086,Medium,Current stock 29 < Buffer 63,2023-02-23,True
+AL0602,CL0039,Disease_Spike,DIS005,Medium,Cases increased 408% in 48 hours,2024-12-12,True
+AL0603,CL0038,Low_Stock,DRG004,Medium,Current stock 47 < Buffer 143,2025-01-24,False
+AL0604,CL0023,Disease_Spike,DIS029,High,Cases increased 189% in 24 hours,2025-03-02,True
+AL0605,CL0020,Outbreak_Warning,DIS006,High,Geospatial cluster detected: 21 cases within 5km radius,2023-02-02,True
+AL0606,CL0006,Disease_Spike,DIS010,Medium,Cases increased 374% in 24 hours,2024-08-05,True
+AL0607,CL0050,Outbreak_Warning,DIS015,Critical,Geospatial cluster detected: 36 cases within 5km radius,2025-08-03,True
+AL0608,CL0041,Outbreak_Warning,DIS041,High,Geospatial cluster detected: 28 cases within 5km radius,2025-02-12,True
+AL0609,CL0003,Low_Stock,DRG010,Medium,Current stock 32 < Buffer 76,2021-08-27,True
+AL0610,CL0050,Outbreak_Warning,DIS020,Critical,Geospatial cluster detected: 17 cases within 5km radius,2022-01-20,True
+AL0611,CL0009,Disease_Spike,DIS049,High,Cases increased 400% in 24 hours,2024-05-15,True
+AL0612,CL0037,Disease_Spike,DIS036,Medium,Cases increased 256% in 48 hours,2023-12-01,True
+AL0613,CL0005,Outbreak_Warning,DIS002,Medium,Geospatial cluster detected: 37 cases within 5km radius,2024-08-14,True
+AL0614,CL0030,Low_Stock,DRG041,Medium,Current stock 37 < Buffer 62,2023-07-11,True
+AL0615,CL0036,Disease_Spike,DIS042,Medium,Cases increased 188% in 48 hours,2025-07-23,True
+AL0616,CL0038,Disease_Spike,DIS019,Critical,Cases increased 462% in 72 hours,2022-08-10,False
+AL0617,CL0024,Disease_Spike,DIS016,Critical,Cases increased 240% in 72 hours,2025-06-14,True
+AL0618,CL0026,Disease_Spike,DIS040,Medium,Cases increased 322% in 72 hours,2022-02-10,True
+AL0619,CL0050,Outbreak_Warning,DIS024,Critical,Geospatial cluster detected: 49 cases within 5km radius,2025-02-08,True
+AL0620,CL0047,Outbreak_Warning,DIS043,Critical,Geospatial cluster detected: 47 cases within 5km radius,2022-04-22,True
+AL0621,CL0010,Disease_Spike,DIS005,Medium,Cases increased 291% in 24 hours,2024-12-11,True
+AL0622,CL0043,Disease_Spike,DIS044,Critical,Cases increased 443% in 72 hours,2023-06-28,True
+AL0623,CL0026,Low_Stock,DRG088,Critical,Current stock 7 < Buffer 65,2025-11-05,True
+AL0624,CL0036,Outbreak_Warning,DIS020,High,Geospatial cluster detected: 10 cases within 5km radius,2023-11-21,True
+AL0625,CL0012,Disease_Spike,DIS033,Critical,Cases increased 444% in 72 hours,2021-06-20,True
+AL0626,CL0017,Low_Stock,DRG070,High,Current stock 25 < Buffer 128,2024-01-19,True
+AL0627,CL0010,Outbreak_Warning,DIS011,High,Geospatial cluster detected: 35 cases within 5km radius,2023-02-10,True
+AL0628,CL0006,Low_Stock,DRG005,Critical,Current stock 40 < Buffer 145,2025-01-26,True
+AL0629,CL0050,Outbreak_Warning,DIS041,High,Geospatial cluster detected: 32 cases within 5km radius,2022-02-13,True
+AL0630,CL0035,Disease_Spike,DIS021,Medium,Cases increased 462% in 48 hours,2025-12-13,True
+AL0631,CL0035,Low_Stock,DRG094,Critical,Current stock 35 < Buffer 60,2024-06-15,True
+AL0632,CL0007,Low_Stock,DRG047,Medium,Current stock 34 < Buffer 127,2022-02-11,True
+AL0633,CL0004,Outbreak_Warning,DIS045,Medium,Geospatial cluster detected: 20 cases within 5km radius,2022-07-10,True
+AL0634,CL0013,Disease_Spike,DIS019,High,Cases increased 423% in 24 hours,2025-02-07,True
+AL0635,CL0019,Disease_Spike,DIS048,Critical,Cases increased 295% in 24 hours,2024-08-14,True
+AL0636,CL0025,Disease_Spike,DIS024,Medium,Cases increased 277% in 48 hours,2021-07-02,False
+AL0637,CL0032,Disease_Spike,DIS028,Medium,Cases increased 154% in 72 hours,2025-11-08,False
+AL0638,CL0048,Disease_Spike,DIS033,High,Cases increased 249% in 72 hours,2021-08-19,True
+AL0639,CL0048,Low_Stock,DRG083,High,Current stock 21 < Buffer 137,2023-06-03,True
+AL0640,CL0022,Outbreak_Warning,DIS024,Critical,Geospatial cluster detected: 14 cases within 5km radius,2023-03-20,True
+AL0641,CL0038,Disease_Spike,DIS036,Critical,Cases increased 348% in 24 hours,2023-04-18,True
+AL0642,CL0039,Low_Stock,DRG016,High,Current stock 43 < Buffer 108,2021-08-16,True
+AL0643,CL0028,Disease_Spike,DIS025,Critical,Cases increased 154% in 72 hours,2025-12-02,True
+AL0644,CL0010,Disease_Spike,DIS001,Critical,Cases increased 493% in 72 hours,2025-07-16,True
+AL0645,CL0026,Outbreak_Warning,DIS044,Medium,Geospatial cluster detected: 44 cases within 5km radius,2022-12-06,True
+AL0646,CL0032,Low_Stock,DRG093,Medium,Current stock 8 < Buffer 117,2023-01-15,True
+AL0647,CL0021,Outbreak_Warning,DIS016,Critical,Geospatial cluster detected: 45 cases within 5km radius,2024-06-25,True
+AL0648,CL0029,Disease_Spike,DIS004,Medium,Cases increased 209% in 24 hours,2025-07-01,True
+AL0649,CL0047,Low_Stock,DRG008,Critical,Current stock 48 < Buffer 69,2025-12-02,True
+AL0650,CL0009,Disease_Spike,DIS035,Critical,Cases increased 151% in 48 hours,2025-07-15,False
+AL0651,CL0017,Low_Stock,DRG039,Critical,Current stock 14 < Buffer 123,2022-02-23,True
+AL0652,CL0005,Outbreak_Warning,DIS033,Medium,Geospatial cluster detected: 28 cases within 5km radius,2022-08-06,True
+AL0653,CL0026,Low_Stock,DRG040,Medium,Current stock 17 < Buffer 91,2022-06-20,True
+AL0654,CL0046,Disease_Spike,DIS022,High,Cases increased 298% in 24 hours,2025-02-18,True
+AL0655,CL0025,Outbreak_Warning,DIS042,High,Geospatial cluster detected: 28 cases within 5km radius,2024-12-05,True
+AL0656,CL0004,Outbreak_Warning,DIS029,Critical,Geospatial cluster detected: 50 cases within 5km radius,2023-06-04,True
+AL0657,CL0034,Disease_Spike,DIS014,Critical,Cases increased 467% in 72 hours,2021-03-15,True
+AL0658,CL0042,Disease_Spike,DIS018,Medium,Cases increased 331% in 72 hours,2025-08-20,True
+AL0659,CL0030,Low_Stock,DRG098,Critical,Current stock 44 < Buffer 123,2025-09-15,True
+AL0660,CL0044,Outbreak_Warning,DIS040,Critical,Geospatial cluster detected: 22 cases within 5km radius,2024-07-16,True
+AL0661,CL0022,Disease_Spike,DIS009,Medium,Cases increased 477% in 48 hours,2024-01-23,False
+AL0662,CL0029,Low_Stock,DRG064,Critical,Current stock 28 < Buffer 83,2025-11-02,True
+AL0663,CL0013,Low_Stock,DRG085,Medium,Current stock 29 < Buffer 105,2024-02-05,True
+AL0664,CL0036,Outbreak_Warning,DIS020,Medium,Geospatial cluster detected: 48 cases within 5km radius,2022-11-22,True
+AL0665,CL0031,Outbreak_Warning,DIS037,Medium,Geospatial cluster detected: 23 cases within 5km radius,2022-04-01,True
+AL0666,CL0036,Outbreak_Warning,DIS017,Medium,Geospatial cluster detected: 20 cases within 5km radius,2021-02-09,True
+AL0667,CL0013,Disease_Spike,DIS042,Critical,Cases increased 161% in 72 hours,2021-01-14,True
+AL0668,CL0001,Outbreak_Warning,DIS017,Medium,Geospatial cluster detected: 40 cases within 5km radius,2024-09-01,True
+AL0669,CL0030,Outbreak_Warning,DIS039,Medium,Geospatial cluster detected: 45 cases within 5km radius,2022-12-06,True
+AL0670,CL0013,Outbreak_Warning,DIS046,High,Geospatial cluster detected: 39 cases within 5km radius,2025-12-21,True
+AL0671,CL0031,Outbreak_Warning,DIS031,High,Geospatial cluster detected: 26 cases within 5km radius,2021-12-19,True
+AL0672,CL0018,Outbreak_Warning,DIS014,High,Geospatial cluster detected: 15 cases within 5km radius,2021-06-23,True
+AL0673,CL0011,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 32 cases within 5km radius,2021-11-23,True
+AL0674,CL0034,Low_Stock,DRG032,Critical,Current stock 35 < Buffer 86,2022-08-06,True
+AL0675,CL0016,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 50 cases within 5km radius,2024-11-27,True
+AL0676,CL0043,Disease_Spike,DIS025,High,Cases increased 466% in 24 hours,2024-08-23,True
+AL0677,CL0049,Outbreak_Warning,DIS033,Critical,Geospatial cluster detected: 31 cases within 5km radius,2023-06-03,True
+AL0678,CL0028,Disease_Spike,DIS024,Medium,Cases increased 191% in 48 hours,2022-01-13,False
+AL0679,CL0039,Low_Stock,DRG068,High,Current stock 36 < Buffer 147,2022-08-26,True
+AL0680,CL0015,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 32 cases within 5km radius,2022-12-18,True
+AL0681,CL0014,Low_Stock,DRG053,High,Current stock 17 < Buffer 149,2022-12-01,True
+AL0682,CL0045,Disease_Spike,DIS034,Medium,Cases increased 387% in 72 hours,2024-07-27,True
+AL0683,CL0043,Disease_Spike,DIS009,Medium,Cases increased 403% in 24 hours,2022-08-15,True
+AL0684,CL0031,Low_Stock,DRG007,High,Current stock 41 < Buffer 81,2024-02-19,True
+AL0685,CL0014,Low_Stock,DRG080,Critical,Current stock 32 < Buffer 149,2025-02-08,True
+AL0686,CL0009,Disease_Spike,DIS009,Medium,Cases increased 345% in 48 hours,2025-12-26,True
+AL0687,CL0016,Disease_Spike,DIS002,Medium,Cases increased 444% in 72 hours,2024-01-09,False
+AL0688,CL0002,Outbreak_Warning,DIS039,High,Geospatial cluster detected: 37 cases within 5km radius,2025-02-19,True
+AL0689,CL0033,Outbreak_Warning,DIS011,Medium,Geospatial cluster detected: 13 cases within 5km radius,2024-07-21,True
+AL0690,CL0020,Outbreak_Warning,DIS047,High,Geospatial cluster detected: 40 cases within 5km radius,2023-05-05,True
+AL0691,CL0018,Disease_Spike,DIS031,Critical,Cases increased 413% in 48 hours,2025-08-25,True
+AL0692,CL0042,Low_Stock,DRG072,Critical,Current stock 46 < Buffer 94,2021-02-12,True
+AL0693,CL0032,Outbreak_Warning,DIS037,Critical,Geospatial cluster detected: 36 cases within 5km radius,2021-02-09,True
+AL0694,CL0045,Disease_Spike,DIS027,Medium,Cases increased 456% in 24 hours,2023-12-14,True
+AL0695,CL0030,Low_Stock,DRG003,Critical,Current stock 44 < Buffer 75,2025-06-16,False
+AL0696,CL0026,Low_Stock,DRG090,High,Current stock 41 < Buffer 92,2025-12-20,True
+AL0697,CL0032,Low_Stock,DRG064,Critical,Current stock 39 < Buffer 108,2025-12-13,True
+AL0698,CL0040,Disease_Spike,DIS027,Medium,Cases increased 325% in 72 hours,2022-07-28,True
+AL0699,CL0038,Disease_Spike,DIS022,Critical,Cases increased 383% in 48 hours,2025-04-22,True
+AL0700,CL0034,Disease_Spike,DIS046,High,Cases increased 422% in 24 hours,2025-01-11,True
+AL0701,CL0029,Outbreak_Warning,DIS027,High,Geospatial cluster detected: 35 cases within 5km radius,2023-12-11,True
+AL0702,CL0012,Low_Stock,DRG094,Medium,Current stock 36 < Buffer 126,2023-08-25,True
+AL0703,CL0032,Low_Stock,DRG074,Critical,Current stock 36 < Buffer 124,2022-06-19,True
+AL0704,CL0012,Low_Stock,DRG026,High,Current stock 36 < Buffer 70,2024-01-09,True
+AL0705,CL0014,Low_Stock,DRG066,High,Current stock 40 < Buffer 122,2023-07-23,True
+AL0706,CL0010,Outbreak_Warning,DIS030,High,Geospatial cluster detected: 47 cases within 5km radius,2024-02-14,True
+AL0707,CL0025,Outbreak_Warning,DIS036,Critical,Geospatial cluster detected: 46 cases within 5km radius,2025-02-28,True
+AL0708,CL0050,Low_Stock,DRG060,High,Current stock 14 < Buffer 60,2025-12-06,True
+AL0709,CL0024,Outbreak_Warning,DIS048,Critical,Geospatial cluster detected: 21 cases within 5km radius,2025-06-20,True
+AL0710,CL0049,Outbreak_Warning,DIS008,Medium,Geospatial cluster detected: 48 cases within 5km radius,2022-02-20,True
+AL0711,CL0006,Disease_Spike,DIS009,High,Cases increased 279% in 72 hours,2025-04-22,True
+AL0712,CL0046,Low_Stock,DRG058,Medium,Current stock 25 < Buffer 66,2025-06-09,True
+AL0713,CL0015,Outbreak_Warning,DIS001,Critical,Geospatial cluster detected: 34 cases within 5km radius,2023-12-13,True
+AL0714,CL0034,Disease_Spike,DIS049,Critical,Cases increased 300% in 24 hours,2022-06-14,True
+AL0715,CL0046,Disease_Spike,DIS036,Critical,Cases increased 309% in 72 hours,2025-02-28,True
+AL0716,CL0038,Low_Stock,DRG001,Medium,Current stock 50 < Buffer 117,2025-12-21,True
+AL0717,CL0048,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 11 cases within 5km radius,2023-07-25,True
+AL0718,CL0028,Disease_Spike,DIS042,Medium,Cases increased 338% in 24 hours,2021-02-01,True
+AL0719,CL0036,Low_Stock,DRG024,Critical,Current stock 47 < Buffer 127,2025-01-26,True
+AL0720,CL0019,Outbreak_Warning,DIS031,Medium,Geospatial cluster detected: 41 cases within 5km radius,2021-08-24,False
+AL0721,CL0042,Low_Stock,DRG015,High,Current stock 18 < Buffer 85,2024-12-21,True
+AL0722,CL0016,Low_Stock,DRG097,Critical,Current stock 38 < Buffer 105,2022-02-16,True
+AL0723,CL0034,Disease_Spike,DIS049,Critical,Cases increased 324% in 24 hours,2021-08-23,True
+AL0724,CL0032,Low_Stock,DRG016,Critical,Current stock 21 < Buffer 84,2023-01-03,False
+AL0725,CL0028,Outbreak_Warning,DIS011,Critical,Geospatial cluster detected: 27 cases within 5km radius,2021-08-24,True
+AL0726,CL0003,Disease_Spike,DIS029,High,Cases increased 469% in 24 hours,2024-02-24,True
+AL0727,CL0022,Disease_Spike,DIS021,Medium,Cases increased 215% in 48 hours,2025-04-17,True
+AL0728,CL0010,Disease_Spike,DIS007,High,Cases increased 211% in 48 hours,2025-07-18,True
+AL0729,CL0005,Low_Stock,DRG013,High,Current stock 17 < Buffer 136,2025-02-10,True
+AL0730,CL0016,Outbreak_Warning,DIS009,Medium,Geospatial cluster detected: 32 cases within 5km radius,2022-07-01,True
+AL0731,CL0014,Disease_Spike,DIS048,Critical,Cases increased 361% in 72 hours,2021-08-17,True
+AL0732,CL0023,Low_Stock,DRG093,High,Current stock 28 < Buffer 142,2024-05-19,True
+AL0733,CL0034,Disease_Spike,DIS037,Critical,Cases increased 249% in 72 hours,2024-08-27,True
+AL0734,CL0002,Low_Stock,DRG081,High,Current stock 28 < Buffer 139,2022-06-13,True
+AL0735,CL0023,Disease_Spike,DIS030,Medium,Cases increased 390% in 24 hours,2023-12-22,False
+AL0736,CL0022,Outbreak_Warning,DIS025,Medium,Geospatial cluster detected: 19 cases within 5km radius,2023-06-04,True
+AL0737,CL0006,Low_Stock,DRG041,Critical,Current stock 44 < Buffer 123,2022-01-03,True
+AL0738,CL0021,Low_Stock,DRG081,High,Current stock 20 < Buffer 67,2025-01-09,True
+AL0739,CL0011,Low_Stock,DRG037,Medium,Current stock 20 < Buffer 105,2024-02-08,False
+AL0740,CL0007,Disease_Spike,DIS034,Medium,Cases increased 242% in 24 hours,2025-12-08,True
+AL0741,CL0049,Low_Stock,DRG020,High,Current stock 30 < Buffer 142,2022-07-08,True
+AL0742,CL0016,Low_Stock,DRG041,Medium,Current stock 6 < Buffer 61,2023-08-05,True
+AL0743,CL0029,Low_Stock,DRG071,Critical,Current stock 10 < Buffer 60,2023-06-22,True
+AL0744,CL0024,Disease_Spike,DIS022,High,Cases increased 186% in 48 hours,2022-02-15,True
+AL0745,CL0021,Low_Stock,DRG035,High,Current stock 22 < Buffer 66,2024-08-18,True
+AL0746,CL0011,Disease_Spike,DIS037,Medium,Cases increased 288% in 48 hours,2023-01-02,True
+AL0747,CL0014,Low_Stock,DRG021,Medium,Current stock 11 < Buffer 108,2025-06-18,True
+AL0748,CL0050,Outbreak_Warning,DIS039,Medium,Geospatial cluster detected: 19 cases within 5km radius,2022-10-01,True
+AL0749,CL0049,Disease_Spike,DIS029,High,Cases increased 422% in 48 hours,2023-12-12,True
+AL0750,CL0013,Low_Stock,DRG036,Medium,Current stock 9 < Buffer 63,2025-02-20,True
+AL0751,CL0013,Disease_Spike,DIS002,High,Cases increased 282% in 48 hours,2023-07-19,True
+AL0752,CL0041,Disease_Spike,DIS046,Critical,Cases increased 224% in 24 hours,2025-02-10,True
+AL0753,CL0008,Outbreak_Warning,DIS045,High,Geospatial cluster detected: 46 cases within 5km radius,2025-08-26,True
+AL0754,CL0013,Outbreak_Warning,DIS037,Medium,Geospatial cluster detected: 24 cases within 5km radius,2023-12-17,True
+AL0755,CL0007,Outbreak_Warning,DIS049,Critical,Geospatial cluster detected: 43 cases within 5km radius,2025-08-05,True
+AL0756,CL0016,Disease_Spike,DIS016,Critical,Cases increased 486% in 48 hours,2021-12-12,True
+AL0757,CL0041,Low_Stock,DRG077,Critical,Current stock 46 < Buffer 110,2021-07-17,True
+AL0758,CL0023,Outbreak_Warning,DIS047,Medium,Geospatial cluster detected: 10 cases within 5km radius,2024-05-05,True
+AL0759,CL0029,Low_Stock,DRG003,Medium,Current stock 8 < Buffer 90,2025-01-09,True
+AL0760,CL0024,Disease_Spike,DIS041,Critical,Cases increased 156% in 24 hours,2022-06-21,True
+AL0761,CL0027,Low_Stock,DRG018,Critical,Current stock 9 < Buffer 124,2025-02-14,True
+AL0762,CL0011,Low_Stock,DRG079,Critical,Current stock 5 < Buffer 109,2022-08-05,True
+AL0763,CL0014,Outbreak_Warning,DIS040,Critical,Geospatial cluster detected: 10 cases within 5km radius,2023-01-03,True
+AL0764,CL0024,Disease_Spike,DIS006,Medium,Cases increased 323% in 48 hours,2023-06-19,True
+AL0765,CL0026,Outbreak_Warning,DIS035,High,Geospatial cluster detected: 35 cases within 5km radius,2023-07-03,True
+AL0766,CL0039,Disease_Spike,DIS036,Critical,Cases increased 425% in 24 hours,2023-07-21,True
+AL0767,CL0043,Low_Stock,DRG070,High,Current stock 32 < Buffer 82,2023-02-16,True
+AL0768,CL0047,Low_Stock,DRG047,High,Current stock 28 < Buffer 110,2022-07-02,True
+AL0769,CL0018,Disease_Spike,DIS027,High,Cases increased 337% in 24 hours,2025-06-01,True
+AL0770,CL0030,Outbreak_Warning,DIS026,Medium,Geospatial cluster detected: 23 cases within 5km radius,2022-06-11,True
+AL0771,CL0015,Outbreak_Warning,DIS039,Medium,Geospatial cluster detected: 26 cases within 5km radius,2023-02-01,True
+AL0772,CL0031,Disease_Spike,DIS038,Medium,Cases increased 296% in 24 hours,2021-06-19,True
+AL0773,CL0013,Disease_Spike,DIS007,High,Cases increased 205% in 48 hours,2023-07-07,True
+AL0774,CL0025,Outbreak_Warning,DIS006,Medium,Geospatial cluster detected: 40 cases within 5km radius,2025-04-05,False
+AL0775,CL0039,Disease_Spike,DIS024,Medium,Cases increased 328% in 72 hours,2025-08-20,True
+AL0776,CL0037,Low_Stock,DRG081,Medium,Current stock 41 < Buffer 118,2023-08-10,True
+AL0777,CL0002,Low_Stock,DRG064,Critical,Current stock 8 < Buffer 99,2021-10-05,True
+AL0778,CL0034,Disease_Spike,DIS001,Critical,Cases increased 427% in 72 hours,2022-05-06,False
+AL0779,CL0003,Outbreak_Warning,DIS050,Medium,Geospatial cluster detected: 23 cases within 5km radius,2023-08-04,True
+AL0780,CL0003,Low_Stock,DRG033,Medium,Current stock 14 < Buffer 84,2022-02-04,True
+AL0781,CL0047,Outbreak_Warning,DIS016,Medium,Geospatial cluster detected: 44 cases within 5km radius,2022-07-24,True
+AL0782,CL0021,Outbreak_Warning,DIS028,Medium,Geospatial cluster detected: 46 cases within 5km radius,2021-01-11,True
+AL0783,CL0036,Disease_Spike,DIS001,Critical,Cases increased 172% in 24 hours,2024-12-13,True
+AL0784,CL0021,Outbreak_Warning,DIS023,High,Geospatial cluster detected: 47 cases within 5km radius,2021-06-16,True
+AL0785,CL0031,Outbreak_Warning,DIS030,Medium,Geospatial cluster detected: 42 cases within 5km radius,2021-08-11,True
+AL0786,CL0008,Outbreak_Warning,DIS048,Medium,Geospatial cluster detected: 13 cases within 5km radius,2024-06-14,True
+AL0787,CL0021,Disease_Spike,DIS001,Medium,Cases increased 343% in 48 hours,2025-08-27,True
+AL0788,CL0044,Low_Stock,DRG082,Critical,Current stock 46 < Buffer 63,2024-02-20,True
+AL0789,CL0009,Disease_Spike,DIS041,Critical,Cases increased 406% in 72 hours,2023-07-20,True
+AL0790,CL0014,Low_Stock,DRG033,Critical,Current stock 30 < Buffer 110,2022-09-26,False
+AL0791,CL0028,Low_Stock,DRG059,Critical,Current stock 12 < Buffer 99,2022-12-26,False
+AL0792,CL0013,Low_Stock,DRG095,High,Current stock 42 < Buffer 131,2023-08-03,True
+AL0793,CL0017,Disease_Spike,DIS023,Critical,Cases increased 498% in 48 hours,2024-07-06,False
+AL0794,CL0048,Low_Stock,DRG058,Medium,Current stock 43 < Buffer 145,2021-01-05,True
+AL0795,CL0044,Disease_Spike,DIS017,High,Cases increased 485% in 72 hours,2021-07-14,True
+AL0796,CL0035,Low_Stock,DRG095,Medium,Current stock 49 < Buffer 114,2023-07-26,True
+AL0797,CL0047,Outbreak_Warning,DIS005,High,Geospatial cluster detected: 21 cases within 5km radius,2022-08-01,True
+AL0798,CL0038,Low_Stock,DRG019,Medium,Current stock 38 < Buffer 115,2023-07-02,True
+AL0799,CL0014,Disease_Spike,DIS044,Critical,Cases increased 233% in 48 hours,2022-08-01,True
+AL0800,CL0043,Low_Stock,DRG040,Critical,Current stock 36 < Buffer 83,2025-12-01,True
+AL0801,CL0040,Low_Stock,DRG029,Critical,Current stock 14 < Buffer 120,2025-08-06,True
+AL0802,CL0011,Low_Stock,DRG056,Medium,Current stock 5 < Buffer 147,2024-12-24,True
+AL0803,CL0005,Disease_Spike,DIS046,Medium,Cases increased 312% in 72 hours,2022-05-21,True
+AL0804,CL0027,Low_Stock,DRG052,High,Current stock 5 < Buffer 118,2025-01-23,True
+AL0805,CL0042,Disease_Spike,DIS015,Critical,Cases increased 394% in 72 hours,2023-01-28,True
+AL0806,CL0042,Disease_Spike,DIS010,High,Cases increased 232% in 48 hours,2022-03-22,True
+AL0807,CL0017,Low_Stock,DRG003,Medium,Current stock 17 < Buffer 72,2023-12-02,True
+AL0808,CL0034,Disease_Spike,DIS040,High,Cases increased 377% in 48 hours,2023-08-24,True
+AL0809,CL0011,Outbreak_Warning,DIS019,High,Geospatial cluster detected: 13 cases within 5km radius,2024-01-15,True
+AL0810,CL0039,Outbreak_Warning,DIS045,Critical,Geospatial cluster detected: 33 cases within 5km radius,2023-07-17,True
+AL0811,CL0011,Disease_Spike,DIS039,Critical,Cases increased 199% in 72 hours,2023-01-06,True
+AL0812,CL0028,Disease_Spike,DIS046,Medium,Cases increased 475% in 24 hours,2022-07-12,False
+AL0813,CL0026,Low_Stock,DRG038,High,Current stock 48 < Buffer 85,2025-03-13,True
+AL0814,CL0005,Disease_Spike,DIS027,High,Cases increased 268% in 72 hours,2025-12-01,True
+AL0815,CL0039,Low_Stock,DRG013,High,Current stock 47 < Buffer 146,2024-09-16,True
+AL0816,CL0039,Outbreak_Warning,DIS040,High,Geospatial cluster detected: 20 cases within 5km radius,2023-12-21,True
+AL0817,CL0025,Disease_Spike,DIS006,High,Cases increased 480% in 72 hours,2025-01-27,True
+AL0818,CL0031,Low_Stock,DRG047,High,Current stock 31 < Buffer 83,2021-01-07,True
+AL0819,CL0029,Low_Stock,DRG046,High,Current stock 49 < Buffer 150,2023-06-21,True
+AL0820,CL0045,Disease_Spike,DIS013,High,Cases increased 273% in 72 hours,2025-07-03,True
+AL0821,CL0019,Outbreak_Warning,DIS039,Critical,Geospatial cluster detected: 21 cases within 5km radius,2025-08-19,True
+AL0822,CL0031,Outbreak_Warning,DIS049,High,Geospatial cluster detected: 47 cases within 5km radius,2023-05-13,True
+AL0823,CL0025,Low_Stock,DRG073,High,Current stock 42 < Buffer 124,2023-07-14,True
+AL0824,CL0015,Low_Stock,DRG036,High,Current stock 48 < Buffer 122,2023-01-05,True
+AL0825,CL0020,Disease_Spike,DIS046,High,Cases increased 283% in 24 hours,2025-12-23,True
+AL0826,CL0027,Outbreak_Warning,DIS028,Medium,Geospatial cluster detected: 41 cases within 5km radius,2025-07-23,True
+AL0827,CL0006,Disease_Spike,DIS015,Critical,Cases increased 203% in 24 hours,2024-01-03,False
+AL0828,CL0014,Disease_Spike,DIS019,Critical,Cases increased 236% in 24 hours,2022-06-07,True
+AL0829,CL0027,Low_Stock,DRG002,High,Current stock 46 < Buffer 70,2023-07-11,True
+AL0830,CL0033,Disease_Spike,DIS043,Medium,Cases increased 258% in 48 hours,2021-08-11,True
+AL0831,CL0039,Low_Stock,DRG085,High,Current stock 5 < Buffer 81,2021-08-25,False
+AL0832,CL0042,Low_Stock,DRG037,Critical,Current stock 24 < Buffer 146,2023-04-08,True
+AL0833,CL0011,Disease_Spike,DIS030,Medium,Cases increased 373% in 72 hours,2023-12-27,True
+AL0834,CL0036,Low_Stock,DRG022,Medium,Current stock 28 < Buffer 72,2022-07-27,True
+AL0835,CL0030,Outbreak_Warning,DIS010,High,Geospatial cluster detected: 44 cases within 5km radius,2022-06-28,True
+AL0836,CL0023,Outbreak_Warning,DIS012,High,Geospatial cluster detected: 29 cases within 5km radius,2025-01-24,True
+AL0837,CL0015,Outbreak_Warning,DIS017,Medium,Geospatial cluster detected: 11 cases within 5km radius,2025-06-28,True
+AL0838,CL0036,Disease_Spike,DIS047,Critical,Cases increased 499% in 48 hours,2023-12-20,True
+AL0839,CL0007,Disease_Spike,DIS038,Critical,Cases increased 441% in 48 hours,2022-08-16,True
+AL0840,CL0041,Outbreak_Warning,DIS016,High,Geospatial cluster detected: 49 cases within 5km radius,2022-12-05,True
+AL0841,CL0024,Low_Stock,DRG078,High,Current stock 41 < Buffer 71,2024-07-24,True
+AL0842,CL0009,Disease_Spike,DIS022,Medium,Cases increased 476% in 24 hours,2022-01-04,True
+AL0843,CL0037,Disease_Spike,DIS009,Critical,Cases increased 216% in 72 hours,2023-06-12,True
+AL0844,CL0027,Disease_Spike,DIS022,Medium,Cases increased 199% in 48 hours,2025-01-16,True
+AL0845,CL0042,Outbreak_Warning,DIS047,High,Geospatial cluster detected: 45 cases within 5km radius,2022-12-02,True
+AL0846,CL0031,Low_Stock,DRG072,Critical,Current stock 12 < Buffer 82,2023-02-12,True
+AL0847,CL0004,Outbreak_Warning,DIS010,Medium,Geospatial cluster detected: 50 cases within 5km radius,2025-08-19,True
+AL0848,CL0022,Outbreak_Warning,DIS015,High,Geospatial cluster detected: 17 cases within 5km radius,2023-12-21,True
+AL0849,CL0042,Outbreak_Warning,DIS006,Medium,Geospatial cluster detected: 32 cases within 5km radius,2023-01-27,True
+AL0850,CL0017,Outbreak_Warning,DIS036,High,Geospatial cluster detected: 19 cases within 5km radius,2021-06-04,True
+AL0851,CL0033,Outbreak_Warning,DIS040,Critical,Geospatial cluster detected: 25 cases within 5km radius,2024-06-20,True
+AL0852,CL0025,Outbreak_Warning,DIS028,Critical,Geospatial cluster detected: 45 cases within 5km radius,2025-01-05,False
+AL0853,CL0049,Disease_Spike,DIS033,Medium,Cases increased 162% in 72 hours,2023-12-08,True
+AL0854,CL0001,Low_Stock,DRG071,Medium,Current stock 40 < Buffer 74,2022-06-05,True
+AL0855,CL0045,Disease_Spike,DIS006,High,Cases increased 166% in 48 hours,2023-02-09,True
+AL0856,CL0006,Low_Stock,DRG082,High,Current stock 23 < Buffer 86,2025-07-27,True
+AL0857,CL0039,Outbreak_Warning,DIS023,Medium,Geospatial cluster detected: 20 cases within 5km radius,2023-12-22,True
+AL0858,CL0004,Disease_Spike,DIS023,Critical,Cases increased 290% in 72 hours,2023-12-14,False
+AL0859,CL0026,Disease_Spike,DIS021,Medium,Cases increased 326% in 72 hours,2025-02-24,True
+AL0860,CL0038,Low_Stock,DRG033,Critical,Current stock 29 < Buffer 144,2021-08-08,True
+AL0861,CL0031,Low_Stock,DRG044,Medium,Current stock 12 < Buffer 94,2024-06-12,True
+AL0862,CL0044,Disease_Spike,DIS011,Medium,Cases increased 190% in 24 hours,2021-06-07,False
+AL0863,CL0022,Outbreak_Warning,DIS021,High,Geospatial cluster detected: 40 cases within 5km radius,2024-08-08,True
+AL0864,CL0012,Disease_Spike,DIS001,Medium,Cases increased 173% in 24 hours,2023-08-13,True
+AL0865,CL0048,Low_Stock,DRG096,Medium,Current stock 18 < Buffer 111,2021-11-01,True
+AL0866,CL0001,Outbreak_Warning,DIS021,Medium,Geospatial cluster detected: 22 cases within 5km radius,2024-01-14,True
+AL0867,CL0020,Outbreak_Warning,DIS031,Critical,Geospatial cluster detected: 48 cases within 5km radius,2021-02-17,False
+AL0868,CL0043,Low_Stock,DRG059,Critical,Current stock 5 < Buffer 107,2025-08-21,True
+AL0869,CL0032,Disease_Spike,DIS022,High,Cases increased 427% in 48 hours,2022-06-28,False
+AL0870,CL0047,Outbreak_Warning,DIS042,Critical,Geospatial cluster detected: 35 cases within 5km radius,2023-12-01,True
+AL0871,CL0018,Outbreak_Warning,DIS023,High,Geospatial cluster detected: 38 cases within 5km radius,2024-06-17,True
+AL0872,CL0021,Low_Stock,DRG001,Critical,Current stock 21 < Buffer 94,2024-02-11,False
+AL0873,CL0016,Low_Stock,DRG009,Critical,Current stock 31 < Buffer 89,2023-07-20,True
+AL0874,CL0010,Low_Stock,DRG071,High,Current stock 47 < Buffer 133,2025-01-09,True
+AL0875,CL0009,Disease_Spike,DIS039,Medium,Cases increased 397% in 48 hours,2025-06-05,True
+AL0876,CL0030,Low_Stock,DRG039,High,Current stock 13 < Buffer 99,2023-01-25,True
+AL0877,CL0034,Low_Stock,DRG080,Medium,Current stock 13 < Buffer 85,2022-06-20,True
+AL0878,CL0021,Disease_Spike,DIS010,Medium,Cases increased 215% in 48 hours,2024-02-11,True
+AL0879,CL0015,Low_Stock,DRG079,Critical,Current stock 15 < Buffer 93,2021-07-27,True
+AL0880,CL0047,Disease_Spike,DIS047,Critical,Cases increased 171% in 72 hours,2022-07-14,True
+AL0881,CL0043,Disease_Spike,DIS031,Medium,Cases increased 444% in 72 hours,2022-06-20,True
+AL0882,CL0031,Disease_Spike,DIS044,Critical,Cases increased 435% in 24 hours,2021-09-10,True
+AL0883,CL0001,Low_Stock,DRG049,Critical,Current stock 30 < Buffer 119,2025-01-21,False
+AL0884,CL0005,Low_Stock,DRG017,Critical,Current stock 7 < Buffer 87,2022-02-25,True
+AL0885,CL0030,Disease_Spike,DIS038,High,Cases increased 380% in 24 hours,2022-06-23,True
+AL0886,CL0050,Disease_Spike,DIS009,Medium,Cases increased 319% in 48 hours,2023-07-27,True
+AL0887,CL0040,Outbreak_Warning,DIS017,Critical,Geospatial cluster detected: 41 cases within 5km radius,2024-06-23,True
+AL0888,CL0028,Disease_Spike,DIS049,High,Cases increased 257% in 24 hours,2024-03-20,True
+AL0889,CL0040,Disease_Spike,DIS006,Critical,Cases increased 357% in 24 hours,2025-12-25,True
+AL0890,CL0024,Low_Stock,DRG094,Medium,Current stock 37 < Buffer 149,2024-01-03,True
+AL0891,CL0028,Low_Stock,DRG027,High,Current stock 18 < Buffer 118,2022-06-17,True
+AL0892,CL0023,Outbreak_Warning,DIS032,Critical,Geospatial cluster detected: 46 cases within 5km radius,2021-06-22,True
+AL0893,CL0025,Low_Stock,DRG095,High,Current stock 19 < Buffer 136,2021-12-10,True
+AL0894,CL0030,Disease_Spike,DIS001,Medium,Cases increased 171% in 72 hours,2023-06-01,True
+AL0895,CL0002,Disease_Spike,DIS033,Medium,Cases increased 388% in 48 hours,2024-06-19,True
+AL0896,CL0013,Disease_Spike,DIS016,High,Cases increased 322% in 24 hours,2024-01-05,True
+AL0897,CL0024,Low_Stock,DRG011,High,Current stock 44 < Buffer 115,2022-08-19,True
+AL0898,CL0007,Outbreak_Warning,DIS012,High,Geospatial cluster detected: 24 cases within 5km radius,2022-06-22,False
+AL0899,CL0025,Low_Stock,DRG009,Medium,Current stock 32 < Buffer 146,2022-01-12,True
+AL0900,CL0035,Outbreak_Warning,DIS032,Critical,Geospatial cluster detected: 41 cases within 5km radius,2025-03-07,True
+AL0901,CL0035,Outbreak_Warning,DIS029,Medium,Geospatial cluster detected: 41 cases within 5km radius,2025-01-03,True
+AL0902,CL0032,Outbreak_Warning,DIS046,Critical,Geospatial cluster detected: 12 cases within 5km radius,2021-06-07,True
+AL0903,CL0019,Outbreak_Warning,DIS044,Medium,Geospatial cluster detected: 33 cases within 5km radius,2021-07-20,True
+AL0904,CL0044,Disease_Spike,DIS015,High,Cases increased 155% in 24 hours,2022-12-13,True
+AL0905,CL0048,Low_Stock,DRG064,Medium,Current stock 20 < Buffer 138,2022-06-06,True
+AL0906,CL0014,Low_Stock,DRG018,Medium,Current stock 15 < Buffer 149,2024-08-12,True
+AL0907,CL0022,Disease_Spike,DIS035,Critical,Cases increased 179% in 24 hours,2022-02-19,False
+AL0908,CL0006,Low_Stock,DRG062,Critical,Current stock 45 < Buffer 135,2022-08-02,True
+AL0909,CL0007,Outbreak_Warning,DIS025,High,Geospatial cluster detected: 12 cases within 5km radius,2024-01-10,True
+AL0910,CL0032,Disease_Spike,DIS031,High,Cases increased 500% in 48 hours,2024-02-16,True
+AL0911,CL0027,Outbreak_Warning,DIS005,Critical,Geospatial cluster detected: 11 cases within 5km radius,2025-04-02,True
+AL0912,CL0017,Low_Stock,DRG024,High,Current stock 24 < Buffer 84,2025-01-05,True
+AL0913,CL0035,Low_Stock,DRG029,High,Current stock 48 < Buffer 68,2022-07-22,True
+AL0914,CL0014,Outbreak_Warning,DIS032,Critical,Geospatial cluster detected: 10 cases within 5km radius,2023-07-27,True
+AL0915,CL0039,Disease_Spike,DIS046,High,Cases increased 250% in 48 hours,2022-04-05,False
+AL0916,CL0024,Disease_Spike,DIS036,Medium,Cases increased 187% in 72 hours,2024-02-17,True
+AL0917,CL0002,Outbreak_Warning,DIS011,Medium,Geospatial cluster detected: 27 cases within 5km radius,2022-12-02,True
+AL0918,CL0028,Disease_Spike,DIS033,Critical,Cases increased 474% in 72 hours,2024-12-26,False
+AL0919,CL0043,Low_Stock,DRG052,Medium,Current stock 46 < Buffer 120,2023-07-26,True
+AL0920,CL0001,Low_Stock,DRG099,High,Current stock 46 < Buffer 148,2025-10-07,True
+AL0921,CL0020,Low_Stock,DRG026,Critical,Current stock 34 < Buffer 145,2025-01-17,True
+AL0922,CL0003,Outbreak_Warning,DIS034,Medium,Geospatial cluster detected: 31 cases within 5km radius,2025-06-20,True
+AL0923,CL0019,Disease_Spike,DIS037,Medium,Cases increased 388% in 72 hours,2022-12-12,True
+AL0924,CL0019,Low_Stock,DRG056,Medium,Current stock 47 < Buffer 98,2023-06-12,True
+AL0925,CL0028,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 32 cases within 5km radius,2024-05-18,True
+AL0926,CL0009,Outbreak_Warning,DIS041,Medium,Geospatial cluster detected: 20 cases within 5km radius,2022-12-17,True
+AL0927,CL0002,Low_Stock,DRG016,Critical,Current stock 34 < Buffer 114,2022-07-17,True
+AL0928,CL0005,Disease_Spike,DIS042,Critical,Cases increased 220% in 72 hours,2021-02-28,True
+AL0929,CL0031,Disease_Spike,DIS027,High,Cases increased 399% in 24 hours,2021-05-22,False
+AL0930,CL0001,Outbreak_Warning,DIS005,Critical,Geospatial cluster detected: 10 cases within 5km radius,2025-07-22,True
+AL0931,CL0045,Low_Stock,DRG087,Medium,Current stock 46 < Buffer 119,2025-08-13,True
+AL0932,CL0010,Disease_Spike,DIS041,High,Cases increased 251% in 72 hours,2022-01-19,True
+AL0933,CL0027,Disease_Spike,DIS003,High,Cases increased 427% in 72 hours,2022-07-28,False
+AL0934,CL0006,Outbreak_Warning,DIS008,Medium,Geospatial cluster detected: 13 cases within 5km radius,2022-04-27,True
+AL0935,CL0003,Low_Stock,DRG004,Critical,Current stock 19 < Buffer 65,2023-06-06,True
+AL0936,CL0018,Outbreak_Warning,DIS023,High,Geospatial cluster detected: 19 cases within 5km radius,2024-07-05,True
+AL0937,CL0019,Low_Stock,DRG068,Medium,Current stock 39 < Buffer 66,2024-01-22,True
+AL0938,CL0009,Low_Stock,DRG083,Critical,Current stock 32 < Buffer 143,2021-02-26,True
+AL0939,CL0037,Low_Stock,DRG092,High,Current stock 15 < Buffer 96,2022-06-26,True
+AL0940,CL0046,Outbreak_Warning,DIS028,High,Geospatial cluster detected: 44 cases within 5km radius,2023-04-08,True
+AL0941,CL0025,Disease_Spike,DIS010,Medium,Cases increased 296% in 48 hours,2025-08-18,True
+AL0942,CL0038,Disease_Spike,DIS010,High,Cases increased 328% in 72 hours,2025-02-26,True
+AL0943,CL0031,Disease_Spike,DIS026,Medium,Cases increased 412% in 72 hours,2023-12-26,True
+AL0944,CL0033,Outbreak_Warning,DIS043,Medium,Geospatial cluster detected: 10 cases within 5km radius,2024-08-11,True
+AL0945,CL0012,Disease_Spike,DIS042,Medium,Cases increased 324% in 72 hours,2023-02-22,True
+AL0946,CL0023,Outbreak_Warning,DIS050,Critical,Geospatial cluster detected: 38 cases within 5km radius,2024-03-14,True
+AL0947,CL0049,Low_Stock,DRG046,High,Current stock 8 < Buffer 123,2024-08-13,True
+AL0948,CL0046,Disease_Spike,DIS039,Critical,Cases increased 236% in 48 hours,2022-12-07,True
+AL0949,CL0043,Outbreak_Warning,DIS015,High,Geospatial cluster detected: 36 cases within 5km radius,2025-02-14,True
+AL0950,CL0009,Disease_Spike,DIS043,High,Cases increased 417% in 72 hours,2025-02-14,True
+AL0951,CL0020,Outbreak_Warning,DIS026,High,Geospatial cluster detected: 40 cases within 5km radius,2025-06-23,True
+AL0952,CL0037,Outbreak_Warning,DIS025,High,Geospatial cluster detected: 37 cases within 5km radius,2021-08-07,True
+AL0953,CL0043,Outbreak_Warning,DIS028,Medium,Geospatial cluster detected: 11 cases within 5km radius,2025-11-02,True
+AL0954,CL0035,Outbreak_Warning,DIS042,Critical,Geospatial cluster detected: 37 cases within 5km radius,2022-07-02,False
+AL0955,CL0047,Disease_Spike,DIS028,Medium,Cases increased 437% in 24 hours,2025-07-18,True
+AL0956,CL0032,Low_Stock,DRG054,Medium,Current stock 35 < Buffer 69,2022-05-21,True
+AL0957,CL0003,Outbreak_Warning,DIS011,Critical,Geospatial cluster detected: 11 cases within 5km radius,2025-07-05,False
+AL0958,CL0044,Outbreak_Warning,DIS017,Medium,Geospatial cluster detected: 16 cases within 5km radius,2022-02-28,True
+AL0959,CL0006,Outbreak_Warning,DIS033,High,Geospatial cluster detected: 19 cases within 5km radius,2022-08-26,True
+AL0960,CL0004,Disease_Spike,DIS001,High,Cases increased 418% in 24 hours,2024-01-22,True
+AL0961,CL0025,Disease_Spike,DIS023,High,Cases increased 176% in 48 hours,2021-12-04,True
+AL0962,CL0009,Low_Stock,DRG086,Medium,Current stock 8 < Buffer 135,2025-12-01,True
+AL0963,CL0044,Disease_Spike,DIS036,Critical,Cases increased 497% in 72 hours,2024-12-12,True
+AL0964,CL0027,Outbreak_Warning,DIS049,Critical,Geospatial cluster detected: 49 cases within 5km radius,2023-03-27,True
+AL0965,CL0037,Disease_Spike,DIS010,Medium,Cases increased 474% in 48 hours,2025-02-10,True
+AL0966,CL0033,Disease_Spike,DIS030,Critical,Cases increased 238% in 24 hours,2024-11-22,True
+AL0967,CL0037,Low_Stock,DRG099,Medium,Current stock 21 < Buffer 60,2024-02-18,True
+AL0968,CL0017,Disease_Spike,DIS005,High,Cases increased 170% in 72 hours,2021-03-13,True
+AL0969,CL0015,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 45 cases within 5km radius,2023-02-13,True
+AL0970,CL0005,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 25 cases within 5km radius,2024-08-10,False
+AL0971,CL0007,Outbreak_Warning,DIS011,High,Geospatial cluster detected: 23 cases within 5km radius,2023-06-25,True
+AL0972,CL0006,Disease_Spike,DIS007,Critical,Cases increased 345% in 48 hours,2021-12-21,True
+AL0973,CL0029,Low_Stock,DRG054,High,Current stock 49 < Buffer 78,2025-08-03,True
+AL0974,CL0034,Disease_Spike,DIS002,Medium,Cases increased 186% in 24 hours,2025-10-11,True
+AL0975,CL0026,Low_Stock,DRG098,Medium,Current stock 6 < Buffer 103,2022-02-26,True
+AL0976,CL0017,Low_Stock,DRG037,Critical,Current stock 12 < Buffer 71,2021-02-13,True
+AL0977,CL0030,Disease_Spike,DIS040,High,Cases increased 294% in 24 hours,2023-07-13,True
+AL0978,CL0029,Disease_Spike,DIS028,Critical,Cases increased 454% in 24 hours,2024-02-11,True
+AL0979,CL0047,Outbreak_Warning,DIS042,Critical,Geospatial cluster detected: 29 cases within 5km radius,2022-04-25,False
+AL0980,CL0014,Low_Stock,DRG081,High,Current stock 45 < Buffer 86,2023-12-11,True
+AL0981,CL0035,Low_Stock,DRG025,Medium,Current stock 9 < Buffer 91,2022-02-05,True
+AL0982,CL0042,Low_Stock,DRG099,High,Current stock 40 < Buffer 64,2023-01-08,True
+AL0983,CL0026,Outbreak_Warning,DIS006,Critical,Geospatial cluster detected: 34 cases within 5km radius,2022-02-26,True
+AL0984,CL0044,Low_Stock,DRG071,Critical,Current stock 40 < Buffer 61,2021-02-28,True
+AL0985,CL0001,Outbreak_Warning,DIS021,Medium,Geospatial cluster detected: 38 cases within 5km radius,2023-02-05,False
+AL0986,CL0031,Outbreak_Warning,DIS027,Medium,Geospatial cluster detected: 49 cases within 5km radius,2023-08-23,False
+AL0987,CL0035,Disease_Spike,DIS003,Medium,Cases increased 366% in 72 hours,2022-08-09,True
+AL0988,CL0043,Low_Stock,DRG078,Medium,Current stock 6 < Buffer 90,2024-08-21,True
+AL0989,CL0017,Disease_Spike,DIS049,High,Cases increased 381% in 72 hours,2022-12-24,True
+AL0990,CL0039,Low_Stock,DRG015,Medium,Current stock 19 < Buffer 86,2024-01-26,True
+AL0991,CL0020,Low_Stock,DRG023,Medium,Current stock 48 < Buffer 66,2025-12-28,True
+AL0992,CL0021,Low_Stock,DRG001,High,Current stock 18 < Buffer 138,2023-01-22,True
+AL0993,CL0019,Disease_Spike,DIS043,Critical,Cases increased 295% in 24 hours,2024-08-15,True
+AL0994,CL0035,Low_Stock,DRG076,High,Current stock 44 < Buffer 96,2023-01-25,False
+AL0995,CL0001,Outbreak_Warning,DIS037,High,Geospatial cluster detected: 21 cases within 5km radius,2022-01-13,True
+AL0996,CL0017,Outbreak_Warning,DIS043,Critical,Geospatial cluster detected: 29 cases within 5km radius,2025-01-25,True
+AL0997,CL0008,Outbreak_Warning,DIS014,Medium,Geospatial cluster detected: 49 cases within 5km radius,2025-12-02,True
+AL0998,CL0010,Outbreak_Warning,DIS018,Medium,Geospatial cluster detected: 25 cases within 5km radius,2022-04-07,True
+AL0999,CL0045,Low_Stock,DRG010,Critical,Current stock 22 < Buffer 93,2023-06-15,True
+AL1000,CL0036,Disease_Spike,DIS005,Medium,Cases increased 276% in 24 hours,2023-08-08,True
+AL1001,CL0043,Low_Stock,DRG087,High,Current stock 21 < Buffer 101,2025-06-13,True
+AL1002,CL0030,Disease_Spike,DIS022,High,Cases increased 373% in 48 hours,2025-08-03,True
+AL1003,CL0049,Outbreak_Warning,DIS031,Medium,Geospatial cluster detected: 18 cases within 5km radius,2022-07-04,True
+AL1004,CL0005,Outbreak_Warning,DIS028,Medium,Geospatial cluster detected: 49 cases within 5km radius,2021-08-25,True
+AL1005,CL0024,Outbreak_Warning,DIS012,Critical,Geospatial cluster detected: 45 cases within 5km radius,2022-02-17,True
+AL1006,CL0040,Disease_Spike,DIS023,High,Cases increased 238% in 24 hours,2025-08-04,True
+AL1007,CL0048,Low_Stock,DRG025,High,Current stock 22 < Buffer 79,2024-06-19,True
+AL1008,CL0040,Outbreak_Warning,DIS048,Critical,Geospatial cluster detected: 18 cases within 5km radius,2022-05-07,True
+AL1009,CL0026,Disease_Spike,DIS007,Critical,Cases increased 374% in 72 hours,2024-09-17,True
+AL1010,CL0045,Disease_Spike,DIS024,Critical,Cases increased 422% in 48 hours,2025-12-20,True
+AL1011,CL0037,Disease_Spike,DIS014,Medium,Cases increased 267% in 24 hours,2021-07-12,True
+AL1012,CL0004,Outbreak_Warning,DIS013,Medium,Geospatial cluster detected: 19 cases within 5km radius,2022-02-08,True
+AL1013,CL0016,Outbreak_Warning,DIS014,Critical,Geospatial cluster detected: 15 cases within 5km radius,2023-06-04,True
+AL1014,CL0034,Low_Stock,DRG096,High,Current stock 20 < Buffer 146,2023-06-02,False
+AL1015,CL0007,Low_Stock,DRG064,High,Current stock 29 < Buffer 135,2022-11-14,True
+AL1016,CL0025,Low_Stock,DRG094,High,Current stock 45 < Buffer 73,2024-12-05,True
+AL1017,CL0038,Outbreak_Warning,DIS023,Medium,Geospatial cluster detected: 28 cases within 5km radius,2021-02-23,True
+AL1018,CL0040,Disease_Spike,DIS019,High,Cases increased 249% in 48 hours,2025-09-08,True
+AL1019,CL0002,Low_Stock,DRG074,Critical,Current stock 37 < Buffer 113,2023-05-14,True
+AL1020,CL0018,Disease_Spike,DIS040,Critical,Cases increased 273% in 24 hours,2024-07-12,False
+AL1021,CL0037,Disease_Spike,DIS046,Medium,Cases increased 267% in 24 hours,2025-01-20,True
+AL1022,CL0024,Low_Stock,DRG044,High,Current stock 40 < Buffer 96,2025-06-06,True
+AL1023,CL0036,Low_Stock,DRG072,Critical,Current stock 18 < Buffer 74,2022-07-21,True
+AL1024,CL0003,Low_Stock,DRG012,High,Current stock 11 < Buffer 94,2022-11-15,True
+AL1025,CL0003,Disease_Spike,DIS023,Medium,Cases increased 150% in 72 hours,2022-07-19,True
+AL1026,CL0025,Disease_Spike,DIS010,High,Cases increased 302% in 48 hours,2022-11-01,False
+AL1027,CL0022,Outbreak_Warning,DIS043,High,Geospatial cluster detected: 23 cases within 5km radius,2021-02-14,True
+AL1028,CL0047,Disease_Spike,DIS003,Medium,Cases increased 326% in 24 hours,2025-11-18,True
+AL1029,CL0044,Disease_Spike,DIS002,Medium,Cases increased 306% in 72 hours,2023-08-05,False
+AL1030,CL0027,Disease_Spike,DIS017,High,Cases increased 224% in 24 hours,2022-02-03,True
+AL1031,CL0023,Low_Stock,DRG016,Critical,Current stock 25 < Buffer 85,2025-12-14,True
+AL1032,CL0042,Outbreak_Warning,DIS034,Medium,Geospatial cluster detected: 41 cases within 5km radius,2022-01-18,True
+AL1033,CL0047,Outbreak_Warning,DIS021,High,Geospatial cluster detected: 50 cases within 5km radius,2022-04-19,True
+AL1034,CL0016,Disease_Spike,DIS035,Critical,Cases increased 326% in 72 hours,2021-07-11,False
+AL1035,CL0028,Disease_Spike,DIS033,Medium,Cases increased 341% in 48 hours,2022-07-15,True
+AL1036,CL0048,Disease_Spike,DIS004,Critical,Cases increased 244% in 72 hours,2024-07-08,True
+AL1037,CL0031,Low_Stock,DRG012,Critical,Current stock 48 < Buffer 67,2022-07-08,True
+AL1038,CL0008,Low_Stock,DRG012,Critical,Current stock 20 < Buffer 78,2021-06-24,True
+AL1039,CL0021,Outbreak_Warning,DIS016,High,Geospatial cluster detected: 46 cases within 5km radius,2023-09-11,True
+AL1040,CL0023,Low_Stock,DRG047,High,Current stock 11 < Buffer 76,2024-02-13,True
+AL1041,CL0011,Disease_Spike,DIS034,Critical,Cases increased 322% in 72 hours,2025-04-27,True
+AL1042,CL0013,Disease_Spike,DIS007,Critical,Cases increased 189% in 48 hours,2021-05-07,True
+AL1043,CL0044,Outbreak_Warning,DIS037,Medium,Geospatial cluster detected: 15 cases within 5km radius,2024-08-09,True
+AL1044,CL0034,Low_Stock,DRG052,Critical,Current stock 32 < Buffer 144,2023-05-14,True
+AL1045,CL0028,Outbreak_Warning,DIS038,Medium,Geospatial cluster detected: 10 cases within 5km radius,2022-02-18,False
+AL1046,CL0015,Low_Stock,DRG009,Medium,Current stock 15 < Buffer 61,2024-01-07,True
+AL1047,CL0004,Low_Stock,DRG030,High,Current stock 15 < Buffer 64,2023-03-08,True
+AL1048,CL0004,Outbreak_Warning,DIS005,Critical,Geospatial cluster detected: 17 cases within 5km radius,2023-07-26,True
+AL1049,CL0026,Low_Stock,DRG030,High,Current stock 27 < Buffer 126,2022-12-10,True
+AL1050,CL0031,Outbreak_Warning,DIS007,High,Geospatial cluster detected: 15 cases within 5km radius,2021-12-09,True
+AL1051,CL0023,Outbreak_Warning,DIS010,Critical,Geospatial cluster detected: 13 cases within 5km radius,2025-12-12,True
+AL1052,CL0023,Low_Stock,DRG036,Medium,Current stock 19 < Buffer 61,2024-08-28,True
+AL1053,CL0003,Outbreak_Warning,DIS044,Medium,Geospatial cluster detected: 19 cases within 5km radius,2025-04-11,True
+AL1054,CL0011,Outbreak_Warning,DIS036,Medium,Geospatial cluster detected: 19 cases within 5km radius,2024-01-06,True
+AL1055,CL0039,Disease_Spike,DIS048,Medium,Cases increased 276% in 48 hours,2023-06-25,True
+AL1056,CL0049,Outbreak_Warning,DIS006,High,Geospatial cluster detected: 39 cases within 5km radius,2021-08-18,False
+AL1057,CL0006,Low_Stock,DRG082,Critical,Current stock 14 < Buffer 83,2023-06-07,True
+AL1058,CL0031,Disease_Spike,DIS018,High,Cases increased 213% in 72 hours,2025-12-26,False
+AL1059,CL0002,Outbreak_Warning,DIS046,Critical,Geospatial cluster detected: 22 cases within 5km radius,2023-05-19,True
+AL1060,CL0024,Disease_Spike,DIS009,Critical,Cases increased 439% in 72 hours,2022-06-07,True
+AL1061,CL0009,Disease_Spike,DIS044,Medium,Cases increased 373% in 72 hours,2025-08-11,True
+AL1062,CL0039,Outbreak_Warning,DIS044,High,Geospatial cluster detected: 22 cases within 5km radius,2024-05-05,True
+AL1063,CL0049,Outbreak_Warning,DIS010,High,Geospatial cluster detected: 29 cases within 5km radius,2023-02-27,True
+AL1064,CL0048,Low_Stock,DRG047,High,Current stock 7 < Buffer 72,2024-03-07,True
+AL1065,CL0037,Disease_Spike,DIS046,Critical,Cases increased 367% in 72 hours,2024-08-25,True
+AL1066,CL0032,Disease_Spike,DIS020,High,Cases increased 409% in 24 hours,2022-04-15,True
+AL1067,CL0030,Disease_Spike,DIS033,Critical,Cases increased 154% in 48 hours,2023-07-17,True
+AL1068,CL0045,Outbreak_Warning,DIS042,High,Geospatial cluster detected: 21 cases within 5km radius,2021-07-24,True
+AL1069,CL0029,Disease_Spike,DIS047,Medium,Cases increased 325% in 24 hours,2021-06-25,True
+AL1070,CL0028,Low_Stock,DRG061,Critical,Current stock 33 < Buffer 103,2025-05-10,True
+AL1071,CL0045,Low_Stock,DRG035,Medium,Current stock 35 < Buffer 62,2025-02-24,True
+AL1072,CL0020,Low_Stock,DRG097,Medium,Current stock 22 < Buffer 85,2022-01-20,True
+AL1073,CL0040,Low_Stock,DRG065,High,Current stock 27 < Buffer 63,2024-04-08,True
+AL1074,CL0009,Low_Stock,DRG088,Critical,Current stock 48 < Buffer 63,2024-04-28,True
+AL1075,CL0045,Outbreak_Warning,DIS003,High,Geospatial cluster detected: 44 cases within 5km radius,2022-01-04,True
+AL1076,CL0020,Low_Stock,DRG058,High,Current stock 20 < Buffer 89,2022-08-05,True
+AL1077,CL0049,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 30 cases within 5km radius,2023-08-10,False
+AL1078,CL0014,Disease_Spike,DIS002,Critical,Cases increased 280% in 72 hours,2024-02-11,True
+AL1079,CL0042,Low_Stock,DRG064,Critical,Current stock 10 < Buffer 65,2025-02-23,True
+AL1080,CL0041,Low_Stock,DRG015,High,Current stock 33 < Buffer 63,2021-02-01,True
+AL1081,CL0048,Disease_Spike,DIS025,Critical,Cases increased 165% in 72 hours,2022-02-01,True
+AL1082,CL0047,Low_Stock,DRG039,High,Current stock 29 < Buffer 93,2024-06-14,True
+AL1083,CL0033,Low_Stock,DRG081,High,Current stock 20 < Buffer 120,2023-01-02,True
+AL1084,CL0043,Disease_Spike,DIS005,High,Cases increased 192% in 48 hours,2024-06-16,True
+AL1085,CL0021,Low_Stock,DRG051,Medium,Current stock 8 < Buffer 119,2021-06-06,True
+AL1086,CL0042,Disease_Spike,DIS050,Medium,Cases increased 290% in 72 hours,2021-06-26,True
+AL1087,CL0028,Low_Stock,DRG033,High,Current stock 47 < Buffer 128,2024-02-21,True
+AL1088,CL0037,Disease_Spike,DIS001,Critical,Cases increased 219% in 72 hours,2025-07-09,True
+AL1089,CL0005,Disease_Spike,DIS028,Critical,Cases increased 498% in 24 hours,2025-02-11,True
+AL1090,CL0001,Low_Stock,DRG008,Critical,Current stock 43 < Buffer 118,2024-06-23,True
+AL1091,CL0024,Disease_Spike,DIS025,Medium,Cases increased 480% in 24 hours,2023-02-04,True
+AL1092,CL0029,Outbreak_Warning,DIS039,Medium,Geospatial cluster detected: 20 cases within 5km radius,2022-02-24,True
+AL1093,CL0022,Disease_Spike,DIS047,High,Cases increased 477% in 72 hours,2023-08-28,True
+AL1094,CL0021,Disease_Spike,DIS041,Critical,Cases increased 189% in 48 hours,2023-08-22,True
+AL1095,CL0006,Outbreak_Warning,DIS033,Medium,Geospatial cluster detected: 50 cases within 5km radius,2025-07-27,True
+AL1096,CL0039,Disease_Spike,DIS030,Medium,Cases increased 469% in 72 hours,2023-01-03,True
+AL1097,CL0006,Outbreak_Warning,DIS028,Critical,Geospatial cluster detected: 19 cases within 5km radius,2025-02-17,True
+AL1098,CL0007,Low_Stock,DRG092,Medium,Current stock 40 < Buffer 88,2021-02-18,True
+AL1099,CL0031,Disease_Spike,DIS011,High,Cases increased 339% in 24 hours,2025-03-04,True
+AL1100,CL0026,Low_Stock,DRG091,Critical,Current stock 41 < Buffer 112,2025-08-05,True
+AL1101,CL0039,Low_Stock,DRG098,High,Current stock 44 < Buffer 103,2024-06-07,True
+AL1102,CL0034,Outbreak_Warning,DIS035,Medium,Geospatial cluster detected: 18 cases within 5km radius,2023-07-22,False
+AL1103,CL0028,Low_Stock,DRG021,Medium,Current stock 41 < Buffer 115,2025-12-20,True
+AL1104,CL0006,Outbreak_Warning,DIS030,High,Geospatial cluster detected: 49 cases within 5km radius,2024-08-17,True
+AL1105,CL0026,Low_Stock,DRG008,High,Current stock 37 < Buffer 105,2021-11-10,True
+AL1106,CL0025,Low_Stock,DRG042,High,Current stock 41 < Buffer 90,2023-01-12,True
+AL1107,CL0013,Disease_Spike,DIS013,Medium,Cases increased 335% in 48 hours,2025-08-03,True
+AL1108,CL0003,Disease_Spike,DIS050,Medium,Cases increased 468% in 72 hours,2023-12-08,True
+AL1109,CL0046,Low_Stock,DRG033,Medium,Current stock 17 < Buffer 67,2023-02-01,True
+AL1110,CL0028,Outbreak_Warning,DIS020,Critical,Geospatial cluster detected: 49 cases within 5km radius,2022-03-01,True
+AL1111,CL0042,Disease_Spike,DIS010,Critical,Cases increased 361% in 48 hours,2021-02-10,True
+AL1112,CL0001,Disease_Spike,DIS013,Medium,Cases increased 466% in 72 hours,2023-08-25,True
+AL1113,CL0036,Low_Stock,DRG010,Medium,Current stock 32 < Buffer 139,2023-07-06,True
+AL1114,CL0035,Low_Stock,DRG068,Medium,Current stock 21 < Buffer 61,2022-08-23,True
+AL1115,CL0008,Disease_Spike,DIS028,High,Cases increased 359% in 48 hours,2021-12-20,True
+AL1116,CL0037,Disease_Spike,DIS040,Critical,Cases increased 421% in 48 hours,2025-01-15,True
+AL1117,CL0012,Disease_Spike,DIS047,High,Cases increased 442% in 72 hours,2024-03-01,True
+AL1118,CL0028,Low_Stock,DRG074,Medium,Current stock 16 < Buffer 71,2022-03-20,True
+AL1119,CL0036,Outbreak_Warning,DIS050,Critical,Geospatial cluster detected: 22 cases within 5km radius,2024-06-26,True
+AL1120,CL0016,Low_Stock,DRG029,Critical,Current stock 6 < Buffer 71,2023-12-08,True
+AL1121,CL0010,Disease_Spike,DIS046,High,Cases increased 187% in 48 hours,2022-02-08,True
+AL1122,CL0008,Outbreak_Warning,DIS044,High,Geospatial cluster detected: 20 cases within 5km radius,2025-07-23,False
+AL1123,CL0029,Outbreak_Warning,DIS010,Critical,Geospatial cluster detected: 29 cases within 5km radius,2021-07-23,True
+AL1124,CL0031,Low_Stock,DRG070,Critical,Current stock 46 < Buffer 63,2024-06-17,True
+AL1125,CL0009,Outbreak_Warning,DIS023,Medium,Geospatial cluster detected: 19 cases within 5km radius,2023-06-18,True
+AL1126,CL0001,Disease_Spike,DIS036,High,Cases increased 457% in 72 hours,2025-08-12,True
+AL1127,CL0049,Low_Stock,DRG026,Medium,Current stock 15 < Buffer 75,2025-08-02,True
+AL1128,CL0030,Disease_Spike,DIS007,Critical,Cases increased 412% in 72 hours,2022-12-19,True
+AL1129,CL0005,Disease_Spike,DIS005,High,Cases increased 304% in 72 hours,2023-07-22,True
+AL1130,CL0023,Disease_Spike,DIS049,Medium,Cases increased 227% in 72 hours,2024-11-26,True
+AL1131,CL0002,Low_Stock,DRG095,Medium,Current stock 6 < Buffer 123,2022-05-11,True
+AL1132,CL0041,Outbreak_Warning,DIS016,Critical,Geospatial cluster detected: 30 cases within 5km radius,2021-05-16,False
+AL1133,CL0004,Disease_Spike,DIS046,Critical,Cases increased 342% in 24 hours,2023-12-16,True
+AL1134,CL0003,Disease_Spike,DIS043,Medium,Cases increased 188% in 48 hours,2022-12-23,True
+AL1135,CL0041,Outbreak_Warning,DIS019,Medium,Geospatial cluster detected: 46 cases within 5km radius,2021-01-24,True
+AL1136,CL0001,Disease_Spike,DIS006,Critical,Cases increased 372% in 24 hours,2023-02-05,True
+AL1137,CL0038,Outbreak_Warning,DIS033,High,Geospatial cluster detected: 48 cases within 5km radius,2024-08-27,False
+AL1138,CL0050,Disease_Spike,DIS040,High,Cases increased 451% in 24 hours,2023-08-14,False
+AL1139,CL0011,Outbreak_Warning,DIS021,High,Geospatial cluster detected: 43 cases within 5km radius,2021-02-23,True
+AL1140,CL0041,Disease_Spike,DIS039,Critical,Cases increased 317% in 24 hours,2022-06-28,True
+AL1141,CL0014,Disease_Spike,DIS037,Critical,Cases increased 150% in 72 hours,2022-10-10,True
+AL1142,CL0013,Low_Stock,DRG046,Critical,Current stock 38 < Buffer 129,2024-02-02,True
+AL1143,CL0001,Outbreak_Warning,DIS027,Medium,Geospatial cluster detected: 13 cases within 5km radius,2021-02-14,True
+AL1144,CL0010,Outbreak_Warning,DIS035,Medium,Geospatial cluster detected: 33 cases within 5km radius,2023-01-26,True
+AL1145,CL0002,Low_Stock,DRG009,High,Current stock 8 < Buffer 124,2025-10-14,True
+AL1146,CL0049,Disease_Spike,DIS037,Medium,Cases increased 355% in 24 hours,2025-02-04,True
+AL1147,CL0034,Disease_Spike,DIS023,Critical,Cases increased 499% in 72 hours,2022-01-14,True
+AL1148,CL0013,Outbreak_Warning,DIS003,Medium,Geospatial cluster detected: 35 cases within 5km radius,2023-08-23,True
+AL1149,CL0008,Disease_Spike,DIS010,High,Cases increased 179% in 48 hours,2022-01-02,True
+AL1150,CL0005,Outbreak_Warning,DIS034,Medium,Geospatial cluster detected: 21 cases within 5km radius,2024-08-20,True
+AL1151,CL0005,Disease_Spike,DIS010,Medium,Cases increased 242% in 48 hours,2024-12-08,False
+AL1152,CL0015,Outbreak_Warning,DIS045,High,Geospatial cluster detected: 23 cases within 5km radius,2022-08-23,True
+AL1153,CL0026,Outbreak_Warning,DIS050,Critical,Geospatial cluster detected: 50 cases within 5km radius,2025-08-27,False
+AL1154,CL0033,Outbreak_Warning,DIS050,Critical,Geospatial cluster detected: 41 cases within 5km radius,2022-01-21,True
+AL1155,CL0014,Low_Stock,DRG050,Medium,Current stock 45 < Buffer 112,2024-06-24,True
+AL1156,CL0040,Disease_Spike,DIS016,High,Cases increased 410% in 72 hours,2021-04-10,True
+AL1157,CL0034,Outbreak_Warning,DIS016,Medium,Geospatial cluster detected: 18 cases within 5km radius,2023-02-07,True
+AL1158,CL0043,Disease_Spike,DIS030,Medium,Cases increased 382% in 72 hours,2023-06-28,True
+AL1159,CL0029,Disease_Spike,DIS025,Critical,Cases increased 378% in 48 hours,2022-01-27,False
+AL1160,CL0022,Disease_Spike,DIS012,High,Cases increased 302% in 72 hours,2024-12-14,True
+AL1161,CL0037,Low_Stock,DRG066,Critical,Current stock 23 < Buffer 76,2023-08-18,True
+AL1162,CL0002,Disease_Spike,DIS027,Medium,Cases increased 331% in 48 hours,2023-01-21,True
+AL1163,CL0046,Disease_Spike,DIS030,Critical,Cases increased 472% in 24 hours,2023-08-12,True
+AL1164,CL0045,Outbreak_Warning,DIS013,Medium,Geospatial cluster detected: 27 cases within 5km radius,2025-01-24,True
+AL1165,CL0020,Disease_Spike,DIS005,Critical,Cases increased 275% in 24 hours,2025-05-17,True
+AL1166,CL0001,Low_Stock,DRG078,Critical,Current stock 17 < Buffer 115,2021-08-18,True
+AL1167,CL0001,Disease_Spike,DIS037,Critical,Cases increased 285% in 72 hours,2024-02-07,True
+AL1168,CL0038,Disease_Spike,DIS048,Critical,Cases increased 302% in 48 hours,2021-07-01,True
+AL1169,CL0036,Outbreak_Warning,DIS018,Critical,Geospatial cluster detected: 23 cases within 5km radius,2024-07-09,True
+AL1170,CL0022,Outbreak_Warning,DIS022,Critical,Geospatial cluster detected: 23 cases within 5km radius,2021-02-02,False
+AL1171,CL0013,Disease_Spike,DIS015,Critical,Cases increased 382% in 48 hours,2023-07-21,True
+AL1172,CL0022,Outbreak_Warning,DIS041,Critical,Geospatial cluster detected: 12 cases within 5km radius,2023-12-13,True
+AL1173,CL0011,Outbreak_Warning,DIS049,Critical,Geospatial cluster detected: 40 cases within 5km radius,2024-06-27,True
+AL1174,CL0025,Low_Stock,DRG100,High,Current stock 10 < Buffer 123,2024-09-21,True
+AL1175,CL0047,Low_Stock,DRG099,High,Current stock 48 < Buffer 105,2023-01-28,True
+AL1176,CL0010,Outbreak_Warning,DIS036,Critical,Geospatial cluster detected: 31 cases within 5km radius,2022-08-14,True
+AL1177,CL0044,Low_Stock,DRG089,Critical,Current stock 49 < Buffer 120,2021-02-07,False
+AL1178,CL0009,Low_Stock,DRG002,Critical,Current stock 46 < Buffer 121,2023-02-02,True
+AL1179,CL0020,Disease_Spike,DIS047,Medium,Cases increased 403% in 48 hours,2024-12-15,True
+AL1180,CL0010,Outbreak_Warning,DIS042,Medium,Geospatial cluster detected: 19 cases within 5km radius,2022-06-15,False
+AL1181,CL0035,Outbreak_Warning,DIS045,Critical,Geospatial cluster detected: 19 cases within 5km radius,2023-12-04,True
+AL1182,CL0004,Disease_Spike,DIS008,Critical,Cases increased 479% in 72 hours,2022-06-23,True
+AL1183,CL0050,Low_Stock,DRG079,High,Current stock 45 < Buffer 71,2022-06-12,True
+AL1184,CL0029,Disease_Spike,DIS006,High,Cases increased 351% in 24 hours,2023-02-11,True
+AL1185,CL0026,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 10 cases within 5km radius,2025-06-17,True
+AL1186,CL0007,Low_Stock,DRG065,High,Current stock 46 < Buffer 72,2023-07-20,True
+AL1187,CL0018,Disease_Spike,DIS021,High,Cases increased 258% in 48 hours,2025-08-02,True
+AL1188,CL0006,Low_Stock,DRG014,High,Current stock 29 < Buffer 112,2021-06-18,True
+AL1189,CL0016,Low_Stock,DRG091,Medium,Current stock 28 < Buffer 122,2023-03-15,True
+AL1190,CL0026,Disease_Spike,DIS015,High,Cases increased 239% in 24 hours,2021-01-10,True
+AL1191,CL0012,Disease_Spike,DIS032,Medium,Cases increased 483% in 72 hours,2025-01-02,True
+AL1192,CL0012,Disease_Spike,DIS005,Critical,Cases increased 297% in 48 hours,2021-01-27,False
+AL1193,CL0027,Disease_Spike,DIS042,Medium,Cases increased 260% in 48 hours,2023-07-19,True
+AL1194,CL0017,Low_Stock,DRG064,High,Current stock 12 < Buffer 150,2025-08-02,True
+AL1195,CL0028,Disease_Spike,DIS039,High,Cases increased 423% in 24 hours,2024-06-06,True
+AL1196,CL0033,Outbreak_Warning,DIS019,Critical,Geospatial cluster detected: 15 cases within 5km radius,2023-07-07,False
+AL1197,CL0021,Disease_Spike,DIS033,High,Cases increased 426% in 48 hours,2025-07-21,True
+AL1198,CL0044,Disease_Spike,DIS006,High,Cases increased 481% in 24 hours,2025-06-04,True
+AL1199,CL0006,Outbreak_Warning,DIS012,Critical,Geospatial cluster detected: 34 cases within 5km radius,2022-02-09,True
+AL1200,CL0014,Low_Stock,DRG023,Critical,Current stock 27 < Buffer 64,2023-02-22,True
+AL1201,CL0046,Disease_Spike,DIS030,Critical,Cases increased 361% in 48 hours,2024-11-16,True
+AL1202,CL0038,Low_Stock,DRG014,Critical,Current stock 37 < Buffer 68,2021-12-03,True
+AL1203,CL0022,Low_Stock,DRG088,Critical,Current stock 5 < Buffer 121,2023-12-06,True
+AL1204,CL0034,Disease_Spike,DIS047,Medium,Cases increased 358% in 48 hours,2023-08-02,False
+AL1205,CL0018,Low_Stock,DRG013,High,Current stock 40 < Buffer 123,2021-02-02,True
+AL1206,CL0008,Disease_Spike,DIS044,High,Cases increased 407% in 24 hours,2025-02-04,True
+AL1207,CL0031,Low_Stock,DRG007,Critical,Current stock 7 < Buffer 61,2021-07-10,True
+AL1208,CL0035,Disease_Spike,DIS035,High,Cases increased 322% in 48 hours,2023-08-01,True
+AL1209,CL0049,Outbreak_Warning,DIS023,Critical,Geospatial cluster detected: 50 cases within 5km radius,2021-08-28,True
+AL1210,CL0050,Disease_Spike,DIS024,High,Cases increased 468% in 72 hours,2024-08-07,True
+AL1211,CL0028,Disease_Spike,DIS018,Critical,Cases increased 204% in 24 hours,2021-06-27,True
+AL1212,CL0015,Disease_Spike,DIS035,High,Cases increased 325% in 48 hours,2025-07-11,True
+AL1213,CL0046,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 48 cases within 5km radius,2022-06-09,True
+AL1214,CL0030,Outbreak_Warning,DIS007,Medium,Geospatial cluster detected: 46 cases within 5km radius,2024-01-19,True
+AL1215,CL0043,Low_Stock,DRG066,Medium,Current stock 49 < Buffer 81,2025-08-16,True
+AL1216,CL0011,Disease_Spike,DIS050,Medium,Cases increased 419% in 72 hours,2024-07-15,True
+AL1217,CL0028,Disease_Spike,DIS025,Critical,Cases increased 157% in 48 hours,2022-08-25,True
+AL1218,CL0024,Disease_Spike,DIS018,Critical,Cases increased 351% in 72 hours,2021-01-09,True
+AL1219,CL0020,Outbreak_Warning,DIS048,High,Geospatial cluster detected: 48 cases within 5km radius,2021-06-03,True
+AL1220,CL0046,Outbreak_Warning,DIS031,Medium,Geospatial cluster detected: 10 cases within 5km radius,2024-06-13,True
+AL1221,CL0031,Low_Stock,DRG025,High,Current stock 17 < Buffer 82,2023-12-17,False
+AL1222,CL0039,Disease_Spike,DIS047,Medium,Cases increased 294% in 72 hours,2022-07-13,True
+AL1223,CL0011,Disease_Spike,DIS027,Critical,Cases increased 258% in 48 hours,2024-12-12,True
+AL1224,CL0007,Disease_Spike,DIS007,Medium,Cases increased 212% in 24 hours,2023-07-11,True
+AL1225,CL0040,Disease_Spike,DIS025,High,Cases increased 286% in 72 hours,2022-06-05,True
+AL1226,CL0037,Low_Stock,DRG034,Critical,Current stock 46 < Buffer 60,2023-02-14,False
+AL1227,CL0040,Disease_Spike,DIS028,Medium,Cases increased 195% in 48 hours,2023-03-15,True
+AL1228,CL0023,Outbreak_Warning,DIS037,High,Geospatial cluster detected: 30 cases within 5km radius,2023-02-16,True
+AL1229,CL0038,Outbreak_Warning,DIS006,Critical,Geospatial cluster detected: 23 cases within 5km radius,2021-02-18,True
+AL1230,CL0049,Outbreak_Warning,DIS037,High,Geospatial cluster detected: 38 cases within 5km radius,2024-08-08,True
+AL1231,CL0044,Low_Stock,DRG097,High,Current stock 42 < Buffer 100,2023-06-07,True
+AL1232,CL0005,Outbreak_Warning,DIS042,High,Geospatial cluster detected: 22 cases within 5km radius,2021-06-10,True
+AL1233,CL0015,Outbreak_Warning,DIS028,Critical,Geospatial cluster detected: 19 cases within 5km radius,2022-06-19,True
+AL1234,CL0023,Low_Stock,DRG086,High,Current stock 32 < Buffer 104,2023-01-15,True
+AL1235,CL0002,Low_Stock,DRG008,Critical,Current stock 8 < Buffer 65,2022-01-13,True
+AL1236,CL0010,Disease_Spike,DIS013,High,Cases increased 185% in 24 hours,2025-12-13,True
+AL1237,CL0026,Outbreak_Warning,DIS007,Critical,Geospatial cluster detected: 40 cases within 5km radius,2023-12-28,True
+AL1238,CL0026,Outbreak_Warning,DIS033,High,Geospatial cluster detected: 38 cases within 5km radius,2022-06-17,False
+AL1239,CL0047,Low_Stock,DRG018,Critical,Current stock 46 < Buffer 77,2022-08-06,True
+AL1240,CL0002,Outbreak_Warning,DIS044,Critical,Geospatial cluster detected: 19 cases within 5km radius,2022-07-08,True
+AL1241,CL0043,Disease_Spike,DIS020,Medium,Cases increased 373% in 48 hours,2022-12-20,True
+AL1242,CL0027,Low_Stock,DRG068,Critical,Current stock 11 < Buffer 129,2021-01-20,True
+AL1243,CL0046,Disease_Spike,DIS022,Critical,Cases increased 217% in 72 hours,2022-07-12,True
+AL1244,CL0010,Disease_Spike,DIS049,Medium,Cases increased 300% in 72 hours,2025-06-16,True
+AL1245,CL0035,Low_Stock,DRG060,Medium,Current stock 39 < Buffer 149,2025-02-16,True
+AL1246,CL0044,Low_Stock,DRG036,Critical,Current stock 37 < Buffer 125,2024-06-23,True
+AL1247,CL0019,Disease_Spike,DIS035,Medium,Cases increased 316% in 24 hours,2023-02-09,True
+AL1248,CL0034,Disease_Spike,DIS003,Critical,Cases increased 267% in 24 hours,2022-10-15,True
+AL1249,CL0006,Disease_Spike,DIS016,Medium,Cases increased 364% in 48 hours,2022-06-09,True
+AL1250,CL0041,Low_Stock,DRG072,High,Current stock 13 < Buffer 60,2024-12-12,True
+AL1251,CL0024,Low_Stock,DRG052,Critical,Current stock 11 < Buffer 146,2024-12-02,True
+AL1252,CL0028,Low_Stock,DRG085,High,Current stock 32 < Buffer 112,2022-08-20,True
+AL1253,CL0038,Outbreak_Warning,DIS028,Critical,Geospatial cluster detected: 25 cases within 5km radius,2021-06-27,True
+AL1254,CL0005,Outbreak_Warning,DIS025,Critical,Geospatial cluster detected: 12 cases within 5km radius,2024-07-05,True
+AL1255,CL0042,Disease_Spike,DIS017,Critical,Cases increased 157% in 72 hours,2023-01-02,True
+AL1256,CL0012,Disease_Spike,DIS028,High,Cases increased 333% in 72 hours,2024-08-16,True
+AL1257,CL0021,Outbreak_Warning,DIS005,High,Geospatial cluster detected: 30 cases within 5km radius,2024-06-11,True
+AL1258,CL0034,Low_Stock,DRG083,Medium,Current stock 6 < Buffer 143,2021-06-03,True
+AL1259,CL0008,Disease_Spike,DIS043,Medium,Cases increased 413% in 24 hours,2024-01-20,True
+AL1260,CL0050,Disease_Spike,DIS024,Medium,Cases increased 246% in 72 hours,2022-01-18,False
+AL1261,CL0016,Disease_Spike,DIS020,Medium,Cases increased 219% in 72 hours,2022-08-18,True
+AL1262,CL0043,Low_Stock,DRG033,Medium,Current stock 6 < Buffer 94,2025-12-01,True
+AL1263,CL0029,Disease_Spike,DIS016,High,Cases increased 268% in 48 hours,2022-12-14,False
+AL1264,CL0003,Disease_Spike,DIS024,Critical,Cases increased 375% in 72 hours,2025-12-02,True
+AL1265,CL0035,Low_Stock,DRG046,Medium,Current stock 33 < Buffer 137,2022-01-06,False
+AL1266,CL0017,Outbreak_Warning,DIS026,High,Geospatial cluster detected: 17 cases within 5km radius,2024-06-19,True
+AL1267,CL0025,Low_Stock,DRG078,High,Current stock 47 < Buffer 149,2024-02-17,True
+AL1268,CL0048,Low_Stock,DRG047,Medium,Current stock 35 < Buffer 109,2025-08-27,True
+AL1269,CL0026,Outbreak_Warning,DIS040,Critical,Geospatial cluster detected: 31 cases within 5km radius,2024-01-25,False
+AL1270,CL0013,Disease_Spike,DIS047,Critical,Cases increased 194% in 72 hours,2023-04-09,True
+AL1271,CL0019,Disease_Spike,DIS043,Medium,Cases increased 155% in 48 hours,2023-06-06,False
+AL1272,CL0039,Disease_Spike,DIS030,Critical,Cases increased 387% in 48 hours,2021-01-14,True
+AL1273,CL0007,Low_Stock,DRG055,Medium,Current stock 33 < Buffer 95,2021-12-04,True
+AL1274,CL0020,Disease_Spike,DIS026,High,Cases increased 262% in 72 hours,2022-03-23,False
+AL1275,CL0027,Disease_Spike,DIS020,High,Cases increased 154% in 48 hours,2022-06-17,True
+AL1276,CL0040,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 28 cases within 5km radius,2025-12-10,True
+AL1277,CL0045,Disease_Spike,DIS038,Medium,Cases increased 178% in 48 hours,2021-06-23,True
+AL1278,CL0026,Low_Stock,DRG020,Critical,Current stock 44 < Buffer 150,2025-12-19,True
+AL1279,CL0029,Outbreak_Warning,DIS028,High,Geospatial cluster detected: 17 cases within 5km radius,2024-07-08,True
+AL1280,CL0010,Outbreak_Warning,DIS020,Medium,Geospatial cluster detected: 49 cases within 5km radius,2021-05-01,False
+AL1281,CL0028,Outbreak_Warning,DIS002,Critical,Geospatial cluster detected: 14 cases within 5km radius,2021-08-27,True
+AL1282,CL0023,Outbreak_Warning,DIS024,Medium,Geospatial cluster detected: 28 cases within 5km radius,2024-08-15,True
+AL1283,CL0015,Disease_Spike,DIS011,Medium,Cases increased 181% in 24 hours,2025-07-18,True
+AL1284,CL0005,Low_Stock,DRG088,Critical,Current stock 22 < Buffer 115,2024-07-19,True
+AL1285,CL0015,Outbreak_Warning,DIS026,Medium,Geospatial cluster detected: 13 cases within 5km radius,2024-06-04,True
+AL1286,CL0006,Disease_Spike,DIS045,Medium,Cases increased 455% in 24 hours,2021-12-19,True
+AL1287,CL0043,Low_Stock,DRG044,High,Current stock 32 < Buffer 61,2021-05-28,True
+AL1288,CL0029,Low_Stock,DRG037,Medium,Current stock 39 < Buffer 136,2021-08-01,True
+AL1289,CL0012,Outbreak_Warning,DIS027,Critical,Geospatial cluster detected: 28 cases within 5km radius,2025-06-17,True
+AL1290,CL0001,Low_Stock,DRG002,Medium,Current stock 22 < Buffer 108,2024-06-10,True
+AL1291,CL0014,Disease_Spike,DIS046,Medium,Cases increased 220% in 48 hours,2022-08-19,True
+AL1292,CL0035,Disease_Spike,DIS028,High,Cases increased 451% in 24 hours,2025-02-25,True
+AL1293,CL0030,Outbreak_Warning,DIS037,Medium,Geospatial cluster detected: 18 cases within 5km radius,2022-12-16,True
+AL1294,CL0008,Disease_Spike,DIS006,High,Cases increased 426% in 72 hours,2025-01-09,True
+AL1295,CL0034,Disease_Spike,DIS045,Medium,Cases increased 476% in 24 hours,2023-07-24,True
+AL1296,CL0022,Disease_Spike,DIS002,High,Cases increased 384% in 24 hours,2022-06-28,True
+AL1297,CL0034,Disease_Spike,DIS016,Critical,Cases increased 424% in 72 hours,2022-12-16,True
+AL1298,CL0023,Low_Stock,DRG010,High,Current stock 5 < Buffer 106,2025-09-19,True
+AL1299,CL0049,Outbreak_Warning,DIS003,Medium,Geospatial cluster detected: 38 cases within 5km radius,2024-01-20,True
+AL1300,CL0019,Disease_Spike,DIS006,High,Cases increased 329% in 72 hours,2021-05-06,True
+AL1301,CL0023,Outbreak_Warning,DIS038,Medium,Geospatial cluster detected: 29 cases within 5km radius,2025-02-14,True
+AL1302,CL0044,Outbreak_Warning,DIS018,Critical,Geospatial cluster detected: 30 cases within 5km radius,2024-06-26,True
+AL1303,CL0040,Outbreak_Warning,DIS029,Critical,Geospatial cluster detected: 10 cases within 5km radius,2025-12-24,True
+AL1304,CL0033,Low_Stock,DRG088,Medium,Current stock 12 < Buffer 140,2022-07-01,True
+AL1305,CL0017,Outbreak_Warning,DIS040,Critical,Geospatial cluster detected: 12 cases within 5km radius,2023-06-26,True
+AL1306,CL0050,Low_Stock,DRG065,Medium,Current stock 43 < Buffer 121,2021-01-07,True
+AL1307,CL0008,Low_Stock,DRG037,High,Current stock 26 < Buffer 113,2023-09-24,True
+AL1308,CL0024,Disease_Spike,DIS044,Critical,Cases increased 179% in 48 hours,2024-08-03,True
+AL1309,CL0020,Disease_Spike,DIS005,Critical,Cases increased 189% in 48 hours,2023-12-20,True
+AL1310,CL0025,Disease_Spike,DIS020,Critical,Cases increased 156% in 48 hours,2023-01-07,True
+AL1311,CL0014,Disease_Spike,DIS023,Medium,Cases increased 218% in 72 hours,2021-01-07,True
+AL1312,CL0050,Low_Stock,DRG082,Critical,Current stock 30 < Buffer 132,2024-06-13,False
+AL1313,CL0031,Disease_Spike,DIS015,High,Cases increased 340% in 72 hours,2024-10-17,False
+AL1314,CL0020,Disease_Spike,DIS025,High,Cases increased 192% in 72 hours,2024-06-03,True
+AL1315,CL0038,Outbreak_Warning,DIS005,Critical,Geospatial cluster detected: 43 cases within 5km radius,2023-12-21,False
+AL1316,CL0049,Low_Stock,DRG099,Medium,Current stock 34 < Buffer 111,2021-02-13,True
+AL1317,CL0039,Disease_Spike,DIS031,Medium,Cases increased 345% in 72 hours,2023-06-25,True
+AL1318,CL0030,Disease_Spike,DIS005,Critical,Cases increased 249% in 24 hours,2025-01-26,True
+AL1319,CL0027,Disease_Spike,DIS048,High,Cases increased 315% in 72 hours,2021-01-19,True
+AL1320,CL0007,Low_Stock,DRG071,Critical,Current stock 9 < Buffer 104,2021-06-12,True
+AL1321,CL0024,Outbreak_Warning,DIS016,Critical,Geospatial cluster detected: 22 cases within 5km radius,2025-10-28,True
+AL1322,CL0034,Disease_Spike,DIS006,High,Cases increased 314% in 24 hours,2021-06-09,True
+AL1323,CL0001,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 43 cases within 5km radius,2021-03-07,True
+AL1324,CL0028,Low_Stock,DRG043,High,Current stock 48 < Buffer 68,2025-06-26,True
+AL1325,CL0029,Disease_Spike,DIS023,High,Cases increased 168% in 24 hours,2021-04-17,True
+AL1326,CL0045,Disease_Spike,DIS045,Critical,Cases increased 302% in 48 hours,2021-06-20,True
+AL1327,CL0036,Outbreak_Warning,DIS034,Critical,Geospatial cluster detected: 12 cases within 5km radius,2022-07-28,True
+AL1328,CL0029,Outbreak_Warning,DIS013,Medium,Geospatial cluster detected: 31 cases within 5km radius,2023-01-08,True
+AL1329,CL0039,Low_Stock,DRG035,High,Current stock 15 < Buffer 81,2024-01-13,True
+AL1330,CL0006,Outbreak_Warning,DIS003,Critical,Geospatial cluster detected: 11 cases within 5km radius,2025-08-19,True
+AL1331,CL0026,Low_Stock,DRG039,Critical,Current stock 34 < Buffer 121,2024-08-11,True
+AL1332,CL0036,Disease_Spike,DIS040,Medium,Cases increased 220% in 24 hours,2024-01-02,True
+AL1333,CL0046,Disease_Spike,DIS003,High,Cases increased 447% in 72 hours,2022-01-13,True
+AL1334,CL0028,Disease_Spike,DIS029,Medium,Cases increased 177% in 48 hours,2025-07-25,True
+AL1335,CL0032,Outbreak_Warning,DIS002,Medium,Geospatial cluster detected: 17 cases within 5km radius,2022-06-02,True
+AL1336,CL0002,Outbreak_Warning,DIS049,High,Geospatial cluster detected: 35 cases within 5km radius,2021-09-23,True
+AL1337,CL0041,Disease_Spike,DIS038,High,Cases increased 198% in 48 hours,2024-06-19,True
+AL1338,CL0048,Outbreak_Warning,DIS043,Critical,Geospatial cluster detected: 19 cases within 5km radius,2024-02-15,True
+AL1339,CL0039,Outbreak_Warning,DIS040,Critical,Geospatial cluster detected: 33 cases within 5km radius,2021-01-24,True
+AL1340,CL0044,Disease_Spike,DIS046,Medium,Cases increased 197% in 48 hours,2025-01-08,True
+AL1341,CL0038,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 21 cases within 5km radius,2022-12-01,True
+AL1342,CL0023,Disease_Spike,DIS028,Medium,Cases increased 224% in 72 hours,2023-07-24,True
+AL1343,CL0019,Low_Stock,DRG057,Critical,Current stock 47 < Buffer 122,2021-12-18,True
+AL1344,CL0048,Low_Stock,DRG077,Critical,Current stock 32 < Buffer 108,2023-01-01,True
+AL1345,CL0025,Low_Stock,DRG079,High,Current stock 35 < Buffer 146,2023-06-27,True
+AL1346,CL0012,Disease_Spike,DIS015,Critical,Cases increased 161% in 72 hours,2022-07-11,True
+AL1347,CL0010,Disease_Spike,DIS008,High,Cases increased 400% in 48 hours,2025-08-12,True
+AL1348,CL0043,Disease_Spike,DIS024,Critical,Cases increased 391% in 48 hours,2025-07-01,True
+AL1349,CL0042,Low_Stock,DRG076,Critical,Current stock 18 < Buffer 105,2021-07-10,True
+AL1350,CL0015,Disease_Spike,DIS015,High,Cases increased 327% in 72 hours,2024-01-28,True
+AL1351,CL0041,Outbreak_Warning,DIS038,Critical,Geospatial cluster detected: 37 cases within 5km radius,2023-01-14,True
+AL1352,CL0034,Low_Stock,DRG089,Critical,Current stock 13 < Buffer 67,2021-08-28,True
+AL1353,CL0046,Low_Stock,DRG034,Medium,Current stock 10 < Buffer 60,2021-02-12,True
+AL1354,CL0042,Disease_Spike,DIS030,Critical,Cases increased 266% in 24 hours,2021-02-04,True
+AL1355,CL0030,Low_Stock,DRG096,Critical,Current stock 14 < Buffer 70,2025-08-28,True
+AL1356,CL0020,Outbreak_Warning,DIS037,High,Geospatial cluster detected: 34 cases within 5km radius,2021-05-01,True
+AL1357,CL0003,Low_Stock,DRG010,High,Current stock 27 < Buffer 74,2024-03-12,True
+AL1358,CL0020,Disease_Spike,DIS026,High,Cases increased 405% in 48 hours,2022-11-17,True
+AL1359,CL0044,Low_Stock,DRG048,Critical,Current stock 30 < Buffer 95,2025-06-25,True
+AL1360,CL0006,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 50 cases within 5km radius,2024-07-16,True
+AL1361,CL0049,Low_Stock,DRG072,High,Current stock 8 < Buffer 141,2025-09-27,True
+AL1362,CL0027,Outbreak_Warning,DIS042,High,Geospatial cluster detected: 20 cases within 5km radius,2025-02-08,True
+AL1363,CL0033,Outbreak_Warning,DIS023,Critical,Geospatial cluster detected: 26 cases within 5km radius,2023-07-12,True
+AL1364,CL0015,Outbreak_Warning,DIS046,High,Geospatial cluster detected: 47 cases within 5km radius,2023-12-24,True
+AL1365,CL0011,Disease_Spike,DIS009,High,Cases increased 250% in 24 hours,2023-08-12,True
+AL1366,CL0014,Disease_Spike,DIS008,Critical,Cases increased 494% in 72 hours,2023-07-23,True
+AL1367,CL0001,Low_Stock,DRG060,High,Current stock 16 < Buffer 139,2021-05-28,True
+AL1368,CL0033,Outbreak_Warning,DIS010,Critical,Geospatial cluster detected: 50 cases within 5km radius,2023-08-21,True
+AL1369,CL0023,Low_Stock,DRG027,Critical,Current stock 28 < Buffer 145,2024-08-28,True
+AL1370,CL0035,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 16 cases within 5km radius,2022-10-22,True
+AL1371,CL0021,Low_Stock,DRG009,High,Current stock 29 < Buffer 132,2021-01-19,True
+AL1372,CL0028,Outbreak_Warning,DIS048,High,Geospatial cluster detected: 33 cases within 5km radius,2021-02-06,True
+AL1373,CL0018,Outbreak_Warning,DIS039,High,Geospatial cluster detected: 27 cases within 5km radius,2022-02-17,True
+AL1374,CL0042,Disease_Spike,DIS050,Medium,Cases increased 480% in 72 hours,2025-11-02,True
+AL1375,CL0036,Outbreak_Warning,DIS031,High,Geospatial cluster detected: 11 cases within 5km radius,2024-12-21,True
+AL1376,CL0009,Disease_Spike,DIS018,High,Cases increased 400% in 48 hours,2022-08-08,True
+AL1377,CL0010,Disease_Spike,DIS020,High,Cases increased 389% in 24 hours,2025-01-13,False
+AL1378,CL0037,Disease_Spike,DIS004,Medium,Cases increased 196% in 48 hours,2025-07-08,True
+AL1379,CL0018,Outbreak_Warning,DIS033,High,Geospatial cluster detected: 45 cases within 5km radius,2025-03-03,True
+AL1380,CL0002,Low_Stock,DRG096,Medium,Current stock 45 < Buffer 78,2023-02-27,True
+AL1381,CL0035,Low_Stock,DRG060,High,Current stock 28 < Buffer 126,2025-12-08,True
+AL1382,CL0043,Outbreak_Warning,DIS034,Critical,Geospatial cluster detected: 46 cases within 5km radius,2023-06-15,True
+AL1383,CL0036,Outbreak_Warning,DIS008,Medium,Geospatial cluster detected: 10 cases within 5km radius,2025-08-16,True
+AL1384,CL0021,Low_Stock,DRG023,Medium,Current stock 19 < Buffer 84,2021-06-24,True
+AL1385,CL0042,Disease_Spike,DIS020,Medium,Cases increased 303% in 24 hours,2021-08-14,True
+AL1386,CL0048,Outbreak_Warning,DIS037,High,Geospatial cluster detected: 49 cases within 5km radius,2024-07-10,True
+AL1387,CL0040,Disease_Spike,DIS039,Critical,Cases increased 376% in 48 hours,2025-10-11,True
+AL1388,CL0029,Disease_Spike,DIS032,Medium,Cases increased 397% in 24 hours,2024-08-09,True
+AL1389,CL0002,Outbreak_Warning,DIS039,Critical,Geospatial cluster detected: 40 cases within 5km radius,2022-01-13,True
+AL1390,CL0028,Low_Stock,DRG065,Medium,Current stock 36 < Buffer 75,2024-01-24,True
+AL1391,CL0008,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 25 cases within 5km radius,2022-03-20,True
+AL1392,CL0007,Disease_Spike,DIS010,Medium,Cases increased 318% in 72 hours,2021-04-25,True
+AL1393,CL0024,Outbreak_Warning,DIS001,Critical,Geospatial cluster detected: 21 cases within 5km radius,2024-07-25,True
+AL1394,CL0023,Disease_Spike,DIS007,High,Cases increased 343% in 24 hours,2022-02-22,True
+AL1395,CL0035,Low_Stock,DRG006,Critical,Current stock 19 < Buffer 136,2021-06-06,False
+AL1396,CL0016,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 43 cases within 5km radius,2024-12-02,True
+AL1397,CL0020,Disease_Spike,DIS020,Medium,Cases increased 333% in 72 hours,2022-01-23,True
+AL1398,CL0021,Low_Stock,DRG084,Critical,Current stock 29 < Buffer 141,2024-05-01,True
+AL1399,CL0030,Low_Stock,DRG038,Medium,Current stock 28 < Buffer 100,2021-12-07,True
+AL1400,CL0017,Outbreak_Warning,DIS041,High,Geospatial cluster detected: 17 cases within 5km radius,2022-06-01,True
+AL1401,CL0041,Disease_Spike,DIS034,High,Cases increased 428% in 24 hours,2023-02-25,True
+AL1402,CL0033,Disease_Spike,DIS008,Critical,Cases increased 168% in 24 hours,2025-02-19,True
+AL1403,CL0016,Outbreak_Warning,DIS044,Critical,Geospatial cluster detected: 15 cases within 5km radius,2023-04-21,True
+AL1404,CL0040,Disease_Spike,DIS018,Medium,Cases increased 349% in 48 hours,2022-12-18,True
+AL1405,CL0034,Outbreak_Warning,DIS035,High,Geospatial cluster detected: 36 cases within 5km radius,2025-01-09,True
+AL1406,CL0034,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 13 cases within 5km radius,2025-07-10,True
+AL1407,CL0008,Outbreak_Warning,DIS017,Critical,Geospatial cluster detected: 31 cases within 5km radius,2022-01-04,True
+AL1408,CL0033,Outbreak_Warning,DIS031,Critical,Geospatial cluster detected: 15 cases within 5km radius,2021-07-12,True
+AL1409,CL0013,Low_Stock,DRG070,Critical,Current stock 22 < Buffer 99,2022-01-26,True
+AL1410,CL0023,Outbreak_Warning,DIS036,Critical,Geospatial cluster detected: 14 cases within 5km radius,2023-07-25,True
+AL1411,CL0002,Disease_Spike,DIS015,Critical,Cases increased 244% in 48 hours,2021-08-25,True
+AL1412,CL0021,Disease_Spike,DIS002,Medium,Cases increased 420% in 48 hours,2023-02-08,True
+AL1413,CL0048,Disease_Spike,DIS030,Critical,Cases increased 475% in 48 hours,2024-09-18,True
+AL1414,CL0049,Disease_Spike,DIS020,High,Cases increased 266% in 72 hours,2021-12-08,True
+AL1415,CL0028,Disease_Spike,DIS025,Critical,Cases increased 358% in 24 hours,2023-03-06,True
+AL1416,CL0005,Low_Stock,DRG089,Medium,Current stock 29 < Buffer 76,2025-07-09,True
+AL1417,CL0032,Disease_Spike,DIS001,Critical,Cases increased 154% in 24 hours,2023-09-15,True
+AL1418,CL0048,Outbreak_Warning,DIS050,Medium,Geospatial cluster detected: 16 cases within 5km radius,2024-12-21,True
+AL1419,CL0015,Outbreak_Warning,DIS008,Critical,Geospatial cluster detected: 36 cases within 5km radius,2022-01-05,True
+AL1420,CL0037,Outbreak_Warning,DIS021,Medium,Geospatial cluster detected: 25 cases within 5km radius,2024-12-14,True
+AL1421,CL0038,Low_Stock,DRG071,Medium,Current stock 27 < Buffer 147,2021-02-02,True
+AL1422,CL0025,Disease_Spike,DIS037,High,Cases increased 303% in 72 hours,2025-12-28,True
+AL1423,CL0014,Low_Stock,DRG007,High,Current stock 44 < Buffer 92,2022-06-01,True
+AL1424,CL0014,Outbreak_Warning,DIS035,High,Geospatial cluster detected: 10 cases within 5km radius,2025-02-05,True
+AL1425,CL0025,Outbreak_Warning,DIS002,Medium,Geospatial cluster detected: 36 cases within 5km radius,2022-07-06,False
+AL1426,CL0024,Low_Stock,DRG015,Critical,Current stock 16 < Buffer 143,2022-01-20,True
+AL1427,CL0016,Disease_Spike,DIS042,High,Cases increased 461% in 24 hours,2022-07-07,True
+AL1428,CL0017,Low_Stock,DRG087,Medium,Current stock 33 < Buffer 122,2022-01-07,False
+AL1429,CL0004,Disease_Spike,DIS014,Medium,Cases increased 249% in 48 hours,2021-10-02,True
+AL1430,CL0013,Outbreak_Warning,DIS025,High,Geospatial cluster detected: 23 cases within 5km radius,2024-06-07,False
+AL1431,CL0015,Outbreak_Warning,DIS009,High,Geospatial cluster detected: 15 cases within 5km radius,2024-08-22,True
+AL1432,CL0024,Disease_Spike,DIS034,High,Cases increased 227% in 24 hours,2024-12-18,True
+AL1433,CL0023,Outbreak_Warning,DIS032,High,Geospatial cluster detected: 13 cases within 5km radius,2024-12-05,True
+AL1434,CL0048,Outbreak_Warning,DIS047,High,Geospatial cluster detected: 49 cases within 5km radius,2023-08-25,True
+AL1435,CL0010,Outbreak_Warning,DIS006,Medium,Geospatial cluster detected: 33 cases within 5km radius,2022-07-03,True
+AL1436,CL0027,Disease_Spike,DIS050,High,Cases increased 349% in 24 hours,2022-08-25,False
+AL1437,CL0009,Outbreak_Warning,DIS045,Medium,Geospatial cluster detected: 27 cases within 5km radius,2022-06-08,True
+AL1438,CL0007,Disease_Spike,DIS044,Medium,Cases increased 425% in 48 hours,2025-06-01,True
+AL1439,CL0033,Low_Stock,DRG091,Critical,Current stock 21 < Buffer 68,2023-08-08,True
+AL1440,CL0016,Low_Stock,DRG053,Critical,Current stock 28 < Buffer 113,2024-01-07,True
+AL1441,CL0003,Disease_Spike,DIS027,Medium,Cases increased 205% in 24 hours,2021-07-17,True
+AL1442,CL0031,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 44 cases within 5km radius,2024-01-04,True
+AL1443,CL0035,Disease_Spike,DIS004,Critical,Cases increased 337% in 48 hours,2025-02-12,True
+AL1444,CL0001,Low_Stock,DRG098,Medium,Current stock 15 < Buffer 136,2023-07-06,False
+AL1445,CL0039,Disease_Spike,DIS010,High,Cases increased 213% in 48 hours,2023-12-21,True
+AL1446,CL0029,Outbreak_Warning,DIS003,High,Geospatial cluster detected: 31 cases within 5km radius,2023-07-14,True
+AL1447,CL0015,Disease_Spike,DIS039,High,Cases increased 375% in 24 hours,2021-02-10,False
+AL1448,CL0032,Disease_Spike,DIS034,Medium,Cases increased 295% in 72 hours,2024-02-19,True
+AL1449,CL0042,Outbreak_Warning,DIS009,High,Geospatial cluster detected: 41 cases within 5km radius,2021-12-13,True
+AL1450,CL0004,Low_Stock,DRG067,High,Current stock 28 < Buffer 146,2024-06-25,True
+AL1451,CL0020,Disease_Spike,DIS023,Medium,Cases increased 195% in 72 hours,2023-02-10,True
+AL1452,CL0023,Disease_Spike,DIS022,High,Cases increased 187% in 48 hours,2025-10-14,True
+AL1453,CL0028,Disease_Spike,DIS023,Medium,Cases increased 247% in 24 hours,2023-03-27,True
+AL1454,CL0016,Disease_Spike,DIS021,Medium,Cases increased 373% in 72 hours,2023-02-16,True
+AL1455,CL0013,Disease_Spike,DIS009,Medium,Cases increased 313% in 72 hours,2023-07-12,True
+AL1456,CL0034,Disease_Spike,DIS029,Medium,Cases increased 292% in 72 hours,2025-12-06,True
+AL1457,CL0013,Outbreak_Warning,DIS019,Medium,Geospatial cluster detected: 26 cases within 5km radius,2025-06-09,True
+AL1458,CL0030,Outbreak_Warning,DIS020,Critical,Geospatial cluster detected: 17 cases within 5km radius,2024-02-01,True
+AL1459,CL0049,Disease_Spike,DIS037,Medium,Cases increased 339% in 72 hours,2022-02-11,True
+AL1460,CL0022,Outbreak_Warning,DIS009,High,Geospatial cluster detected: 16 cases within 5km radius,2021-08-19,True
+AL1461,CL0017,Disease_Spike,DIS046,Critical,Cases increased 345% in 24 hours,2021-08-09,True
+AL1462,CL0026,Outbreak_Warning,DIS050,Medium,Geospatial cluster detected: 32 cases within 5km radius,2023-07-13,True
+AL1463,CL0040,Disease_Spike,DIS047,Critical,Cases increased 295% in 48 hours,2022-08-13,True
+AL1464,CL0027,Outbreak_Warning,DIS043,Medium,Geospatial cluster detected: 32 cases within 5km radius,2023-01-26,True
+AL1465,CL0003,Low_Stock,DRG034,Medium,Current stock 40 < Buffer 126,2022-01-24,True
+AL1466,CL0003,Low_Stock,DRG062,High,Current stock 34 < Buffer 111,2022-02-24,True
+AL1467,CL0035,Low_Stock,DRG004,High,Current stock 6 < Buffer 88,2024-12-12,True
+AL1468,CL0007,Disease_Spike,DIS042,High,Cases increased 255% in 48 hours,2024-08-05,True
+AL1469,CL0027,Low_Stock,DRG045,High,Current stock 13 < Buffer 86,2022-02-18,True
+AL1470,CL0044,Disease_Spike,DIS009,High,Cases increased 246% in 24 hours,2021-06-02,True
+AL1471,CL0038,Outbreak_Warning,DIS007,High,Geospatial cluster detected: 22 cases within 5km radius,2025-05-06,True
+AL1472,CL0014,Outbreak_Warning,DIS013,Medium,Geospatial cluster detected: 25 cases within 5km radius,2023-07-16,True
+AL1473,CL0019,Outbreak_Warning,DIS016,Critical,Geospatial cluster detected: 43 cases within 5km radius,2022-06-24,True
+AL1474,CL0008,Outbreak_Warning,DIS035,Critical,Geospatial cluster detected: 26 cases within 5km radius,2022-02-24,True
+AL1475,CL0005,Outbreak_Warning,DIS015,High,Geospatial cluster detected: 49 cases within 5km radius,2023-01-07,True
+AL1476,CL0020,Disease_Spike,DIS005,Critical,Cases increased 276% in 72 hours,2021-02-17,False
+AL1477,CL0001,Disease_Spike,DIS029,Critical,Cases increased 395% in 72 hours,2023-01-11,False
+AL1478,CL0030,Outbreak_Warning,DIS035,Medium,Geospatial cluster detected: 20 cases within 5km radius,2021-06-18,True
+AL1479,CL0012,Disease_Spike,DIS001,Critical,Cases increased 290% in 48 hours,2023-12-03,True
+AL1480,CL0037,Low_Stock,DRG031,Medium,Current stock 13 < Buffer 71,2021-06-28,True
+AL1481,CL0036,Outbreak_Warning,DIS038,High,Geospatial cluster detected: 24 cases within 5km radius,2025-06-09,True
+AL1482,CL0049,Disease_Spike,DIS024,Medium,Cases increased 347% in 24 hours,2024-02-18,True
+AL1483,CL0034,Outbreak_Warning,DIS026,Medium,Geospatial cluster detected: 42 cases within 5km radius,2022-09-25,True
+AL1484,CL0035,Outbreak_Warning,DIS006,Medium,Geospatial cluster detected: 28 cases within 5km radius,2024-08-05,True
+AL1485,CL0007,Outbreak_Warning,DIS019,High,Geospatial cluster detected: 37 cases within 5km radius,2022-01-26,True
+AL1486,CL0015,Outbreak_Warning,DIS043,Critical,Geospatial cluster detected: 21 cases within 5km radius,2021-08-13,True
+AL1487,CL0044,Disease_Spike,DIS035,Medium,Cases increased 329% in 48 hours,2025-07-21,True
+AL1488,CL0011,Disease_Spike,DIS025,Medium,Cases increased 354% in 24 hours,2021-06-20,True
+AL1489,CL0005,Disease_Spike,DIS033,High,Cases increased 391% in 72 hours,2023-06-03,True
+AL1490,CL0041,Low_Stock,DRG082,Critical,Current stock 41 < Buffer 116,2023-06-21,True
+AL1491,CL0028,Outbreak_Warning,DIS035,Medium,Geospatial cluster detected: 16 cases within 5km radius,2021-01-25,True
+AL1492,CL0048,Low_Stock,DRG023,Critical,Current stock 31 < Buffer 109,2024-12-01,True
+AL1493,CL0044,Low_Stock,DRG009,High,Current stock 18 < Buffer 93,2021-08-13,True
+AL1494,CL0028,Disease_Spike,DIS001,Medium,Cases increased 217% in 24 hours,2024-06-10,True
+AL1495,CL0001,Disease_Spike,DIS048,High,Cases increased 462% in 48 hours,2023-07-25,False
+AL1496,CL0029,Disease_Spike,DIS011,High,Cases increased 335% in 72 hours,2025-06-09,True
+AL1497,CL0006,Disease_Spike,DIS010,Critical,Cases increased 409% in 72 hours,2023-01-05,True
+AL1498,CL0001,Disease_Spike,DIS043,Critical,Cases increased 253% in 24 hours,2024-01-15,True
+AL1499,CL0042,Outbreak_Warning,DIS018,Critical,Geospatial cluster detected: 30 cases within 5km radius,2021-01-20,True
+AL1500,CL0012,Outbreak_Warning,DIS034,Medium,Geospatial cluster detected: 13 cases within 5km radius,2021-10-07,True
+AL1501,CL0012,Outbreak_Warning,DIS010,High,Geospatial cluster detected: 18 cases within 5km radius,2024-08-07,True
+AL1502,CL0020,Outbreak_Warning,DIS008,Critical,Geospatial cluster detected: 26 cases within 5km radius,2025-11-14,True
+AL1503,CL0046,Disease_Spike,DIS002,Critical,Cases increased 469% in 48 hours,2024-08-02,False
+AL1504,CL0019,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 38 cases within 5km radius,2023-01-10,True
+AL1505,CL0014,Outbreak_Warning,DIS027,Critical,Geospatial cluster detected: 41 cases within 5km radius,2023-12-12,True
+AL1506,CL0034,Disease_Spike,DIS022,Critical,Cases increased 456% in 72 hours,2023-06-12,True
+AL1507,CL0024,Disease_Spike,DIS006,Critical,Cases increased 278% in 24 hours,2022-05-27,True
+AL1508,CL0006,Disease_Spike,DIS008,Medium,Cases increased 323% in 72 hours,2021-12-26,True
+AL1509,CL0048,Disease_Spike,DIS005,Medium,Cases increased 301% in 24 hours,2023-01-06,True
+AL1510,CL0030,Outbreak_Warning,DIS015,High,Geospatial cluster detected: 23 cases within 5km radius,2025-02-08,True
+AL1511,CL0034,Outbreak_Warning,DIS008,Medium,Geospatial cluster detected: 21 cases within 5km radius,2021-12-22,True
+AL1512,CL0012,Disease_Spike,DIS042,Medium,Cases increased 402% in 72 hours,2022-07-23,True
+AL1513,CL0001,Outbreak_Warning,DIS036,High,Geospatial cluster detected: 12 cases within 5km radius,2024-09-19,True
+AL1514,CL0022,Disease_Spike,DIS013,High,Cases increased 447% in 48 hours,2024-08-13,True
+AL1515,CL0001,Disease_Spike,DIS037,Medium,Cases increased 372% in 72 hours,2021-08-04,True
+AL1516,CL0003,Outbreak_Warning,DIS027,High,Geospatial cluster detected: 41 cases within 5km radius,2024-12-24,True
+AL1517,CL0040,Outbreak_Warning,DIS024,Critical,Geospatial cluster detected: 11 cases within 5km radius,2021-01-13,True
+AL1518,CL0018,Outbreak_Warning,DIS045,Critical,Geospatial cluster detected: 22 cases within 5km radius,2025-08-09,True
+AL1519,CL0017,Disease_Spike,DIS043,Critical,Cases increased 475% in 48 hours,2025-12-05,True
+AL1520,CL0041,Low_Stock,DRG025,Medium,Current stock 21 < Buffer 87,2024-01-08,True
+AL1521,CL0003,Outbreak_Warning,DIS006,Medium,Geospatial cluster detected: 45 cases within 5km radius,2025-07-22,False
+AL1522,CL0009,Low_Stock,DRG061,Critical,Current stock 28 < Buffer 96,2022-02-07,True
+AL1523,CL0009,Disease_Spike,DIS019,High,Cases increased 452% in 72 hours,2023-06-28,True
+AL1524,CL0022,Low_Stock,DRG082,High,Current stock 26 < Buffer 97,2024-01-28,True
+AL1525,CL0039,Outbreak_Warning,DIS044,Critical,Geospatial cluster detected: 34 cases within 5km radius,2021-12-21,True
+AL1526,CL0042,Outbreak_Warning,DIS029,Medium,Geospatial cluster detected: 19 cases within 5km radius,2021-07-08,True
+AL1527,CL0012,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 15 cases within 5km radius,2022-12-28,True
+AL1528,CL0026,Disease_Spike,DIS037,High,Cases increased 323% in 72 hours,2024-08-26,True
+AL1529,CL0024,Disease_Spike,DIS045,Critical,Cases increased 175% in 24 hours,2025-01-05,True
+AL1530,CL0027,Disease_Spike,DIS002,Critical,Cases increased 181% in 24 hours,2024-06-24,True
+AL1531,CL0041,Disease_Spike,DIS026,Medium,Cases increased 448% in 72 hours,2023-06-26,True
+AL1532,CL0041,Low_Stock,DRG037,High,Current stock 32 < Buffer 127,2025-12-12,True
+AL1533,CL0028,Outbreak_Warning,DIS041,Critical,Geospatial cluster detected: 50 cases within 5km radius,2023-02-25,True
+AL1534,CL0032,Low_Stock,DRG053,Critical,Current stock 12 < Buffer 123,2023-01-04,True
+AL1535,CL0015,Outbreak_Warning,DIS002,Medium,Geospatial cluster detected: 44 cases within 5km radius,2025-04-23,True
+AL1536,CL0006,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 40 cases within 5km radius,2024-09-28,True
+AL1537,CL0024,Disease_Spike,DIS036,Medium,Cases increased 299% in 48 hours,2022-07-16,True
+AL1538,CL0030,Disease_Spike,DIS046,Critical,Cases increased 338% in 72 hours,2025-12-03,True
+AL1539,CL0029,Outbreak_Warning,DIS015,Medium,Geospatial cluster detected: 27 cases within 5km radius,2024-04-01,True
+AL1540,CL0034,Low_Stock,DRG023,Critical,Current stock 19 < Buffer 65,2022-12-03,True
+AL1541,CL0040,Disease_Spike,DIS032,Critical,Cases increased 243% in 24 hours,2023-01-26,False
+AL1542,CL0020,Low_Stock,DRG062,High,Current stock 37 < Buffer 89,2025-08-10,True
+AL1543,CL0041,Disease_Spike,DIS038,High,Cases increased 206% in 24 hours,2023-12-03,True
+AL1544,CL0039,Outbreak_Warning,DIS037,Critical,Geospatial cluster detected: 42 cases within 5km radius,2025-02-08,True
+AL1545,CL0014,Disease_Spike,DIS015,Critical,Cases increased 367% in 48 hours,2025-02-15,True
+AL1546,CL0003,Outbreak_Warning,DIS029,Medium,Geospatial cluster detected: 30 cases within 5km radius,2025-07-20,True
+AL1547,CL0012,Disease_Spike,DIS018,High,Cases increased 405% in 72 hours,2022-12-25,True
+AL1548,CL0001,Disease_Spike,DIS024,High,Cases increased 181% in 48 hours,2023-04-22,True
+AL1549,CL0035,Disease_Spike,DIS019,Medium,Cases increased 379% in 72 hours,2021-06-06,True
+AL1550,CL0001,Low_Stock,DRG082,Critical,Current stock 21 < Buffer 70,2022-07-19,True
+AL1551,CL0008,Outbreak_Warning,DIS019,Medium,Geospatial cluster detected: 14 cases within 5km radius,2024-10-27,True
+AL1552,CL0001,Outbreak_Warning,DIS020,High,Geospatial cluster detected: 20 cases within 5km radius,2022-01-10,True
+AL1553,CL0037,Low_Stock,DRG054,Critical,Current stock 22 < Buffer 136,2021-01-28,True
+AL1554,CL0046,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 23 cases within 5km radius,2025-06-09,False
+AL1555,CL0024,Outbreak_Warning,DIS049,Medium,Geospatial cluster detected: 18 cases within 5km radius,2021-01-27,True
+AL1556,CL0049,Outbreak_Warning,DIS041,Medium,Geospatial cluster detected: 26 cases within 5km radius,2024-02-20,True
+AL1557,CL0006,Disease_Spike,DIS032,High,Cases increased 406% in 24 hours,2023-12-01,True
+AL1558,CL0023,Disease_Spike,DIS029,High,Cases increased 330% in 72 hours,2024-12-26,True
+AL1559,CL0028,Low_Stock,DRG008,High,Current stock 9 < Buffer 126,2021-08-07,True
+AL1560,CL0003,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 12 cases within 5km radius,2025-12-22,True
+AL1561,CL0031,Outbreak_Warning,DIS038,Medium,Geospatial cluster detected: 47 cases within 5km radius,2023-02-10,True
+AL1562,CL0003,Disease_Spike,DIS014,High,Cases increased 396% in 72 hours,2022-02-22,True
+AL1563,CL0042,Outbreak_Warning,DIS007,Critical,Geospatial cluster detected: 24 cases within 5km radius,2025-03-18,False
+AL1564,CL0037,Outbreak_Warning,DIS012,Critical,Geospatial cluster detected: 45 cases within 5km radius,2023-10-14,True
+AL1565,CL0033,Low_Stock,DRG046,High,Current stock 13 < Buffer 112,2024-12-03,True
+AL1566,CL0031,Disease_Spike,DIS029,High,Cases increased 463% in 72 hours,2025-07-15,True
+AL1567,CL0001,Low_Stock,DRG056,Critical,Current stock 9 < Buffer 138,2025-10-01,True
+AL1568,CL0002,Disease_Spike,DIS047,Critical,Cases increased 274% in 48 hours,2025-08-19,True
+AL1569,CL0002,Low_Stock,DRG029,Critical,Current stock 22 < Buffer 121,2025-06-21,True
+AL1570,CL0027,Outbreak_Warning,DIS047,High,Geospatial cluster detected: 20 cases within 5km radius,2025-12-02,True
+AL1571,CL0035,Outbreak_Warning,DIS042,High,Geospatial cluster detected: 17 cases within 5km radius,2024-08-06,True
+AL1572,CL0011,Outbreak_Warning,DIS025,Medium,Geospatial cluster detected: 12 cases within 5km radius,2021-08-28,True
+AL1573,CL0008,Low_Stock,DRG005,Medium,Current stock 39 < Buffer 130,2025-01-16,True
+AL1574,CL0049,Disease_Spike,DIS022,High,Cases increased 327% in 24 hours,2023-02-10,True
+AL1575,CL0001,Low_Stock,DRG070,Critical,Current stock 32 < Buffer 66,2025-07-04,True
+AL1576,CL0045,Disease_Spike,DIS037,High,Cases increased 201% in 48 hours,2024-01-06,True
+AL1577,CL0040,Disease_Spike,DIS002,Medium,Cases increased 380% in 72 hours,2021-01-20,True
+AL1578,CL0037,Low_Stock,DRG071,Critical,Current stock 33 < Buffer 91,2025-12-13,True
+AL1579,CL0043,Disease_Spike,DIS048,Medium,Cases increased 405% in 48 hours,2023-12-11,True
+AL1580,CL0031,Low_Stock,DRG076,Medium,Current stock 7 < Buffer 82,2023-01-26,True
+AL1581,CL0036,Outbreak_Warning,DIS034,Medium,Geospatial cluster detected: 39 cases within 5km radius,2025-01-22,True
+AL1582,CL0010,Disease_Spike,DIS009,Medium,Cases increased 374% in 72 hours,2024-01-01,True
+AL1583,CL0013,Disease_Spike,DIS044,High,Cases increased 377% in 72 hours,2024-12-08,True
+AL1584,CL0014,Disease_Spike,DIS017,Critical,Cases increased 439% in 24 hours,2024-07-16,True
+AL1585,CL0025,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 11 cases within 5km radius,2023-03-16,True
+AL1586,CL0032,Low_Stock,DRG062,Medium,Current stock 39 < Buffer 83,2025-10-24,True
+AL1587,CL0025,Low_Stock,DRG022,Critical,Current stock 7 < Buffer 82,2025-08-27,True
+AL1588,CL0025,Outbreak_Warning,DIS033,Critical,Geospatial cluster detected: 47 cases within 5km radius,2025-06-28,True
+AL1589,CL0020,Disease_Spike,DIS021,High,Cases increased 395% in 72 hours,2022-07-28,False
+AL1590,CL0004,Low_Stock,DRG051,Medium,Current stock 49 < Buffer 115,2025-08-03,True
+AL1591,CL0037,Low_Stock,DRG052,Critical,Current stock 10 < Buffer 102,2025-02-18,True
+AL1592,CL0001,Disease_Spike,DIS032,High,Cases increased 234% in 24 hours,2022-07-25,False
+AL1593,CL0015,Low_Stock,DRG042,Critical,Current stock 25 < Buffer 115,2025-02-07,True
+AL1594,CL0030,Outbreak_Warning,DIS048,Medium,Geospatial cluster detected: 43 cases within 5km radius,2022-08-25,True
+AL1595,CL0037,Low_Stock,DRG024,High,Current stock 28 < Buffer 95,2024-01-15,True
+AL1596,CL0001,Disease_Spike,DIS018,Medium,Cases increased 344% in 24 hours,2024-02-25,True
+AL1597,CL0041,Disease_Spike,DIS021,Critical,Cases increased 329% in 72 hours,2024-02-10,True
+AL1598,CL0049,Outbreak_Warning,DIS020,High,Geospatial cluster detected: 45 cases within 5km radius,2022-12-20,True
+AL1599,CL0006,Outbreak_Warning,DIS034,High,Geospatial cluster detected: 46 cases within 5km radius,2022-01-13,True
+AL1600,CL0044,Outbreak_Warning,DIS009,Medium,Geospatial cluster detected: 42 cases within 5km radius,2023-08-26,True
+AL1601,CL0019,Low_Stock,DRG032,High,Current stock 24 < Buffer 134,2022-06-23,True
+AL1602,CL0049,Low_Stock,DRG060,High,Current stock 24 < Buffer 143,2021-10-23,True
+AL1603,CL0045,Disease_Spike,DIS015,High,Cases increased 252% in 72 hours,2024-01-16,True
+AL1604,CL0033,Disease_Spike,DIS018,Medium,Cases increased 162% in 48 hours,2025-12-24,True
+AL1605,CL0018,Disease_Spike,DIS033,High,Cases increased 484% in 48 hours,2025-06-18,True
+AL1606,CL0038,Low_Stock,DRG051,High,Current stock 44 < Buffer 113,2021-07-04,True
+AL1607,CL0032,Outbreak_Warning,DIS026,Critical,Geospatial cluster detected: 33 cases within 5km radius,2022-08-20,True
+AL1608,CL0012,Disease_Spike,DIS017,High,Cases increased 340% in 24 hours,2022-03-28,True
+AL1609,CL0018,Disease_Spike,DIS038,Medium,Cases increased 196% in 48 hours,2025-07-24,True
+AL1610,CL0023,Low_Stock,DRG059,High,Current stock 24 < Buffer 76,2021-12-18,True
+AL1611,CL0020,Low_Stock,DRG010,Medium,Current stock 50 < Buffer 71,2022-01-12,True
+AL1612,CL0030,Outbreak_Warning,DIS048,High,Geospatial cluster detected: 13 cases within 5km radius,2025-12-25,True
+AL1613,CL0005,Disease_Spike,DIS006,Medium,Cases increased 268% in 24 hours,2024-03-21,True
+AL1614,CL0013,Outbreak_Warning,DIS045,Critical,Geospatial cluster detected: 50 cases within 5km radius,2023-06-06,True
+AL1615,CL0026,Disease_Spike,DIS038,Critical,Cases increased 375% in 48 hours,2023-06-05,True
+AL1616,CL0013,Disease_Spike,DIS001,High,Cases increased 316% in 48 hours,2023-07-06,True
+AL1617,CL0027,Low_Stock,DRG086,Medium,Current stock 19 < Buffer 91,2021-07-02,True
+AL1618,CL0023,Disease_Spike,DIS003,Medium,Cases increased 300% in 72 hours,2021-08-11,True
+AL1619,CL0030,Low_Stock,DRG100,High,Current stock 12 < Buffer 131,2023-06-27,True
+AL1620,CL0004,Outbreak_Warning,DIS003,Medium,Geospatial cluster detected: 22 cases within 5km radius,2023-01-24,True
+AL1621,CL0016,Outbreak_Warning,DIS017,Critical,Geospatial cluster detected: 18 cases within 5km radius,2021-01-12,True
+AL1622,CL0021,Disease_Spike,DIS035,Medium,Cases increased 271% in 24 hours,2024-05-06,False
+AL1623,CL0023,Low_Stock,DRG072,High,Current stock 24 < Buffer 88,2024-01-25,True
+AL1624,CL0014,Low_Stock,DRG034,High,Current stock 34 < Buffer 128,2022-01-25,True
+AL1625,CL0018,Outbreak_Warning,DIS002,Critical,Geospatial cluster detected: 39 cases within 5km radius,2023-12-22,True
+AL1626,CL0006,Disease_Spike,DIS034,Medium,Cases increased 491% in 48 hours,2025-06-23,False
+AL1627,CL0019,Outbreak_Warning,DIS036,Medium,Geospatial cluster detected: 27 cases within 5km radius,2023-03-05,True
+AL1628,CL0028,Outbreak_Warning,DIS036,High,Geospatial cluster detected: 23 cases within 5km radius,2024-02-17,True
+AL1629,CL0023,Disease_Spike,DIS050,High,Cases increased 473% in 24 hours,2023-01-26,True
+AL1630,CL0011,Disease_Spike,DIS017,High,Cases increased 499% in 48 hours,2021-06-23,True
+AL1631,CL0049,Outbreak_Warning,DIS025,Critical,Geospatial cluster detected: 40 cases within 5km radius,2021-08-17,True
+AL1632,CL0016,Disease_Spike,DIS001,Critical,Cases increased 205% in 24 hours,2023-02-16,True
+AL1633,CL0010,Outbreak_Warning,DIS025,Critical,Geospatial cluster detected: 34 cases within 5km radius,2024-06-17,True
+AL1634,CL0016,Outbreak_Warning,DIS038,Critical,Geospatial cluster detected: 34 cases within 5km radius,2022-07-17,True
+AL1635,CL0024,Low_Stock,DRG046,Medium,Current stock 8 < Buffer 129,2024-02-20,True
+AL1636,CL0042,Disease_Spike,DIS006,Medium,Cases increased 363% in 72 hours,2023-01-05,True
+AL1637,CL0001,Disease_Spike,DIS005,Critical,Cases increased 293% in 48 hours,2024-01-10,True
+AL1638,CL0023,Outbreak_Warning,DIS004,Medium,Geospatial cluster detected: 18 cases within 5km radius,2022-02-07,True
+AL1639,CL0028,Low_Stock,DRG055,Critical,Current stock 18 < Buffer 125,2024-07-04,True
+AL1640,CL0042,Outbreak_Warning,DIS028,Critical,Geospatial cluster detected: 50 cases within 5km radius,2021-06-19,True
+AL1641,CL0001,Disease_Spike,DIS038,High,Cases increased 499% in 72 hours,2023-08-26,True
+AL1642,CL0005,Outbreak_Warning,DIS044,Medium,Geospatial cluster detected: 15 cases within 5km radius,2022-02-16,True
+AL1643,CL0045,Disease_Spike,DIS010,High,Cases increased 196% in 72 hours,2025-03-10,True
+AL1644,CL0022,Disease_Spike,DIS043,Critical,Cases increased 376% in 48 hours,2025-01-06,True
+AL1645,CL0023,Outbreak_Warning,DIS005,Critical,Geospatial cluster detected: 27 cases within 5km radius,2024-06-13,True
+AL1646,CL0033,Low_Stock,DRG044,High,Current stock 46 < Buffer 112,2021-06-21,True
+AL1647,CL0039,Low_Stock,DRG010,Medium,Current stock 48 < Buffer 84,2022-11-14,True
+AL1648,CL0040,Low_Stock,DRG098,High,Current stock 7 < Buffer 95,2021-02-03,True
+AL1649,CL0015,Disease_Spike,DIS005,High,Cases increased 368% in 48 hours,2024-07-14,True
+AL1650,CL0045,Disease_Spike,DIS035,Medium,Cases increased 472% in 48 hours,2021-07-08,True
+AL1651,CL0019,Low_Stock,DRG006,Medium,Current stock 9 < Buffer 147,2023-01-18,True
+AL1652,CL0041,Outbreak_Warning,DIS019,High,Geospatial cluster detected: 35 cases within 5km radius,2022-02-22,True
+AL1653,CL0042,Outbreak_Warning,DIS009,Medium,Geospatial cluster detected: 32 cases within 5km radius,2025-07-09,True
+AL1654,CL0040,Outbreak_Warning,DIS007,High,Geospatial cluster detected: 25 cases within 5km radius,2023-02-16,True
+AL1655,CL0010,Disease_Spike,DIS026,High,Cases increased 340% in 72 hours,2022-02-09,True
+AL1656,CL0002,Disease_Spike,DIS036,Critical,Cases increased 254% in 24 hours,2024-07-02,True
+AL1657,CL0007,Outbreak_Warning,DIS032,High,Geospatial cluster detected: 16 cases within 5km radius,2022-01-21,True
+AL1658,CL0042,Outbreak_Warning,DIS017,High,Geospatial cluster detected: 31 cases within 5km radius,2024-09-04,True
+AL1659,CL0048,Disease_Spike,DIS047,Critical,Cases increased 271% in 72 hours,2025-08-10,True
+AL1660,CL0001,Outbreak_Warning,DIS011,High,Geospatial cluster detected: 34 cases within 5km radius,2022-01-22,True
+AL1661,CL0016,Outbreak_Warning,DIS017,High,Geospatial cluster detected: 10 cases within 5km radius,2023-09-22,False
+AL1662,CL0024,Disease_Spike,DIS043,High,Cases increased 299% in 24 hours,2025-02-10,True
+AL1663,CL0037,Low_Stock,DRG005,High,Current stock 17 < Buffer 132,2025-02-08,False
+AL1664,CL0049,Disease_Spike,DIS043,High,Cases increased 301% in 48 hours,2025-11-06,True
+AL1665,CL0010,Outbreak_Warning,DIS034,Medium,Geospatial cluster detected: 38 cases within 5km radius,2025-02-28,True
+AL1666,CL0031,Low_Stock,DRG084,High,Current stock 32 < Buffer 145,2022-08-03,True
+AL1667,CL0005,Outbreak_Warning,DIS048,Medium,Geospatial cluster detected: 33 cases within 5km radius,2021-07-16,True
+AL1668,CL0020,Low_Stock,DRG061,Medium,Current stock 16 < Buffer 108,2025-06-05,True
+AL1669,CL0040,Low_Stock,DRG002,Critical,Current stock 24 < Buffer 64,2022-07-05,True
+AL1670,CL0044,Low_Stock,DRG016,Critical,Current stock 42 < Buffer 113,2021-02-01,True
+AL1671,CL0026,Low_Stock,DRG065,High,Current stock 10 < Buffer 148,2025-01-28,False
+AL1672,CL0012,Outbreak_Warning,DIS048,Critical,Geospatial cluster detected: 35 cases within 5km radius,2023-07-15,True
+AL1673,CL0025,Outbreak_Warning,DIS049,High,Geospatial cluster detected: 31 cases within 5km radius,2024-01-07,True
+AL1674,CL0042,Low_Stock,DRG083,Medium,Current stock 49 < Buffer 135,2025-03-08,True
+AL1675,CL0028,Low_Stock,DRG087,High,Current stock 26 < Buffer 89,2022-06-17,False
+AL1676,CL0044,Disease_Spike,DIS046,High,Cases increased 325% in 24 hours,2021-07-10,True
+AL1677,CL0006,Low_Stock,DRG022,Medium,Current stock 23 < Buffer 105,2024-01-09,True
+AL1678,CL0014,Low_Stock,DRG093,Critical,Current stock 9 < Buffer 100,2025-07-01,True
+AL1679,CL0022,Outbreak_Warning,DIS023,Critical,Geospatial cluster detected: 47 cases within 5km radius,2024-08-14,True
+AL1680,CL0016,Low_Stock,DRG096,Medium,Current stock 9 < Buffer 147,2025-10-12,True
+AL1681,CL0004,Low_Stock,DRG044,High,Current stock 43 < Buffer 111,2024-07-23,True
+AL1682,CL0014,Disease_Spike,DIS025,Critical,Cases increased 397% in 48 hours,2021-12-17,True
+AL1683,CL0044,Outbreak_Warning,DIS001,Medium,Geospatial cluster detected: 24 cases within 5km radius,2023-06-03,True
+AL1684,CL0036,Disease_Spike,DIS005,Critical,Cases increased 233% in 48 hours,2024-08-21,True
+AL1685,CL0004,Outbreak_Warning,DIS034,High,Geospatial cluster detected: 10 cases within 5km radius,2024-03-07,True
+AL1686,CL0011,Low_Stock,DRG037,Medium,Current stock 13 < Buffer 131,2022-04-10,True
+AL1687,CL0021,Outbreak_Warning,DIS036,High,Geospatial cluster detected: 38 cases within 5km radius,2021-07-23,True
+AL1688,CL0029,Disease_Spike,DIS023,Medium,Cases increased 496% in 24 hours,2024-08-13,True
+AL1689,CL0020,Outbreak_Warning,DIS008,Critical,Geospatial cluster detected: 33 cases within 5km radius,2025-07-11,True
+AL1690,CL0012,Disease_Spike,DIS025,Medium,Cases increased 341% in 72 hours,2022-01-05,False
+AL1691,CL0005,Disease_Spike,DIS015,High,Cases increased 254% in 24 hours,2025-06-27,True
+AL1692,CL0013,Outbreak_Warning,DIS003,High,Geospatial cluster detected: 36 cases within 5km radius,2024-06-05,True
+AL1693,CL0021,Low_Stock,DRG022,Medium,Current stock 20 < Buffer 75,2024-02-23,True
+AL1694,CL0040,Disease_Spike,DIS003,High,Cases increased 416% in 48 hours,2025-07-20,True
+AL1695,CL0048,Outbreak_Warning,DIS014,Medium,Geospatial cluster detected: 27 cases within 5km radius,2025-01-28,True
+AL1696,CL0015,Low_Stock,DRG081,High,Current stock 27 < Buffer 99,2023-02-11,True
+AL1697,CL0031,Disease_Spike,DIS012,Medium,Cases increased 306% in 72 hours,2025-02-11,True
+AL1698,CL0031,Low_Stock,DRG039,High,Current stock 41 < Buffer 63,2023-08-01,False
+AL1699,CL0031,Outbreak_Warning,DIS009,Critical,Geospatial cluster detected: 17 cases within 5km radius,2022-08-20,True
+AL1700,CL0025,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 46 cases within 5km radius,2021-01-25,False
+AL1701,CL0041,Low_Stock,DRG014,High,Current stock 9 < Buffer 121,2025-12-15,True
+AL1702,CL0026,Outbreak_Warning,DIS040,Medium,Geospatial cluster detected: 37 cases within 5km radius,2024-01-15,True
+AL1703,CL0036,Outbreak_Warning,DIS008,Medium,Geospatial cluster detected: 19 cases within 5km radius,2021-01-04,False
+AL1704,CL0013,Outbreak_Warning,DIS009,High,Geospatial cluster detected: 14 cases within 5km radius,2023-08-25,True
+AL1705,CL0034,Outbreak_Warning,DIS012,Medium,Geospatial cluster detected: 31 cases within 5km radius,2022-08-04,True
+AL1706,CL0006,Disease_Spike,DIS008,Critical,Cases increased 202% in 48 hours,2021-08-02,True
+AL1707,CL0016,Low_Stock,DRG003,High,Current stock 29 < Buffer 77,2023-08-07,True
+AL1708,CL0028,Outbreak_Warning,DIS031,Critical,Geospatial cluster detected: 31 cases within 5km radius,2021-01-05,True
+AL1709,CL0013,Outbreak_Warning,DIS045,Critical,Geospatial cluster detected: 20 cases within 5km radius,2024-12-01,True
+AL1710,CL0049,Outbreak_Warning,DIS005,High,Geospatial cluster detected: 32 cases within 5km radius,2023-07-10,True
+AL1711,CL0014,Low_Stock,DRG064,High,Current stock 22 < Buffer 68,2022-08-03,True
+AL1712,CL0020,Disease_Spike,DIS027,Medium,Cases increased 403% in 24 hours,2022-12-06,True
+AL1713,CL0028,Outbreak_Warning,DIS019,Critical,Geospatial cluster detected: 48 cases within 5km radius,2021-07-06,False
+AL1714,CL0037,Low_Stock,DRG029,High,Current stock 27 < Buffer 147,2023-09-10,True
+AL1715,CL0006,Disease_Spike,DIS019,Critical,Cases increased 249% in 24 hours,2023-12-27,True
+AL1716,CL0003,Low_Stock,DRG044,Medium,Current stock 40 < Buffer 131,2021-04-04,True
+AL1717,CL0011,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 45 cases within 5km radius,2021-02-08,True
+AL1718,CL0017,Outbreak_Warning,DIS046,Medium,Geospatial cluster detected: 31 cases within 5km radius,2022-12-15,True
+AL1719,CL0044,Outbreak_Warning,DIS003,High,Geospatial cluster detected: 39 cases within 5km radius,2023-01-01,True
+AL1720,CL0019,Disease_Spike,DIS017,Medium,Cases increased 233% in 48 hours,2022-10-11,True
+AL1721,CL0024,Low_Stock,DRG064,High,Current stock 39 < Buffer 93,2023-07-07,False
+AL1722,CL0030,Disease_Spike,DIS037,Medium,Cases increased 334% in 24 hours,2023-08-05,True
+AL1723,CL0038,Low_Stock,DRG003,High,Current stock 37 < Buffer 122,2021-12-10,True
+AL1724,CL0030,Low_Stock,DRG084,Critical,Current stock 26 < Buffer 78,2024-02-07,False
+AL1725,CL0041,Disease_Spike,DIS031,High,Cases increased 196% in 24 hours,2025-02-14,True
+AL1726,CL0043,Disease_Spike,DIS042,Medium,Cases increased 348% in 48 hours,2022-02-25,True
+AL1727,CL0046,Low_Stock,DRG093,High,Current stock 39 < Buffer 70,2025-12-05,True
+AL1728,CL0027,Disease_Spike,DIS048,Medium,Cases increased 480% in 48 hours,2024-07-20,True
+AL1729,CL0020,Low_Stock,DRG068,Critical,Current stock 36 < Buffer 142,2023-06-01,True
+AL1730,CL0005,Disease_Spike,DIS036,Critical,Cases increased 482% in 48 hours,2024-02-01,True
+AL1731,CL0014,Disease_Spike,DIS048,Medium,Cases increased 198% in 24 hours,2022-07-13,True
+AL1732,CL0027,Low_Stock,DRG053,Medium,Current stock 29 < Buffer 112,2023-12-24,True
+AL1733,CL0035,Disease_Spike,DIS034,Medium,Cases increased 308% in 72 hours,2025-02-09,True
+AL1734,CL0013,Disease_Spike,DIS016,Medium,Cases increased 217% in 24 hours,2024-06-18,True
+AL1735,CL0023,Outbreak_Warning,DIS004,Critical,Geospatial cluster detected: 40 cases within 5km radius,2023-12-10,True
+AL1736,CL0016,Disease_Spike,DIS031,Medium,Cases increased 439% in 72 hours,2021-05-15,True
+AL1737,CL0045,Low_Stock,DRG018,High,Current stock 35 < Buffer 68,2021-01-03,True
+AL1738,CL0023,Outbreak_Warning,DIS009,Critical,Geospatial cluster detected: 45 cases within 5km radius,2025-02-22,False
+AL1739,CL0002,Low_Stock,DRG014,High,Current stock 40 < Buffer 60,2025-07-24,False
+AL1740,CL0016,Outbreak_Warning,DIS038,Medium,Geospatial cluster detected: 18 cases within 5km radius,2023-07-14,True
+AL1741,CL0026,Low_Stock,DRG086,High,Current stock 49 < Buffer 107,2023-07-26,True
+AL1742,CL0004,Low_Stock,DRG008,Critical,Current stock 14 < Buffer 134,2025-01-15,True
+AL1743,CL0041,Low_Stock,DRG070,Medium,Current stock 11 < Buffer 95,2021-08-20,True
+AL1744,CL0006,Outbreak_Warning,DIS035,High,Geospatial cluster detected: 46 cases within 5km radius,2024-06-11,True
+AL1745,CL0030,Disease_Spike,DIS013,Medium,Cases increased 296% in 24 hours,2021-08-06,True
+AL1746,CL0047,Disease_Spike,DIS023,Critical,Cases increased 211% in 48 hours,2022-02-07,True
+AL1747,CL0031,Low_Stock,DRG024,High,Current stock 19 < Buffer 77,2023-06-15,True
+AL1748,CL0038,Outbreak_Warning,DIS040,High,Geospatial cluster detected: 33 cases within 5km radius,2022-06-14,True
+AL1749,CL0028,Low_Stock,DRG087,High,Current stock 36 < Buffer 85,2021-07-14,True
+AL1750,CL0010,Outbreak_Warning,DIS046,High,Geospatial cluster detected: 31 cases within 5km radius,2023-01-03,True
+AL1751,CL0023,Outbreak_Warning,DIS022,High,Geospatial cluster detected: 24 cases within 5km radius,2025-07-12,True
+AL1752,CL0034,Outbreak_Warning,DIS016,Critical,Geospatial cluster detected: 37 cases within 5km radius,2021-04-02,True
+AL1753,CL0026,Low_Stock,DRG006,High,Current stock 43 < Buffer 89,2021-08-07,True
+AL1754,CL0018,Disease_Spike,DIS039,Medium,Cases increased 333% in 48 hours,2024-02-10,True
+AL1755,CL0022,Disease_Spike,DIS019,Critical,Cases increased 303% in 24 hours,2025-12-12,True
+AL1756,CL0046,Low_Stock,DRG060,Critical,Current stock 21 < Buffer 103,2022-04-27,True
+AL1757,CL0014,Disease_Spike,DIS001,Critical,Cases increased 484% in 24 hours,2024-02-11,False
+AL1758,CL0027,Disease_Spike,DIS025,Medium,Cases increased 477% in 24 hours,2021-12-18,True
+AL1759,CL0013,Disease_Spike,DIS011,High,Cases increased 351% in 72 hours,2023-12-02,True
+AL1760,CL0024,Outbreak_Warning,DIS037,Medium,Geospatial cluster detected: 34 cases within 5km radius,2022-12-14,True
+AL1761,CL0013,Disease_Spike,DIS050,High,Cases increased 310% in 24 hours,2023-12-19,True
+AL1762,CL0031,Low_Stock,DRG018,High,Current stock 23 < Buffer 71,2022-03-15,True
+AL1763,CL0023,Disease_Spike,DIS018,Critical,Cases increased 496% in 72 hours,2025-12-08,True
+AL1764,CL0002,Disease_Spike,DIS042,High,Cases increased 469% in 48 hours,2022-08-26,True
+AL1765,CL0032,Low_Stock,DRG060,Medium,Current stock 26 < Buffer 73,2025-01-04,True
+AL1766,CL0021,Disease_Spike,DIS042,High,Cases increased 349% in 48 hours,2024-02-24,True
+AL1767,CL0041,Disease_Spike,DIS024,High,Cases increased 239% in 48 hours,2022-09-10,True
+AL1768,CL0026,Low_Stock,DRG092,High,Current stock 24 < Buffer 110,2022-08-16,True
+AL1769,CL0043,Disease_Spike,DIS048,Medium,Cases increased 267% in 72 hours,2022-08-25,False
+AL1770,CL0045,Disease_Spike,DIS012,Medium,Cases increased 402% in 48 hours,2025-06-09,True
+AL1771,CL0035,Disease_Spike,DIS036,High,Cases increased 445% in 24 hours,2024-12-17,True
+AL1772,CL0010,Outbreak_Warning,DIS039,Medium,Geospatial cluster detected: 23 cases within 5km radius,2021-07-01,True
+AL1773,CL0046,Outbreak_Warning,DIS020,Medium,Geospatial cluster detected: 50 cases within 5km radius,2021-08-13,True
+AL1774,CL0028,Outbreak_Warning,DIS025,Critical,Geospatial cluster detected: 10 cases within 5km radius,2024-02-24,True
+AL1775,CL0041,Outbreak_Warning,DIS042,Critical,Geospatial cluster detected: 18 cases within 5km radius,2022-06-19,True
+AL1776,CL0046,Disease_Spike,DIS028,Critical,Cases increased 196% in 48 hours,2021-08-24,True
+AL1777,CL0050,Disease_Spike,DIS005,Critical,Cases increased 341% in 48 hours,2025-02-06,True
+AL1778,CL0017,Disease_Spike,DIS010,Medium,Cases increased 412% in 24 hours,2022-06-18,True
+AL1779,CL0021,Low_Stock,DRG010,Medium,Current stock 11 < Buffer 122,2024-06-07,True
+AL1780,CL0007,Disease_Spike,DIS036,High,Cases increased 239% in 72 hours,2022-01-23,True
+AL1781,CL0012,Outbreak_Warning,DIS040,Medium,Geospatial cluster detected: 42 cases within 5km radius,2021-02-09,True
+AL1782,CL0014,Outbreak_Warning,DIS032,High,Geospatial cluster detected: 46 cases within 5km radius,2024-12-21,True
+AL1783,CL0010,Outbreak_Warning,DIS006,Critical,Geospatial cluster detected: 13 cases within 5km radius,2024-02-16,True
+AL1784,CL0035,Outbreak_Warning,DIS016,Medium,Geospatial cluster detected: 50 cases within 5km radius,2022-11-22,True
+AL1785,CL0023,Low_Stock,DRG057,Critical,Current stock 31 < Buffer 97,2022-12-02,True
+AL1786,CL0009,Disease_Spike,DIS045,High,Cases increased 418% in 24 hours,2021-06-20,True
+AL1787,CL0050,Low_Stock,DRG059,High,Current stock 13 < Buffer 68,2023-02-05,True
+AL1788,CL0031,Disease_Spike,DIS009,High,Cases increased 465% in 48 hours,2025-04-26,True
+AL1789,CL0045,Low_Stock,DRG059,High,Current stock 42 < Buffer 145,2023-11-06,True
+AL1790,CL0033,Outbreak_Warning,DIS038,High,Geospatial cluster detected: 48 cases within 5km radius,2024-11-19,True
+AL1791,CL0001,Outbreak_Warning,DIS015,High,Geospatial cluster detected: 11 cases within 5km radius,2024-07-20,True
+AL1792,CL0035,Disease_Spike,DIS024,High,Cases increased 154% in 72 hours,2024-08-23,False
+AL1793,CL0003,Disease_Spike,DIS047,Critical,Cases increased 464% in 48 hours,2022-02-13,True
+AL1794,CL0028,Disease_Spike,DIS043,High,Cases increased 174% in 48 hours,2025-12-01,True
+AL1795,CL0024,Disease_Spike,DIS017,Critical,Cases increased 482% in 24 hours,2024-01-22,True
+AL1796,CL0010,Low_Stock,DRG051,Critical,Current stock 30 < Buffer 123,2022-07-23,True
+AL1797,CL0037,Outbreak_Warning,DIS001,Critical,Geospatial cluster detected: 31 cases within 5km radius,2025-06-17,False
+AL1798,CL0006,Low_Stock,DRG060,Critical,Current stock 48 < Buffer 73,2023-02-23,True
+AL1799,CL0029,Disease_Spike,DIS048,High,Cases increased 208% in 48 hours,2022-07-27,True
+AL1800,CL0034,Low_Stock,DRG096,Medium,Current stock 33 < Buffer 148,2025-07-25,True
+AL1801,CL0009,Low_Stock,DRG030,High,Current stock 42 < Buffer 89,2025-05-25,True
+AL1802,CL0035,Outbreak_Warning,DIS006,High,Geospatial cluster detected: 21 cases within 5km radius,2021-08-23,True
+AL1803,CL0026,Disease_Spike,DIS019,Medium,Cases increased 281% in 72 hours,2024-12-11,True
+AL1804,CL0017,Low_Stock,DRG034,Critical,Current stock 42 < Buffer 107,2023-12-04,True
+AL1805,CL0003,Outbreak_Warning,DIS010,High,Geospatial cluster detected: 34 cases within 5km radius,2025-01-12,True
+AL1806,CL0042,Disease_Spike,DIS045,Critical,Cases increased 154% in 24 hours,2023-06-20,True
+AL1807,CL0024,Outbreak_Warning,DIS015,Medium,Geospatial cluster detected: 27 cases within 5km radius,2023-06-01,True
+AL1808,CL0020,Outbreak_Warning,DIS024,High,Geospatial cluster detected: 30 cases within 5km radius,2021-01-11,True
+AL1809,CL0037,Outbreak_Warning,DIS049,Critical,Geospatial cluster detected: 37 cases within 5km radius,2023-02-02,True
+AL1810,CL0005,Low_Stock,DRG061,Medium,Current stock 25 < Buffer 116,2023-06-08,True
+AL1811,CL0041,Low_Stock,DRG017,Medium,Current stock 5 < Buffer 124,2023-01-14,True
+AL1812,CL0042,Disease_Spike,DIS027,Medium,Cases increased 398% in 72 hours,2025-06-27,True
+AL1813,CL0031,Low_Stock,DRG079,High,Current stock 45 < Buffer 113,2025-06-05,False
+AL1814,CL0039,Disease_Spike,DIS021,High,Cases increased 218% in 24 hours,2022-01-23,True
+AL1815,CL0047,Disease_Spike,DIS026,Medium,Cases increased 238% in 48 hours,2024-08-16,True
+AL1816,CL0009,Disease_Spike,DIS050,Medium,Cases increased 286% in 24 hours,2021-06-28,True
+AL1817,CL0002,Low_Stock,DRG079,High,Current stock 14 < Buffer 89,2022-06-26,True
+AL1818,CL0007,Low_Stock,DRG065,Critical,Current stock 33 < Buffer 107,2021-06-19,True
+AL1819,CL0038,Disease_Spike,DIS006,Critical,Cases increased 194% in 24 hours,2023-06-05,True
+AL1820,CL0011,Low_Stock,DRG098,Critical,Current stock 16 < Buffer 102,2021-02-07,True
+AL1821,CL0001,Disease_Spike,DIS008,High,Cases increased 417% in 24 hours,2025-06-12,True
+AL1822,CL0006,Disease_Spike,DIS035,Critical,Cases increased 161% in 24 hours,2024-08-07,False
+AL1823,CL0034,Low_Stock,DRG058,Critical,Current stock 17 < Buffer 112,2025-01-20,True
+AL1824,CL0036,Disease_Spike,DIS030,High,Cases increased 420% in 48 hours,2023-01-15,True
+AL1825,CL0007,Low_Stock,DRG009,Critical,Current stock 21 < Buffer 65,2025-04-09,True
+AL1826,CL0021,Disease_Spike,DIS047,Medium,Cases increased 292% in 72 hours,2021-02-27,True
+AL1827,CL0007,Low_Stock,DRG047,Medium,Current stock 29 < Buffer 62,2024-07-21,False
+AL1828,CL0014,Low_Stock,DRG005,High,Current stock 33 < Buffer 118,2022-02-17,True
+AL1829,CL0027,Low_Stock,DRG062,Medium,Current stock 27 < Buffer 116,2022-07-26,True
+AL1830,CL0034,Low_Stock,DRG058,Medium,Current stock 37 < Buffer 98,2022-02-21,True
+AL1831,CL0034,Outbreak_Warning,DIS026,Critical,Geospatial cluster detected: 28 cases within 5km radius,2025-02-13,True
+AL1832,CL0005,Disease_Spike,DIS005,Medium,Cases increased 171% in 24 hours,2025-06-21,True
+AL1833,CL0012,Disease_Spike,DIS013,Medium,Cases increased 345% in 48 hours,2021-07-24,True
+AL1834,CL0044,Low_Stock,DRG089,Critical,Current stock 34 < Buffer 141,2024-07-20,True
+AL1835,CL0037,Low_Stock,DRG014,Medium,Current stock 44 < Buffer 85,2023-06-17,True
+AL1836,CL0031,Disease_Spike,DIS033,Medium,Cases increased 313% in 48 hours,2024-03-19,True
+AL1837,CL0002,Low_Stock,DRG048,High,Current stock 47 < Buffer 101,2023-05-04,True
+AL1838,CL0008,Outbreak_Warning,DIS006,High,Geospatial cluster detected: 12 cases within 5km radius,2023-01-26,True
+AL1839,CL0025,Outbreak_Warning,DIS024,Medium,Geospatial cluster detected: 40 cases within 5km radius,2022-01-05,True
+AL1840,CL0044,Disease_Spike,DIS044,Medium,Cases increased 348% in 24 hours,2021-06-16,True
+AL1841,CL0023,Disease_Spike,DIS042,Critical,Cases increased 232% in 72 hours,2025-06-22,True
+AL1842,CL0003,Low_Stock,DRG008,Critical,Current stock 13 < Buffer 88,2025-08-13,True
+AL1843,CL0035,Outbreak_Warning,DIS015,Critical,Geospatial cluster detected: 19 cases within 5km radius,2023-05-14,False
+AL1844,CL0005,Outbreak_Warning,DIS036,Medium,Geospatial cluster detected: 29 cases within 5km radius,2021-02-03,True
+AL1845,CL0050,Outbreak_Warning,DIS032,Medium,Geospatial cluster detected: 12 cases within 5km radius,2022-11-16,True
+AL1846,CL0035,Disease_Spike,DIS029,Critical,Cases increased 499% in 72 hours,2022-12-23,True
+AL1847,CL0015,Low_Stock,DRG053,Critical,Current stock 10 < Buffer 65,2021-08-23,True
+AL1848,CL0041,Disease_Spike,DIS039,Critical,Cases increased 317% in 48 hours,2023-08-14,True
+AL1849,CL0013,Low_Stock,DRG098,Critical,Current stock 39 < Buffer 150,2024-11-18,True
+AL1850,CL0028,Outbreak_Warning,DIS018,High,Geospatial cluster detected: 36 cases within 5km radius,2024-07-08,True
+AL1851,CL0036,Disease_Spike,DIS010,Medium,Cases increased 263% in 24 hours,2024-02-02,True
+AL1852,CL0040,Outbreak_Warning,DIS031,Critical,Geospatial cluster detected: 26 cases within 5km radius,2021-01-13,True
+AL1853,CL0002,Disease_Spike,DIS013,Critical,Cases increased 382% in 24 hours,2024-07-12,True
+AL1854,CL0015,Low_Stock,DRG089,Critical,Current stock 13 < Buffer 101,2021-12-03,True
+AL1855,CL0029,Low_Stock,DRG067,High,Current stock 11 < Buffer 134,2021-02-02,True
+AL1856,CL0043,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 40 cases within 5km radius,2021-07-11,True
+AL1857,CL0033,Outbreak_Warning,DIS039,Critical,Geospatial cluster detected: 25 cases within 5km radius,2023-08-24,False
+AL1858,CL0034,Disease_Spike,DIS028,Critical,Cases increased 398% in 24 hours,2023-06-06,True
+AL1859,CL0038,Outbreak_Warning,DIS010,Medium,Geospatial cluster detected: 19 cases within 5km radius,2023-02-02,True
+AL1860,CL0045,Disease_Spike,DIS016,High,Cases increased 489% in 24 hours,2023-12-18,True
+AL1861,CL0047,Disease_Spike,DIS049,High,Cases increased 277% in 72 hours,2023-12-04,True
+AL1862,CL0008,Outbreak_Warning,DIS040,Medium,Geospatial cluster detected: 11 cases within 5km radius,2023-02-11,False
+AL1863,CL0022,Low_Stock,DRG017,Critical,Current stock 42 < Buffer 66,2021-11-12,True
+AL1864,CL0020,Low_Stock,DRG042,High,Current stock 9 < Buffer 109,2022-06-18,True
+AL1865,CL0008,Outbreak_Warning,DIS030,High,Geospatial cluster detected: 48 cases within 5km radius,2024-07-18,True
+AL1866,CL0048,Disease_Spike,DIS044,Critical,Cases increased 201% in 48 hours,2022-01-23,True
+AL1867,CL0004,Disease_Spike,DIS009,High,Cases increased 294% in 48 hours,2021-01-22,True
+AL1868,CL0023,Disease_Spike,DIS021,High,Cases increased 319% in 48 hours,2021-01-06,True
+AL1869,CL0028,Low_Stock,DRG002,Critical,Current stock 29 < Buffer 126,2021-07-04,True
+AL1870,CL0012,Low_Stock,DRG077,High,Current stock 22 < Buffer 139,2025-04-23,True
+AL1871,CL0009,Outbreak_Warning,DIS001,Medium,Geospatial cluster detected: 47 cases within 5km radius,2024-02-17,False
+AL1872,CL0021,Disease_Spike,DIS012,Critical,Cases increased 475% in 48 hours,2022-07-22,True
+AL1873,CL0045,Disease_Spike,DIS015,High,Cases increased 183% in 24 hours,2025-07-02,True
+AL1874,CL0021,Outbreak_Warning,DIS040,High,Geospatial cluster detected: 47 cases within 5km radius,2021-07-26,True
+AL1875,CL0016,Outbreak_Warning,DIS027,Medium,Geospatial cluster detected: 32 cases within 5km radius,2021-12-02,True
+AL1876,CL0033,Outbreak_Warning,DIS038,Critical,Geospatial cluster detected: 48 cases within 5km radius,2025-01-04,True
+AL1877,CL0015,Low_Stock,DRG049,High,Current stock 23 < Buffer 68,2024-06-14,True
+AL1878,CL0035,Disease_Spike,DIS037,Critical,Cases increased 201% in 72 hours,2024-12-04,True
+AL1879,CL0024,Disease_Spike,DIS046,Medium,Cases increased 163% in 48 hours,2024-06-25,True
+AL1880,CL0018,Outbreak_Warning,DIS002,Medium,Geospatial cluster detected: 39 cases within 5km radius,2021-02-06,False
+AL1881,CL0044,Disease_Spike,DIS019,Critical,Cases increased 429% in 24 hours,2022-02-03,True
+AL1882,CL0012,Low_Stock,DRG012,Medium,Current stock 13 < Buffer 88,2024-01-05,True
+AL1883,CL0007,Outbreak_Warning,DIS013,Critical,Geospatial cluster detected: 45 cases within 5km radius,2025-05-08,True
+AL1884,CL0013,Low_Stock,DRG093,Critical,Current stock 19 < Buffer 69,2021-08-06,True
+AL1885,CL0014,Disease_Spike,DIS032,Medium,Cases increased 290% in 48 hours,2022-02-20,True
+AL1886,CL0024,Disease_Spike,DIS047,Medium,Cases increased 354% in 48 hours,2024-08-09,False
+AL1887,CL0028,Disease_Spike,DIS018,High,Cases increased 467% in 24 hours,2023-06-16,True
+AL1888,CL0016,Low_Stock,DRG050,Critical,Current stock 24 < Buffer 112,2025-01-14,True
+AL1889,CL0031,Disease_Spike,DIS009,High,Cases increased 276% in 48 hours,2025-07-27,True
+AL1890,CL0022,Low_Stock,DRG003,High,Current stock 13 < Buffer 86,2021-07-09,False
+AL1891,CL0005,Outbreak_Warning,DIS043,Medium,Geospatial cluster detected: 18 cases within 5km radius,2021-02-08,True
+AL1892,CL0014,Outbreak_Warning,DIS037,Critical,Geospatial cluster detected: 37 cases within 5km radius,2025-02-28,True
+AL1893,CL0006,Disease_Spike,DIS046,High,Cases increased 328% in 24 hours,2023-12-15,True
+AL1894,CL0028,Low_Stock,DRG087,Critical,Current stock 11 < Buffer 108,2022-12-18,True
+AL1895,CL0032,Outbreak_Warning,DIS021,High,Geospatial cluster detected: 39 cases within 5km radius,2025-10-26,False
+AL1896,CL0031,Outbreak_Warning,DIS012,Critical,Geospatial cluster detected: 10 cases within 5km radius,2025-09-27,True
+AL1897,CL0044,Outbreak_Warning,DIS021,Critical,Geospatial cluster detected: 43 cases within 5km radius,2024-07-18,True
+AL1898,CL0025,Low_Stock,DRG092,High,Current stock 27 < Buffer 82,2025-09-27,True
+AL1899,CL0026,Outbreak_Warning,DIS021,High,Geospatial cluster detected: 17 cases within 5km radius,2025-02-01,True
+AL1900,CL0039,Disease_Spike,DIS030,Medium,Cases increased 320% in 72 hours,2023-07-02,True
+AL1901,CL0044,Disease_Spike,DIS027,Medium,Cases increased 389% in 48 hours,2021-06-01,True
+AL1902,CL0049,Low_Stock,DRG073,Medium,Current stock 13 < Buffer 66,2023-06-02,True
+AL1903,CL0014,Low_Stock,DRG014,High,Current stock 20 < Buffer 86,2025-08-24,True
+AL1904,CL0027,Low_Stock,DRG002,Critical,Current stock 48 < Buffer 62,2024-07-19,True
+AL1905,CL0043,Outbreak_Warning,DIS005,High,Geospatial cluster detected: 12 cases within 5km radius,2024-12-23,True
+AL1906,CL0042,Disease_Spike,DIS044,Medium,Cases increased 309% in 72 hours,2023-08-21,True
+AL1907,CL0048,Outbreak_Warning,DIS043,High,Geospatial cluster detected: 14 cases within 5km radius,2025-02-23,True
+AL1908,CL0024,Outbreak_Warning,DIS047,Critical,Geospatial cluster detected: 30 cases within 5km radius,2025-02-04,True
+AL1909,CL0002,Disease_Spike,DIS030,Critical,Cases increased 477% in 24 hours,2025-11-20,True
+AL1910,CL0006,Outbreak_Warning,DIS013,Critical,Geospatial cluster detected: 19 cases within 5km radius,2025-06-22,False
+AL1911,CL0012,Low_Stock,DRG086,Medium,Current stock 35 < Buffer 108,2025-01-01,False
+AL1912,CL0017,Disease_Spike,DIS019,Medium,Cases increased 485% in 24 hours,2021-07-26,False
+AL1913,CL0041,Low_Stock,DRG033,Medium,Current stock 37 < Buffer 73,2025-07-13,True
+AL1914,CL0018,Outbreak_Warning,DIS040,Critical,Geospatial cluster detected: 22 cases within 5km radius,2022-07-24,True
+AL1915,CL0048,Low_Stock,DRG060,High,Current stock 42 < Buffer 71,2024-10-07,True
+AL1916,CL0009,Outbreak_Warning,DIS011,Medium,Geospatial cluster detected: 21 cases within 5km radius,2022-08-09,True
+AL1917,CL0048,Low_Stock,DRG087,High,Current stock 11 < Buffer 144,2024-02-16,True
+AL1918,CL0008,Outbreak_Warning,DIS004,High,Geospatial cluster detected: 47 cases within 5km radius,2023-12-23,True
+AL1919,CL0003,Outbreak_Warning,DIS036,High,Geospatial cluster detected: 30 cases within 5km radius,2025-07-18,True
+AL1920,CL0004,Disease_Spike,DIS037,Medium,Cases increased 364% in 48 hours,2025-08-26,True
+AL1921,CL0014,Low_Stock,DRG043,High,Current stock 30 < Buffer 129,2024-08-20,True
+AL1922,CL0038,Low_Stock,DRG017,Medium,Current stock 40 < Buffer 85,2024-01-14,True
+AL1923,CL0031,Disease_Spike,DIS011,High,Cases increased 304% in 72 hours,2023-07-23,True
+AL1924,CL0023,Low_Stock,DRG064,Critical,Current stock 17 < Buffer 85,2025-08-13,True
+AL1925,CL0042,Outbreak_Warning,DIS008,Critical,Geospatial cluster detected: 26 cases within 5km radius,2021-06-13,True
+AL1926,CL0045,Low_Stock,DRG099,Medium,Current stock 14 < Buffer 89,2021-05-25,False
+AL1927,CL0004,Low_Stock,DRG026,Critical,Current stock 12 < Buffer 122,2025-07-05,True
+AL1928,CL0031,Outbreak_Warning,DIS034,High,Geospatial cluster detected: 22 cases within 5km radius,2024-12-02,True
+AL1929,CL0022,Low_Stock,DRG060,High,Current stock 32 < Buffer 101,2025-06-12,True
+AL1930,CL0008,Outbreak_Warning,DIS045,High,Geospatial cluster detected: 28 cases within 5km radius,2023-06-14,True
+AL1931,CL0033,Low_Stock,DRG014,Critical,Current stock 50 < Buffer 68,2022-02-16,True
+AL1932,CL0024,Outbreak_Warning,DIS011,Critical,Geospatial cluster detected: 41 cases within 5km radius,2023-12-14,False
+AL1933,CL0033,Low_Stock,DRG021,Critical,Current stock 26 < Buffer 116,2022-02-18,False
+AL1934,CL0046,Disease_Spike,DIS006,High,Cases increased 437% in 72 hours,2024-06-06,True
+AL1935,CL0007,Outbreak_Warning,DIS011,Medium,Geospatial cluster detected: 34 cases within 5km radius,2021-06-11,True
+AL1936,CL0010,Disease_Spike,DIS049,High,Cases increased 213% in 24 hours,2021-12-17,True
+AL1937,CL0020,Outbreak_Warning,DIS004,Critical,Geospatial cluster detected: 40 cases within 5km radius,2022-06-24,True
+AL1938,CL0001,Disease_Spike,DIS011,Critical,Cases increased 276% in 24 hours,2022-06-18,True
+AL1939,CL0039,Outbreak_Warning,DIS010,Medium,Geospatial cluster detected: 31 cases within 5km radius,2022-12-26,True
+AL1940,CL0048,Disease_Spike,DIS048,Medium,Cases increased 411% in 72 hours,2021-09-13,True
+AL1941,CL0036,Disease_Spike,DIS019,High,Cases increased 201% in 72 hours,2024-06-19,True
+AL1942,CL0020,Outbreak_Warning,DIS003,Critical,Geospatial cluster detected: 24 cases within 5km radius,2021-02-27,True
+AL1943,CL0023,Disease_Spike,DIS035,Critical,Cases increased 323% in 24 hours,2021-12-07,True
+AL1944,CL0027,Outbreak_Warning,DIS034,High,Geospatial cluster detected: 34 cases within 5km radius,2024-04-22,True
+AL1945,CL0044,Outbreak_Warning,DIS036,High,Geospatial cluster detected: 15 cases within 5km radius,2022-12-27,True
+AL1946,CL0012,Low_Stock,DRG072,Critical,Current stock 5 < Buffer 126,2023-08-17,True
+AL1947,CL0040,Low_Stock,DRG037,Medium,Current stock 7 < Buffer 80,2021-07-27,True
+AL1948,CL0012,Disease_Spike,DIS046,High,Cases increased 348% in 48 hours,2021-03-23,True
+AL1949,CL0026,Disease_Spike,DIS038,Critical,Cases increased 331% in 72 hours,2024-06-04,True
+AL1950,CL0046,Low_Stock,DRG053,High,Current stock 17 < Buffer 125,2024-08-04,True
+AL1951,CL0003,Outbreak_Warning,DIS046,Critical,Geospatial cluster detected: 39 cases within 5km radius,2022-08-26,False
+AL1952,CL0044,Low_Stock,DRG023,Critical,Current stock 39 < Buffer 118,2025-07-04,True
+AL1953,CL0043,Low_Stock,DRG078,Medium,Current stock 13 < Buffer 125,2025-07-05,True
+AL1954,CL0048,Low_Stock,DRG025,Medium,Current stock 7 < Buffer 101,2022-10-10,False
+AL1955,CL0047,Disease_Spike,DIS049,Critical,Cases increased 211% in 72 hours,2021-07-06,True
+AL1956,CL0006,Disease_Spike,DIS022,High,Cases increased 321% in 48 hours,2024-07-22,True
+AL1957,CL0048,Disease_Spike,DIS028,High,Cases increased 396% in 48 hours,2021-07-18,False
+AL1958,CL0044,Low_Stock,DRG085,Medium,Current stock 14 < Buffer 70,2025-01-06,True
+AL1959,CL0046,Outbreak_Warning,DIS030,Critical,Geospatial cluster detected: 49 cases within 5km radius,2025-01-05,True
+AL1960,CL0047,Outbreak_Warning,DIS009,Critical,Geospatial cluster detected: 11 cases within 5km radius,2025-07-21,True
+AL1961,CL0039,Low_Stock,DRG041,High,Current stock 42 < Buffer 150,2022-12-18,True
+AL1962,CL0011,Low_Stock,DRG069,Medium,Current stock 48 < Buffer 63,2022-01-23,False
+AL1963,CL0023,Low_Stock,DRG082,Critical,Current stock 37 < Buffer 115,2025-11-17,True
+AL1964,CL0046,Low_Stock,DRG085,High,Current stock 23 < Buffer 90,2024-02-09,True
+AL1965,CL0009,Disease_Spike,DIS032,Medium,Cases increased 344% in 48 hours,2023-01-04,True
+AL1966,CL0045,Disease_Spike,DIS002,High,Cases increased 234% in 48 hours,2022-02-07,True
+AL1967,CL0050,Disease_Spike,DIS011,Critical,Cases increased 449% in 72 hours,2024-01-05,True
+AL1968,CL0041,Outbreak_Warning,DIS046,Critical,Geospatial cluster detected: 47 cases within 5km radius,2021-02-03,True
+AL1969,CL0014,Low_Stock,DRG014,Critical,Current stock 38 < Buffer 62,2023-07-04,True
+AL1970,CL0006,Outbreak_Warning,DIS045,Medium,Geospatial cluster detected: 46 cases within 5km radius,2022-10-26,True
+AL1971,CL0036,Low_Stock,DRG098,High,Current stock 36 < Buffer 127,2022-06-12,True
+AL1972,CL0048,Disease_Spike,DIS038,Medium,Cases increased 281% in 24 hours,2025-12-21,True
+AL1973,CL0009,Outbreak_Warning,DIS002,High,Geospatial cluster detected: 12 cases within 5km radius,2022-12-11,True
+AL1974,CL0012,Outbreak_Warning,DIS018,High,Geospatial cluster detected: 30 cases within 5km radius,2023-02-27,True
+AL1975,CL0042,Disease_Spike,DIS003,High,Cases increased 260% in 72 hours,2023-07-15,True
+AL1976,CL0034,Outbreak_Warning,DIS048,Critical,Geospatial cluster detected: 48 cases within 5km radius,2023-03-13,True
+AL1977,CL0046,Low_Stock,DRG040,Critical,Current stock 47 < Buffer 105,2021-01-20,True
+AL1978,CL0024,Outbreak_Warning,DIS006,Critical,Geospatial cluster detected: 45 cases within 5km radius,2025-02-03,True
+AL1979,CL0030,Low_Stock,DRG029,High,Current stock 27 < Buffer 92,2024-07-07,True
+AL1980,CL0021,Low_Stock,DRG032,High,Current stock 46 < Buffer 66,2022-07-13,True
+AL1981,CL0010,Disease_Spike,DIS025,Critical,Cases increased 195% in 72 hours,2021-07-24,True
+AL1982,CL0039,Outbreak_Warning,DIS049,High,Geospatial cluster detected: 11 cases within 5km radius,2024-08-10,True
+AL1983,CL0036,Low_Stock,DRG034,High,Current stock 39 < Buffer 99,2022-01-22,True
+AL1984,CL0035,Low_Stock,DRG015,Medium,Current stock 7 < Buffer 77,2022-03-02,True
+AL1985,CL0036,Disease_Spike,DIS047,High,Cases increased 298% in 72 hours,2022-06-08,True
+AL1986,CL0004,Low_Stock,DRG021,High,Current stock 22 < Buffer 119,2025-12-13,True
+AL1987,CL0026,Outbreak_Warning,DIS050,Medium,Geospatial cluster detected: 15 cases within 5km radius,2022-04-01,True
+AL1988,CL0041,Low_Stock,DRG095,Critical,Current stock 16 < Buffer 121,2022-11-03,True
+AL1989,CL0029,Disease_Spike,DIS037,Critical,Cases increased 424% in 48 hours,2021-01-13,True
+AL1990,CL0019,Low_Stock,DRG001,High,Current stock 13 < Buffer 98,2025-05-27,True
+AL1991,CL0014,Outbreak_Warning,DIS036,Critical,Geospatial cluster detected: 41 cases within 5km radius,2025-08-02,True
+AL1992,CL0009,Low_Stock,DRG073,Critical,Current stock 23 < Buffer 69,2023-04-22,True
+AL1993,CL0049,Disease_Spike,DIS033,Medium,Cases increased 485% in 48 hours,2023-02-22,True
+AL1994,CL0035,Disease_Spike,DIS009,Medium,Cases increased 267% in 24 hours,2021-08-19,True
+AL1995,CL0048,Low_Stock,DRG011,Medium,Current stock 6 < Buffer 84,2022-08-13,True
+AL1996,CL0041,Outbreak_Warning,DIS014,High,Geospatial cluster detected: 17 cases within 5km radius,2022-07-11,True
+AL1997,CL0020,Outbreak_Warning,DIS012,High,Geospatial cluster detected: 23 cases within 5km radius,2023-08-23,True
+AL1998,CL0049,Low_Stock,DRG083,High,Current stock 24 < Buffer 83,2024-06-19,True
+AL1999,CL0027,Low_Stock,DRG017,Medium,Current stock 43 < Buffer 97,2023-02-16,True
+AL2000,CL0033,Low_Stock,DRG025,High,Current stock 49 < Buffer 66,2024-01-25,True

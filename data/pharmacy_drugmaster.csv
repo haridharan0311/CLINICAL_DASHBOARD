@@ -1,0 +1,151 @@
+drug_id,generic_name,brand_name,category,current_stock_level,minimum_safety_buffer,unit_cost_inr,lead_time_days,requires_prescription
+DR001,Paracetamol,Dolo 650,Analgesic,2253,225,113.16,6,True
+DR002,Dextrose,D5,IV Fluids,4837,316,17.83,1,True
+DR003,Ciprofloxacin,Ciplox,Antibiotic,4139,408,15.21,2,True
+DR004,Sodium Chloride,NS 0.45%,IV Fluids,1805,329,295.45,7,True
+DR005,Diclofenac,Voveran,Analgesic,3462,274,140.38,2,False
+DR006,Ibuprofen,Brufen,Analgesic,3112,149,180.77,3,False
+DR007,Etoricoxib,Arcoxia,Analgesic,4392,163,486.61,4,True
+DR008,Metronidazole IV,Metrogyl IV,IV Fluids,2962,395,97.76,1,True
+DR009,Aceclofenac,Zerodol,Analgesic,2370,140,427.95,7,True
+DR010,Tenofovir,Tenvir,Antiviral,3714,425,417.39,2,True
+DR011,Gliclazide,Diamicron,Antidiabetic,1716,443,134.95,6,True
+DR012,Ketorolac,Ketanov,Analgesic,1401,373,365.11,2,False
+DR013,Tenofovir,Tenvir,Antiviral,4562,212,342.94,7,True
+DR014,Aceclofenac,Zerodol,Analgesic,262,261,201.78,1,True
+DR015,Paracetamol IV,Febrinil IV,IV Fluids,1741,435,250.62,6,True
+DR016,Remdesivir,Remdac,Antiviral,2169,171,124.82,5,True
+DR017,Metronidazole IV,Metrogyl IV,IV Fluids,4788,319,449.12,4,True
+DR018,Vildagliptin,Galvus,Antidiabetic,1133,360,247.77,7,True
+DR019,Ibuprofen,Brufen,Analgesic,1252,421,81.67,6,False
+DR020,Dextrose,D5,IV Fluids,3152,295,298.75,4,True
+DR021,Metronidazole IV,Metrogyl IV,IV Fluids,4532,105,340.78,1,True
+DR022,Metronidazole IV,Metrogyl IV,IV Fluids,2786,157,148.16,2,True
+DR023,Oseltamivir,Antiflu,Antiviral,2157,356,381.46,5,True
+DR024,Mefenamic Acid,Meftal,Analgesic,4158,411,101.06,3,True
+DR025,Hydroxyethyl Starch,Voluven,IV Fluids,4,406,163.43,1,True
+DR026,Tramadol,Ultracet,Analgesic,2519,222,30.85,5,True
+DR027,Etoricoxib,Arcoxia,Analgesic,566,489,267.29,2,True
+DR028,Ritonavir,Ritovir,Antiviral,1352,235,264.78,5,True
+DR029,Favipiravir,FabiFlu,Antiviral,4417,486,365.51,2,True
+DR030,Dapagliflozin,Forxiga,Antidiabetic,3059,324,450.01,4,True
+DR031,Aceclofenac,Zerodol,Analgesic,1840,132,170.37,5,True
+DR032,Mannitol,Manit,IV Fluids,58,136,354.5,1,True
+DR033,Azithromycin,Azithral,Antibiotic,257,269,37.29,2,True
+DR034,Teneligliptin,Ziten,Antidiabetic,1755,376,67.89,5,True
+DR035,Multiple Electrolytes,Isolyte P,IV Fluids,1990,342,404.13,2,True
+DR036,Ibuprofen,Brufen,Analgesic,3531,281,212.94,4,True
+DR037,Paracetamol,Dolo 650,Analgesic,3298,472,170.97,7,True
+DR038,Ciprofloxacin,Ciplox,Antibiotic,1558,374,225.41,4,True
+DR039,Ofloxacin,Zenflox,Antibiotic,3789,227,437.49,1,True
+DR040,Ritonavir,Ritovir,Antiviral,802,125,326.77,5,True
+DR041,Ibuprofen,Brufen,Analgesic,1936,185,204.39,4,True
+DR042,Oseltamivir,Antiflu,Antiviral,1348,294,3.07,4,True
+DR043,Teneligliptin,Ziten,Antidiabetic,2336,316,348.9,6,True
+DR044,Multiple Electrolytes,Isolyte P,IV Fluids,1268,197,149.76,1,True
+DR045,Hydroxyethyl Starch,Voluven,IV Fluids,499,482,158.18,1,True
+DR046,Multiple Electrolytes,Isolyte P,IV Fluids,4119,371,80.4,5,True
+DR047,Diclofenac,Voveran,Analgesic,561,404,35.84,7,True
+DR048,Acyclovir,Acivir,Antiviral,4666,226,290.3,1,True
+DR049,Dextrose,D5,IV Fluids,3434,436,292.67,5,True
+DR050,Pioglitazone,Pioz,Antidiabetic,1673,442,358.66,2,True
+DR051,Dapagliflozin,Forxiga,Antidiabetic,1072,443,323.46,4,True
+DR052,Glimepiride,Amaryl,Antidiabetic,76,334,311.34,5,True
+DR053,Ibuprofen,Brufen,Analgesic,4404,209,253.93,2,False
+DR054,Aceclofenac,Zerodol,Analgesic,3027,245,80.56,7,False
+DR055,Hydroxyethyl Starch,Voluven,IV Fluids,64,441,408.92,3,True
+DR056,Diclofenac,Voveran,Analgesic,2166,159,445.08,6,True
+DR057,Pioglitazone,Pioz,Antidiabetic,4954,207,359.37,2,True
+DR058,Linagliptin,Trajenta,Antidiabetic,4002,228,452.86,7,True
+DR059,Ibuprofen,Brufen,Analgesic,3469,241,23.96,3,True
+DR060,Sitagliptin,Januvia,Antidiabetic,3619,382,353.42,5,True
+DR061,Ibuprofen,Brufen,Analgesic,616,453,452.16,5,True
+DR062,Insulin Glargine,Lantus,Antidiabetic,4526,175,216.03,1,True
+DR063,Gliclazide,Diamicron,Antidiabetic,326,283,106.62,2,True
+DR064,Tramadol,Ultracet,Analgesic,4586,308,486.97,6,True
+DR065,Cefixime,Taxim-O,Antibiotic,1450,311,14.34,6,True
+DR066,Dapagliflozin,Forxiga,Antidiabetic,2032,236,81.28,6,True
+DR067,Nimesulide,Nise,Analgesic,317,340,112.77,7,False
+DR068,Pioglitazone,Pioz,Antidiabetic,1864,214,13.78,2,True
+DR069,Entecavir,Baraclude,Antiviral,2282,135,483.51,3,True
+DR070,Linagliptin,Trajenta,Antidiabetic,3274,447,490.61,5,True
+DR071,Metformin,Glycomet,Antidiabetic,944,233,90.93,3,True
+DR072,Ibuprofen,Brufen,Analgesic,4887,322,174.15,7,False
+DR073,Lamivudine,Lamivir,Antiviral,4189,159,193.83,5,True
+DR074,Ofloxacin,Zenflox,Antibiotic,363,462,219.16,5,True
+DR075,Mannitol,Manit,IV Fluids,2983,320,36.85,6,True
+DR076,Insulin Glargine,Lantus,Antidiabetic,2571,439,424.31,6,True
+DR077,Linagliptin,Trajenta,Antidiabetic,2533,441,205.38,4,True
+DR078,Linagliptin,Trajenta,Antidiabetic,1042,198,211.38,4,True
+DR079,Linezolid,Lizomac,Antibiotic,4662,254,204.23,7,True
+DR080,Mefenamic Acid,Meftal,Analgesic,2350,207,216.08,5,False
+DR081,Sofosbuvir,SoviHep,Antiviral,3622,445,108.42,4,True
+DR082,Azithromycin,Azithral,Antibiotic,2324,363,332.6,5,True
+DR083,Glimepiride,Amaryl,Antidiabetic,1924,444,156.59,7,True
+DR084,Cefixime,Taxim-O,Antibiotic,200,123,123.93,4,True
+DR085,Dextrose,D5,IV Fluids,3730,312,443.3,5,True
+DR086,Clarithromycin,Clarigard,Antibiotic,4049,304,123.5,6,True
+DR087,Ibuprofen,Brufen,Analgesic,3482,212,89.59,6,False
+DR088,Aspirin,Ecosprin,Analgesic,2041,162,229.32,7,False
+DR089,Hydroxyethyl Starch,Voluven,IV Fluids,4877,262,475.12,4,True
+DR090,Hydroxyethyl Starch,Voluven,IV Fluids,3495,380,224.06,2,True
+DR091,Sofosbuvir,SoviHep,Antiviral,2123,484,125.13,6,True
+DR092,Linagliptin,Trajenta,Antidiabetic,3969,420,121.14,4,True
+DR093,Mefenamic Acid,Meftal,Analgesic,1920,239,169.25,5,True
+DR094,Cefixime,Taxim-O,Antibiotic,1894,296,347.59,6,True
+DR095,Azithromycin,Azithral,Antibiotic,3398,308,166.78,4,True
+DR096,Oseltamivir,Antiflu,Antiviral,1694,315,195.96,7,True
+DR097,Normal Saline,NS 0.9%,IV Fluids,4716,294,239.54,3,True
+DR098,Dapagliflozin,Forxiga,Antidiabetic,3432,375,374.26,5,True
+DR099,Mannitol,Manit,IV Fluids,3999,212,137.92,4,True
+DR100,Nimesulide,Nise,Analgesic,2753,442,340.21,4,True
+DR101,Remdesivir,Remdac,Antiviral,4375,113,453.65,5,True
+DR102,Normal Saline,NS 0.9%,IV Fluids,687,429,215.45,7,True
+DR103,Remdesivir,Remdac,Antiviral,411,233,190.79,2,True
+DR104,Entecavir,Baraclude,Antiviral,2764,489,440.06,3,True
+DR105,Tenofovir,Tenvir,Antiviral,670,340,11.65,5,True
+DR106,Tramadol,Ultracet,Analgesic,1836,432,36.17,6,True
+DR107,Aceclofenac,Zerodol,Analgesic,1633,110,311.43,2,True
+DR108,Acyclovir,Acivir,Antiviral,4620,211,233.59,3,True
+DR109,Sitagliptin,Januvia,Antidiabetic,4963,410,481.94,6,True
+DR110,Diclofenac,Voveran,Analgesic,2548,155,290.18,3,False
+DR111,Favipiravir,FabiFlu,Antiviral,622,403,345.93,6,True
+DR112,Azithromycin,Azithral,Antibiotic,2470,450,301.0,1,True
+DR113,Normal Saline,NS 0.9%,IV Fluids,2844,372,215.33,3,True
+DR114,Aspirin,Ecosprin,Analgesic,2795,106,425.09,7,False
+DR115,Nimesulide,Nise,Analgesic,2967,425,446.0,4,True
+DR116,Remdesivir,Remdac,Antiviral,4274,433,136.5,7,True
+DR117,Multiple Electrolytes,Isolyte P,IV Fluids,3808,323,413.22,5,True
+DR118,Gliclazide,Diamicron,Antidiabetic,2011,144,140.91,4,True
+DR119,Levofloxacin,Loxof,Antibiotic,4668,412,334.76,3,True
+DR120,Etoricoxib,Arcoxia,Analgesic,2662,193,244.8,3,False
+DR121,Pioglitazone,Pioz,Antidiabetic,4883,459,440.29,5,True
+DR122,Aspirin,Ecosprin,Analgesic,1565,143,122.2,4,False
+DR123,Mannitol,Manit,IV Fluids,3900,430,356.5,4,True
+DR124,Ibuprofen,Brufen,Analgesic,2410,213,203.39,2,False
+DR125,Paracetamol IV,Febrinil IV,IV Fluids,3876,383,266.4,4,True
+DR126,Paracetamol IV,Febrinil IV,IV Fluids,2882,459,227.97,3,True
+DR127,Vildagliptin,Galvus,Antidiabetic,988,469,97.91,1,True
+DR128,Ringer Lactate,RL,IV Fluids,1569,210,369.83,3,True
+DR129,Hydroxyethyl Starch,Voluven,IV Fluids,4888,244,490.29,7,True
+DR130,Ofloxacin,Zenflox,Antibiotic,1863,284,91.36,1,True
+DR131,Ringer Lactate,RL,IV Fluids,2247,123,487.2,5,True
+DR132,Sitagliptin,Januvia,Antidiabetic,4021,152,436.61,5,True
+DR133,Teneligliptin,Ziten,Antidiabetic,3921,325,171.67,1,True
+DR134,Teneligliptin,Ziten,Antidiabetic,934,133,201.55,1,True
+DR135,Normal Saline,NS 0.9%,IV Fluids,1242,176,405.95,3,True
+DR136,Aceclofenac,Zerodol,Analgesic,970,385,382.69,5,True
+DR137,Sodium Chloride,NS 0.45%,IV Fluids,3690,326,150.08,5,True
+DR138,Tenofovir,Tenvir,Antiviral,4658,417,31.99,6,True
+DR139,Aceclofenac,Zerodol,Analgesic,1728,235,330.89,2,True
+DR140,Cefuroxime,Ceftum,Antibiotic,614,180,3.33,4,True
+DR141,Multiple Electrolytes,Isolyte P,IV Fluids,2385,116,117.28,6,True
+DR142,Teneligliptin,Ziten,Antidiabetic,583,451,118.25,3,True
+DR143,Mannitol,Manit,IV Fluids,3482,158,273.19,6,True
+DR144,Ofloxacin,Zenflox,Antibiotic,1165,136,31.7,7,True
+DR145,Insulin Glargine,Lantus,Antidiabetic,4662,247,220.7,4,True
+DR146,Dapagliflozin,Forxiga,Antidiabetic,2230,356,270.91,4,True
+DR147,Ketorolac,Ketanov,Analgesic,326,321,367.8,5,False
+DR148,Ibuprofen,Brufen,Analgesic,1875,445,418.31,5,True
+DR149,Insulin Glargine,Lantus,Antidiabetic,329,490,378.62,4,True
+DR150,Multiple Electrolytes,Isolyte P,IV Fluids,2278,192,498.48,4,True

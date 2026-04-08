@@ -1,0 +1,51 @@
+clinic_id,clinic_name,address_line,city,district,pincode,contact_number,clinic_type,bed_capacity,latitude,longitude,established_year
+C001,Nellai Medical Health Centre,"644, Anna Nagar 80 Feet Road",Madurai,Madurai,625047,+91 8181464733,Primary Care,0,9.927307,78.148522,2013
+C002,Annamalai Care Hospital,"374, Avinashi Road",Coimbatore,Coimbatore,641048,+91 7367865374,Multi-Specialty,39,11.020182,77.002532,2011
+C003,Lotus Medical Center,"389, Cross Cut Road",Coimbatore,Coimbatore,641082,+91 8974321916,Multi-Specialty,25,10.972905,76.904815,2015
+C004,Sri Lakshmi Medical Center,"291A, Arcot Road",Chennai,Chennai,600041,+91 8936117482,Primary Care,0,13.121171,80.246428,2012
+C005,Vasan Family Clinic,"439, OMR Service Road",Chennai,Chennai,600052,+91 7382419348,Primary Care,0,13.023379,80.263367,2011
+C006,Cauvery Wellness Center,"395, Trivandrum Road",Tirunelveli,Tirunelveli,627077,+91 6773571188,Primary Care,0,8.718028,77.661455,2018
+C007,Sri Lakshmi Family Clinic,"465, K.K. Nagar Main Road",Madurai,Madurai,625093,+91 7748803927,Multi-Specialty,36,9.900768,78.060641,2020
+C008,Kumaran Medical Center,"781, Mount Road",Chennai,Chennai,600070,+91 9864319005,Primary Care,0,12.904869,80.289365,2014
+C009,Vasan Health Centre,"498, K.K. Nagar Main Road",Madurai,Madurai,625098,+91 8267758787,Primary Care,0,9.944685,78.066513,2018
+C010,Vasan Medical Center,"409, Sathy Road",Coimbatore,Coimbatore,641084,+91 7666298397,Multi-Specialty,42,10.9621,76.933705,2015
+C011,Lotus Medical Center,"8, K.K. Nagar Main Road",Madurai,Madurai,625091,+91 9391691514,Primary Care,0,9.935964,78.057086,2013
+C012,Aruna Medical Center,"741, Pollachi Main Road",Coimbatore,Coimbatore,641074,+91 6419038749,Primary Care,0,11.03075,76.928561,2011
+C013,Nellai Medical Wellness Center,"747, Anna Salai",Chennai,Chennai,600087,+91 9175126559,Multi-Specialty,37,13.100148,80.16639,2013
+C014,Aruna Diagnostics,"286, Velachery Road",Chennai,Chennai,600032,+91 9669272604,Primary Care,0,12.912647,80.299892,2010
+C015,Kongu Medical Center,"498, Sarada College Road",Salem,Salem,636028,+91 6172687209,Diagnostic Center,0,11.600216,78.139042,2017
+C016,Meenakshi Care Hospital,"304, Cantonment",Trichy,Tiruchirappalli,620008,+91 9501581821,Primary Care,0,10.808418,78.700285,2018
+C017,Lotus Health Centre,"36A, OMR Service Road",Chennai,Chennai,600009,+91 8612225033,Primary Care,0,13.04473,80.155961,2011
+C018,Velan Nursing Home,"105A, Sathy Road",Coimbatore,Coimbatore,641092,+91 7403717484,Primary Care,0,10.963088,76.996825,2017
+C019,Kongu Health Centre,"637, West Boulevard Road",Trichy,Tiruchirappalli,620013,+91 9783189288,Primary Care,0,10.77652,78.743326,2011
+C020,Annamalai Diagnostics,"557, Arcot Road",Chennai,Chennai,600039,+91 9959365905,Multi-Specialty,38,13.132939,80.165538,2012
+C021,Sri Lakshmi Diagnostics,"620, Omalur Main Road",Salem,Salem,636092,+91 7368035325,Primary Care,0,11.650541,78.125112,2010
+C022,Nellai Medical Family Clinic,"342, Trichy Road",Coimbatore,Coimbatore,641017,+91 7308598239,Primary Care,0,11.005168,76.964153,2010
+C023,Meenakshi Diagnostics,"379, West Boulevard Road",Trichy,Tiruchirappalli,620071,+91 8652301685,Primary Care,0,10.780826,78.739898,2010
+C024,Kumaran Medical Center,"363, Trivandrum Road",Tirunelveli,Tirunelveli,627080,+91 8409853662,Multi-Specialty,28,8.747621,77.731077,2016
+C025,Meenakshi Nursing Home,"422, Omalur Main Road",Salem,Salem,636035,+91 8992107267,Primary Care,0,11.687217,78.185859,2013
+C026,Aruna Nursing Home,"234, Periyar Bus Stand Area",Madurai,Madurai,625004,+91 8614365564,Primary Care,0,9.936435,78.146689,2014
+C027,Lotus Wellness Center,"550, By Pass Road",Madurai,Madurai,625004,+91 9432825349,Primary Care,0,9.853826,78.109657,2015
+C028,Nellai Medical Health Centre,"591, Avinashi Road",Coimbatore,Coimbatore,641033,+91 9651019518,Multi-Specialty,35,11.042558,76.980768,2020
+C029,Nellai Medical Health Centre,"170A, Pollachi Main Road",Coimbatore,Coimbatore,641041,+91 9486196067,Primary Care,0,11.016689,76.948927,2014
+C030,Vasan Wellness Center,"389, Omalur Main Road",Salem,Salem,636079,+91 7616611006,Primary Care,0,11.630387,78.121018,2019
+C031,Aruna Care Hospital,"219, Trivandrum Road",Tirunelveli,Tirunelveli,627095,+91 8941865649,Multi-Specialty,35,8.701545,77.713294,2015
+C032,Kongu Medical Center,"231, Cantonment",Trichy,Tiruchirappalli,620019,+91 9153508784,Primary Care,0,10.811127,78.726849,2017
+C033,Kumaran Medical Center,"394, Karur Road",Trichy,Tiruchirappalli,620052,+91 8287711090,Primary Care,0,10.839266,78.736044,2011
+C034,Cauvery Care Hospital,"256, Vannarpettai",Tirunelveli,Tirunelveli,627059,+91 8697839702,Multi-Specialty,29,8.748789,77.709545,2017
+C035,Nellai Medical Care Hospital,"381A, Poonamallee High Road",Chennai,Chennai,600061,+91 6438695050,Multi-Specialty,47,13.109966,80.191597,2018
+C036,Vasan Family Clinic,"731, T.Nagar Main Road",Chennai,Chennai,600031,+91 7524279849,Primary Care,0,12.920144,80.172625,2016
+C037,Sri Lakshmi Wellness Center,"556, Trivandrum Road",Tirunelveli,Tirunelveli,627054,+91 9369527883,Multi-Specialty,28,8.688948,77.72698,2010
+C038,Aruna Multi-Specialty Clinic,"153A, Poonamallee High Road",Chennai,Chennai,600050,+91 6788659947,Multi-Specialty,39,13.099967,80.284672,2017
+C039,Nellai Medical Care Hospital,"345, Melur Road",Madurai,Madurai,625093,+91 8692309751,Primary Care,0,9.852697,78.089402,2019
+C040,Kumaran Wellness Center,"473, Cantonment",Trichy,Tiruchirappalli,620007,+91 7584354467,Multi-Specialty,20,10.79547,78.68375,2016
+C041,Thanjai Wellness Center,"84, Velachery Road",Chennai,Chennai,600003,+91 9543292124,Primary Care,0,13.095308,80.247763,2010
+C042,Vasan Multi-Specialty Clinic,"245, Cantonment",Trichy,Tiruchirappalli,620061,+91 9823238619,Diagnostic Center,0,10.819946,78.72669,2012
+C043,Kongu Diagnostics,"56A, OMR Service Road",Chennai,Chennai,600004,+91 7837937149,Multi-Specialty,22,12.999164,80.257252,2011
+C044,Thanjai Medical Center,"792, T.Nagar Main Road",Chennai,Chennai,600088,+91 9829011672,Primary Care,0,12.986801,80.214257,2015
+C045,Kumaran Nursing Home,"431, Poonamallee High Road",Chennai,Chennai,600063,+91 9654708532,Primary Care,0,13.076827,80.215323,2018
+C046,Annamalai Care Hospital,"749, Pollachi Main Road",Coimbatore,Coimbatore,641035,+91 7419502419,Diagnostic Center,0,10.977893,76.96762,2017
+C047,Kumaran Wellness Center,"507, Trichy Road",Coimbatore,Coimbatore,641042,+91 8723176813,Primary Care,0,11.029783,76.951051,2019
+C048,Lotus Multi-Specialty Clinic,"196, Anna Salai",Chennai,Chennai,600031,+91 6726684937,Multi-Specialty,32,13.072652,80.246885,2017
+C049,Aarogya Health Centre,"415, Arcot Road",Chennai,Chennai,600032,+91 7946957046,Primary Care,0,13.018315,80.229638,2016
+C050,Lotus Nursing Home,"465, Cherry Road",Salem,Salem,636040,+91 7392234155,Diagnostic Center,0,11.631555,78.174288,2012

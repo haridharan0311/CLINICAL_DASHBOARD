@@ -1,3 +1,4 @@
+# pharmacy/models.py
 from django.db import models
 
 class DrugMaster(models.Model):

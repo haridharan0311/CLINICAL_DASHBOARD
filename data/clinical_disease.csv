@@ -1,0 +1,61 @@
+disease_id,icd_10_code,disease_name,category,seasonality_flag,severity_level,avg_recovery_days
+DS01,A90,Dengue Fever,Vector-borne,Monsoon,Medium,10
+DS02,B54,Malaria,Vector-borne,Monsoon,Medium,12
+DS03,A92.0,Chikungunya,Vector-borne,Monsoon,Medium,14
+DS04,A01.0,Typhoid Fever,Gastrointestinal,Summer,Medium,14
+DS05,A00,Cholera,Gastrointestinal,Monsoon,Low,7
+DS06,J01,Acute Sinusitis,Respiratory,Winter,Low,7
+DS07,J45,Asthma,Respiratory,All-Year,Low,5
+DS08,E11,Diabetes Mellitus Type 2,Chronic,All-Year,High,365
+DS09,I10,Hypertension,Chronic,All-Year,High,365
+DS10,A15,Tuberculosis,Infectious,All-Year,High,180
+DS11,J11,Influenza,Respiratory,Winter,Low,5
+DS12,A06,Amoebiasis,Gastrointestinal,Summer,Medium,10
+DS13,B15,Hepatitis A,Gastrointestinal,Summer,Medium,21
+DS14,A27,Leptospirosis,Infectious,Monsoon,Medium,14
+DS15,B74,Filariasis,Vector-borne,All-Year,Medium,30
+DS16,A92.5,Zika Virus,Vector-borne,Monsoon,Low,7
+DS17,J20,Acute Bronchitis,Respiratory,Winter,Medium,10
+DS18,J44,COPD,Respiratory,All-Year,High,365
+DS19,A09,Gastroenteritis,Gastrointestinal,Summer,Low,4
+DS20,A75.3,Scrub Typhus,Vector-borne,Monsoon,Medium,10
+DS21,A83.0,Japanese Encephalitis,Vector-borne,Monsoon,Medium,20
+DS22,A03,Bacillary Dysentery,Gastrointestinal,Summer,Low,7
+DS23,B08.4,"Hand, Foot and Mouth Disease",Infectious,Monsoon,Low,7
+DS24,B05,Measles,Infectious,Summer,Medium,10
+DS25,B06,Mumps,Infectious,Summer,Medium,12
+DS26,B01,Chickenpox,Infectious,Summer,Medium,10
+DS27,J18,Pneumonia,Respiratory,Winter,Medium,14
+DS28,I09,Rheumatic Heart Disease,Chronic,All-Year,High,365
+DS29,E11.3,Diabetic Retinopathy,Chronic,All-Year,High,365
+DS30,N18,Chronic Kidney Disease,Chronic,All-Year,Critical,365
+DS31,I25.1,Coronary Artery Disease,Chronic,All-Year,Critical,365
+DS32,H10,Conjunctivitis,Infectious,Monsoon,Low,5
+DS33,B86,Scabies,Infectious,All-Year,Low,7
+DS34,A30,Leprosy,Infectious,All-Year,High,300
+DS35,A82,Rabies,Infectious,All-Year,Critical,0
+DS36,B16,Hepatitis B,Infectious,All-Year,High,90
+DS37,B20,HIV/AIDS,Infectious,All-Year,Critical,365
+DS38,J00,Common Cold,Respiratory,Winter,Low,4
+DS39,J03,Tonsillitis,Respiratory,Winter,Low,6
+DS40,K27,Peptic Ulcer,Gastrointestinal,All-Year,Medium,14
+DS41,A05,Food Poisoning,Gastrointestinal,Summer,Low,3
+DS42,A07.1,Giardiasis,Gastrointestinal,Monsoon,Medium,10
+DS43,A95,Yellow Fever,Vector-borne,Monsoon,Medium,10
+DS44,A92.3,West Nile Fever,Vector-borne,Monsoon,Medium,8
+DS45,B55,Kala-azar,Vector-borne,Monsoon,Medium,30
+DS46,A37,Pertussis,Respiratory,Winter,Medium,21
+DS47,A36,Diphtheria,Respiratory,All-Year,Medium,14
+DS48,A38,Scarlet Fever,Infectious,Winter,Medium,10
+DS49,G03,Meningitis,Infectious,All-Year,Medium,14
+DS50,K74,Cirrhosis of Liver,Chronic,All-Year,High,365
+DS51,M19,Osteoarthritis,Chronic,All-Year,High,365
+DS52,M06,Rheumatoid Arthritis,Chronic,All-Year,High,365
+DS53,G40,Epilepsy,Chronic,All-Year,High,365
+DS54,J32,Sinusitis (Chronic),Respiratory,Winter,Medium,14
+DS55,J04,Laryngitis,Respiratory,Winter,Low,7
+DS56,J02,Pharyngitis,Respiratory,Winter,Low,5
+DS57,D64,Anemia,Chronic,All-Year,High,90
+DS58,E04,Goitre,Chronic,All-Year,High,180
+DS59,L40,Psoriasis,Chronic,All-Year,High,365
+DS60,T67.0,Heat Stroke,Infectious,Summer,Low,5
