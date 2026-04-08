@@ -58,10 +58,11 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS('✅ Clinics'))
 
     def seed_users(self):
-        file_path = os.path.join(self.data_dir, 'users_user.csv')
+        file_path = os.path.join(self.data_dir, 'Users_user.csv')
         with open(file_path, mode='r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
+                # 1. Handle Timezones safely
                 created_dt = parse_datetime(row['created_at'])
                 if created_dt and timezone.is_naive(created_dt):
                     created_dt = timezone.make_aware(created_dt)
@@ -70,15 +71,10 @@ class Command(BaseCommand):
                 if last_login_dt and timezone.is_naive(last_login_dt):
                     last_login_dt = timezone.make_aware(last_login_dt)
 
-                # Identify if this user is a Super Admin
+                # 2. Check if user is an admin (so they can log into the Django Admin site)
                 is_super_admin = (row['role_type'] == 'Super_Admin')
-                
-                # Apply exact password hash for super admins, else use CSV hash
-                if is_super_admin:
-                    pwd_hash = "pbkdf2_sha256$1200000$ZIZKAGahQBneoyAgVmAJfS$W9ZCq3dtc2gyBeo2UVD5Z8SnELV+APRIec5FCtDzNUc="
-                else:
-                    pwd_hash = row['password_hash']
 
+                # 3. Save exactly what is in the CSV to the database
                 User.objects.get_or_create(
                     id=row['user_id'], 
                     defaults={
@@ -88,13 +84,16 @@ class Command(BaseCommand):
                         'first_name': row['first_name'],
                         'last_name': row['last_name'],
                         'email': row['email'],
-                        'password': pwd_hash, 
+                        
+                        # Use EXACTLY what is in the CSV file, no overrides
+                        'password': row['password_hash'], 
+                        
                         'date_joined': created_dt, 
                         'last_login': last_login_dt,
                         'is_active': self.parse_bool(row['is_active']),
                         'failed_login_attempts': int(row['failed_login_attempts']) if row['failed_login_attempts'] else 0,
                         
-                        # Fix for Admin Login
+                        # Keep Admin permissions active
                         'is_staff': is_super_admin,
                         'is_superuser': is_super_admin,
                     }
