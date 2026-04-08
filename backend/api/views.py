@@ -1,6 +1,8 @@
 import csv
 from django.http import HttpResponse
 from django.db.models import F
+from django.views.decorators.cache import never_cache
+from django.utils.decorators import method_decorator
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
@@ -61,17 +63,30 @@ class SpikeDetectionView(APIView):
         result_message = detect_spikes(clinic_id)
         return Response({"message": result_message}, status=status.HTTP_200_OK)
 
+    # 2. Live Updates: We use @never_cache to prevent browser/proxy caching
+    @method_decorator(never_cache)
     def get(self, request):
-        """ Fetch recent outbreak alerts. """
+        """ Fetch recent outbreak alerts (Optimized ORM) """
         clinic_id = get_user_clinic(request.user, request)
         
-        alerts = AnalyticsAlert.objects.filter(is_resolved=False).order_by('-triggered_date')
+        # 1. ORM Optimization: Only fetch the columns we are actually returning.
+        # This prevents the DB from pulling heavy text fields or unused data.
+        alerts = AnalyticsAlert.objects.only(
+            'alert_id', 'alert_type', 'severity', 'trigger_metric', 'triggered_date'
+        ).filter(is_resolved=False).order_by('-triggered_date')
+
         if clinic_id:
             alerts = alerts.filter(clinic_id=clinic_id)
 
-        # Since this is a simple model fetch, we return it as a list of dicts directly
-        # (Alternatively, you could create an AnalyticsAlertSerializer)
-        data = list(alerts.values('alert_id', 'alert_type', 'severity', 'trigger_metric', 'triggered_date'))
+        data = [
+            {
+                "alert_id": a.alert_id,
+                "alert_type": a.alert_type,
+                "severity": a.severity,
+                "trigger_metric": a.trigger_metric,
+                "triggered_date": a.triggered_date
+            } for a in alerts
+        ]
         return Response(data, status=status.HTTP_200_OK)
 
 # ---------------------------------------------------------
