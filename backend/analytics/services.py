@@ -17,7 +17,6 @@ def get_disease_trends(days=30, clinic_id=None):
     If clinic_id is provided, scopes data to that specific clinic.
     Returns a list of dictionaries suitable for JSON serialization and frontend charting.
     """
-    # 1. Determine the cutoff date
     start_date = timezone.now().date() - timedelta(days=days)
 
     # Start with the base query
@@ -26,31 +25,23 @@ def get_disease_trends(days=30, clinic_id=None):
         disease__isnull=False
     )
 
-    # RBAC FILTERING LOGIC: Scope to a specific clinic if requested
+    # Apply Clinic scope if requested
     if clinic_id:
         queryset = queryset.filter(clinic_id=clinic_id)
 
-    # 2. Build the aggregated QuerySet
+    # THE FIX: Remove TruncDate and group by appointment_date directly
     trends = (
         queryset
-        
-        # Truncate the datetime to just the date, groups appointments by date
-        .annotate(date=TruncDate('appointment_date'))
-        
-        # Group by the date and the disease name
-        .values('date', 'disease__disease_name')
-        
-        # Aggregate the case count by counting appointment ids
-        .annotate(case_count=Count('id'))
-        
-        # Order chronologically and by disease for time-series charting
-        .order_by('date', 'disease__disease_name')
+        .values('appointment_date', 'disease__disease_name')
+        .annotate(case_count=Count('appointment_id'))
+        .order_by('appointment_date', 'disease__disease_name')
     )
 
-    # 3. Format the output for the frontend (React prefers clean keys)
+    # Format the output for the React frontend
     formatted_trends = [
         {
-            "date": item["date"].strftime("%Y-%m-%d"),
+            # str() safely handles both actual Date objects and SQLite strings
+            "date": str(item["appointment_date"]), 
             "disease_name": item["disease__disease_name"],
             "cases": item["case_count"]
         }

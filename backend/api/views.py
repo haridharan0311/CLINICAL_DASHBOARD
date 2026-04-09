@@ -13,22 +13,32 @@ from analytics.services import get_disease_trends, detect_spikes, predict_medici
 from analytics.models import AnalyticsAlert
 from pharmacy.models import DrugMaster
 from .serializers import DiseaseTrendSerializer, RestockSerializer
+from rest_framework_simplejwt.views import TokenObtainPairView
+from .serializers import CustomTokenObtainPairSerializer
+
 
 # Helper function for RBAC
+# api/views.py
+
 def get_user_clinic(user, request):
     """
     Super_Admin can pass ?clinic_id=C001 in the URL.
     Other roles are locked to their assigned clinic.
     """
     if user.role_type == 'Super_Admin':
-        return request.query_params.get('clinic_id', None)
+        return request.query_params.get('clinic_id', None)    
     return user.clinic_id
+
+
+class CustomTokenObtainPairView(TokenObtainPairView):
+    serializer_class = CustomTokenObtainPairSerializer
+
 
 # ---------------------------------------------------------
 # 1. Disease Trend Endpoint
 # ---------------------------------------------------------
 class DiseaseTrendView(APIView):
-    permission_classes = [IsAuthenticated]
+    permission_classes = [IsAuthenticated]  # Only authenticated users can access disease trends
 
     def get(self, request):
         days = int(request.query_params.get('days', 30))
@@ -47,7 +57,7 @@ class DiseaseTrendView(APIView):
 # 2. Spike Detection & Alert History Endpoint
 # ---------------------------------------------------------
 class SpikeDetectionView(APIView):
-    permission_classes = [IsAuthenticated]
+    permission_classes = [IsAuthenticated]  # Only authenticated users can trigger or view alerts
 
     def post(self, request):
         """ Manually trigger the spike detection ML service. """
