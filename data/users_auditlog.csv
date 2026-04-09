@@ -1,1201 +1,1202 @@
 user_id,action,ip_address,timestamp,resource_accessed
-U003,Exported Inventory Report,192.168.1.51,2026-02-07 12:26:16,Analytics
-U099,Viewed Patient Vitals,192.168.1.31,2026-01-30 09:06:16,Settings
-U088,Generated Outbreak Alert,192.168.1.22,2026-01-11 22:02:16,Inventory
-U112,Prescription Issued,192.168.1.71,2026-02-15 19:37:16,Pharmacy
-U094,Prescription Issued,192.168.1.154,2026-04-01 13:52:16,Clinical
-U150,Stock Adjustment,192.168.1.112,2026-03-13 00:33:16,Clinical
-U042,User Login,192.168.1.237,2026-03-18 03:53:16,Analytics
-U198,Generated Outbreak Alert,192.168.1.41,2026-02-12 08:42:16,Clinical
-U185,Stock Adjustment,192.168.1.167,2026-02-02 11:04:16,Inventory
-U060,User Login,192.168.1.159,2026-01-19 07:59:16,Analytics
-U190,Viewed Patient Vitals,192.168.1.115,2026-02-25 20:03:16,Patients
-U194,Exported Inventory Report,192.168.1.74,2026-03-25 03:02:16,Settings
-U138,Batch Created,192.168.1.32,2026-01-11 04:50:16,Patients
-U132,Viewed Patient Vitals,192.168.1.106,2026-03-13 14:14:16,Auth
-U099,Viewed Patient Vitals,192.168.1.110,2026-02-27 00:02:16,Patients
-U149,User Login,192.168.1.247,2026-02-11 08:53:16,Inventory
-U145,Stock Adjustment,192.168.1.250,2026-02-25 17:40:16,Settings
-U050,User Logout,192.168.1.45,2026-02-18 19:02:16,Settings
-U170,Updated Clinic Settings,192.168.1.10,2026-01-29 22:33:16,Auth
-U126,Analytics Dashboard Accessed,192.168.1.135,2026-03-14 05:34:16,Analytics
-U154,Updated Clinic Settings,192.168.1.134,2026-04-03 04:27:16,Settings
-U006,Exported Inventory Report,192.168.1.138,2026-01-31 11:51:16,Auth
-U155,Prescription Issued,192.168.1.243,2026-03-01 04:31:16,Settings
-U181,User Logout,192.168.1.117,2026-01-19 05:44:16,Settings
-U050,Batch Created,192.168.1.50,2026-01-19 02:21:16,Clinical
-U041,User Logout,192.168.1.150,2026-02-12 13:09:16,Analytics
-U030,Analytics Dashboard Accessed,192.168.1.94,2026-02-11 12:59:16,Clinical
-U166,Viewed Patient Vitals,192.168.1.211,2026-02-03 20:14:16,Clinical
-U065,Exported Inventory Report,192.168.1.219,2026-02-19 23:32:16,Inventory
-U009,Viewed Patient Vitals,192.168.1.189,2026-02-23 19:11:16,Inventory
-U146,Analytics Dashboard Accessed,192.168.1.234,2026-02-23 20:55:16,Auth
-U189,Prescription Issued,192.168.1.41,2026-02-12 02:44:16,Clinical
-U003,Analytics Dashboard Accessed,192.168.1.148,2026-03-08 12:41:16,Auth
-U033,Prescription Issued,192.168.1.106,2026-04-03 22:27:16,Settings
-U114,Prescription Issued,192.168.1.93,2026-03-19 20:59:16,Pharmacy
-U018,Exported Inventory Report,192.168.1.21,2026-02-13 11:12:16,Auth
-U136,Analytics Dashboard Accessed,192.168.1.221,2026-03-21 00:57:16,Settings
-U055,User Login,192.168.1.62,2026-04-07 03:02:16,Pharmacy
-U129,User Login,192.168.1.6,2026-04-03 08:50:16,Analytics
-U118,Generated Outbreak Alert,192.168.1.122,2026-02-04 11:35:16,Pharmacy
-U016,User Logout,192.168.1.61,2026-03-12 12:38:16,Clinical
-U083,Batch Created,192.168.1.120,2026-01-27 12:10:16,Pharmacy
-U138,Viewed Patient Vitals,192.168.1.220,2026-01-25 22:09:16,Inventory
-U068,Exported Inventory Report,192.168.1.79,2026-01-20 17:22:16,Inventory
-U071,User Login,192.168.1.111,2026-01-10 18:40:16,Auth
-U135,Exported Inventory Report,192.168.1.35,2026-04-07 00:14:16,Pharmacy
-U135,Viewed Patient Vitals,192.168.1.181,2026-03-17 15:27:16,Inventory
-U167,Updated Clinic Settings,192.168.1.130,2026-03-10 03:24:16,Auth
-U166,Updated Clinic Settings,192.168.1.244,2026-02-24 08:23:16,Patients
-U170,Batch Created,192.168.1.242,2026-02-07 16:04:16,Analytics
-U092,Exported Inventory Report,192.168.1.235,2026-01-31 17:44:16,Auth
-U169,Exported Inventory Report,192.168.1.131,2026-04-06 07:56:16,Analytics
-U179,Prescription Issued,192.168.1.62,2026-04-03 23:11:16,Patients
-U094,Batch Created,192.168.1.61,2026-02-17 09:52:16,Inventory
-U019,Exported Inventory Report,192.168.1.34,2026-03-16 20:52:16,Auth
-U093,User Login,192.168.1.147,2026-03-29 05:27:16,Inventory
-U024,User Logout,192.168.1.4,2026-02-10 08:45:16,Auth
-U116,User Login,192.168.1.46,2026-01-10 00:33:16,Patients
-U034,Generated Outbreak Alert,192.168.1.23,2026-01-27 13:49:16,Patients
-U095,Viewed Patient Vitals,192.168.1.110,2026-04-01 16:40:16,Pharmacy
-U005,Exported Inventory Report,192.168.1.183,2026-03-02 20:16:16,Settings
-U173,Generated Outbreak Alert,192.168.1.125,2026-04-06 23:39:16,Clinical
-U173,User Login,192.168.1.168,2026-01-15 23:18:16,Settings
-U109,User Login,192.168.1.86,2026-01-15 09:08:16,Clinical
-U004,User Login,192.168.1.142,2026-02-10 02:47:16,Inventory
-U166,User Logout,192.168.1.68,2026-02-22 11:16:16,Auth
-U172,User Logout,192.168.1.221,2026-01-14 16:15:16,Pharmacy
-U176,User Login,192.168.1.103,2026-02-27 01:26:16,Analytics
-U188,Generated Outbreak Alert,192.168.1.152,2026-01-15 00:35:16,Settings
-U123,Analytics Dashboard Accessed,192.168.1.156,2026-03-15 09:02:16,Pharmacy
-U007,Batch Created,192.168.1.80,2026-01-29 17:55:16,Patients
-U056,User Login,192.168.1.60,2026-03-13 16:41:16,Auth
-U078,User Logout,192.168.1.11,2026-01-17 21:40:16,Settings
-U098,Batch Created,192.168.1.81,2026-02-06 18:16:16,Inventory
-U105,Updated Clinic Settings,192.168.1.229,2026-01-21 05:26:16,Auth
-U086,Generated Outbreak Alert,192.168.1.16,2026-03-31 08:43:16,Settings
-U178,Prescription Issued,192.168.1.155,2026-01-30 23:12:16,Pharmacy
-U194,Stock Adjustment,192.168.1.247,2026-02-23 16:36:16,Pharmacy
-U197,Stock Adjustment,192.168.1.165,2026-02-01 11:21:16,Clinical
-U028,Updated Clinic Settings,192.168.1.130,2026-02-25 17:20:16,Pharmacy
-U199,User Logout,192.168.1.51,2026-04-06 09:51:16,Clinical
-U075,Stock Adjustment,192.168.1.36,2026-03-24 01:43:16,Auth
-U125,Batch Created,192.168.1.197,2026-04-03 00:08:16,Clinical
-U140,Prescription Issued,192.168.1.38,2026-01-27 20:09:16,Inventory
-U173,Batch Created,192.168.1.144,2026-02-22 11:57:16,Analytics
-U190,Batch Created,192.168.1.157,2026-04-03 03:14:16,Patients
-U086,Generated Outbreak Alert,192.168.1.127,2026-01-23 07:20:16,Pharmacy
-U021,Analytics Dashboard Accessed,192.168.1.218,2026-03-08 17:51:16,Analytics
-U069,User Login,192.168.1.29,2026-02-28 22:39:16,Settings
-U128,Stock Adjustment,192.168.1.153,2026-03-12 00:50:16,Clinical
-U186,Stock Adjustment,192.168.1.16,2026-02-18 18:43:16,Clinical
-U171,Viewed Patient Vitals,192.168.1.92,2026-02-16 12:32:16,Patients
-U060,Batch Created,192.168.1.66,2026-03-18 14:22:16,Analytics
-U002,Stock Adjustment,192.168.1.130,2026-03-13 19:25:16,Settings
-U122,Prescription Issued,192.168.1.163,2026-01-24 07:31:16,Clinical
-U003,Viewed Patient Vitals,192.168.1.204,2026-02-10 13:45:16,Patients
-U103,User Logout,192.168.1.249,2026-01-18 12:35:16,Inventory
-U104,User Login,192.168.1.37,2026-03-19 09:49:16,Inventory
-U182,Analytics Dashboard Accessed,192.168.1.140,2026-02-23 04:18:16,Analytics
-U047,User Login,192.168.1.119,2026-03-01 13:29:16,Pharmacy
-U093,Exported Inventory Report,192.168.1.90,2026-03-01 08:26:16,Settings
-U109,Stock Adjustment,192.168.1.61,2026-01-26 22:00:16,Analytics
-U158,Exported Inventory Report,192.168.1.223,2026-02-15 17:04:16,Inventory
-U039,Batch Created,192.168.1.90,2026-01-14 18:16:16,Pharmacy
-U033,Updated Clinic Settings,192.168.1.100,2026-02-05 18:57:16,Inventory
-U127,Viewed Patient Vitals,192.168.1.128,2026-02-06 10:00:16,Inventory
-U074,Prescription Issued,192.168.1.217,2026-03-30 11:16:16,Auth
-U191,Prescription Issued,192.168.1.240,2026-02-18 15:59:16,Analytics
-U074,User Login,192.168.1.162,2026-03-16 13:12:16,Pharmacy
-U114,Viewed Patient Vitals,192.168.1.65,2026-03-01 21:24:16,Analytics
-U123,Viewed Patient Vitals,192.168.1.16,2026-02-26 20:14:16,Clinical
-U017,Updated Clinic Settings,192.168.1.64,2026-03-14 21:36:16,Pharmacy
-U172,User Login,192.168.1.12,2026-03-24 02:35:16,Inventory
-U036,User Logout,192.168.1.15,2026-02-02 13:55:16,Pharmacy
-U104,Analytics Dashboard Accessed,192.168.1.158,2026-03-19 02:12:16,Analytics
-U057,Generated Outbreak Alert,192.168.1.125,2026-01-19 09:45:16,Clinical
-U039,Updated Clinic Settings,192.168.1.54,2026-01-14 19:59:16,Pharmacy
-U084,Updated Clinic Settings,192.168.1.182,2026-01-20 09:20:16,Settings
-U136,Analytics Dashboard Accessed,192.168.1.180,2026-01-26 02:27:16,Inventory
-U017,Analytics Dashboard Accessed,192.168.1.33,2026-02-22 22:34:16,Auth
-U081,Viewed Patient Vitals,192.168.1.70,2026-02-10 01:25:16,Inventory
-U120,Updated Clinic Settings,192.168.1.187,2026-01-26 02:58:16,Clinical
-U108,Prescription Issued,192.168.1.158,2026-01-18 19:28:16,Analytics
-U027,Stock Adjustment,192.168.1.5,2026-02-01 02:30:16,Inventory
-U166,Analytics Dashboard Accessed,192.168.1.158,2026-01-17 01:32:16,Inventory
-U139,User Login,192.168.1.247,2026-02-24 19:16:16,Patients
-U031,Stock Adjustment,192.168.1.66,2026-01-14 04:14:16,Analytics
-U111,Updated Clinic Settings,192.168.1.83,2026-02-25 21:32:16,Inventory
-U139,User Logout,192.168.1.182,2026-03-28 08:38:16,Inventory
-U052,Viewed Patient Vitals,192.168.1.55,2026-01-14 01:51:16,Clinical
-U044,Analytics Dashboard Accessed,192.168.1.161,2026-03-23 10:01:16,Patients
-U173,Generated Outbreak Alert,192.168.1.173,2026-03-02 09:38:16,Auth
-U146,Exported Inventory Report,192.168.1.241,2026-02-10 23:31:16,Patients
-U026,Updated Clinic Settings,192.168.1.180,2026-01-15 15:40:16,Auth
-U142,Viewed Patient Vitals,192.168.1.74,2026-03-11 22:25:16,Pharmacy
-U032,Generated Outbreak Alert,192.168.1.203,2026-02-09 06:01:16,Inventory
-U101,Batch Created,192.168.1.200,2026-02-01 14:09:16,Patients
-U136,Prescription Issued,192.168.1.106,2026-03-25 13:13:16,Clinical
-U170,Updated Clinic Settings,192.168.1.213,2026-02-22 12:17:16,Auth
-U144,Prescription Issued,192.168.1.72,2026-03-25 06:57:16,Pharmacy
-U119,Updated Clinic Settings,192.168.1.131,2026-02-08 12:41:16,Patients
-U019,Updated Clinic Settings,192.168.1.248,2026-01-09 01:38:16,Settings
-U118,Prescription Issued,192.168.1.70,2026-03-23 17:12:16,Auth
-U061,Exported Inventory Report,192.168.1.182,2026-03-30 12:16:16,Patients
-U024,Viewed Patient Vitals,192.168.1.229,2026-01-18 10:00:16,Inventory
-U055,Batch Created,192.168.1.174,2026-03-27 13:19:16,Auth
-U041,Viewed Patient Vitals,192.168.1.48,2026-03-05 12:00:16,Pharmacy
-U180,Prescription Issued,192.168.1.235,2026-03-17 19:03:16,Clinical
-U032,User Login,192.168.1.15,2026-02-20 09:55:16,Auth
-U104,Analytics Dashboard Accessed,192.168.1.235,2026-03-19 11:10:16,Inventory
-U030,Stock Adjustment,192.168.1.217,2026-03-29 22:15:16,Analytics
-U084,User Logout,192.168.1.250,2026-03-10 05:57:16,Settings
-U090,Prescription Issued,192.168.1.143,2026-01-12 03:34:16,Inventory
-U155,Analytics Dashboard Accessed,192.168.1.216,2026-03-28 06:42:16,Clinical
-U056,Viewed Patient Vitals,192.168.1.185,2026-01-21 14:52:16,Auth
-U021,Exported Inventory Report,192.168.1.150,2026-02-04 18:32:16,Analytics
-U191,Generated Outbreak Alert,192.168.1.195,2026-02-10 15:15:16,Settings
-U180,User Logout,192.168.1.89,2026-01-16 01:37:16,Analytics
-U155,Prescription Issued,192.168.1.27,2026-04-05 11:13:16,Inventory
-U008,Updated Clinic Settings,192.168.1.161,2026-03-24 18:53:16,Patients
-U038,Viewed Patient Vitals,192.168.1.47,2026-01-12 20:40:16,Patients
-U126,User Logout,192.168.1.147,2026-03-22 07:47:16,Patients
-U057,Generated Outbreak Alert,192.168.1.61,2026-02-07 06:26:16,Pharmacy
-U025,User Logout,192.168.1.172,2026-03-04 22:00:16,Patients
-U108,Updated Clinic Settings,192.168.1.26,2026-02-15 09:51:16,Pharmacy
-U191,User Logout,192.168.1.19,2026-01-28 10:03:16,Pharmacy
-U057,Viewed Patient Vitals,192.168.1.252,2026-02-26 00:41:16,Inventory
-U023,User Login,192.168.1.194,2026-01-16 03:13:16,Auth
-U079,Viewed Patient Vitals,192.168.1.78,2026-03-10 13:18:16,Patients
-U180,Generated Outbreak Alert,192.168.1.216,2026-02-11 05:00:16,Patients
-U056,Viewed Patient Vitals,192.168.1.9,2026-01-30 17:35:16,Patients
-U046,Exported Inventory Report,192.168.1.129,2026-02-25 10:21:16,Inventory
-U164,Viewed Patient Vitals,192.168.1.209,2026-03-07 19:10:16,Clinical
-U178,Viewed Patient Vitals,192.168.1.116,2026-01-28 22:13:16,Clinical
-U111,User Login,192.168.1.233,2026-01-09 11:21:16,Auth
-U043,Generated Outbreak Alert,192.168.1.74,2026-01-23 04:34:16,Inventory
-U172,Stock Adjustment,192.168.1.210,2026-02-27 01:26:16,Analytics
-U059,Analytics Dashboard Accessed,192.168.1.176,2026-02-02 19:46:16,Settings
-U160,Generated Outbreak Alert,192.168.1.77,2026-02-06 21:46:16,Analytics
-U057,Analytics Dashboard Accessed,192.168.1.113,2026-04-01 17:23:16,Patients
-U075,User Login,192.168.1.57,2026-03-10 20:38:16,Pharmacy
-U068,Updated Clinic Settings,192.168.1.127,2026-03-19 21:25:16,Auth
-U044,Generated Outbreak Alert,192.168.1.16,2026-03-09 02:25:16,Auth
-U144,Analytics Dashboard Accessed,192.168.1.212,2026-02-03 07:58:16,Settings
-U106,Batch Created,192.168.1.4,2026-03-09 22:22:16,Inventory
-U100,Stock Adjustment,192.168.1.246,2026-03-14 17:11:16,Patients
-U067,User Logout,192.168.1.225,2026-04-06 14:01:16,Patients
-U012,Exported Inventory Report,192.168.1.120,2026-04-05 23:19:16,Auth
-U135,Analytics Dashboard Accessed,192.168.1.237,2026-02-06 01:57:16,Inventory
-U124,Prescription Issued,192.168.1.214,2026-04-04 03:58:16,Clinical
-U024,Stock Adjustment,192.168.1.249,2026-03-03 02:09:16,Clinical
-U110,Generated Outbreak Alert,192.168.1.190,2026-01-11 04:18:16,Inventory
-U084,Updated Clinic Settings,192.168.1.62,2026-03-29 11:31:16,Analytics
-U167,Updated Clinic Settings,192.168.1.86,2026-04-07 02:38:16,Analytics
-U169,User Logout,192.168.1.217,2026-01-21 12:50:16,Settings
-U113,Exported Inventory Report,192.168.1.8,2026-03-09 21:51:16,Analytics
-U143,Prescription Issued,192.168.1.134,2026-02-21 15:17:16,Settings
-U040,Analytics Dashboard Accessed,192.168.1.65,2026-01-27 07:03:16,Patients
-U061,Viewed Patient Vitals,192.168.1.102,2026-01-24 08:05:16,Auth
-U011,Viewed Patient Vitals,192.168.1.51,2026-01-27 18:00:16,Analytics
-U018,Prescription Issued,192.168.1.20,2026-02-25 01:30:16,Pharmacy
-U037,Prescription Issued,192.168.1.51,2026-01-08 23:20:16,Inventory
-U152,Generated Outbreak Alert,192.168.1.133,2026-02-22 23:11:16,Auth
-U155,Batch Created,192.168.1.148,2026-03-03 11:21:16,Settings
-U131,Viewed Patient Vitals,192.168.1.225,2026-01-23 05:48:16,Inventory
-U090,Analytics Dashboard Accessed,192.168.1.226,2026-03-17 20:04:16,Inventory
-U136,Exported Inventory Report,192.168.1.95,2026-01-31 00:39:16,Analytics
-U073,Exported Inventory Report,192.168.1.66,2026-02-17 20:48:16,Clinical
-U108,Generated Outbreak Alert,192.168.1.52,2026-04-08 08:44:16,Auth
-U022,User Login,192.168.1.169,2026-02-04 20:52:16,Auth
-U066,Stock Adjustment,192.168.1.205,2026-02-01 01:31:16,Pharmacy
-U007,User Logout,192.168.1.243,2026-03-03 04:16:16,Inventory
-U190,User Logout,192.168.1.166,2026-03-01 14:58:16,Pharmacy
-U038,Prescription Issued,192.168.1.175,2026-01-14 06:58:16,Settings
-U136,Prescription Issued,192.168.1.208,2026-01-29 19:00:16,Settings
-U158,Stock Adjustment,192.168.1.238,2026-01-30 03:25:16,Pharmacy
-U078,User Logout,192.168.1.50,2026-02-23 22:27:16,Patients
-U189,Prescription Issued,192.168.1.45,2026-02-12 14:22:16,Pharmacy
-U188,Analytics Dashboard Accessed,192.168.1.50,2026-04-03 22:16:16,Auth
-U163,Viewed Patient Vitals,192.168.1.30,2026-03-13 11:57:16,Analytics
-U166,Viewed Patient Vitals,192.168.1.9,2026-03-14 20:23:16,Patients
-U189,Batch Created,192.168.1.122,2026-02-24 09:21:16,Patients
-U022,Viewed Patient Vitals,192.168.1.125,2026-02-03 11:41:16,Settings
-U074,User Logout,192.168.1.50,2026-01-29 20:00:16,Clinical
-U036,Generated Outbreak Alert,192.168.1.3,2026-01-25 20:57:16,Analytics
-U082,Prescription Issued,192.168.1.243,2026-03-13 17:04:16,Inventory
-U043,Analytics Dashboard Accessed,192.168.1.209,2026-01-27 16:11:16,Patients
-U061,Batch Created,192.168.1.116,2026-04-02 00:24:16,Patients
-U065,Analytics Dashboard Accessed,192.168.1.156,2026-02-28 04:39:16,Analytics
-U102,User Login,192.168.1.134,2026-03-30 17:11:16,Analytics
-U128,User Login,192.168.1.101,2026-04-07 00:19:16,Analytics
-U114,Analytics Dashboard Accessed,192.168.1.183,2026-01-08 13:47:16,Patients
-U151,Updated Clinic Settings,192.168.1.175,2026-02-12 01:21:16,Auth
-U076,Prescription Issued,192.168.1.232,2026-03-29 18:04:16,Auth
-U042,Updated Clinic Settings,192.168.1.46,2026-02-20 04:30:16,Patients
-U023,Generated Outbreak Alert,192.168.1.134,2026-03-20 11:14:16,Auth
-U001,Viewed Patient Vitals,192.168.1.71,2026-02-08 13:15:16,Analytics
-U016,Updated Clinic Settings,192.168.1.171,2026-02-23 16:56:16,Settings
-U191,User Logout,192.168.1.224,2026-01-28 23:17:16,Patients
-U008,Updated Clinic Settings,192.168.1.89,2026-01-29 17:45:16,Auth
-U060,Generated Outbreak Alert,192.168.1.26,2026-02-17 14:36:16,Auth
-U164,Updated Clinic Settings,192.168.1.244,2026-03-06 14:27:16,Auth
-U158,Stock Adjustment,192.168.1.243,2026-03-13 03:26:16,Clinical
-U102,Stock Adjustment,192.168.1.22,2026-02-17 18:27:16,Patients
-U087,Batch Created,192.168.1.129,2026-03-21 10:38:16,Pharmacy
-U111,Updated Clinic Settings,192.168.1.119,2026-01-24 16:02:16,Patients
-U064,Exported Inventory Report,192.168.1.76,2026-04-08 10:35:16,Auth
-U155,Stock Adjustment,192.168.1.135,2026-01-31 02:13:16,Inventory
-U017,Generated Outbreak Alert,192.168.1.49,2026-02-14 03:33:16,Clinical
-U045,Prescription Issued,192.168.1.80,2026-01-17 12:45:16,Settings
-U014,User Login,192.168.1.131,2026-01-24 03:05:16,Analytics
-U190,Generated Outbreak Alert,192.168.1.144,2026-01-27 17:52:16,Pharmacy
-U168,Generated Outbreak Alert,192.168.1.121,2026-03-09 04:01:16,Settings
-U124,Exported Inventory Report,192.168.1.243,2026-04-08 00:12:16,Auth
-U069,Viewed Patient Vitals,192.168.1.50,2026-01-31 16:50:16,Pharmacy
-U036,Batch Created,192.168.1.115,2026-03-12 02:58:16,Clinical
-U133,Generated Outbreak Alert,192.168.1.75,2026-01-19 18:08:16,Patients
-U147,Exported Inventory Report,192.168.1.221,2026-02-20 05:05:16,Inventory
-U035,Exported Inventory Report,192.168.1.222,2026-03-28 22:31:16,Inventory
-U007,User Logout,192.168.1.211,2026-03-12 06:47:16,Patients
-U159,Generated Outbreak Alert,192.168.1.240,2026-02-24 10:22:16,Patients
-U043,Stock Adjustment,192.168.1.159,2026-03-23 21:27:16,Clinical
-U130,Viewed Patient Vitals,192.168.1.245,2026-01-29 21:06:16,Clinical
-U200,User Login,192.168.1.229,2026-02-09 22:48:16,Auth
-U183,Prescription Issued,192.168.1.140,2026-02-18 17:50:16,Clinical
-U065,Updated Clinic Settings,192.168.1.86,2026-01-11 12:34:16,Clinical
-U039,Generated Outbreak Alert,192.168.1.7,2026-02-09 10:23:16,Pharmacy
-U059,Batch Created,192.168.1.8,2026-01-23 12:59:16,Clinical
-U066,User Login,192.168.1.4,2026-02-27 11:29:16,Pharmacy
-U113,Prescription Issued,192.168.1.100,2026-02-21 01:29:16,Analytics
-U189,Prescription Issued,192.168.1.216,2026-02-20 10:41:16,Auth
-U019,Prescription Issued,192.168.1.253,2026-04-08 22:02:16,Inventory
-U037,User Login,192.168.1.203,2026-03-06 05:35:16,Patients
-U059,Updated Clinic Settings,192.168.1.38,2026-02-19 06:30:16,Patients
-U012,Generated Outbreak Alert,192.168.1.93,2026-03-15 00:58:16,Patients
-U166,Batch Created,192.168.1.176,2026-01-20 05:08:16,Patients
-U020,User Login,192.168.1.143,2026-02-01 03:35:16,Pharmacy
-U056,Prescription Issued,192.168.1.127,2026-02-22 09:37:16,Patients
-U097,Stock Adjustment,192.168.1.122,2026-03-23 22:22:16,Settings
-U032,Batch Created,192.168.1.209,2026-04-09 03:36:16,Auth
-U047,User Login,192.168.1.174,2026-03-01 07:14:16,Auth
-U075,Analytics Dashboard Accessed,192.168.1.47,2026-01-29 18:11:16,Clinical
-U103,User Login,192.168.1.210,2026-03-21 06:49:16,Auth
-U007,Batch Created,192.168.1.166,2026-01-12 17:16:16,Settings
-U180,Updated Clinic Settings,192.168.1.181,2026-02-15 00:37:16,Clinical
-U062,Prescription Issued,192.168.1.5,2026-03-27 10:38:16,Pharmacy
-U015,Exported Inventory Report,192.168.1.10,2026-02-23 20:58:16,Clinical
-U007,User Logout,192.168.1.214,2026-03-07 21:39:16,Settings
-U099,User Login,192.168.1.205,2026-03-08 06:51:16,Clinical
-U071,Batch Created,192.168.1.26,2026-02-05 16:55:16,Clinical
-U091,Analytics Dashboard Accessed,192.168.1.101,2026-01-20 11:27:16,Auth
-U084,User Logout,192.168.1.189,2026-01-19 19:59:16,Auth
-U051,Analytics Dashboard Accessed,192.168.1.48,2026-03-24 13:22:16,Clinical
-U035,Batch Created,192.168.1.54,2026-02-13 04:04:16,Analytics
-U155,Stock Adjustment,192.168.1.228,2026-04-02 14:29:16,Auth
-U153,Generated Outbreak Alert,192.168.1.237,2026-02-18 10:09:16,Clinical
-U024,User Login,192.168.1.150,2026-03-03 09:26:16,Settings
-U192,Stock Adjustment,192.168.1.47,2026-03-17 21:24:16,Analytics
-U169,Prescription Issued,192.168.1.103,2026-03-01 01:32:16,Settings
-U184,Generated Outbreak Alert,192.168.1.201,2026-03-01 05:52:16,Clinical
-U172,User Logout,192.168.1.21,2026-02-09 16:40:16,Clinical
-U130,Updated Clinic Settings,192.168.1.58,2026-01-27 19:51:16,Pharmacy
-U040,Generated Outbreak Alert,192.168.1.22,2026-03-13 06:45:16,Settings
-U103,Exported Inventory Report,192.168.1.128,2026-02-14 16:42:16,Auth
-U134,Viewed Patient Vitals,192.168.1.2,2026-02-22 09:54:16,Clinical
-U075,User Login,192.168.1.211,2026-03-22 08:29:16,Pharmacy
-U090,Generated Outbreak Alert,192.168.1.6,2026-03-11 05:51:16,Settings
-U047,Prescription Issued,192.168.1.135,2026-02-09 11:51:16,Clinical
-U007,Generated Outbreak Alert,192.168.1.191,2026-01-31 16:29:16,Patients
-U054,User Login,192.168.1.116,2026-03-21 12:26:16,Analytics
-U034,Updated Clinic Settings,192.168.1.2,2026-02-24 01:35:16,Analytics
-U195,User Login,192.168.1.146,2026-03-03 14:15:16,Pharmacy
-U012,Exported Inventory Report,192.168.1.89,2026-01-13 10:03:16,Inventory
-U128,Batch Created,192.168.1.236,2026-02-14 11:22:16,Patients
-U195,User Logout,192.168.1.8,2026-04-07 05:20:16,Analytics
-U019,User Logout,192.168.1.139,2026-02-11 12:50:16,Pharmacy
-U159,Stock Adjustment,192.168.1.246,2026-02-12 23:41:16,Auth
-U066,Stock Adjustment,192.168.1.109,2026-02-01 23:14:16,Pharmacy
-U160,Prescription Issued,192.168.1.20,2026-03-18 07:50:16,Inventory
-U122,Batch Created,192.168.1.50,2026-04-02 01:19:16,Inventory
-U156,Viewed Patient Vitals,192.168.1.232,2026-02-24 09:17:16,Analytics
-U134,Viewed Patient Vitals,192.168.1.233,2026-03-14 08:42:16,Auth
-U046,User Logout,192.168.1.96,2026-02-21 00:26:16,Analytics
-U155,Generated Outbreak Alert,192.168.1.113,2026-03-26 04:14:16,Auth
-U187,Batch Created,192.168.1.236,2026-03-05 23:21:16,Pharmacy
-U015,Updated Clinic Settings,192.168.1.189,2026-02-02 18:11:16,Analytics
-U109,Exported Inventory Report,192.168.1.28,2026-02-17 05:02:16,Clinical
-U160,Updated Clinic Settings,192.168.1.15,2026-04-05 06:14:16,Analytics
-U073,Batch Created,192.168.1.74,2026-01-21 22:43:16,Auth
-U078,Analytics Dashboard Accessed,192.168.1.23,2026-01-19 11:19:16,Auth
-U002,Generated Outbreak Alert,192.168.1.238,2026-03-14 17:20:16,Clinical
-U146,Generated Outbreak Alert,192.168.1.227,2026-03-21 01:47:16,Inventory
-U186,Viewed Patient Vitals,192.168.1.227,2026-03-14 21:26:16,Pharmacy
-U011,User Logout,192.168.1.248,2026-03-28 07:19:16,Analytics
-U162,Prescription Issued,192.168.1.61,2026-04-06 02:41:16,Settings
-U082,Stock Adjustment,192.168.1.218,2026-03-30 09:16:16,Settings
-U070,User Login,192.168.1.82,2026-02-06 10:20:16,Auth
-U173,Viewed Patient Vitals,192.168.1.234,2026-02-04 12:25:16,Pharmacy
-U051,Stock Adjustment,192.168.1.83,2026-02-10 09:11:16,Pharmacy
-U069,Prescription Issued,192.168.1.217,2026-03-22 10:10:16,Pharmacy
-U124,Batch Created,192.168.1.31,2026-03-29 03:26:16,Settings
-U166,Exported Inventory Report,192.168.1.111,2026-02-06 20:34:16,Analytics
-U027,User Logout,192.168.1.10,2026-02-18 20:44:16,Clinical
-U117,Prescription Issued,192.168.1.69,2026-02-13 09:34:16,Patients
-U040,Analytics Dashboard Accessed,192.168.1.43,2026-03-12 10:00:16,Auth
-U183,Stock Adjustment,192.168.1.47,2026-02-08 04:20:16,Settings
-U055,Analytics Dashboard Accessed,192.168.1.246,2026-03-11 19:16:16,Clinical
-U130,User Login,192.168.1.113,2026-03-22 19:22:16,Settings
-U001,User Login,192.168.1.84,2026-03-23 16:48:16,Clinical
-U068,Viewed Patient Vitals,192.168.1.245,2026-01-11 00:08:16,Clinical
-U043,Viewed Patient Vitals,192.168.1.185,2026-01-10 23:20:16,Settings
-U194,User Logout,192.168.1.204,2026-01-25 19:09:16,Analytics
-U131,Batch Created,192.168.1.232,2026-03-22 12:57:16,Pharmacy
-U166,Batch Created,192.168.1.6,2026-02-18 20:04:16,Pharmacy
-U100,Batch Created,192.168.1.59,2026-02-24 20:38:16,Auth
-U127,User Login,192.168.1.160,2026-02-18 10:13:16,Inventory
-U116,Batch Created,192.168.1.142,2026-01-26 18:32:16,Auth
-U119,Updated Clinic Settings,192.168.1.246,2026-02-17 07:45:16,Patients
-U074,Updated Clinic Settings,192.168.1.143,2026-03-06 11:30:16,Patients
-U081,Batch Created,192.168.1.80,2026-03-11 09:31:16,Auth
-U122,Prescription Issued,192.168.1.55,2026-03-23 15:37:16,Auth
-U122,Prescription Issued,192.168.1.64,2026-03-11 04:53:16,Pharmacy
-U197,Analytics Dashboard Accessed,192.168.1.2,2026-01-21 14:39:16,Inventory
-U091,Prescription Issued,192.168.1.252,2026-02-21 13:34:16,Clinical
-U048,Analytics Dashboard Accessed,192.168.1.22,2026-02-17 10:37:16,Settings
-U061,Prescription Issued,192.168.1.231,2026-03-20 08:05:16,Inventory
-U114,Batch Created,192.168.1.173,2026-02-13 16:42:16,Auth
-U042,Prescription Issued,192.168.1.23,2026-03-14 11:16:16,Settings
-U087,Viewed Patient Vitals,192.168.1.160,2026-02-18 15:05:16,Analytics
-U103,Batch Created,192.168.1.62,2026-01-10 02:12:16,Analytics
-U148,Batch Created,192.168.1.204,2026-03-01 22:16:16,Clinical
-U191,User Logout,192.168.1.63,2026-01-27 21:53:16,Settings
-U048,User Login,192.168.1.77,2026-03-16 12:25:16,Patients
-U089,Batch Created,192.168.1.12,2026-02-25 08:14:16,Auth
-U131,Stock Adjustment,192.168.1.250,2026-03-22 08:58:16,Pharmacy
-U019,Stock Adjustment,192.168.1.238,2026-03-07 18:13:16,Settings
-U085,Exported Inventory Report,192.168.1.23,2026-01-09 12:48:16,Settings
-U158,Prescription Issued,192.168.1.141,2026-03-23 02:43:16,Settings
-U130,Batch Created,192.168.1.119,2026-02-03 22:13:16,Inventory
-U125,Generated Outbreak Alert,192.168.1.77,2026-03-15 23:40:16,Settings
-U174,User Logout,192.168.1.30,2026-04-03 19:32:16,Patients
-U142,Prescription Issued,192.168.1.219,2026-04-01 00:46:16,Settings
-U063,Batch Created,192.168.1.129,2026-01-29 20:45:16,Inventory
-U151,Updated Clinic Settings,192.168.1.252,2026-01-15 06:16:16,Settings
-U157,User Login,192.168.1.46,2026-03-14 09:30:16,Clinical
-U109,Stock Adjustment,192.168.1.138,2026-03-21 11:36:16,Auth
-U169,Stock Adjustment,192.168.1.195,2026-01-25 05:44:16,Patients
-U039,Stock Adjustment,192.168.1.236,2026-02-06 19:07:16,Inventory
-U015,Analytics Dashboard Accessed,192.168.1.146,2026-03-23 20:05:16,Settings
-U078,Exported Inventory Report,192.168.1.111,2026-03-09 14:02:16,Settings
-U088,User Login,192.168.1.59,2026-01-11 11:16:16,Auth
-U050,Batch Created,192.168.1.179,2026-02-20 20:07:16,Auth
-U117,Prescription Issued,192.168.1.67,2026-03-01 23:20:16,Settings
-U058,User Logout,192.168.1.164,2026-02-19 15:35:16,Clinical
-U082,Exported Inventory Report,192.168.1.143,2026-02-15 14:33:16,Clinical
-U037,User Logout,192.168.1.248,2026-01-28 21:57:16,Clinical
-U111,Prescription Issued,192.168.1.73,2026-01-12 00:56:16,Analytics
-U200,Stock Adjustment,192.168.1.99,2026-01-14 08:31:16,Pharmacy
-U126,User Logout,192.168.1.41,2026-03-14 20:24:16,Auth
-U100,Generated Outbreak Alert,192.168.1.24,2026-01-29 03:52:16,Inventory
-U123,Prescription Issued,192.168.1.228,2026-04-03 18:02:16,Inventory
-U005,Exported Inventory Report,192.168.1.250,2026-01-27 17:03:16,Analytics
-U016,Updated Clinic Settings,192.168.1.138,2026-01-26 04:00:16,Clinical
-U158,Generated Outbreak Alert,192.168.1.86,2026-01-08 14:54:16,Settings
-U092,Viewed Patient Vitals,192.168.1.214,2026-02-24 05:49:16,Patients
-U163,Exported Inventory Report,192.168.1.177,2026-01-29 06:27:16,Clinical
-U069,User Login,192.168.1.185,2026-02-21 16:02:16,Analytics
-U179,Updated Clinic Settings,192.168.1.131,2026-02-24 03:31:16,Patients
-U056,User Login,192.168.1.69,2026-02-11 23:36:16,Analytics
-U018,Viewed Patient Vitals,192.168.1.158,2026-03-27 16:26:16,Pharmacy
-U170,Stock Adjustment,192.168.1.10,2026-02-13 12:44:16,Pharmacy
-U016,Batch Created,192.168.1.16,2026-03-13 11:24:16,Pharmacy
-U060,Updated Clinic Settings,192.168.1.160,2026-01-10 16:23:16,Patients
-U183,User Login,192.168.1.206,2026-04-07 17:46:16,Patients
-U065,Updated Clinic Settings,192.168.1.111,2026-03-02 09:53:16,Pharmacy
-U132,User Logout,192.168.1.144,2026-04-05 05:02:16,Settings
-U177,Prescription Issued,192.168.1.252,2026-01-13 22:00:16,Inventory
-U157,Exported Inventory Report,192.168.1.229,2026-02-12 11:26:16,Auth
-U058,Updated Clinic Settings,192.168.1.115,2026-01-23 21:17:16,Patients
-U154,Batch Created,192.168.1.145,2026-01-09 22:07:16,Inventory
-U071,Batch Created,192.168.1.186,2026-01-27 18:04:16,Inventory
-U021,Updated Clinic Settings,192.168.1.32,2026-01-30 09:21:16,Pharmacy
-U007,Prescription Issued,192.168.1.183,2026-03-16 18:35:16,Auth
-U129,User Login,192.168.1.185,2026-03-01 10:22:16,Settings
-U098,Exported Inventory Report,192.168.1.188,2026-02-18 17:49:16,Auth
-U090,Updated Clinic Settings,192.168.1.151,2026-02-09 03:52:16,Auth
-U077,Generated Outbreak Alert,192.168.1.52,2026-01-13 20:21:16,Inventory
-U167,Exported Inventory Report,192.168.1.200,2026-02-25 19:36:16,Patients
-U100,Generated Outbreak Alert,192.168.1.169,2026-03-22 17:14:16,Inventory
-U179,User Logout,192.168.1.80,2026-03-12 09:25:16,Inventory
-U123,Batch Created,192.168.1.121,2026-02-01 08:37:16,Analytics
-U023,User Login,192.168.1.45,2026-02-10 03:24:16,Analytics
-U172,Viewed Patient Vitals,192.168.1.234,2026-02-20 18:25:16,Patients
-U038,Viewed Patient Vitals,192.168.1.242,2026-01-12 13:25:16,Patients
-U023,User Logout,192.168.1.216,2026-03-22 17:48:16,Auth
-U039,Prescription Issued,192.168.1.124,2026-03-13 11:48:16,Analytics
-U098,User Login,192.168.1.144,2026-02-25 21:20:16,Pharmacy
-U065,Updated Clinic Settings,192.168.1.233,2026-01-16 22:18:16,Analytics
-U105,Exported Inventory Report,192.168.1.80,2026-04-04 10:16:16,Inventory
-U009,Generated Outbreak Alert,192.168.1.125,2026-03-28 06:32:16,Inventory
-U121,Analytics Dashboard Accessed,192.168.1.150,2026-04-04 05:28:16,Clinical
-U090,User Logout,192.168.1.160,2026-03-21 01:10:16,Auth
-U041,Exported Inventory Report,192.168.1.4,2026-02-22 23:30:16,Settings
-U052,Analytics Dashboard Accessed,192.168.1.181,2026-03-05 03:39:16,Patients
-U160,User Logout,192.168.1.177,2026-01-24 02:41:16,Auth
-U184,Generated Outbreak Alert,192.168.1.157,2026-01-22 23:32:16,Auth
-U097,Updated Clinic Settings,192.168.1.174,2026-02-21 15:59:16,Patients
-U075,User Logout,192.168.1.254,2026-01-15 09:04:16,Settings
-U022,Analytics Dashboard Accessed,192.168.1.228,2026-02-05 07:10:16,Analytics
-U130,Analytics Dashboard Accessed,192.168.1.231,2026-02-18 03:37:16,Analytics
-U010,User Logout,192.168.1.227,2026-04-08 07:03:16,Patients
-U016,Stock Adjustment,192.168.1.55,2026-02-20 01:19:16,Clinical
-U072,User Login,192.168.1.87,2026-03-08 18:22:16,Settings
-U072,Generated Outbreak Alert,192.168.1.66,2026-03-29 03:40:16,Clinical
-U050,Analytics Dashboard Accessed,192.168.1.96,2026-01-08 23:43:16,Clinical
-U023,Exported Inventory Report,192.168.1.37,2026-04-06 02:21:16,Patients
-U097,User Logout,192.168.1.213,2026-03-04 15:46:16,Settings
-U094,Prescription Issued,192.168.1.57,2026-03-04 20:59:16,Auth
-U035,User Login,192.168.1.13,2026-03-17 09:44:16,Patients
-U087,Stock Adjustment,192.168.1.90,2026-01-31 18:27:16,Inventory
-U091,Analytics Dashboard Accessed,192.168.1.28,2026-04-07 16:09:16,Patients
-U181,Generated Outbreak Alert,192.168.1.120,2026-02-10 09:01:16,Settings
-U062,Analytics Dashboard Accessed,192.168.1.87,2026-03-08 01:27:16,Inventory
-U157,Stock Adjustment,192.168.1.174,2026-03-24 10:40:16,Auth
-U002,Stock Adjustment,192.168.1.27,2026-03-16 14:42:16,Clinical
-U178,Generated Outbreak Alert,192.168.1.243,2026-03-24 20:29:16,Analytics
-U081,Prescription Issued,192.168.1.191,2026-01-20 02:12:16,Auth
-U002,User Logout,192.168.1.133,2026-03-31 00:51:16,Inventory
-U051,User Logout,192.168.1.238,2026-03-17 06:43:16,Patients
-U126,User Logout,192.168.1.162,2026-02-03 14:04:16,Clinical
-U156,Stock Adjustment,192.168.1.7,2026-01-20 13:33:16,Pharmacy
-U169,Prescription Issued,192.168.1.12,2026-03-05 06:22:16,Auth
-U138,User Login,192.168.1.106,2026-03-13 20:52:16,Analytics
-U018,Exported Inventory Report,192.168.1.193,2026-02-04 13:04:16,Auth
-U140,Updated Clinic Settings,192.168.1.126,2026-03-24 22:36:16,Inventory
-U033,Viewed Patient Vitals,192.168.1.194,2026-01-24 22:10:16,Auth
-U200,Exported Inventory Report,192.168.1.225,2026-01-18 11:17:16,Clinical
-U095,Analytics Dashboard Accessed,192.168.1.135,2026-03-27 06:33:16,Pharmacy
-U119,Updated Clinic Settings,192.168.1.179,2026-03-04 10:31:16,Analytics
-U077,User Login,192.168.1.204,2026-03-25 16:29:16,Auth
-U035,Viewed Patient Vitals,192.168.1.130,2026-01-19 14:11:16,Settings
-U132,User Login,192.168.1.115,2026-02-03 15:08:16,Settings
-U090,Prescription Issued,192.168.1.220,2026-01-27 16:29:16,Inventory
-U076,Stock Adjustment,192.168.1.40,2026-01-31 05:44:16,Inventory
-U022,Updated Clinic Settings,192.168.1.28,2026-03-14 22:51:16,Patients
-U109,Updated Clinic Settings,192.168.1.173,2026-03-09 10:17:16,Settings
-U011,Batch Created,192.168.1.34,2026-03-07 05:14:16,Inventory
-U166,User Login,192.168.1.179,2026-02-20 14:30:16,Auth
-U126,Prescription Issued,192.168.1.115,2026-04-04 22:38:16,Patients
-U009,User Logout,192.168.1.86,2026-04-06 15:07:16,Clinical
-U109,User Logout,192.168.1.185,2026-04-04 22:30:16,Inventory
-U193,Viewed Patient Vitals,192.168.1.135,2026-03-15 08:32:16,Auth
-U024,Batch Created,192.168.1.217,2026-03-23 11:21:16,Settings
-U055,Updated Clinic Settings,192.168.1.5,2026-01-20 19:51:16,Inventory
-U106,Generated Outbreak Alert,192.168.1.116,2026-02-27 14:35:16,Inventory
-U073,Exported Inventory Report,192.168.1.193,2026-03-24 12:58:16,Auth
-U091,User Logout,192.168.1.203,2026-01-29 04:00:16,Analytics
-U054,Batch Created,192.168.1.18,2026-03-29 17:45:16,Auth
-U112,Exported Inventory Report,192.168.1.89,2026-03-04 10:55:16,Auth
-U152,Viewed Patient Vitals,192.168.1.3,2026-03-29 09:14:16,Settings
-U087,User Logout,192.168.1.67,2026-03-06 13:09:16,Pharmacy
-U110,Analytics Dashboard Accessed,192.168.1.238,2026-02-01 14:35:16,Settings
-U157,Batch Created,192.168.1.252,2026-01-18 00:04:16,Inventory
-U038,Generated Outbreak Alert,192.168.1.241,2026-01-10 07:57:16,Pharmacy
-U090,Updated Clinic Settings,192.168.1.200,2026-02-02 04:56:16,Patients
-U191,Viewed Patient Vitals,192.168.1.215,2026-02-02 18:15:16,Settings
-U167,User Logout,192.168.1.170,2026-03-22 06:22:16,Patients
-U173,Prescription Issued,192.168.1.117,2026-02-04 22:42:16,Inventory
-U191,Stock Adjustment,192.168.1.14,2026-01-12 09:31:16,Auth
-U022,Exported Inventory Report,192.168.1.162,2026-02-03 22:08:16,Analytics
-U155,Batch Created,192.168.1.202,2026-01-13 03:22:16,Clinical
-U078,Batch Created,192.168.1.125,2026-01-22 23:49:16,Auth
-U048,User Login,192.168.1.222,2026-02-13 05:05:16,Inventory
-U108,Analytics Dashboard Accessed,192.168.1.209,2026-04-08 23:04:16,Settings
-U077,Stock Adjustment,192.168.1.165,2026-03-27 20:49:16,Settings
-U127,Viewed Patient Vitals,192.168.1.191,2026-02-13 10:55:16,Clinical
-U150,Exported Inventory Report,192.168.1.187,2026-03-29 03:04:16,Patients
-U047,Generated Outbreak Alert,192.168.1.4,2026-03-22 18:26:16,Settings
-U064,Updated Clinic Settings,192.168.1.119,2026-01-29 11:22:16,Auth
-U188,Prescription Issued,192.168.1.27,2026-04-03 03:31:16,Clinical
-U022,Batch Created,192.168.1.241,2026-01-13 20:58:16,Settings
-U100,Updated Clinic Settings,192.168.1.59,2026-01-17 20:27:16,Auth
-U128,User Login,192.168.1.38,2026-01-26 16:43:16,Pharmacy
-U007,Stock Adjustment,192.168.1.146,2026-02-23 23:11:16,Analytics
-U038,Batch Created,192.168.1.6,2026-01-31 09:24:16,Settings
-U159,Exported Inventory Report,192.168.1.172,2026-02-12 22:19:16,Inventory
-U080,Batch Created,192.168.1.132,2026-01-12 12:37:16,Clinical
-U197,User Logout,192.168.1.153,2026-02-01 04:32:16,Analytics
-U063,Prescription Issued,192.168.1.121,2026-03-17 09:04:16,Pharmacy
-U042,User Login,192.168.1.33,2026-02-18 17:20:16,Patients
-U028,User Login,192.168.1.145,2026-01-27 20:41:16,Inventory
-U103,Viewed Patient Vitals,192.168.1.98,2026-01-29 03:03:16,Patients
-U034,Exported Inventory Report,192.168.1.89,2026-03-18 02:05:16,Auth
-U137,User Logout,192.168.1.198,2026-03-09 06:29:16,Auth
-U028,User Login,192.168.1.131,2026-01-15 17:39:16,Auth
-U024,Analytics Dashboard Accessed,192.168.1.63,2026-01-10 10:09:16,Pharmacy
-U147,User Login,192.168.1.236,2026-03-25 12:40:16,Auth
-U199,Generated Outbreak Alert,192.168.1.162,2026-02-01 05:25:16,Clinical
-U031,Analytics Dashboard Accessed,192.168.1.7,2026-01-22 00:36:16,Analytics
-U124,Generated Outbreak Alert,192.168.1.145,2026-01-16 03:18:16,Analytics
-U159,Viewed Patient Vitals,192.168.1.44,2026-02-24 23:50:16,Auth
-U115,Prescription Issued,192.168.1.3,2026-02-03 07:32:16,Auth
-U161,Viewed Patient Vitals,192.168.1.28,2026-03-16 23:33:16,Pharmacy
-U041,Batch Created,192.168.1.153,2026-02-08 08:27:16,Inventory
-U146,Generated Outbreak Alert,192.168.1.157,2026-02-18 13:12:16,Clinical
-U016,Batch Created,192.168.1.215,2026-01-22 22:17:16,Pharmacy
-U165,Generated Outbreak Alert,192.168.1.126,2026-02-26 22:46:16,Auth
-U079,User Logout,192.168.1.156,2026-02-05 07:03:16,Patients
-U036,Stock Adjustment,192.168.1.8,2026-02-17 09:30:16,Inventory
-U106,Stock Adjustment,192.168.1.248,2026-02-10 07:37:16,Pharmacy
-U085,User Logout,192.168.1.55,2026-03-03 13:50:16,Auth
-U107,Stock Adjustment,192.168.1.188,2026-03-18 22:44:16,Auth
-U064,Analytics Dashboard Accessed,192.168.1.237,2026-03-17 00:04:16,Auth
-U152,Exported Inventory Report,192.168.1.144,2026-02-22 12:40:16,Analytics
-U068,Updated Clinic Settings,192.168.1.151,2026-03-05 15:29:16,Auth
-U125,Stock Adjustment,192.168.1.178,2026-01-19 20:23:16,Analytics
-U005,User Logout,192.168.1.29,2026-01-09 00:08:16,Inventory
-U125,Batch Created,192.168.1.227,2026-02-20 10:39:16,Inventory
-U057,Viewed Patient Vitals,192.168.1.35,2026-01-09 03:26:16,Analytics
-U198,Exported Inventory Report,192.168.1.55,2026-01-13 09:27:16,Auth
-U080,Viewed Patient Vitals,192.168.1.146,2026-03-02 09:25:16,Patients
-U133,Prescription Issued,192.168.1.151,2026-03-02 07:59:16,Auth
-U135,Viewed Patient Vitals,192.168.1.29,2026-02-15 20:23:16,Settings
-U158,Updated Clinic Settings,192.168.1.120,2026-03-25 02:18:16,Pharmacy
-U113,User Login,192.168.1.202,2026-02-15 05:59:16,Pharmacy
-U173,Analytics Dashboard Accessed,192.168.1.190,2026-03-14 04:50:16,Settings
-U166,Stock Adjustment,192.168.1.2,2026-02-07 13:20:16,Settings
-U049,User Logout,192.168.1.169,2026-01-26 18:40:16,Auth
-U172,Analytics Dashboard Accessed,192.168.1.228,2026-01-27 03:53:16,Settings
-U081,Stock Adjustment,192.168.1.125,2026-02-05 07:40:16,Settings
-U031,Prescription Issued,192.168.1.42,2026-01-17 04:19:16,Analytics
-U098,Exported Inventory Report,192.168.1.119,2026-01-11 00:16:16,Patients
-U065,Analytics Dashboard Accessed,192.168.1.26,2026-02-05 09:11:16,Pharmacy
-U031,Generated Outbreak Alert,192.168.1.244,2026-03-04 16:50:16,Auth
-U073,Exported Inventory Report,192.168.1.149,2026-03-15 12:09:16,Inventory
-U071,Exported Inventory Report,192.168.1.39,2026-03-18 16:48:16,Inventory
-U169,Exported Inventory Report,192.168.1.171,2026-03-26 05:53:16,Settings
-U119,User Login,192.168.1.131,2026-02-16 00:08:16,Auth
-U071,Analytics Dashboard Accessed,192.168.1.127,2026-03-24 09:28:16,Clinical
-U070,Batch Created,192.168.1.55,2026-03-08 23:45:16,Auth
-U151,Batch Created,192.168.1.201,2026-02-02 15:13:16,Inventory
-U004,Viewed Patient Vitals,192.168.1.244,2026-02-16 16:38:16,Settings
-U155,Viewed Patient Vitals,192.168.1.135,2026-01-24 14:24:16,Settings
-U128,Batch Created,192.168.1.3,2026-03-21 20:49:16,Analytics
-U023,Analytics Dashboard Accessed,192.168.1.242,2026-02-26 15:08:16,Pharmacy
-U171,Stock Adjustment,192.168.1.69,2026-04-06 03:30:16,Pharmacy
-U129,Generated Outbreak Alert,192.168.1.97,2026-01-18 06:50:16,Settings
-U005,Prescription Issued,192.168.1.67,2026-04-03 08:38:16,Analytics
-U074,Viewed Patient Vitals,192.168.1.9,2026-01-27 14:46:16,Clinical
-U024,Exported Inventory Report,192.168.1.101,2026-03-30 20:13:16,Analytics
-U173,User Logout,192.168.1.46,2026-02-06 11:24:16,Clinical
-U083,Updated Clinic Settings,192.168.1.174,2026-03-01 13:06:16,Patients
-U043,Viewed Patient Vitals,192.168.1.181,2026-03-22 04:36:16,Settings
-U186,Stock Adjustment,192.168.1.164,2026-02-14 07:16:16,Inventory
-U030,Analytics Dashboard Accessed,192.168.1.217,2026-02-04 08:28:16,Inventory
-U146,Stock Adjustment,192.168.1.221,2026-01-19 01:09:16,Clinical
-U055,Analytics Dashboard Accessed,192.168.1.51,2026-04-03 05:39:16,Analytics
-U198,Analytics Dashboard Accessed,192.168.1.116,2026-02-20 02:52:16,Settings
-U063,Stock Adjustment,192.168.1.32,2026-01-17 17:22:16,Inventory
-U094,User Logout,192.168.1.47,2026-03-31 04:53:16,Auth
-U108,Viewed Patient Vitals,192.168.1.23,2026-03-05 12:02:16,Patients
-U105,Updated Clinic Settings,192.168.1.157,2026-03-08 07:30:16,Patients
-U169,User Logout,192.168.1.182,2026-02-02 19:10:16,Settings
-U172,Prescription Issued,192.168.1.46,2026-01-14 08:11:16,Settings
-U071,Viewed Patient Vitals,192.168.1.138,2026-03-19 13:48:16,Auth
-U172,Exported Inventory Report,192.168.1.219,2026-03-16 15:20:16,Auth
-U018,Exported Inventory Report,192.168.1.252,2026-01-12 05:57:16,Analytics
-U021,Updated Clinic Settings,192.168.1.144,2026-03-19 12:14:16,Pharmacy
-U037,Viewed Patient Vitals,192.168.1.202,2026-01-30 04:54:16,Settings
-U105,Batch Created,192.168.1.95,2026-04-01 17:56:16,Settings
-U079,User Logout,192.168.1.204,2026-02-17 21:45:16,Auth
-U067,Analytics Dashboard Accessed,192.168.1.109,2026-02-25 20:34:16,Inventory
-U144,Batch Created,192.168.1.190,2026-02-22 16:06:16,Analytics
-U150,Analytics Dashboard Accessed,192.168.1.117,2026-03-22 19:41:16,Inventory
-U009,Prescription Issued,192.168.1.176,2026-01-24 20:46:16,Analytics
-U062,User Login,192.168.1.24,2026-03-27 10:19:16,Clinical
-U019,Generated Outbreak Alert,192.168.1.11,2026-03-07 17:36:16,Analytics
-U082,Prescription Issued,192.168.1.101,2026-04-07 17:58:16,Patients
-U168,User Logout,192.168.1.38,2026-03-22 22:42:16,Analytics
-U095,Prescription Issued,192.168.1.180,2026-01-16 04:12:16,Auth
-U030,Exported Inventory Report,192.168.1.3,2026-03-25 14:56:16,Inventory
-U090,Prescription Issued,192.168.1.52,2026-04-03 03:11:16,Pharmacy
-U076,User Login,192.168.1.144,2026-03-17 05:39:16,Auth
-U150,Prescription Issued,192.168.1.155,2026-03-29 19:13:16,Settings
-U034,Analytics Dashboard Accessed,192.168.1.152,2026-01-13 09:14:16,Inventory
-U038,Generated Outbreak Alert,192.168.1.45,2026-01-23 21:36:16,Settings
-U126,Exported Inventory Report,192.168.1.228,2026-01-17 07:16:16,Analytics
-U169,Viewed Patient Vitals,192.168.1.84,2026-04-07 22:16:16,Patients
-U153,Analytics Dashboard Accessed,192.168.1.160,2026-03-06 08:38:16,Clinical
-U025,User Login,192.168.1.99,2026-01-19 09:58:16,Auth
-U106,Updated Clinic Settings,192.168.1.27,2026-03-30 07:59:16,Auth
-U143,Generated Outbreak Alert,192.168.1.129,2026-03-27 00:05:16,Patients
-U046,Exported Inventory Report,192.168.1.86,2026-04-04 00:11:16,Auth
-U066,User Login,192.168.1.210,2026-04-07 06:10:16,Clinical
-U071,Batch Created,192.168.1.204,2026-01-25 00:09:16,Patients
-U167,User Logout,192.168.1.160,2026-03-11 20:30:16,Pharmacy
-U178,Prescription Issued,192.168.1.211,2026-02-06 08:37:16,Settings
-U069,Stock Adjustment,192.168.1.226,2026-02-19 11:14:16,Auth
-U015,Prescription Issued,192.168.1.197,2026-01-21 03:14:16,Auth
-U195,User Login,192.168.1.103,2026-04-08 02:02:16,Settings
-U194,Exported Inventory Report,192.168.1.251,2026-02-26 09:30:16,Inventory
-U073,Analytics Dashboard Accessed,192.168.1.157,2026-04-07 03:33:16,Auth
-U173,Batch Created,192.168.1.178,2026-04-04 14:32:16,Settings
-U099,Viewed Patient Vitals,192.168.1.43,2026-01-13 04:48:16,Inventory
-U180,Prescription Issued,192.168.1.246,2026-02-26 05:39:16,Inventory
-U037,Updated Clinic Settings,192.168.1.122,2026-01-23 13:06:16,Patients
-U085,Prescription Issued,192.168.1.178,2026-02-02 18:17:16,Inventory
-U089,Viewed Patient Vitals,192.168.1.199,2026-02-11 21:31:16,Clinical
-U032,Analytics Dashboard Accessed,192.168.1.229,2026-01-29 04:32:16,Settings
-U111,Batch Created,192.168.1.87,2026-01-11 11:29:16,Auth
-U119,Generated Outbreak Alert,192.168.1.243,2026-02-16 10:06:16,Patients
-U011,Viewed Patient Vitals,192.168.1.31,2026-04-07 11:19:16,Inventory
-U137,Exported Inventory Report,192.168.1.238,2026-02-08 14:19:16,Clinical
-U067,Stock Adjustment,192.168.1.78,2026-03-30 10:31:16,Pharmacy
-U181,User Login,192.168.1.141,2026-02-04 09:59:16,Patients
-U097,Batch Created,192.168.1.114,2026-01-15 12:21:16,Clinical
-U012,Batch Created,192.168.1.221,2026-01-16 14:45:16,Patients
-U054,Batch Created,192.168.1.109,2026-04-07 23:22:16,Patients
-U057,Stock Adjustment,192.168.1.10,2026-02-23 20:31:16,Pharmacy
-U063,Stock Adjustment,192.168.1.16,2026-01-28 01:11:16,Patients
-U106,User Logout,192.168.1.64,2026-03-23 13:36:16,Analytics
-U136,Batch Created,192.168.1.38,2026-01-15 12:36:16,Patients
-U004,Prescription Issued,192.168.1.37,2026-01-15 13:49:16,Analytics
-U103,User Logout,192.168.1.100,2026-03-05 07:07:16,Analytics
-U091,User Login,192.168.1.251,2026-03-04 04:57:16,Clinical
-U052,Stock Adjustment,192.168.1.169,2026-01-30 12:41:16,Auth
-U044,Stock Adjustment,192.168.1.112,2026-01-30 12:12:16,Auth
-U044,Prescription Issued,192.168.1.22,2026-04-04 21:51:16,Clinical
-U142,Viewed Patient Vitals,192.168.1.85,2026-01-09 18:48:16,Settings
-U024,Generated Outbreak Alert,192.168.1.44,2026-04-04 21:21:16,Analytics
-U004,Stock Adjustment,192.168.1.247,2026-03-14 22:12:16,Clinical
-U066,Prescription Issued,192.168.1.198,2026-04-03 18:55:16,Clinical
-U063,User Login,192.168.1.101,2026-04-07 12:30:16,Inventory
-U084,Stock Adjustment,192.168.1.173,2026-01-25 04:26:16,Clinical
-U066,Prescription Issued,192.168.1.103,2026-04-05 15:58:16,Pharmacy
-U176,Viewed Patient Vitals,192.168.1.23,2026-01-25 13:08:16,Analytics
-U124,User Logout,192.168.1.170,2026-04-06 03:06:16,Analytics
-U086,Prescription Issued,192.168.1.88,2026-03-12 17:56:16,Analytics
-U080,User Login,192.168.1.247,2026-01-13 00:09:16,Pharmacy
-U119,Stock Adjustment,192.168.1.179,2026-01-12 02:33:16,Inventory
-U158,Prescription Issued,192.168.1.228,2026-03-05 04:11:16,Patients
-U183,Exported Inventory Report,192.168.1.72,2026-03-17 21:52:16,Inventory
-U124,Stock Adjustment,192.168.1.52,2026-02-15 08:02:16,Auth
-U018,Batch Created,192.168.1.239,2026-02-12 21:19:16,Analytics
-U178,Stock Adjustment,192.168.1.13,2026-02-24 22:12:16,Settings
-U091,Stock Adjustment,192.168.1.130,2026-03-05 07:26:16,Patients
-U129,Updated Clinic Settings,192.168.1.166,2026-03-19 17:37:16,Patients
-U158,Updated Clinic Settings,192.168.1.5,2026-02-22 20:35:16,Clinical
-U012,Generated Outbreak Alert,192.168.1.28,2026-02-05 07:04:16,Analytics
-U149,Batch Created,192.168.1.250,2026-04-02 23:40:16,Settings
-U163,Prescription Issued,192.168.1.62,2026-04-02 08:52:16,Auth
-U129,Exported Inventory Report,192.168.1.7,2026-02-07 15:51:16,Pharmacy
-U005,Prescription Issued,192.168.1.8,2026-01-29 22:02:16,Pharmacy
-U159,Analytics Dashboard Accessed,192.168.1.63,2026-02-15 09:47:16,Auth
-U019,Updated Clinic Settings,192.168.1.114,2026-01-30 04:14:16,Pharmacy
-U039,Exported Inventory Report,192.168.1.133,2026-03-19 22:22:16,Patients
-U003,User Logout,192.168.1.245,2026-03-02 06:44:16,Inventory
-U055,Prescription Issued,192.168.1.209,2026-02-20 16:20:16,Clinical
-U017,Stock Adjustment,192.168.1.150,2026-04-03 13:36:16,Inventory
-U025,Prescription Issued,192.168.1.137,2026-02-06 07:12:16,Pharmacy
-U199,Exported Inventory Report,192.168.1.185,2026-01-15 08:39:16,Analytics
-U109,Viewed Patient Vitals,192.168.1.55,2026-02-06 22:30:16,Auth
-U054,Viewed Patient Vitals,192.168.1.44,2026-03-22 21:23:16,Inventory
-U111,Stock Adjustment,192.168.1.211,2026-01-18 22:42:16,Pharmacy
-U030,Exported Inventory Report,192.168.1.114,2026-02-07 02:03:16,Auth
-U074,Updated Clinic Settings,192.168.1.178,2026-02-21 13:17:16,Analytics
-U033,Prescription Issued,192.168.1.172,2026-02-24 02:41:16,Clinical
-U191,Analytics Dashboard Accessed,192.168.1.238,2026-01-13 20:23:16,Analytics
-U028,Viewed Patient Vitals,192.168.1.173,2026-03-30 17:45:16,Analytics
-U061,Stock Adjustment,192.168.1.205,2026-03-27 09:17:16,Patients
-U058,Updated Clinic Settings,192.168.1.76,2026-02-21 07:29:16,Settings
-U196,Analytics Dashboard Accessed,192.168.1.220,2026-03-19 03:54:16,Clinical
-U153,Stock Adjustment,192.168.1.167,2026-02-04 18:52:16,Inventory
-U029,Prescription Issued,192.168.1.16,2026-03-19 13:47:16,Auth
-U114,User Login,192.168.1.150,2026-02-07 16:28:16,Pharmacy
-U032,User Login,192.168.1.164,2026-02-14 13:15:16,Inventory
-U029,Generated Outbreak Alert,192.168.1.33,2026-02-24 12:15:16,Auth
-U154,Updated Clinic Settings,192.168.1.243,2026-03-09 10:29:16,Patients
-U015,Stock Adjustment,192.168.1.87,2026-03-03 08:03:16,Auth
-U064,User Login,192.168.1.254,2026-04-06 05:21:16,Patients
-U185,Generated Outbreak Alert,192.168.1.141,2026-01-08 09:48:16,Patients
-U090,Batch Created,192.168.1.108,2026-01-28 18:05:16,Clinical
-U162,Prescription Issued,192.168.1.100,2026-03-21 21:39:16,Analytics
-U099,Batch Created,192.168.1.195,2026-02-16 14:39:16,Settings
-U019,Generated Outbreak Alert,192.168.1.156,2026-02-22 18:12:16,Auth
-U086,User Login,192.168.1.240,2026-03-08 13:46:16,Clinical
-U006,User Login,192.168.1.206,2026-02-17 20:58:16,Auth
-U171,Stock Adjustment,192.168.1.124,2026-02-12 02:11:16,Settings
-U029,Generated Outbreak Alert,192.168.1.170,2026-03-09 01:43:16,Pharmacy
-U002,Analytics Dashboard Accessed,192.168.1.228,2026-03-05 03:13:16,Settings
-U077,Prescription Issued,192.168.1.149,2026-04-03 12:58:16,Auth
-U183,User Login,192.168.1.6,2026-03-30 18:51:16,Clinical
-U189,Prescription Issued,192.168.1.231,2026-03-27 20:25:16,Patients
-U175,Stock Adjustment,192.168.1.178,2026-03-01 02:21:16,Auth
-U145,User Login,192.168.1.131,2026-02-11 08:11:16,Inventory
-U124,Viewed Patient Vitals,192.168.1.98,2026-01-29 21:00:16,Pharmacy
-U145,Exported Inventory Report,192.168.1.199,2026-03-02 18:17:16,Inventory
-U136,Prescription Issued,192.168.1.5,2026-03-13 00:26:16,Auth
-U129,Analytics Dashboard Accessed,192.168.1.45,2026-02-13 03:58:16,Analytics
-U087,Exported Inventory Report,192.168.1.183,2026-02-16 23:32:16,Pharmacy
-U144,User Logout,192.168.1.82,2026-02-11 04:54:16,Patients
-U034,User Logout,192.168.1.115,2026-03-08 17:40:16,Analytics
-U154,Analytics Dashboard Accessed,192.168.1.150,2026-02-27 17:47:16,Clinical
-U023,Viewed Patient Vitals,192.168.1.38,2026-02-20 18:28:16,Settings
-U074,Analytics Dashboard Accessed,192.168.1.147,2026-03-11 20:37:16,Settings
-U180,Batch Created,192.168.1.198,2026-01-18 17:50:16,Patients
-U151,Exported Inventory Report,192.168.1.164,2026-04-07 08:38:16,Clinical
-U108,Batch Created,192.168.1.102,2026-01-28 15:59:16,Auth
-U030,Updated Clinic Settings,192.168.1.44,2026-03-22 15:15:16,Inventory
-U090,Analytics Dashboard Accessed,192.168.1.187,2026-03-24 07:34:16,Auth
-U052,Exported Inventory Report,192.168.1.55,2026-01-22 05:33:16,Inventory
-U081,User Logout,192.168.1.239,2026-02-04 17:59:16,Settings
-U135,Exported Inventory Report,192.168.1.109,2026-02-23 23:34:16,Patients
-U106,Viewed Patient Vitals,192.168.1.144,2026-03-07 15:47:16,Auth
-U095,Batch Created,192.168.1.128,2026-01-25 17:43:16,Analytics
-U116,Updated Clinic Settings,192.168.1.254,2026-02-20 18:24:16,Auth
-U088,User Login,192.168.1.191,2026-01-14 21:18:16,Analytics
-U160,Prescription Issued,192.168.1.226,2026-01-25 15:07:16,Patients
-U037,User Logout,192.168.1.107,2026-03-26 13:15:16,Analytics
-U053,Updated Clinic Settings,192.168.1.172,2026-02-26 04:44:16,Clinical
-U140,Exported Inventory Report,192.168.1.33,2026-01-31 01:32:16,Inventory
-U099,Viewed Patient Vitals,192.168.1.96,2026-02-12 06:56:16,Clinical
-U015,Exported Inventory Report,192.168.1.49,2026-02-10 12:57:16,Pharmacy
-U128,Generated Outbreak Alert,192.168.1.130,2026-03-29 05:02:16,Inventory
-U071,User Login,192.168.1.222,2026-04-08 00:58:16,Analytics
-U051,Viewed Patient Vitals,192.168.1.133,2026-01-15 22:33:16,Settings
-U148,Updated Clinic Settings,192.168.1.95,2026-03-24 12:11:16,Settings
-U007,Analytics Dashboard Accessed,192.168.1.142,2026-02-23 03:28:16,Auth
-U139,Updated Clinic Settings,192.168.1.114,2026-02-02 12:42:16,Patients
-U082,Updated Clinic Settings,192.168.1.67,2026-03-14 13:17:16,Pharmacy
-U178,Stock Adjustment,192.168.1.60,2026-03-31 12:51:16,Inventory
-U026,Batch Created,192.168.1.211,2026-03-02 02:17:16,Patients
-U198,Batch Created,192.168.1.19,2026-03-31 23:29:16,Inventory
-U182,User Logout,192.168.1.205,2026-03-14 12:40:16,Patients
-U033,Prescription Issued,192.168.1.165,2026-01-31 03:41:16,Analytics
-U047,Batch Created,192.168.1.206,2026-01-20 05:41:16,Analytics
-U026,Exported Inventory Report,192.168.1.134,2026-02-11 20:18:16,Inventory
-U112,User Logout,192.168.1.62,2026-02-28 12:24:16,Analytics
-U056,Stock Adjustment,192.168.1.222,2026-02-24 05:39:16,Settings
-U091,Prescription Issued,192.168.1.5,2026-03-16 16:31:16,Inventory
-U100,Generated Outbreak Alert,192.168.1.39,2026-02-25 06:01:16,Settings
-U017,Generated Outbreak Alert,192.168.1.7,2026-03-19 08:48:16,Analytics
-U085,Analytics Dashboard Accessed,192.168.1.158,2026-02-24 02:09:16,Settings
-U029,Updated Clinic Settings,192.168.1.236,2026-03-14 02:29:16,Analytics
-U174,User Logout,192.168.1.248,2026-02-02 04:18:16,Pharmacy
-U006,Viewed Patient Vitals,192.168.1.108,2026-03-02 17:19:16,Clinical
-U197,Stock Adjustment,192.168.1.82,2026-02-22 15:55:16,Analytics
-U076,Stock Adjustment,192.168.1.115,2026-01-19 16:41:16,Settings
-U082,Updated Clinic Settings,192.168.1.140,2026-01-28 00:08:16,Inventory
-U001,Analytics Dashboard Accessed,192.168.1.114,2026-02-11 08:28:16,Auth
-U189,Prescription Issued,192.168.1.223,2026-02-06 08:27:16,Clinical
-U068,User Logout,192.168.1.55,2026-02-15 05:56:16,Settings
-U191,User Logout,192.168.1.224,2026-01-21 04:42:16,Analytics
-U073,Analytics Dashboard Accessed,192.168.1.185,2026-03-26 06:58:16,Settings
-U006,Analytics Dashboard Accessed,192.168.1.149,2026-03-02 10:27:16,Pharmacy
-U099,Generated Outbreak Alert,192.168.1.155,2026-03-26 19:46:16,Auth
-U072,User Login,192.168.1.175,2026-01-28 18:11:16,Analytics
-U193,Generated Outbreak Alert,192.168.1.241,2026-03-19 13:16:16,Inventory
-U124,Generated Outbreak Alert,192.168.1.154,2026-02-24 20:54:16,Settings
-U015,Generated Outbreak Alert,192.168.1.75,2026-03-04 15:48:16,Auth
-U169,Exported Inventory Report,192.168.1.16,2026-02-28 02:53:16,Inventory
-U116,Viewed Patient Vitals,192.168.1.68,2026-01-24 04:36:16,Pharmacy
-U190,Updated Clinic Settings,192.168.1.226,2026-02-19 09:27:16,Analytics
-U105,Stock Adjustment,192.168.1.43,2026-01-26 06:56:16,Patients
-U152,User Login,192.168.1.230,2026-02-23 10:25:16,Clinical
-U083,Batch Created,192.168.1.99,2026-02-25 20:20:16,Auth
-U173,Analytics Dashboard Accessed,192.168.1.201,2026-01-28 04:24:16,Pharmacy
-U170,Exported Inventory Report,192.168.1.112,2026-03-07 14:09:16,Clinical
-U094,Updated Clinic Settings,192.168.1.59,2026-02-22 14:28:16,Analytics
-U161,User Logout,192.168.1.128,2026-02-18 09:16:16,Analytics
-U180,User Logout,192.168.1.199,2026-02-24 17:17:16,Auth
-U057,User Logout,192.168.1.122,2026-02-09 18:12:16,Clinical
-U104,Prescription Issued,192.168.1.126,2026-02-24 07:27:16,Clinical
-U056,Updated Clinic Settings,192.168.1.47,2026-03-16 17:44:16,Patients
-U048,User Login,192.168.1.72,2026-02-20 18:33:16,Analytics
-U055,User Login,192.168.1.37,2026-04-02 11:45:16,Inventory
-U126,Updated Clinic Settings,192.168.1.65,2026-01-12 03:31:16,Patients
-U189,Exported Inventory Report,192.168.1.190,2026-03-24 15:48:16,Analytics
-U047,Exported Inventory Report,192.168.1.183,2026-02-12 20:44:16,Clinical
-U100,User Login,192.168.1.82,2026-01-28 11:23:16,Pharmacy
-U082,Analytics Dashboard Accessed,192.168.1.172,2026-03-05 11:53:16,Patients
-U111,Updated Clinic Settings,192.168.1.21,2026-01-18 03:33:16,Analytics
-U143,Batch Created,192.168.1.154,2026-04-02 16:28:16,Pharmacy
-U063,Updated Clinic Settings,192.168.1.198,2026-02-24 00:31:16,Analytics
-U144,User Login,192.168.1.88,2026-02-10 22:33:16,Auth
-U188,Prescription Issued,192.168.1.237,2026-03-18 08:35:16,Analytics
-U142,Generated Outbreak Alert,192.168.1.30,2026-02-21 09:51:16,Analytics
-U091,Prescription Issued,192.168.1.179,2026-01-25 22:44:16,Settings
-U123,Viewed Patient Vitals,192.168.1.176,2026-02-12 19:02:16,Patients
-U046,User Login,192.168.1.244,2026-03-10 09:25:16,Patients
-U009,Viewed Patient Vitals,192.168.1.94,2026-02-10 13:16:16,Clinical
-U087,Generated Outbreak Alert,192.168.1.146,2026-01-19 16:01:16,Auth
-U198,User Logout,192.168.1.138,2026-01-15 01:29:16,Auth
-U154,User Logout,192.168.1.165,2026-01-15 00:19:16,Inventory
-U018,Exported Inventory Report,192.168.1.3,2026-01-17 03:35:16,Clinical
-U075,Viewed Patient Vitals,192.168.1.133,2026-03-26 04:22:16,Inventory
-U164,Updated Clinic Settings,192.168.1.169,2026-02-23 09:10:16,Auth
-U196,User Login,192.168.1.107,2026-04-06 03:04:16,Analytics
-U017,Prescription Issued,192.168.1.219,2026-03-02 08:19:16,Inventory
-U197,Generated Outbreak Alert,192.168.1.100,2026-01-28 23:28:16,Clinical
-U011,Generated Outbreak Alert,192.168.1.209,2026-03-20 03:37:16,Inventory
-U027,Exported Inventory Report,192.168.1.137,2026-02-03 20:28:16,Patients
-U027,Generated Outbreak Alert,192.168.1.210,2026-04-04 16:42:16,Settings
-U073,Viewed Patient Vitals,192.168.1.142,2026-01-09 12:44:16,Inventory
-U080,User Logout,192.168.1.127,2026-01-30 12:27:16,Patients
-U099,Generated Outbreak Alert,192.168.1.50,2026-02-23 05:20:16,Auth
-U033,Analytics Dashboard Accessed,192.168.1.190,2026-01-31 23:44:16,Patients
-U020,Analytics Dashboard Accessed,192.168.1.49,2026-03-07 00:40:16,Inventory
-U148,Exported Inventory Report,192.168.1.74,2026-01-15 17:55:16,Patients
-U173,User Logout,192.168.1.127,2026-01-14 22:19:16,Clinical
-U129,Prescription Issued,192.168.1.229,2026-03-17 12:42:16,Clinical
-U025,Generated Outbreak Alert,192.168.1.164,2026-01-21 05:58:16,Clinical
-U104,Generated Outbreak Alert,192.168.1.247,2026-02-11 11:25:16,Auth
-U045,Exported Inventory Report,192.168.1.239,2026-03-02 11:26:16,Analytics
-U157,Analytics Dashboard Accessed,192.168.1.203,2026-03-03 15:50:16,Clinical
-U120,Batch Created,192.168.1.174,2026-02-20 08:03:16,Pharmacy
-U099,Stock Adjustment,192.168.1.241,2026-03-22 03:55:16,Patients
-U191,Generated Outbreak Alert,192.168.1.88,2026-01-29 14:03:16,Pharmacy
-U102,User Login,192.168.1.54,2026-02-24 03:26:16,Auth
-U087,Viewed Patient Vitals,192.168.1.177,2026-01-26 15:23:16,Analytics
-U028,Batch Created,192.168.1.58,2026-03-05 08:50:16,Auth
-U161,Stock Adjustment,192.168.1.58,2026-03-08 17:59:16,Inventory
-U060,Prescription Issued,192.168.1.146,2026-02-13 01:18:16,Inventory
-U032,Batch Created,192.168.1.215,2026-01-25 10:20:16,Pharmacy
-U095,Updated Clinic Settings,192.168.1.21,2026-04-04 14:37:16,Pharmacy
-U078,Generated Outbreak Alert,192.168.1.15,2026-01-28 19:48:16,Analytics
-U106,Analytics Dashboard Accessed,192.168.1.128,2026-03-17 14:13:16,Analytics
-U081,Batch Created,192.168.1.100,2026-01-11 17:43:16,Clinical
-U119,Updated Clinic Settings,192.168.1.101,2026-03-09 11:52:16,Inventory
-U026,Updated Clinic Settings,192.168.1.98,2026-03-03 04:40:16,Analytics
-U045,Viewed Patient Vitals,192.168.1.60,2026-01-20 04:05:16,Inventory
-U055,Batch Created,192.168.1.15,2026-02-25 17:50:16,Inventory
-U174,Stock Adjustment,192.168.1.177,2026-01-29 09:55:16,Analytics
-U116,User Login,192.168.1.160,2026-03-02 13:13:16,Inventory
-U073,Prescription Issued,192.168.1.82,2026-03-19 17:16:16,Inventory
-U109,Batch Created,192.168.1.78,2026-02-19 18:04:16,Pharmacy
-U061,Viewed Patient Vitals,192.168.1.33,2026-01-22 03:14:16,Clinical
-U068,User Login,192.168.1.120,2026-01-23 06:24:16,Pharmacy
-U049,Analytics Dashboard Accessed,192.168.1.94,2026-03-29 08:20:16,Inventory
-U097,Generated Outbreak Alert,192.168.1.154,2026-04-06 03:20:16,Patients
-U148,Generated Outbreak Alert,192.168.1.189,2026-03-21 08:54:16,Clinical
-U165,Exported Inventory Report,192.168.1.175,2026-02-06 03:45:16,Pharmacy
-U039,Exported Inventory Report,192.168.1.124,2026-02-19 21:45:16,Analytics
-U014,Prescription Issued,192.168.1.230,2026-02-07 01:54:16,Inventory
-U043,Updated Clinic Settings,192.168.1.17,2026-04-03 11:54:16,Auth
-U128,Generated Outbreak Alert,192.168.1.133,2026-02-05 13:08:16,Inventory
-U003,Analytics Dashboard Accessed,192.168.1.183,2026-03-09 16:09:16,Inventory
-U056,Prescription Issued,192.168.1.22,2026-03-09 12:45:16,Clinical
-U179,User Login,192.168.1.33,2026-02-18 18:44:16,Clinical
-U146,Viewed Patient Vitals,192.168.1.55,2026-02-17 16:52:16,Auth
-U090,Exported Inventory Report,192.168.1.151,2026-02-05 02:47:16,Auth
-U016,Generated Outbreak Alert,192.168.1.54,2026-01-18 20:19:16,Analytics
-U147,Exported Inventory Report,192.168.1.113,2026-01-11 00:33:16,Clinical
-U019,Viewed Patient Vitals,192.168.1.100,2026-03-28 07:55:16,Settings
-U181,Viewed Patient Vitals,192.168.1.184,2026-02-10 08:50:16,Pharmacy
-U184,Viewed Patient Vitals,192.168.1.129,2026-01-12 11:36:16,Auth
-U182,Updated Clinic Settings,192.168.1.156,2026-03-07 08:23:16,Pharmacy
-U176,Updated Clinic Settings,192.168.1.163,2026-02-13 06:12:16,Settings
-U066,Viewed Patient Vitals,192.168.1.228,2026-03-22 18:06:16,Inventory
-U189,Batch Created,192.168.1.4,2026-04-08 11:43:16,Inventory
-U022,Updated Clinic Settings,192.168.1.164,2026-01-21 16:18:16,Auth
-U127,Viewed Patient Vitals,192.168.1.54,2026-03-07 13:37:16,Pharmacy
-U004,User Logout,192.168.1.62,2026-03-02 13:08:16,Pharmacy
-U158,Batch Created,192.168.1.118,2026-01-24 15:47:16,Pharmacy
-U114,Exported Inventory Report,192.168.1.165,2026-03-29 04:45:16,Auth
-U078,Prescription Issued,192.168.1.229,2026-03-26 09:25:16,Clinical
-U128,Batch Created,192.168.1.142,2026-03-06 00:40:16,Analytics
-U065,Batch Created,192.168.1.185,2026-01-17 21:55:16,Settings
-U171,Exported Inventory Report,192.168.1.224,2026-03-10 22:24:16,Pharmacy
-U136,Prescription Issued,192.168.1.180,2026-03-07 13:53:16,Patients
-U087,Generated Outbreak Alert,192.168.1.202,2026-03-29 04:51:16,Analytics
-U136,Analytics Dashboard Accessed,192.168.1.116,2026-02-27 21:53:16,Clinical
-U119,Exported Inventory Report,192.168.1.224,2026-03-18 16:27:16,Pharmacy
-U089,Stock Adjustment,192.168.1.144,2026-01-28 15:24:16,Settings
-U056,User Login,192.168.1.208,2026-02-11 13:55:16,Pharmacy
-U065,Viewed Patient Vitals,192.168.1.216,2026-03-31 14:13:16,Patients
-U103,Exported Inventory Report,192.168.1.251,2026-03-28 03:04:16,Analytics
-U196,Analytics Dashboard Accessed,192.168.1.57,2026-03-16 10:05:16,Settings
-U150,Stock Adjustment,192.168.1.169,2026-04-05 07:45:16,Auth
-U068,Updated Clinic Settings,192.168.1.13,2026-01-20 16:57:16,Settings
-U156,Analytics Dashboard Accessed,192.168.1.13,2026-02-08 00:11:16,Patients
-U050,Updated Clinic Settings,192.168.1.133,2026-02-09 00:50:16,Auth
-U027,Exported Inventory Report,192.168.1.203,2026-02-19 08:14:16,Settings
-U139,User Login,192.168.1.109,2026-03-28 20:13:16,Inventory
-U132,Viewed Patient Vitals,192.168.1.57,2026-03-26 12:04:16,Settings
-U025,User Logout,192.168.1.63,2026-03-13 23:28:16,Pharmacy
-U119,Generated Outbreak Alert,192.168.1.236,2026-03-26 08:03:16,Auth
-U091,Exported Inventory Report,192.168.1.98,2026-04-04 19:27:16,Auth
-U131,User Logout,192.168.1.166,2026-01-24 02:23:16,Patients
-U098,Analytics Dashboard Accessed,192.168.1.40,2026-02-23 18:37:16,Analytics
-U174,Generated Outbreak Alert,192.168.1.159,2026-04-06 09:52:16,Settings
-U043,Batch Created,192.168.1.238,2026-01-31 00:56:16,Auth
-U060,Generated Outbreak Alert,192.168.1.104,2026-01-23 02:07:16,Analytics
-U140,User Logout,192.168.1.9,2026-03-06 00:16:16,Analytics
-U061,Stock Adjustment,192.168.1.55,2026-04-02 08:45:16,Clinical
-U180,Exported Inventory Report,192.168.1.33,2026-03-17 05:38:16,Inventory
-U009,Stock Adjustment,192.168.1.199,2026-03-02 16:19:16,Settings
-U134,Generated Outbreak Alert,192.168.1.87,2026-03-06 14:15:16,Pharmacy
-U114,Analytics Dashboard Accessed,192.168.1.22,2026-02-28 22:07:16,Analytics
-U159,Batch Created,192.168.1.217,2026-02-19 01:15:16,Pharmacy
-U097,Generated Outbreak Alert,192.168.1.69,2026-03-10 01:36:16,Settings
-U060,Batch Created,192.168.1.133,2026-04-07 03:05:16,Auth
-U128,User Login,192.168.1.87,2026-02-05 18:00:16,Patients
-U090,Generated Outbreak Alert,192.168.1.208,2026-01-14 19:52:16,Settings
-U006,Exported Inventory Report,192.168.1.198,2026-01-09 05:40:16,Settings
-U148,Prescription Issued,192.168.1.107,2026-03-09 05:08:16,Analytics
-U190,Generated Outbreak Alert,192.168.1.15,2026-01-20 06:54:16,Analytics
-U128,Exported Inventory Report,192.168.1.62,2026-02-22 00:59:16,Patients
-U045,Exported Inventory Report,192.168.1.100,2026-02-02 08:43:16,Patients
-U057,Updated Clinic Settings,192.168.1.166,2026-02-24 17:55:16,Auth
-U117,Updated Clinic Settings,192.168.1.49,2026-01-18 14:56:16,Settings
-U102,Viewed Patient Vitals,192.168.1.235,2026-02-06 02:42:16,Analytics
-U018,User Logout,192.168.1.225,2026-03-30 22:00:16,Clinical
-U159,Stock Adjustment,192.168.1.114,2026-01-08 23:31:16,Pharmacy
-U162,User Logout,192.168.1.117,2026-03-09 11:15:16,Analytics
-U048,Analytics Dashboard Accessed,192.168.1.189,2026-04-05 16:10:16,Clinical
-U200,Stock Adjustment,192.168.1.175,2026-03-09 08:22:16,Pharmacy
-U188,User Logout,192.168.1.79,2026-03-03 23:35:16,Settings
-U078,Viewed Patient Vitals,192.168.1.41,2026-04-04 08:06:16,Pharmacy
-U199,Viewed Patient Vitals,192.168.1.130,2026-01-20 10:17:16,Patients
-U043,Prescription Issued,192.168.1.183,2026-04-01 19:51:16,Patients
-U022,Analytics Dashboard Accessed,192.168.1.217,2026-03-23 05:22:16,Auth
-U171,User Logout,192.168.1.212,2026-03-17 00:28:16,Settings
-U150,Batch Created,192.168.1.42,2026-01-19 12:14:16,Clinical
-U177,Batch Created,192.168.1.199,2026-03-04 11:25:16,Patients
-U122,Viewed Patient Vitals,192.168.1.172,2026-04-04 03:49:16,Clinical
-U059,Exported Inventory Report,192.168.1.9,2026-02-04 13:37:16,Pharmacy
-U053,Viewed Patient Vitals,192.168.1.117,2026-01-24 09:19:16,Patients
-U065,Batch Created,192.168.1.236,2026-01-27 21:57:16,Auth
-U119,Exported Inventory Report,192.168.1.112,2026-02-17 09:18:16,Pharmacy
-U135,Batch Created,192.168.1.188,2026-02-17 00:16:16,Patients
-U053,Prescription Issued,192.168.1.251,2026-02-08 17:13:16,Patients
-U148,User Login,192.168.1.54,2026-02-01 14:57:16,Inventory
-U133,Batch Created,192.168.1.248,2026-01-21 07:54:16,Pharmacy
-U171,Updated Clinic Settings,192.168.1.222,2026-01-14 08:31:16,Analytics
-U082,User Login,192.168.1.119,2026-02-08 05:42:16,Patients
-U006,Batch Created,192.168.1.235,2026-02-15 15:09:16,Inventory
-U174,User Logout,192.168.1.165,2026-02-03 14:45:16,Inventory
-U093,Generated Outbreak Alert,192.168.1.112,2026-03-27 15:23:16,Analytics
-U131,Prescription Issued,192.168.1.18,2026-01-24 02:09:16,Inventory
-U138,Exported Inventory Report,192.168.1.123,2026-03-04 12:41:16,Auth
-U136,User Logout,192.168.1.7,2026-04-07 05:08:16,Inventory
-U128,Batch Created,192.168.1.55,2026-01-19 20:33:16,Auth
-U180,Exported Inventory Report,192.168.1.197,2026-03-10 00:45:16,Clinical
-U036,User Logout,192.168.1.113,2026-02-13 06:32:16,Settings
-U146,Viewed Patient Vitals,192.168.1.192,2026-03-30 08:00:16,Analytics
-U114,User Logout,192.168.1.120,2026-02-28 00:42:16,Analytics
-U152,Stock Adjustment,192.168.1.96,2026-01-26 10:56:16,Pharmacy
-U182,Viewed Patient Vitals,192.168.1.79,2026-04-07 03:03:16,Inventory
-U159,Analytics Dashboard Accessed,192.168.1.14,2026-01-14 13:13:16,Auth
-U083,Stock Adjustment,192.168.1.190,2026-02-20 05:47:16,Analytics
-U018,Updated Clinic Settings,192.168.1.232,2026-02-20 04:00:16,Clinical
-U045,Updated Clinic Settings,192.168.1.80,2026-01-08 16:57:16,Analytics
-U014,User Logout,192.168.1.53,2026-02-27 02:16:16,Inventory
-U097,Prescription Issued,192.168.1.210,2026-03-20 09:42:16,Inventory
-U090,Batch Created,192.168.1.120,2026-02-18 20:39:16,Settings
-U027,Updated Clinic Settings,192.168.1.129,2026-02-24 03:53:16,Inventory
-U151,Prescription Issued,192.168.1.229,2026-01-19 00:59:16,Auth
-U093,User Logout,192.168.1.154,2026-01-29 11:24:16,Patients
-U031,Generated Outbreak Alert,192.168.1.231,2026-04-02 06:57:16,Analytics
-U092,User Login,192.168.1.239,2026-01-24 03:37:16,Inventory
-U171,Analytics Dashboard Accessed,192.168.1.151,2026-02-15 12:37:16,Auth
-U114,Generated Outbreak Alert,192.168.1.62,2026-02-28 00:29:16,Settings
-U109,Batch Created,192.168.1.236,2026-03-22 10:34:16,Auth
-U105,Exported Inventory Report,192.168.1.233,2026-03-12 20:01:16,Auth
-U093,User Login,192.168.1.45,2026-03-12 23:06:16,Settings
-U107,Updated Clinic Settings,192.168.1.126,2026-02-19 06:18:16,Patients
-U097,Analytics Dashboard Accessed,192.168.1.201,2026-03-22 12:43:16,Inventory
-U046,Updated Clinic Settings,192.168.1.54,2026-04-08 22:51:16,Inventory
-U195,Batch Created,192.168.1.4,2026-02-08 08:43:16,Patients
-U162,Analytics Dashboard Accessed,192.168.1.189,2026-01-31 17:49:16,Settings
-U094,Analytics Dashboard Accessed,192.168.1.212,2026-02-23 05:59:16,Inventory
-U158,Exported Inventory Report,192.168.1.97,2026-01-19 16:44:16,Settings
-U076,Generated Outbreak Alert,192.168.1.59,2026-02-18 21:21:16,Auth
-U182,Generated Outbreak Alert,192.168.1.122,2026-04-01 20:48:16,Inventory
-U176,Viewed Patient Vitals,192.168.1.198,2026-01-10 12:09:16,Pharmacy
-U038,Viewed Patient Vitals,192.168.1.71,2026-03-19 18:23:16,Auth
-U166,User Logout,192.168.1.25,2026-02-03 22:58:16,Patients
-U086,Updated Clinic Settings,192.168.1.248,2026-01-29 18:20:16,Analytics
-U169,Updated Clinic Settings,192.168.1.72,2026-01-30 13:46:16,Analytics
-U066,Batch Created,192.168.1.83,2026-02-09 16:32:16,Inventory
-U021,Generated Outbreak Alert,192.168.1.162,2026-03-09 11:18:16,Analytics
-U056,Batch Created,192.168.1.163,2026-02-24 03:33:16,Pharmacy
-U138,Prescription Issued,192.168.1.180,2026-02-05 03:28:16,Settings
-U157,Exported Inventory Report,192.168.1.199,2026-02-20 06:47:16,Pharmacy
-U061,User Login,192.168.1.122,2026-03-17 15:14:16,Clinical
-U049,Stock Adjustment,192.168.1.47,2026-04-01 17:27:16,Analytics
-U051,Viewed Patient Vitals,192.168.1.175,2026-04-01 06:30:16,Patients
-U032,User Logout,192.168.1.194,2026-03-07 15:57:16,Clinical
-U114,Batch Created,192.168.1.101,2026-01-18 08:06:16,Clinical
-U096,Viewed Patient Vitals,192.168.1.91,2026-02-06 03:19:16,Analytics
-U001,Exported Inventory Report,192.168.1.177,2026-03-15 17:12:16,Analytics
-U014,Generated Outbreak Alert,192.168.1.32,2026-01-14 21:34:16,Clinical
-U127,Analytics Dashboard Accessed,192.168.1.168,2026-03-17 19:15:16,Auth
-U183,Generated Outbreak Alert,192.168.1.18,2026-01-22 20:42:16,Settings
-U032,Stock Adjustment,192.168.1.46,2026-02-23 22:13:16,Pharmacy
-U199,Exported Inventory Report,192.168.1.127,2026-03-08 16:19:16,Auth
-U172,Generated Outbreak Alert,192.168.1.217,2026-03-01 17:56:16,Analytics
-U131,Analytics Dashboard Accessed,192.168.1.217,2026-01-28 15:01:16,Auth
-U040,Analytics Dashboard Accessed,192.168.1.159,2026-01-23 07:38:16,Patients
-U111,Batch Created,192.168.1.178,2026-03-25 15:54:16,Pharmacy
-U157,User Logout,192.168.1.5,2026-04-08 15:09:16,Patients
-U126,Batch Created,192.168.1.74,2026-01-18 13:53:16,Clinical
-U182,Updated Clinic Settings,192.168.1.42,2026-04-02 14:01:16,Settings
-U115,User Logout,192.168.1.198,2026-02-01 01:07:16,Auth
-U033,Generated Outbreak Alert,192.168.1.103,2026-03-17 05:11:16,Analytics
-U015,Viewed Patient Vitals,192.168.1.153,2026-01-24 04:13:16,Patients
-U068,Updated Clinic Settings,192.168.1.241,2026-01-22 14:27:16,Settings
-U194,Updated Clinic Settings,192.168.1.30,2026-02-19 15:11:16,Analytics
-U105,User Logout,192.168.1.196,2026-03-07 06:44:16,Settings
-U061,Stock Adjustment,192.168.1.57,2026-01-31 03:58:16,Auth
-U066,User Login,192.168.1.209,2026-01-29 11:06:16,Auth
-U025,Stock Adjustment,192.168.1.152,2026-02-26 18:51:16,Analytics
-U076,Batch Created,192.168.1.79,2026-02-04 21:36:16,Auth
-U096,Exported Inventory Report,192.168.1.131,2026-01-17 21:07:16,Settings
-U056,Viewed Patient Vitals,192.168.1.108,2026-02-01 22:53:16,Patients
-U093,Analytics Dashboard Accessed,192.168.1.2,2026-02-25 08:49:16,Analytics
-U148,User Login,192.168.1.246,2026-01-14 03:52:16,Settings
-U020,Batch Created,192.168.1.52,2026-03-17 16:40:16,Patients
-U140,Generated Outbreak Alert,192.168.1.227,2026-02-01 15:57:16,Analytics
-U025,Batch Created,192.168.1.55,2026-02-12 14:30:16,Auth
-U083,Updated Clinic Settings,192.168.1.81,2026-03-14 11:48:16,Inventory
-U008,User Logout,192.168.1.62,2026-04-05 09:57:16,Patients
-U130,Exported Inventory Report,192.168.1.160,2026-03-14 08:14:16,Auth
-U118,Analytics Dashboard Accessed,192.168.1.101,2026-02-27 03:48:16,Analytics
-U076,Analytics Dashboard Accessed,192.168.1.45,2026-03-15 01:20:16,Patients
-U193,Exported Inventory Report,192.168.1.9,2026-02-11 12:39:16,Patients
-U095,User Login,192.168.1.24,2026-02-06 18:20:16,Clinical
-U076,Updated Clinic Settings,192.168.1.112,2026-03-27 04:55:16,Pharmacy
-U082,Stock Adjustment,192.168.1.170,2026-04-07 00:33:16,Auth
-U085,Exported Inventory Report,192.168.1.114,2026-02-15 17:50:16,Pharmacy
-U197,Analytics Dashboard Accessed,192.168.1.4,2026-02-22 02:47:16,Settings
-U041,Prescription Issued,192.168.1.114,2026-03-25 17:38:16,Pharmacy
-U040,User Login,192.168.1.183,2026-03-30 11:11:16,Inventory
-U176,User Logout,192.168.1.95,2026-03-29 06:12:16,Pharmacy
-U004,Batch Created,192.168.1.191,2026-02-11 18:13:16,Analytics
-U165,Batch Created,192.168.1.151,2026-01-20 09:01:16,Auth
-U075,Batch Created,192.168.1.195,2026-03-06 13:31:16,Clinical
-U098,Exported Inventory Report,192.168.1.119,2026-04-04 15:15:16,Analytics
-U001,Generated Outbreak Alert,192.168.1.24,2026-03-31 05:09:16,Patients
-U196,Exported Inventory Report,192.168.1.235,2026-02-12 03:04:16,Settings
-U064,User Login,192.168.1.53,2026-02-11 05:34:16,Auth
-U140,Exported Inventory Report,192.168.1.19,2026-03-27 13:27:16,Inventory
-U120,Analytics Dashboard Accessed,192.168.1.87,2026-02-14 02:15:16,Settings
-U141,Viewed Patient Vitals,192.168.1.218,2026-04-05 06:55:16,Settings
-U190,Batch Created,192.168.1.86,2026-02-18 06:44:16,Pharmacy
-U186,Analytics Dashboard Accessed,192.168.1.62,2026-02-23 05:08:16,Clinical
-U145,User Logout,192.168.1.87,2026-01-27 09:07:16,Settings
-U148,Viewed Patient Vitals,192.168.1.215,2026-02-12 04:18:16,Inventory
-U196,Analytics Dashboard Accessed,192.168.1.205,2026-03-11 21:18:16,Settings
-U035,Viewed Patient Vitals,192.168.1.184,2026-01-27 18:49:16,Clinical
-U182,Prescription Issued,192.168.1.158,2026-03-09 01:13:16,Settings
-U103,Stock Adjustment,192.168.1.117,2026-03-23 00:19:16,Pharmacy
-U038,Analytics Dashboard Accessed,192.168.1.33,2026-01-20 15:08:16,Settings
-U128,Viewed Patient Vitals,192.168.1.242,2026-01-09 00:04:16,Patients
-U176,Generated Outbreak Alert,192.168.1.28,2026-02-10 01:23:16,Patients
-U197,User Logout,192.168.1.23,2026-01-16 15:31:16,Auth
-U131,Analytics Dashboard Accessed,192.168.1.31,2026-01-12 16:32:16,Auth
-U158,Updated Clinic Settings,192.168.1.148,2026-03-04 11:57:16,Auth
-U046,Analytics Dashboard Accessed,192.168.1.128,2026-02-04 17:10:16,Pharmacy
-U092,Updated Clinic Settings,192.168.1.76,2026-03-10 06:26:16,Analytics
-U150,Prescription Issued,192.168.1.250,2026-02-27 19:54:16,Settings
-U108,User Logout,192.168.1.180,2026-02-02 21:55:16,Settings
-U155,Generated Outbreak Alert,192.168.1.11,2026-02-15 13:36:16,Auth
-U143,Batch Created,192.168.1.233,2026-01-27 09:58:16,Pharmacy
-U004,Generated Outbreak Alert,192.168.1.78,2026-03-19 02:18:16,Clinical
-U089,Exported Inventory Report,192.168.1.59,2026-01-14 02:43:16,Patients
-U155,Exported Inventory Report,192.168.1.113,2026-03-18 19:08:16,Inventory
-U123,Updated Clinic Settings,192.168.1.66,2026-01-28 07:08:16,Analytics
-U196,Exported Inventory Report,192.168.1.180,2026-01-26 21:41:16,Auth
-U023,Stock Adjustment,192.168.1.16,2026-03-18 23:39:16,Clinical
-U047,Prescription Issued,192.168.1.80,2026-02-14 22:37:16,Settings
-U064,Analytics Dashboard Accessed,192.168.1.115,2026-02-24 19:54:16,Clinical
-U033,Stock Adjustment,192.168.1.33,2026-03-13 22:55:16,Inventory
-U121,Analytics Dashboard Accessed,192.168.1.240,2026-03-09 00:16:16,Auth
-U065,Generated Outbreak Alert,192.168.1.4,2026-01-24 20:56:16,Analytics
-U143,Stock Adjustment,192.168.1.226,2026-01-15 09:26:16,Analytics
-U084,Updated Clinic Settings,192.168.1.142,2026-02-05 21:15:16,Settings
-U156,Updated Clinic Settings,192.168.1.80,2026-03-21 09:46:16,Clinical
-U058,Generated Outbreak Alert,192.168.1.140,2026-01-08 15:38:16,Inventory
-U175,Updated Clinic Settings,192.168.1.69,2026-02-27 00:25:16,Analytics
-U167,Viewed Patient Vitals,192.168.1.150,2026-03-21 17:56:16,Patients
-U037,Exported Inventory Report,192.168.1.218,2026-04-01 15:21:16,Patients
-U102,User Logout,192.168.1.187,2026-03-23 05:30:16,Auth
-U171,Updated Clinic Settings,192.168.1.206,2026-01-28 08:54:16,Pharmacy
-U092,Exported Inventory Report,192.168.1.209,2026-03-30 03:31:16,Pharmacy
-U003,Exported Inventory Report,192.168.1.51,2026-03-01 01:23:16,Analytics
-U177,User Logout,192.168.1.214,2026-03-28 03:40:16,Inventory
-U006,Batch Created,192.168.1.216,2026-04-07 12:49:16,Patients
-U055,Exported Inventory Report,192.168.1.166,2026-01-18 16:53:16,Settings
-U003,Exported Inventory Report,192.168.1.105,2026-01-15 02:28:16,Analytics
-U119,Updated Clinic Settings,192.168.1.154,2026-01-16 11:16:16,Clinical
-U026,Updated Clinic Settings,192.168.1.75,2026-04-06 15:52:16,Patients
-U117,Viewed Patient Vitals,192.168.1.173,2026-01-10 21:03:16,Inventory
-U133,Generated Outbreak Alert,192.168.1.224,2026-03-09 00:10:16,Settings
-U165,Generated Outbreak Alert,192.168.1.4,2026-02-08 20:29:16,Clinical
-U041,User Logout,192.168.1.168,2026-03-21 22:17:16,Settings
-U163,Exported Inventory Report,192.168.1.5,2026-03-03 03:22:16,Inventory
-U085,Exported Inventory Report,192.168.1.237,2026-01-15 20:12:16,Settings
-U108,Prescription Issued,192.168.1.131,2026-02-01 14:17:16,Clinical
-U106,Updated Clinic Settings,192.168.1.220,2026-04-08 07:13:16,Analytics
-U009,User Login,192.168.1.36,2026-03-06 18:28:16,Settings
-U114,Exported Inventory Report,192.168.1.71,2026-02-20 20:31:16,Pharmacy
-U098,Updated Clinic Settings,192.168.1.2,2026-02-14 06:25:16,Analytics
-U176,Stock Adjustment,192.168.1.198,2026-03-09 17:43:16,Clinical
-U076,Stock Adjustment,192.168.1.76,2026-03-26 10:17:16,Analytics
-U180,User Login,192.168.1.5,2026-03-26 07:00:16,Auth
-U092,Prescription Issued,192.168.1.4,2026-03-27 11:57:16,Patients
-U003,Updated Clinic Settings,192.168.1.104,2026-03-03 08:52:16,Auth
-U180,Exported Inventory Report,192.168.1.229,2026-03-04 23:40:16,Clinical
-U038,Exported Inventory Report,192.168.1.212,2026-01-18 21:15:16,Inventory
-U069,Stock Adjustment,192.168.1.59,2026-02-02 22:04:16,Patients
-U014,Batch Created,192.168.1.247,2026-03-31 04:31:16,Inventory
-U133,Batch Created,192.168.1.203,2026-01-12 02:28:16,Settings
-U193,Stock Adjustment,192.168.1.143,2026-02-28 00:15:16,Pharmacy
-U014,Prescription Issued,192.168.1.177,2026-01-15 21:32:16,Pharmacy
-U164,Stock Adjustment,192.168.1.78,2026-04-08 22:45:16,Analytics
-U028,Generated Outbreak Alert,192.168.1.98,2026-03-17 05:15:16,Inventory
-U192,Stock Adjustment,192.168.1.235,2026-03-01 10:51:16,Patients
-U009,User Logout,192.168.1.188,2026-02-09 22:39:16,Analytics
-U146,Updated Clinic Settings,192.168.1.111,2026-01-11 07:14:16,Settings
-U137,User Login,192.168.1.10,2026-02-16 00:25:16,Patients
-U054,Exported Inventory Report,192.168.1.36,2026-02-04 18:19:16,Pharmacy
-U038,Viewed Patient Vitals,192.168.1.8,2026-03-28 04:21:16,Pharmacy
-U066,Stock Adjustment,192.168.1.57,2026-03-04 15:39:16,Clinical
-U022,User Login,192.168.1.46,2026-03-04 04:50:16,Auth
-U029,Stock Adjustment,192.168.1.147,2026-01-29 10:32:16,Pharmacy
-U145,Analytics Dashboard Accessed,192.168.1.23,2026-02-18 01:56:16,Patients
-U149,User Logout,192.168.1.245,2026-03-12 16:12:16,Settings
-U180,Exported Inventory Report,192.168.1.79,2026-01-09 10:21:16,Analytics
-U025,Exported Inventory Report,192.168.1.54,2026-03-26 04:35:16,Clinical
-U018,Analytics Dashboard Accessed,192.168.1.193,2026-01-30 16:06:16,Inventory
-U174,Stock Adjustment,192.168.1.53,2026-03-25 13:23:16,Inventory
-U068,Viewed Patient Vitals,192.168.1.242,2026-02-27 22:43:16,Settings
-U051,Prescription Issued,192.168.1.32,2026-02-19 18:27:16,Inventory
-U022,Analytics Dashboard Accessed,192.168.1.253,2026-04-05 02:36:16,Auth
-U108,User Login,192.168.1.206,2026-01-22 05:17:16,Pharmacy
-U185,Updated Clinic Settings,192.168.1.211,2026-03-29 13:50:16,Inventory
-U149,Generated Outbreak Alert,192.168.1.124,2026-01-28 00:32:16,Auth
-U182,Prescription Issued,192.168.1.9,2026-03-17 19:29:16,Patients
-U102,Batch Created,192.168.1.55,2026-03-05 04:22:16,Inventory
-U072,Exported Inventory Report,192.168.1.74,2026-03-21 09:47:16,Analytics
-U183,Prescription Issued,192.168.1.176,2026-02-22 02:06:16,Pharmacy
-U100,Exported Inventory Report,192.168.1.153,2026-01-23 13:29:16,Analytics
-U131,Batch Created,192.168.1.253,2026-03-24 13:35:16,Analytics
-U098,Analytics Dashboard Accessed,192.168.1.48,2026-02-03 01:05:16,Inventory
-U176,Prescription Issued,192.168.1.173,2026-03-22 21:18:16,Pharmacy
-U047,User Login,192.168.1.134,2026-03-16 08:35:16,Inventory
-U160,Updated Clinic Settings,192.168.1.9,2026-01-27 22:42:16,Analytics
-U016,Batch Created,192.168.1.137,2026-03-13 09:56:16,Auth
-U166,User Logout,192.168.1.217,2026-03-21 11:41:16,Inventory
-U147,Viewed Patient Vitals,192.168.1.172,2026-01-13 09:33:16,Inventory
-U135,Stock Adjustment,192.168.1.107,2026-03-22 16:01:16,Patients
-U168,Analytics Dashboard Accessed,192.168.1.41,2026-02-25 12:11:16,Analytics
-U002,Batch Created,192.168.1.130,2026-02-01 21:13:16,Analytics
-U100,Stock Adjustment,192.168.1.238,2026-01-26 05:18:16,Patients
-U184,Updated Clinic Settings,192.168.1.11,2026-04-03 16:08:16,Settings
-U137,Updated Clinic Settings,192.168.1.247,2026-01-10 20:09:16,Analytics
-U002,Updated Clinic Settings,192.168.1.184,2026-04-03 23:06:16,Patients
-U066,Viewed Patient Vitals,192.168.1.15,2026-03-28 11:45:16,Analytics
+U003,Exported Inventory Report,192.168.1.51,2026-04-09 09:59:59.571880+00:00,Analytics
+U099,Viewed Patient Vitals,192.168.1.31,2026-04-09 09:59:59.571914+00:00,Settings
+U088,Generated Outbreak Alert,192.168.1.22,2026-04-09 09:59:59.571925+00:00,Inventory
+U112,Prescription Issued,192.168.1.71,2026-04-09 09:59:59.571933+00:00,Pharmacy
+U094,Prescription Issued,192.168.1.154,2026-04-09 09:59:59.571941+00:00,Clinical
+U150,Stock Adjustment,192.168.1.112,2026-04-09 09:59:59.571950+00:00,Clinical
+U042,User Login,192.168.1.237,2026-04-09 09:59:59.571958+00:00,Analytics
+U198,Generated Outbreak Alert,192.168.1.41,2026-04-09 09:59:59.571965+00:00,Clinical
+U185,Stock Adjustment,192.168.1.167,2026-04-09 09:59:59.571973+00:00,Inventory
+U060,User Login,192.168.1.159,2026-04-09 09:59:59.571982+00:00,Analytics
+U190,Viewed Patient Vitals,192.168.1.115,2026-04-09 09:59:59.571990+00:00,Patients
+U194,Exported Inventory Report,192.168.1.74,2026-04-09 09:59:59.571997+00:00,Settings
+U138,Batch Created,192.168.1.32,2026-04-09 09:59:59.572004+00:00,Patients
+U132,Viewed Patient Vitals,192.168.1.106,2026-04-09 09:59:59.572011+00:00,Auth
+U099,Viewed Patient Vitals,192.168.1.110,2026-04-09 09:59:59.572018+00:00,Patients
+U149,User Login,192.168.1.247,2026-04-09 09:59:59.572025+00:00,Inventory
+U145,Stock Adjustment,192.168.1.250,2026-04-09 09:59:59.572034+00:00,Settings
+U050,User Logout,192.168.1.45,2026-04-09 09:59:59.572041+00:00,Settings
+U170,Updated Clinic Settings,192.168.1.10,2026-04-09 09:59:59.572049+00:00,Auth
+U126,Analytics Dashboard Accessed,192.168.1.135,2026-04-09 09:59:59.572057+00:00,Analytics
+U154,Updated Clinic Settings,192.168.1.134,2026-04-09 09:59:59.572063+00:00,Settings
+U006,Exported Inventory Report,192.168.1.138,2026-04-09 09:59:59.572071+00:00,Auth
+U155,Prescription Issued,192.168.1.243,2026-04-09 09:59:59.572078+00:00,Settings
+U181,User Logout,192.168.1.117,2026-04-09 09:59:59.572085+00:00,Settings
+U050,Batch Created,192.168.1.50,2026-04-09 09:59:59.572092+00:00,Clinical
+U041,User Logout,192.168.1.150,2026-04-09 09:59:59.572099+00:00,Analytics
+U030,Analytics Dashboard Accessed,192.168.1.94,2026-04-09 09:59:59.572106+00:00,Clinical
+U166,Viewed Patient Vitals,192.168.1.211,2026-04-09 09:59:59.572113+00:00,Clinical
+U065,Exported Inventory Report,192.168.1.219,2026-04-09 09:59:59.572120+00:00,Inventory
+U009,Viewed Patient Vitals,192.168.1.189,2026-04-09 09:59:59.572128+00:00,Inventory
+U146,Analytics Dashboard Accessed,192.168.1.234,2026-04-09 09:59:59.572154+00:00,Auth
+U189,Prescription Issued,192.168.1.41,2026-04-09 09:59:59.572161+00:00,Clinical
+U003,Analytics Dashboard Accessed,192.168.1.148,2026-04-09 09:59:59.572168+00:00,Auth
+U033,Prescription Issued,192.168.1.106,2026-04-09 09:59:59.572175+00:00,Settings
+U114,Prescription Issued,192.168.1.93,2026-04-09 09:59:59.572183+00:00,Pharmacy
+U018,Exported Inventory Report,192.168.1.21,2026-04-09 09:59:59.572190+00:00,Auth
+U136,Analytics Dashboard Accessed,192.168.1.221,2026-04-09 09:59:59.572198+00:00,Settings
+U055,User Login,192.168.1.62,2026-04-09 09:59:59.572206+00:00,Pharmacy
+U129,User Login,192.168.1.6,2026-04-09 09:59:59.572213+00:00,Analytics
+U118,Generated Outbreak Alert,192.168.1.122,2026-04-09 09:59:59.572221+00:00,Pharmacy
+U016,User Logout,192.168.1.61,2026-04-09 09:59:59.572228+00:00,Clinical
+U083,Batch Created,192.168.1.120,2026-04-09 09:59:59.572235+00:00,Pharmacy
+U138,Viewed Patient Vitals,192.168.1.220,2026-04-09 09:59:59.572243+00:00,Inventory
+U068,Exported Inventory Report,192.168.1.79,2026-04-09 09:59:59.572284+00:00,Inventory
+U071,User Login,192.168.1.111,2026-04-09 09:59:59.572301+00:00,Auth
+U135,Exported Inventory Report,192.168.1.35,2026-04-09 09:59:59.572308+00:00,Pharmacy
+U135,Viewed Patient Vitals,192.168.1.181,2026-04-09 09:59:59.572312+00:00,Inventory
+U167,Updated Clinic Settings,192.168.1.130,2026-04-09 09:59:59.572317+00:00,Auth
+U166,Updated Clinic Settings,192.168.1.244,2026-04-09 09:59:59.572321+00:00,Patients
+U170,Batch Created,192.168.1.242,2026-04-09 09:59:59.572326+00:00,Analytics
+U092,Exported Inventory Report,192.168.1.235,2026-04-09 09:59:59.572330+00:00,Auth
+U169,Exported Inventory Report,192.168.1.131,2026-04-09 09:59:59.572334+00:00,Analytics
+U179,Prescription Issued,192.168.1.62,2026-04-09 09:59:59.572340+00:00,Patients
+U094,Batch Created,192.168.1.61,2026-04-09 09:59:59.572345+00:00,Inventory
+U019,Exported Inventory Report,192.168.1.34,2026-04-09 09:59:59.572350+00:00,Auth
+U093,User Login,192.168.1.147,2026-04-09 09:59:59.572356+00:00,Inventory
+U024,User Logout,192.168.1.4,2026-04-09 09:59:59.572360+00:00,Auth
+U116,User Login,192.168.1.46,2026-04-09 09:59:59.572365+00:00,Patients
+U034,Generated Outbreak Alert,192.168.1.23,2026-04-09 09:59:59.572369+00:00,Patients
+U095,Viewed Patient Vitals,192.168.1.110,2026-04-09 09:59:59.572373+00:00,Pharmacy
+U005,Exported Inventory Report,192.168.1.183,2026-04-09 09:59:59.572385+00:00,Settings
+U173,Generated Outbreak Alert,192.168.1.125,2026-04-09 09:59:59.572390+00:00,Clinical
+U173,User Login,192.168.1.168,2026-04-09 09:59:59.572394+00:00,Settings
+U109,User Login,192.168.1.86,2026-04-09 09:59:59.572399+00:00,Clinical
+U004,User Login,192.168.1.142,2026-04-09 09:59:59.572403+00:00,Inventory
+U166,User Logout,192.168.1.68,2026-04-09 09:59:59.572409+00:00,Auth
+U172,User Logout,192.168.1.221,2026-04-09 09:59:59.572414+00:00,Pharmacy
+U176,User Login,192.168.1.103,2026-04-09 09:59:59.572418+00:00,Analytics
+U188,Generated Outbreak Alert,192.168.1.152,2026-04-09 09:59:59.572423+00:00,Settings
+U123,Analytics Dashboard Accessed,192.168.1.156,2026-04-09 09:59:59.572427+00:00,Pharmacy
+U007,Batch Created,192.168.1.80,2026-04-09 09:59:59.572432+00:00,Patients
+U056,User Login,192.168.1.60,2026-04-09 09:59:59.572437+00:00,Auth
+U078,User Logout,192.168.1.11,2026-04-09 09:59:59.572441+00:00,Settings
+U098,Batch Created,192.168.1.81,2026-04-09 09:59:59.572446+00:00,Inventory
+U105,Updated Clinic Settings,192.168.1.229,2026-04-09 09:59:59.572450+00:00,Auth
+U086,Generated Outbreak Alert,192.168.1.16,2026-04-09 09:59:59.572455+00:00,Settings
+U178,Prescription Issued,192.168.1.155,2026-04-09 09:59:59.572459+00:00,Pharmacy
+U194,Stock Adjustment,192.168.1.247,2026-04-09 09:59:59.572465+00:00,Pharmacy
+U197,Stock Adjustment,192.168.1.165,2026-04-09 09:59:59.572469+00:00,Clinical
+U028,Updated Clinic Settings,192.168.1.130,2026-04-09 09:59:59.572474+00:00,Pharmacy
+U199,User Logout,192.168.1.51,2026-04-09 09:59:59.572478+00:00,Clinical
+U075,Stock Adjustment,192.168.1.36,2026-04-09 09:59:59.572483+00:00,Auth
+U125,Batch Created,192.168.1.197,2026-04-09 09:59:59.572487+00:00,Clinical
+U140,Prescription Issued,192.168.1.38,2026-04-09 09:59:59.572492+00:00,Inventory
+U173,Batch Created,192.168.1.144,2026-04-09 09:59:59.572496+00:00,Analytics
+U190,Batch Created,192.168.1.157,2026-04-09 09:59:59.572501+00:00,Patients
+U086,Generated Outbreak Alert,192.168.1.127,2026-04-09 09:59:59.572505+00:00,Pharmacy
+U021,Analytics Dashboard Accessed,192.168.1.218,2026-04-09 09:59:59.572510+00:00,Analytics
+U069,User Login,192.168.1.29,2026-04-09 09:59:59.572514+00:00,Settings
+U128,Stock Adjustment,192.168.1.153,2026-04-09 09:59:59.572518+00:00,Clinical
+U186,Stock Adjustment,192.168.1.16,2026-04-09 09:59:59.572523+00:00,Clinical
+U171,Viewed Patient Vitals,192.168.1.92,2026-04-09 09:59:59.572527+00:00,Patients
+U060,Batch Created,192.168.1.66,2026-04-09 09:59:59.572531+00:00,Analytics
+U002,Stock Adjustment,192.168.1.130,2026-04-09 09:59:59.572536+00:00,Settings
+U122,Prescription Issued,192.168.1.163,2026-04-09 09:59:59.572541+00:00,Clinical
+U003,Viewed Patient Vitals,192.168.1.204,2026-04-09 09:59:59.572545+00:00,Patients
+U103,User Logout,192.168.1.249,2026-04-09 09:59:59.572550+00:00,Inventory
+U104,User Login,192.168.1.37,2026-04-09 09:59:59.572554+00:00,Inventory
+U182,Analytics Dashboard Accessed,192.168.1.140,2026-04-09 09:59:59.572559+00:00,Analytics
+U047,User Login,192.168.1.119,2026-04-09 09:59:59.572563+00:00,Pharmacy
+U093,Exported Inventory Report,192.168.1.90,2026-04-09 09:59:59.572567+00:00,Settings
+U109,Stock Adjustment,192.168.1.61,2026-04-09 09:59:59.572572+00:00,Analytics
+U158,Exported Inventory Report,192.168.1.223,2026-04-09 09:59:59.572576+00:00,Inventory
+U039,Batch Created,192.168.1.90,2026-04-09 09:59:59.572581+00:00,Pharmacy
+U033,Updated Clinic Settings,192.168.1.100,2026-04-09 09:59:59.572585+00:00,Inventory
+U127,Viewed Patient Vitals,192.168.1.128,2026-04-09 09:59:59.572590+00:00,Inventory
+U074,Prescription Issued,192.168.1.217,2026-04-09 09:59:59.572594+00:00,Auth
+U191,Prescription Issued,192.168.1.240,2026-04-09 09:59:59.572599+00:00,Analytics
+U074,User Login,192.168.1.162,2026-04-09 09:59:59.572603+00:00,Pharmacy
+U114,Viewed Patient Vitals,192.168.1.65,2026-04-09 09:59:59.572608+00:00,Analytics
+U123,Viewed Patient Vitals,192.168.1.16,2026-04-09 09:59:59.572612+00:00,Clinical
+U017,Updated Clinic Settings,192.168.1.64,2026-04-09 09:59:59.572617+00:00,Pharmacy
+U172,User Login,192.168.1.12,2026-04-09 09:59:59.572624+00:00,Inventory
+U036,User Logout,192.168.1.15,2026-04-09 09:59:59.572628+00:00,Pharmacy
+U104,Analytics Dashboard Accessed,192.168.1.158,2026-04-09 09:59:59.572633+00:00,Analytics
+U057,Generated Outbreak Alert,192.168.1.125,2026-04-09 09:59:59.572637+00:00,Clinical
+U039,Updated Clinic Settings,192.168.1.54,2026-04-09 09:59:59.572641+00:00,Pharmacy
+U084,Updated Clinic Settings,192.168.1.182,2026-04-09 09:59:59.572646+00:00,Settings
+U136,Analytics Dashboard Accessed,192.168.1.180,2026-04-09 09:59:59.572651+00:00,Inventory
+U017,Analytics Dashboard Accessed,192.168.1.33,2026-04-09 09:59:59.572655+00:00,Auth
+U081,Viewed Patient Vitals,192.168.1.70,2026-04-09 09:59:59.572659+00:00,Inventory
+U120,Updated Clinic Settings,192.168.1.187,2026-04-09 09:59:59.572664+00:00,Clinical
+U108,Prescription Issued,192.168.1.158,2026-04-09 09:59:59.572669+00:00,Analytics
+U027,Stock Adjustment,192.168.1.5,2026-04-09 09:59:59.572673+00:00,Inventory
+U166,Analytics Dashboard Accessed,192.168.1.158,2026-04-09 09:59:59.572678+00:00,Inventory
+U139,User Login,192.168.1.247,2026-04-09 09:59:59.572682+00:00,Patients
+U031,Stock Adjustment,192.168.1.66,2026-04-09 09:59:59.572687+00:00,Analytics
+U111,Updated Clinic Settings,192.168.1.83,2026-04-09 09:59:59.572691+00:00,Inventory
+U139,User Logout,192.168.1.182,2026-04-09 09:59:59.572695+00:00,Inventory
+U052,Viewed Patient Vitals,192.168.1.55,2026-04-09 09:59:59.572700+00:00,Clinical
+U044,Analytics Dashboard Accessed,192.168.1.161,2026-04-09 09:59:59.572705+00:00,Patients
+U173,Generated Outbreak Alert,192.168.1.173,2026-04-09 09:59:59.572709+00:00,Auth
+U146,Exported Inventory Report,192.168.1.241,2026-04-09 09:59:59.572714+00:00,Patients
+U026,Updated Clinic Settings,192.168.1.180,2026-04-09 09:59:59.572718+00:00,Auth
+U142,Viewed Patient Vitals,192.168.1.74,2026-04-09 09:59:59.572722+00:00,Pharmacy
+U032,Generated Outbreak Alert,192.168.1.203,2026-04-09 09:59:59.572727+00:00,Inventory
+U101,Batch Created,192.168.1.200,2026-04-09 09:59:59.572732+00:00,Patients
+U136,Prescription Issued,192.168.1.106,2026-04-09 09:59:59.572736+00:00,Clinical
+U170,Updated Clinic Settings,192.168.1.213,2026-04-09 09:59:59.572740+00:00,Auth
+U144,Prescription Issued,192.168.1.72,2026-04-09 09:59:59.572745+00:00,Pharmacy
+U119,Updated Clinic Settings,192.168.1.131,2026-04-09 09:59:59.572749+00:00,Patients
+U019,Updated Clinic Settings,192.168.1.248,2026-04-09 09:59:59.572753+00:00,Settings
+U118,Prescription Issued,192.168.1.70,2026-04-09 09:59:59.572758+00:00,Auth
+U061,Exported Inventory Report,192.168.1.182,2026-04-09 09:59:59.572762+00:00,Patients
+U024,Viewed Patient Vitals,192.168.1.229,2026-04-09 09:59:59.572766+00:00,Inventory
+U055,Batch Created,192.168.1.174,2026-04-09 09:59:59.572771+00:00,Auth
+U041,Viewed Patient Vitals,192.168.1.48,2026-04-09 09:59:59.572776+00:00,Pharmacy
+U180,Prescription Issued,192.168.1.235,2026-04-09 09:59:59.572780+00:00,Clinical
+U032,User Login,192.168.1.15,2026-04-09 09:59:59.572785+00:00,Auth
+U104,Analytics Dashboard Accessed,192.168.1.235,2026-04-09 09:59:59.572790+00:00,Inventory
+U030,Stock Adjustment,192.168.1.217,2026-04-09 09:59:59.572794+00:00,Analytics
+U084,User Logout,192.168.1.250,2026-04-09 09:59:59.572799+00:00,Settings
+U090,Prescription Issued,192.168.1.143,2026-04-09 09:59:59.572803+00:00,Inventory
+U155,Analytics Dashboard Accessed,192.168.1.216,2026-04-09 09:59:59.572808+00:00,Clinical
+U056,Viewed Patient Vitals,192.168.1.185,2026-04-09 09:59:59.572812+00:00,Auth
+U021,Exported Inventory Report,192.168.1.150,2026-04-09 09:59:59.572816+00:00,Analytics
+U191,Generated Outbreak Alert,192.168.1.195,2026-04-09 09:59:59.572821+00:00,Settings
+U180,User Logout,192.168.1.89,2026-04-09 09:59:59.572825+00:00,Analytics
+U155,Prescription Issued,192.168.1.27,2026-04-09 09:59:59.572830+00:00,Inventory
+U008,Updated Clinic Settings,192.168.1.161,2026-04-09 09:59:59.572834+00:00,Patients
+U038,Viewed Patient Vitals,192.168.1.47,2026-04-09 09:59:59.572839+00:00,Patients
+U126,User Logout,192.168.1.147,2026-04-09 09:59:59.572843+00:00,Patients
+U057,Generated Outbreak Alert,192.168.1.61,2026-04-09 09:59:59.572848+00:00,Pharmacy
+U025,User Logout,192.168.1.172,2026-04-09 09:59:59.572853+00:00,Patients
+U108,Updated Clinic Settings,192.168.1.26,2026-04-09 09:59:59.572857+00:00,Pharmacy
+U191,User Logout,192.168.1.19,2026-04-09 09:59:59.572862+00:00,Pharmacy
+U057,Viewed Patient Vitals,192.168.1.252,2026-04-09 09:59:59.572866+00:00,Inventory
+U023,User Login,192.168.1.194,2026-04-09 09:59:59.572871+00:00,Auth
+U079,Viewed Patient Vitals,192.168.1.78,2026-04-09 09:59:59.572875+00:00,Patients
+U180,Generated Outbreak Alert,192.168.1.216,2026-04-09 09:59:59.572880+00:00,Patients
+U056,Viewed Patient Vitals,192.168.1.9,2026-04-09 09:59:59.572884+00:00,Patients
+U046,Exported Inventory Report,192.168.1.129,2026-04-09 09:59:59.572889+00:00,Inventory
+U164,Viewed Patient Vitals,192.168.1.209,2026-04-09 09:59:59.572893+00:00,Clinical
+U178,Viewed Patient Vitals,192.168.1.116,2026-04-09 09:59:59.572898+00:00,Clinical
+U111,User Login,192.168.1.233,2026-04-09 09:59:59.572903+00:00,Auth
+U043,Generated Outbreak Alert,192.168.1.74,2026-04-09 09:59:59.572907+00:00,Inventory
+U172,Stock Adjustment,192.168.1.210,2026-04-09 09:59:59.572911+00:00,Analytics
+U059,Analytics Dashboard Accessed,192.168.1.176,2026-04-09 09:59:59.572916+00:00,Settings
+U160,Generated Outbreak Alert,192.168.1.77,2026-04-09 09:59:59.572921+00:00,Analytics
+U057,Analytics Dashboard Accessed,192.168.1.113,2026-04-09 09:59:59.572925+00:00,Patients
+U075,User Login,192.168.1.57,2026-04-09 09:59:59.572929+00:00,Pharmacy
+U068,Updated Clinic Settings,192.168.1.127,2026-04-09 09:59:59.572934+00:00,Auth
+U044,Generated Outbreak Alert,192.168.1.16,2026-04-09 09:59:59.572938+00:00,Auth
+U144,Analytics Dashboard Accessed,192.168.1.212,2026-04-09 09:59:59.572943+00:00,Settings
+U106,Batch Created,192.168.1.4,2026-04-09 09:59:59.572948+00:00,Inventory
+U100,Stock Adjustment,192.168.1.246,2026-04-09 09:59:59.572952+00:00,Patients
+U067,User Logout,192.168.1.225,2026-04-09 09:59:59.572957+00:00,Patients
+U012,Exported Inventory Report,192.168.1.120,2026-04-09 09:59:59.572962+00:00,Auth
+U135,Analytics Dashboard Accessed,192.168.1.237,2026-04-09 09:59:59.572966+00:00,Inventory
+U124,Prescription Issued,192.168.1.214,2026-04-09 09:59:59.572971+00:00,Clinical
+U024,Stock Adjustment,192.168.1.249,2026-04-09 09:59:59.572975+00:00,Clinical
+U110,Generated Outbreak Alert,192.168.1.190,2026-04-09 09:59:59.572980+00:00,Inventory
+U084,Updated Clinic Settings,192.168.1.62,2026-04-09 09:59:59.572984+00:00,Analytics
+U167,Updated Clinic Settings,192.168.1.86,2026-04-09 09:59:59.572989+00:00,Analytics
+U169,User Logout,192.168.1.217,2026-04-09 09:59:59.572993+00:00,Settings
+U113,Exported Inventory Report,192.168.1.8,2026-04-09 09:59:59.572998+00:00,Analytics
+U143,Prescription Issued,192.168.1.134,2026-04-09 09:59:59.573003+00:00,Settings
+U040,Analytics Dashboard Accessed,192.168.1.65,2026-04-09 09:59:59.573007+00:00,Patients
+U061,Viewed Patient Vitals,192.168.1.102,2026-04-09 09:59:59.573012+00:00,Auth
+U011,Viewed Patient Vitals,192.168.1.51,2026-04-09 09:59:59.573017+00:00,Analytics
+U018,Prescription Issued,192.168.1.20,2026-04-09 09:59:59.573021+00:00,Pharmacy
+U037,Prescription Issued,192.168.1.51,2026-04-09 09:59:59.573026+00:00,Inventory
+U152,Generated Outbreak Alert,192.168.1.133,2026-04-09 09:59:59.573031+00:00,Auth
+U155,Batch Created,192.168.1.148,2026-04-09 09:59:59.573036+00:00,Settings
+U131,Viewed Patient Vitals,192.168.1.225,2026-04-09 09:59:59.573040+00:00,Inventory
+U090,Analytics Dashboard Accessed,192.168.1.226,2026-04-09 09:59:59.573044+00:00,Inventory
+U136,Exported Inventory Report,192.168.1.95,2026-04-09 09:59:59.573049+00:00,Analytics
+U073,Exported Inventory Report,192.168.1.66,2026-04-09 09:59:59.573054+00:00,Clinical
+U108,Generated Outbreak Alert,192.168.1.52,2026-04-09 09:59:59.573058+00:00,Auth
+U022,User Login,192.168.1.169,2026-04-09 09:59:59.573063+00:00,Auth
+U066,Stock Adjustment,192.168.1.205,2026-04-09 09:59:59.573067+00:00,Pharmacy
+U007,User Logout,192.168.1.243,2026-04-09 09:59:59.573072+00:00,Inventory
+U190,User Logout,192.168.1.166,2026-04-09 09:59:59.573076+00:00,Pharmacy
+U038,Prescription Issued,192.168.1.175,2026-04-09 09:59:59.573083+00:00,Settings
+U136,Prescription Issued,192.168.1.208,2026-04-09 09:59:59.573088+00:00,Settings
+U158,Stock Adjustment,192.168.1.238,2026-04-09 09:59:59.573092+00:00,Pharmacy
+U078,User Logout,192.168.1.50,2026-04-09 09:59:59.573097+00:00,Patients
+U189,Prescription Issued,192.168.1.45,2026-04-09 09:59:59.573101+00:00,Pharmacy
+U188,Analytics Dashboard Accessed,192.168.1.50,2026-04-09 09:59:59.573113+00:00,Auth
+U163,Viewed Patient Vitals,192.168.1.30,2026-04-09 09:59:59.573119+00:00,Analytics
+U166,Viewed Patient Vitals,192.168.1.9,2026-04-09 09:59:59.573123+00:00,Patients
+U189,Batch Created,192.168.1.122,2026-04-09 09:59:59.573128+00:00,Patients
+U022,Viewed Patient Vitals,192.168.1.125,2026-04-09 09:59:59.573133+00:00,Settings
+U074,User Logout,192.168.1.50,2026-04-09 09:59:59.573138+00:00,Clinical
+U036,Generated Outbreak Alert,192.168.1.3,2026-04-09 09:59:59.573142+00:00,Analytics
+U082,Prescription Issued,192.168.1.243,2026-04-09 09:59:59.573147+00:00,Inventory
+U043,Analytics Dashboard Accessed,192.168.1.209,2026-04-09 09:59:59.573153+00:00,Patients
+U061,Batch Created,192.168.1.116,2026-04-09 09:59:59.573159+00:00,Patients
+U065,Analytics Dashboard Accessed,192.168.1.156,2026-04-09 09:59:59.573166+00:00,Analytics
+U102,User Login,192.168.1.134,2026-04-09 09:59:59.573174+00:00,Analytics
+U128,User Login,192.168.1.101,2026-04-09 09:59:59.573182+00:00,Analytics
+U114,Analytics Dashboard Accessed,192.168.1.183,2026-04-09 09:59:59.573189+00:00,Patients
+U151,Updated Clinic Settings,192.168.1.175,2026-04-09 09:59:59.573197+00:00,Auth
+U076,Prescription Issued,192.168.1.232,2026-04-09 09:59:59.573208+00:00,Auth
+U042,Updated Clinic Settings,192.168.1.46,2026-04-09 09:59:59.573215+00:00,Patients
+U023,Generated Outbreak Alert,192.168.1.134,2026-04-09 09:59:59.573222+00:00,Auth
+U001,Viewed Patient Vitals,192.168.1.71,2026-04-09 09:59:59.573231+00:00,Analytics
+U016,Updated Clinic Settings,192.168.1.171,2026-04-09 09:59:59.573239+00:00,Settings
+U191,User Logout,192.168.1.224,2026-04-09 09:59:59.573251+00:00,Patients
+U008,Updated Clinic Settings,192.168.1.89,2026-04-09 09:59:59.573258+00:00,Auth
+U060,Generated Outbreak Alert,192.168.1.26,2026-04-09 09:59:59.573262+00:00,Auth
+U164,Updated Clinic Settings,192.168.1.244,2026-04-09 09:59:59.573267+00:00,Auth
+U158,Stock Adjustment,192.168.1.243,2026-04-09 09:59:59.573272+00:00,Clinical
+U102,Stock Adjustment,192.168.1.22,2026-04-09 09:59:59.573276+00:00,Patients
+U087,Batch Created,192.168.1.129,2026-04-09 09:59:59.573281+00:00,Pharmacy
+U111,Updated Clinic Settings,192.168.1.119,2026-04-09 09:59:59.573287+00:00,Patients
+U064,Exported Inventory Report,192.168.1.76,2026-04-09 09:59:59.573293+00:00,Auth
+U155,Stock Adjustment,192.168.1.135,2026-04-09 09:59:59.573299+00:00,Inventory
+U017,Generated Outbreak Alert,192.168.1.49,2026-04-09 09:59:59.573304+00:00,Clinical
+U045,Prescription Issued,192.168.1.80,2026-04-09 09:59:59.573308+00:00,Settings
+U014,User Login,192.168.1.131,2026-04-09 09:59:59.573313+00:00,Analytics
+U190,Generated Outbreak Alert,192.168.1.144,2026-04-09 09:59:59.573318+00:00,Pharmacy
+U168,Generated Outbreak Alert,192.168.1.121,2026-04-09 09:59:59.573322+00:00,Settings
+U124,Exported Inventory Report,192.168.1.243,2026-04-09 09:59:59.573327+00:00,Auth
+U069,Viewed Patient Vitals,192.168.1.50,2026-04-09 09:59:59.573331+00:00,Pharmacy
+U036,Batch Created,192.168.1.115,2026-04-09 09:59:59.573335+00:00,Clinical
+U133,Generated Outbreak Alert,192.168.1.75,2026-04-09 09:59:59.573340+00:00,Patients
+U147,Exported Inventory Report,192.168.1.221,2026-04-09 09:59:59.573345+00:00,Inventory
+U035,Exported Inventory Report,192.168.1.222,2026-04-09 09:59:59.573350+00:00,Inventory
+U007,User Logout,192.168.1.211,2026-04-09 09:59:59.573356+00:00,Patients
+U159,Generated Outbreak Alert,192.168.1.240,2026-04-09 09:59:59.573360+00:00,Patients
+U043,Stock Adjustment,192.168.1.159,2026-04-09 09:59:59.573366+00:00,Clinical
+U130,Viewed Patient Vitals,192.168.1.245,2026-04-09 09:59:59.573372+00:00,Clinical
+U200,User Login,192.168.1.229,2026-04-09 09:59:59.573378+00:00,Auth
+U183,Prescription Issued,192.168.1.140,2026-04-09 09:59:59.573387+00:00,Clinical
+U065,Updated Clinic Settings,192.168.1.86,2026-04-09 09:59:59.573393+00:00,Clinical
+U039,Generated Outbreak Alert,192.168.1.7,2026-04-09 09:59:59.573398+00:00,Pharmacy
+U059,Batch Created,192.168.1.8,2026-04-09 09:59:59.573403+00:00,Clinical
+U066,User Login,192.168.1.4,2026-04-09 09:59:59.573412+00:00,Pharmacy
+U113,Prescription Issued,192.168.1.100,2026-04-09 09:59:59.573424+00:00,Analytics
+U189,Prescription Issued,192.168.1.216,2026-04-09 09:59:59.573435+00:00,Auth
+U019,Prescription Issued,192.168.1.253,2026-04-09 09:59:59.573443+00:00,Inventory
+U037,User Login,192.168.1.203,2026-04-09 09:59:59.573447+00:00,Patients
+U059,Updated Clinic Settings,192.168.1.38,2026-04-09 09:59:59.573452+00:00,Patients
+U012,Generated Outbreak Alert,192.168.1.93,2026-04-09 09:59:59.573458+00:00,Patients
+U166,Batch Created,192.168.1.176,2026-04-09 09:59:59.573463+00:00,Patients
+U020,User Login,192.168.1.143,2026-04-09 09:59:59.573467+00:00,Pharmacy
+U056,Prescription Issued,192.168.1.127,2026-04-09 09:59:59.573472+00:00,Patients
+U097,Stock Adjustment,192.168.1.122,2026-04-09 09:59:59.573478+00:00,Settings
+U032,Batch Created,192.168.1.209,2026-04-09 09:59:59.573482+00:00,Auth
+U047,User Login,192.168.1.174,2026-04-09 09:59:59.573486+00:00,Auth
+U075,Analytics Dashboard Accessed,192.168.1.47,2026-04-09 09:59:59.573492+00:00,Clinical
+U103,User Login,192.168.1.210,2026-04-09 09:59:59.573496+00:00,Auth
+U007,Batch Created,192.168.1.166,2026-04-09 09:59:59.573500+00:00,Settings
+U180,Updated Clinic Settings,192.168.1.181,2026-04-09 09:59:59.573505+00:00,Clinical
+U062,Prescription Issued,192.168.1.5,2026-04-09 09:59:59.573510+00:00,Pharmacy
+U015,Exported Inventory Report,192.168.1.10,2026-04-09 09:59:59.573514+00:00,Clinical
+U007,User Logout,192.168.1.214,2026-04-09 09:59:59.573519+00:00,Settings
+U099,User Login,192.168.1.205,2026-04-09 09:59:59.573524+00:00,Clinical
+U071,Batch Created,192.168.1.26,2026-04-09 09:59:59.573529+00:00,Clinical
+U091,Analytics Dashboard Accessed,192.168.1.101,2026-04-09 09:59:59.573534+00:00,Auth
+U084,User Logout,192.168.1.189,2026-04-09 09:59:59.573538+00:00,Auth
+U051,Analytics Dashboard Accessed,192.168.1.48,2026-04-09 09:59:59.573544+00:00,Clinical
+U035,Batch Created,192.168.1.54,2026-04-09 09:59:59.573549+00:00,Analytics
+U155,Stock Adjustment,192.168.1.228,2026-04-09 09:59:59.573554+00:00,Auth
+U153,Generated Outbreak Alert,192.168.1.237,2026-04-09 09:59:59.573559+00:00,Clinical
+U024,User Login,192.168.1.150,2026-04-09 09:59:59.573564+00:00,Settings
+U192,Stock Adjustment,192.168.1.47,2026-04-09 09:59:59.573670+00:00,Analytics
+U169,Prescription Issued,192.168.1.103,2026-04-09 09:59:59.573692+00:00,Settings
+U184,Generated Outbreak Alert,192.168.1.201,2026-04-09 09:59:59.573704+00:00,Clinical
+U172,User Logout,192.168.1.21,2026-04-09 09:59:59.573711+00:00,Clinical
+U130,Updated Clinic Settings,192.168.1.58,2026-04-09 09:59:59.573722+00:00,Pharmacy
+U040,Generated Outbreak Alert,192.168.1.22,2026-04-09 09:59:59.573735+00:00,Settings
+U103,Exported Inventory Report,192.168.1.128,2026-04-09 09:59:59.573748+00:00,Auth
+U134,Viewed Patient Vitals,192.168.1.2,2026-04-09 09:59:59.573762+00:00,Clinical
+U075,User Login,192.168.1.211,2026-04-09 09:59:59.573775+00:00,Pharmacy
+U090,Generated Outbreak Alert,192.168.1.6,2026-04-09 09:59:59.573785+00:00,Settings
+U047,Prescription Issued,192.168.1.135,2026-04-09 09:59:59.573795+00:00,Clinical
+U007,Generated Outbreak Alert,192.168.1.191,2026-04-09 09:59:59.573857+00:00,Patients
+U054,User Login,192.168.1.116,2026-04-09 09:59:59.573872+00:00,Analytics
+U034,Updated Clinic Settings,192.168.1.2,2026-04-09 09:59:59.573880+00:00,Analytics
+U195,User Login,192.168.1.146,2026-04-09 09:59:59.573888+00:00,Pharmacy
+U012,Exported Inventory Report,192.168.1.89,2026-04-09 09:59:59.573896+00:00,Inventory
+U128,Batch Created,192.168.1.236,2026-04-09 09:59:59.573903+00:00,Patients
+U195,User Logout,192.168.1.8,2026-04-09 09:59:59.573911+00:00,Analytics
+U019,User Logout,192.168.1.139,2026-04-09 09:59:59.573918+00:00,Pharmacy
+U159,Stock Adjustment,192.168.1.246,2026-04-09 09:59:59.573932+00:00,Auth
+U066,Stock Adjustment,192.168.1.109,2026-04-09 09:59:59.573940+00:00,Pharmacy
+U160,Prescription Issued,192.168.1.20,2026-04-09 09:59:59.573948+00:00,Inventory
+U122,Batch Created,192.168.1.50,2026-04-09 09:59:59.573956+00:00,Inventory
+U156,Viewed Patient Vitals,192.168.1.232,2026-04-09 09:59:59.573963+00:00,Analytics
+U134,Viewed Patient Vitals,192.168.1.233,2026-04-09 09:59:59.573994+00:00,Auth
+U046,User Logout,192.168.1.96,2026-04-09 09:59:59.574001+00:00,Analytics
+U155,Generated Outbreak Alert,192.168.1.113,2026-04-09 09:59:59.574008+00:00,Auth
+U187,Batch Created,192.168.1.236,2026-04-09 09:59:59.574016+00:00,Pharmacy
+U015,Updated Clinic Settings,192.168.1.189,2026-04-09 09:59:59.574024+00:00,Analytics
+U109,Exported Inventory Report,192.168.1.28,2026-04-09 09:59:59.574031+00:00,Clinical
+U160,Updated Clinic Settings,192.168.1.15,2026-04-09 09:59:59.574039+00:00,Analytics
+U073,Batch Created,192.168.1.74,2026-04-09 09:59:59.574048+00:00,Auth
+U078,Analytics Dashboard Accessed,192.168.1.23,2026-04-09 09:59:59.574056+00:00,Auth
+U002,Generated Outbreak Alert,192.168.1.238,2026-04-09 09:59:59.574064+00:00,Clinical
+U146,Generated Outbreak Alert,192.168.1.227,2026-04-09 09:59:59.574072+00:00,Inventory
+U186,Viewed Patient Vitals,192.168.1.227,2026-04-09 09:59:59.574079+00:00,Pharmacy
+U011,User Logout,192.168.1.248,2026-04-09 09:59:59.574087+00:00,Analytics
+U162,Prescription Issued,192.168.1.61,2026-04-09 09:59:59.574095+00:00,Settings
+U082,Stock Adjustment,192.168.1.218,2026-04-09 09:59:59.574102+00:00,Settings
+U070,User Login,192.168.1.82,2026-04-09 09:59:59.574110+00:00,Auth
+U173,Viewed Patient Vitals,192.168.1.234,2026-04-09 09:59:59.574117+00:00,Pharmacy
+U051,Stock Adjustment,192.168.1.83,2026-04-09 09:59:59.574125+00:00,Pharmacy
+U069,Prescription Issued,192.168.1.217,2026-04-09 09:59:59.574134+00:00,Pharmacy
+U124,Batch Created,192.168.1.31,2026-04-09 09:59:59.574143+00:00,Settings
+U166,Exported Inventory Report,192.168.1.111,2026-04-09 09:59:59.574152+00:00,Analytics
+U027,User Logout,192.168.1.10,2026-04-09 09:59:59.574161+00:00,Clinical
+U117,Prescription Issued,192.168.1.69,2026-04-09 09:59:59.574169+00:00,Patients
+U040,Analytics Dashboard Accessed,192.168.1.43,2026-04-09 09:59:59.574176+00:00,Auth
+U183,Stock Adjustment,192.168.1.47,2026-04-09 09:59:59.574185+00:00,Settings
+U055,Analytics Dashboard Accessed,192.168.1.246,2026-04-09 09:59:59.574192+00:00,Clinical
+U130,User Login,192.168.1.113,2026-04-09 09:59:59.574200+00:00,Settings
+U001,User Login,192.168.1.84,2026-04-09 09:59:59.574208+00:00,Clinical
+U068,Viewed Patient Vitals,192.168.1.245,2026-04-09 09:59:59.574216+00:00,Clinical
+U043,Viewed Patient Vitals,192.168.1.185,2026-04-09 09:59:59.574224+00:00,Settings
+U194,User Logout,192.168.1.204,2026-04-09 09:59:59.574231+00:00,Analytics
+U131,Batch Created,192.168.1.232,2026-04-09 09:59:59.574240+00:00,Pharmacy
+U166,Batch Created,192.168.1.6,2026-04-09 09:59:59.574250+00:00,Pharmacy
+U100,Batch Created,192.168.1.59,2026-04-09 09:59:59.574261+00:00,Auth
+U127,User Login,192.168.1.160,2026-04-09 09:59:59.574269+00:00,Inventory
+U116,Batch Created,192.168.1.142,2026-04-09 09:59:59.574278+00:00,Auth
+U119,Updated Clinic Settings,192.168.1.246,2026-04-09 09:59:59.574286+00:00,Patients
+U074,Updated Clinic Settings,192.168.1.143,2026-04-09 09:59:59.574294+00:00,Patients
+U081,Batch Created,192.168.1.80,2026-04-09 09:59:59.574302+00:00,Auth
+U122,Prescription Issued,192.168.1.55,2026-04-09 09:59:59.574310+00:00,Auth
+U122,Prescription Issued,192.168.1.64,2026-04-09 09:59:59.574318+00:00,Pharmacy
+U197,Analytics Dashboard Accessed,192.168.1.2,2026-04-09 09:59:59.574327+00:00,Inventory
+U091,Prescription Issued,192.168.1.252,2026-04-09 09:59:59.574335+00:00,Clinical
+U048,Analytics Dashboard Accessed,192.168.1.22,2026-04-09 09:59:59.574343+00:00,Settings
+U061,Prescription Issued,192.168.1.231,2026-04-09 09:59:59.574351+00:00,Inventory
+U114,Batch Created,192.168.1.173,2026-04-09 09:59:59.574364+00:00,Auth
+U042,Prescription Issued,192.168.1.23,2026-04-09 09:59:59.574373+00:00,Settings
+U087,Viewed Patient Vitals,192.168.1.160,2026-04-09 09:59:59.574381+00:00,Analytics
+U103,Batch Created,192.168.1.62,2026-04-09 09:59:59.574389+00:00,Analytics
+U148,Batch Created,192.168.1.204,2026-04-09 09:59:59.574397+00:00,Clinical
+U191,User Logout,192.168.1.63,2026-04-09 09:59:59.574405+00:00,Settings
+U048,User Login,192.168.1.77,2026-04-09 09:59:59.574412+00:00,Patients
+U089,Batch Created,192.168.1.12,2026-04-09 09:59:59.574421+00:00,Auth
+U131,Stock Adjustment,192.168.1.250,2026-04-09 09:59:59.574430+00:00,Pharmacy
+U019,Stock Adjustment,192.168.1.238,2026-04-09 09:59:59.574438+00:00,Settings
+U085,Exported Inventory Report,192.168.1.23,2026-04-09 09:59:59.574446+00:00,Settings
+U158,Prescription Issued,192.168.1.141,2026-04-09 09:59:59.574455+00:00,Settings
+U130,Batch Created,192.168.1.119,2026-04-09 09:59:59.574462+00:00,Inventory
+U125,Generated Outbreak Alert,192.168.1.77,2026-04-09 09:59:59.574469+00:00,Settings
+U174,User Logout,192.168.1.30,2026-04-09 09:59:59.574478+00:00,Patients
+U142,Prescription Issued,192.168.1.219,2026-04-09 09:59:59.574486+00:00,Settings
+U063,Batch Created,192.168.1.129,2026-04-09 09:59:59.574496+00:00,Inventory
+U151,Updated Clinic Settings,192.168.1.252,2026-04-09 09:59:59.574504+00:00,Settings
+U157,User Login,192.168.1.46,2026-04-09 09:59:59.574512+00:00,Clinical
+U109,Stock Adjustment,192.168.1.138,2026-04-09 09:59:59.574521+00:00,Auth
+U169,Stock Adjustment,192.168.1.195,2026-04-09 09:59:59.574530+00:00,Patients
+U039,Stock Adjustment,192.168.1.236,2026-04-09 09:59:59.574540+00:00,Inventory
+U015,Analytics Dashboard Accessed,192.168.1.146,2026-04-09 09:59:59.574549+00:00,Settings
+U078,Exported Inventory Report,192.168.1.111,2026-04-09 09:59:59.574558+00:00,Settings
+U088,User Login,192.168.1.59,2026-04-09 09:59:59.574568+00:00,Auth
+U050,Batch Created,192.168.1.179,2026-04-09 09:59:59.574577+00:00,Auth
+U117,Prescription Issued,192.168.1.67,2026-04-09 09:59:59.574584+00:00,Settings
+U058,User Logout,192.168.1.164,2026-04-09 09:59:59.574592+00:00,Clinical
+U082,Exported Inventory Report,192.168.1.143,2026-04-09 09:59:59.574601+00:00,Clinical
+U037,User Logout,192.168.1.248,2026-04-09 09:59:59.574609+00:00,Clinical
+U111,Prescription Issued,192.168.1.73,2026-04-09 09:59:59.574617+00:00,Analytics
+U200,Stock Adjustment,192.168.1.99,2026-04-09 09:59:59.574627+00:00,Pharmacy
+U126,User Logout,192.168.1.41,2026-04-09 09:59:59.574635+00:00,Auth
+U100,Generated Outbreak Alert,192.168.1.24,2026-04-09 09:59:59.574644+00:00,Inventory
+U123,Prescription Issued,192.168.1.228,2026-04-09 09:59:59.574655+00:00,Inventory
+U005,Exported Inventory Report,192.168.1.250,2026-04-09 09:59:59.574669+00:00,Analytics
+U016,Updated Clinic Settings,192.168.1.138,2026-04-09 09:59:59.574679+00:00,Clinical
+U158,Generated Outbreak Alert,192.168.1.86,2026-04-09 09:59:59.574689+00:00,Settings
+U092,Viewed Patient Vitals,192.168.1.214,2026-04-09 09:59:59.574698+00:00,Patients
+U163,Exported Inventory Report,192.168.1.177,2026-04-09 09:59:59.574705+00:00,Clinical
+U069,User Login,192.168.1.185,2026-04-09 09:59:59.574711+00:00,Analytics
+U179,Updated Clinic Settings,192.168.1.131,2026-04-09 09:59:59.574716+00:00,Patients
+U056,User Login,192.168.1.69,2026-04-09 09:59:59.574723+00:00,Analytics
+U018,Viewed Patient Vitals,192.168.1.158,2026-04-09 09:59:59.574732+00:00,Pharmacy
+U170,Stock Adjustment,192.168.1.10,2026-04-09 09:59:59.574740+00:00,Pharmacy
+U016,Batch Created,192.168.1.16,2026-04-09 09:59:59.574747+00:00,Pharmacy
+U060,Updated Clinic Settings,192.168.1.160,2026-04-09 09:59:59.574753+00:00,Patients
+U183,User Login,192.168.1.206,2026-04-09 09:59:59.574759+00:00,Patients
+U065,Updated Clinic Settings,192.168.1.111,2026-04-09 09:59:59.574767+00:00,Pharmacy
+U132,User Logout,192.168.1.144,2026-04-09 09:59:59.574774+00:00,Settings
+U177,Prescription Issued,192.168.1.252,2026-04-09 09:59:59.574783+00:00,Inventory
+U157,Exported Inventory Report,192.168.1.229,2026-04-09 09:59:59.574798+00:00,Auth
+U058,Updated Clinic Settings,192.168.1.115,2026-04-09 09:59:59.574808+00:00,Patients
+U154,Batch Created,192.168.1.145,2026-04-09 09:59:59.574817+00:00,Inventory
+U071,Batch Created,192.168.1.186,2026-04-09 09:59:59.574823+00:00,Inventory
+U021,Updated Clinic Settings,192.168.1.32,2026-04-09 09:59:59.574828+00:00,Pharmacy
+U007,Prescription Issued,192.168.1.183,2026-04-09 09:59:59.574833+00:00,Auth
+U129,User Login,192.168.1.185,2026-04-09 09:59:59.574841+00:00,Settings
+U098,Exported Inventory Report,192.168.1.188,2026-04-09 09:59:59.574849+00:00,Auth
+U090,Updated Clinic Settings,192.168.1.151,2026-04-09 09:59:59.574858+00:00,Auth
+U077,Generated Outbreak Alert,192.168.1.52,2026-04-09 09:59:59.574863+00:00,Inventory
+U167,Exported Inventory Report,192.168.1.200,2026-04-09 09:59:59.574870+00:00,Patients
+U100,Generated Outbreak Alert,192.168.1.169,2026-04-09 09:59:59.574880+00:00,Inventory
+U179,User Logout,192.168.1.80,2026-04-09 09:59:59.574888+00:00,Inventory
+U123,Batch Created,192.168.1.121,2026-04-09 09:59:59.574896+00:00,Analytics
+U023,User Login,192.168.1.45,2026-04-09 09:59:59.574905+00:00,Analytics
+U172,Viewed Patient Vitals,192.168.1.234,2026-04-09 09:59:59.574916+00:00,Patients
+U038,Viewed Patient Vitals,192.168.1.242,2026-04-09 09:59:59.574925+00:00,Patients
+U023,User Logout,192.168.1.216,2026-04-09 09:59:59.574935+00:00,Auth
+U039,Prescription Issued,192.168.1.124,2026-04-09 09:59:59.574942+00:00,Analytics
+U098,User Login,192.168.1.144,2026-04-09 09:59:59.574952+00:00,Pharmacy
+U065,Updated Clinic Settings,192.168.1.233,2026-04-09 09:59:59.574962+00:00,Analytics
+U105,Exported Inventory Report,192.168.1.80,2026-04-09 09:59:59.574969+00:00,Inventory
+U009,Generated Outbreak Alert,192.168.1.125,2026-04-09 09:59:59.574974+00:00,Inventory
+U121,Analytics Dashboard Accessed,192.168.1.150,2026-04-09 09:59:59.574979+00:00,Clinical
+U090,User Logout,192.168.1.160,2026-04-09 09:59:59.574987+00:00,Auth
+U041,Exported Inventory Report,192.168.1.4,2026-04-09 09:59:59.574995+00:00,Settings
+U052,Analytics Dashboard Accessed,192.168.1.181,2026-04-09 09:59:59.575004+00:00,Patients
+U160,User Logout,192.168.1.177,2026-04-09 09:59:59.575012+00:00,Auth
+U184,Generated Outbreak Alert,192.168.1.157,2026-04-09 09:59:59.575020+00:00,Auth
+U097,Updated Clinic Settings,192.168.1.174,2026-04-09 09:59:59.575029+00:00,Patients
+U075,User Logout,192.168.1.254,2026-04-09 09:59:59.575038+00:00,Settings
+U022,Analytics Dashboard Accessed,192.168.1.228,2026-04-09 09:59:59.575048+00:00,Analytics
+U130,Analytics Dashboard Accessed,192.168.1.231,2026-04-09 09:59:59.575057+00:00,Analytics
+U010,User Logout,192.168.1.227,2026-04-09 09:59:59.575068+00:00,Patients
+U016,Stock Adjustment,192.168.1.55,2026-04-09 09:59:59.575082+00:00,Clinical
+U072,User Login,192.168.1.87,2026-04-09 09:59:59.575093+00:00,Settings
+U072,Generated Outbreak Alert,192.168.1.66,2026-04-09 09:59:59.575100+00:00,Clinical
+U050,Analytics Dashboard Accessed,192.168.1.96,2026-04-09 09:59:59.575110+00:00,Clinical
+U023,Exported Inventory Report,192.168.1.37,2026-04-09 09:59:59.575119+00:00,Patients
+U097,User Logout,192.168.1.213,2026-04-09 09:59:59.575128+00:00,Settings
+U094,Prescription Issued,192.168.1.57,2026-04-09 09:59:59.575143+00:00,Auth
+U035,User Login,192.168.1.13,2026-04-09 09:59:59.575151+00:00,Patients
+U087,Stock Adjustment,192.168.1.90,2026-04-09 09:59:59.575159+00:00,Inventory
+U091,Analytics Dashboard Accessed,192.168.1.28,2026-04-09 09:59:59.575168+00:00,Patients
+U181,Generated Outbreak Alert,192.168.1.120,2026-04-09 09:59:59.575176+00:00,Settings
+U062,Analytics Dashboard Accessed,192.168.1.87,2026-04-09 09:59:59.575184+00:00,Inventory
+U157,Stock Adjustment,192.168.1.174,2026-04-09 09:59:59.575193+00:00,Auth
+U002,Stock Adjustment,192.168.1.27,2026-04-09 09:59:59.575201+00:00,Clinical
+U178,Generated Outbreak Alert,192.168.1.243,2026-04-09 09:59:59.575208+00:00,Analytics
+U081,Prescription Issued,192.168.1.191,2026-04-09 09:59:59.575216+00:00,Auth
+U002,User Logout,192.168.1.133,2026-04-09 09:59:59.575224+00:00,Inventory
+U051,User Logout,192.168.1.238,2026-04-09 09:59:59.575236+00:00,Patients
+U126,User Logout,192.168.1.162,2026-04-09 09:59:59.575244+00:00,Clinical
+U156,Stock Adjustment,192.168.1.7,2026-04-09 09:59:59.575251+00:00,Pharmacy
+U169,Prescription Issued,192.168.1.12,2026-04-09 09:59:59.575259+00:00,Auth
+U138,User Login,192.168.1.106,2026-04-09 09:59:59.575266+00:00,Analytics
+U018,Exported Inventory Report,192.168.1.193,2026-04-09 09:59:59.575276+00:00,Auth
+U140,Updated Clinic Settings,192.168.1.126,2026-04-09 09:59:59.575284+00:00,Inventory
+U033,Viewed Patient Vitals,192.168.1.194,2026-04-09 09:59:59.575292+00:00,Auth
+U200,Exported Inventory Report,192.168.1.225,2026-04-09 09:59:59.575300+00:00,Clinical
+U095,Analytics Dashboard Accessed,192.168.1.135,2026-04-09 09:59:59.575310+00:00,Pharmacy
+U119,Updated Clinic Settings,192.168.1.179,2026-04-09 09:59:59.575318+00:00,Analytics
+U077,User Login,192.168.1.204,2026-04-09 09:59:59.575325+00:00,Auth
+U035,Viewed Patient Vitals,192.168.1.130,2026-04-09 09:59:59.575332+00:00,Settings
+U132,User Login,192.168.1.115,2026-04-09 09:59:59.575340+00:00,Settings
+U090,Prescription Issued,192.168.1.220,2026-04-09 09:59:59.575347+00:00,Inventory
+U076,Stock Adjustment,192.168.1.40,2026-04-09 09:59:59.575352+00:00,Inventory
+U022,Updated Clinic Settings,192.168.1.28,2026-04-09 09:59:59.575357+00:00,Patients
+U109,Updated Clinic Settings,192.168.1.173,2026-04-09 09:59:59.575361+00:00,Settings
+U011,Batch Created,192.168.1.34,2026-04-09 09:59:59.575371+00:00,Inventory
+U166,User Login,192.168.1.179,2026-04-09 09:59:59.575379+00:00,Auth
+U126,Prescription Issued,192.168.1.115,2026-04-09 09:59:59.575387+00:00,Patients
+U009,User Logout,192.168.1.86,2026-04-09 09:59:59.575395+00:00,Clinical
+U109,User Logout,192.168.1.185,2026-04-09 09:59:59.575403+00:00,Inventory
+U193,Viewed Patient Vitals,192.168.1.135,2026-04-09 09:59:59.575412+00:00,Auth
+U024,Batch Created,192.168.1.217,2026-04-09 09:59:59.575419+00:00,Settings
+U055,Updated Clinic Settings,192.168.1.5,2026-04-09 09:59:59.575427+00:00,Inventory
+U106,Generated Outbreak Alert,192.168.1.116,2026-04-09 09:59:59.575436+00:00,Inventory
+U073,Exported Inventory Report,192.168.1.193,2026-04-09 09:59:59.575445+00:00,Auth
+U091,User Logout,192.168.1.203,2026-04-09 09:59:59.575453+00:00,Analytics
+U054,Batch Created,192.168.1.18,2026-04-09 09:59:59.575463+00:00,Auth
+U112,Exported Inventory Report,192.168.1.89,2026-04-09 09:59:59.575472+00:00,Auth
+U152,Viewed Patient Vitals,192.168.1.3,2026-04-09 09:59:59.575481+00:00,Settings
+U087,User Logout,192.168.1.67,2026-04-09 09:59:59.604483+00:00,Pharmacy
+U110,Analytics Dashboard Accessed,192.168.1.238,2026-04-09 09:59:59.604501+00:00,Settings
+U157,Batch Created,192.168.1.252,2026-04-09 09:59:59.604506+00:00,Inventory
+U038,Generated Outbreak Alert,192.168.1.241,2026-04-09 09:59:59.604510+00:00,Pharmacy
+U090,Updated Clinic Settings,192.168.1.200,2026-04-09 09:59:59.604514+00:00,Patients
+U191,Viewed Patient Vitals,192.168.1.215,2026-04-09 09:59:59.604518+00:00,Settings
+U167,User Logout,192.168.1.170,2026-04-09 09:59:59.604522+00:00,Patients
+U173,Prescription Issued,192.168.1.117,2026-04-09 09:59:59.604526+00:00,Inventory
+U191,Stock Adjustment,192.168.1.14,2026-04-09 09:59:59.604530+00:00,Auth
+U022,Exported Inventory Report,192.168.1.162,2026-04-09 09:59:59.604534+00:00,Analytics
+U155,Batch Created,192.168.1.202,2026-04-09 09:59:59.604538+00:00,Clinical
+U078,Batch Created,192.168.1.125,2026-04-09 09:59:59.604542+00:00,Auth
+U048,User Login,192.168.1.222,2026-04-09 09:59:59.604546+00:00,Inventory
+U108,Analytics Dashboard Accessed,192.168.1.209,2026-04-09 09:59:59.604550+00:00,Settings
+U077,Stock Adjustment,192.168.1.165,2026-04-09 09:59:59.604554+00:00,Settings
+U127,Viewed Patient Vitals,192.168.1.191,2026-04-09 09:59:59.604558+00:00,Clinical
+U150,Exported Inventory Report,192.168.1.187,2026-04-09 09:59:59.604562+00:00,Patients
+U047,Generated Outbreak Alert,192.168.1.4,2026-04-09 09:59:59.604566+00:00,Settings
+U064,Updated Clinic Settings,192.168.1.119,2026-04-09 09:59:59.604570+00:00,Auth
+U188,Prescription Issued,192.168.1.27,2026-04-09 09:59:59.604574+00:00,Clinical
+U022,Batch Created,192.168.1.241,2026-04-09 09:59:59.604578+00:00,Settings
+U100,Updated Clinic Settings,192.168.1.59,2026-04-09 09:59:59.604581+00:00,Auth
+U128,User Login,192.168.1.38,2026-04-09 09:59:59.604586+00:00,Pharmacy
+U007,Stock Adjustment,192.168.1.146,2026-04-09 09:59:59.604589+00:00,Analytics
+U038,Batch Created,192.168.1.6,2026-04-09 09:59:59.604593+00:00,Settings
+U159,Exported Inventory Report,192.168.1.172,2026-04-09 09:59:59.604597+00:00,Inventory
+U080,Batch Created,192.168.1.132,2026-04-09 09:59:59.604601+00:00,Clinical
+U197,User Logout,192.168.1.153,2026-04-09 09:59:59.604605+00:00,Analytics
+U063,Prescription Issued,192.168.1.121,2026-04-09 09:59:59.604609+00:00,Pharmacy
+U042,User Login,192.168.1.33,2026-04-09 09:59:59.604613+00:00,Patients
+U028,User Login,192.168.1.145,2026-04-09 09:59:59.604617+00:00,Inventory
+U103,Viewed Patient Vitals,192.168.1.98,2026-04-09 09:59:59.604621+00:00,Patients
+U034,Exported Inventory Report,192.168.1.89,2026-04-09 09:59:59.604625+00:00,Auth
+U137,User Logout,192.168.1.198,2026-04-09 09:59:59.604629+00:00,Auth
+U028,User Login,192.168.1.131,2026-04-09 09:59:59.604633+00:00,Auth
+U024,Analytics Dashboard Accessed,192.168.1.63,2026-04-09 09:59:59.604637+00:00,Pharmacy
+U147,User Login,192.168.1.236,2026-04-09 09:59:59.604641+00:00,Auth
+U199,Generated Outbreak Alert,192.168.1.162,2026-04-09 09:59:59.604645+00:00,Clinical
+U031,Analytics Dashboard Accessed,192.168.1.7,2026-04-09 09:59:59.604649+00:00,Analytics
+U124,Generated Outbreak Alert,192.168.1.145,2026-04-09 09:59:59.604653+00:00,Analytics
+U159,Viewed Patient Vitals,192.168.1.44,2026-04-09 09:59:59.604657+00:00,Auth
+U115,Prescription Issued,192.168.1.3,2026-04-09 09:59:59.604661+00:00,Auth
+U161,Viewed Patient Vitals,192.168.1.28,2026-04-09 09:59:59.604665+00:00,Pharmacy
+U041,Batch Created,192.168.1.153,2026-04-09 09:59:59.604669+00:00,Inventory
+U146,Generated Outbreak Alert,192.168.1.157,2026-04-09 09:59:59.604673+00:00,Clinical
+U016,Batch Created,192.168.1.215,2026-04-09 09:59:59.604677+00:00,Pharmacy
+U165,Generated Outbreak Alert,192.168.1.126,2026-04-09 09:59:59.604681+00:00,Auth
+U079,User Logout,192.168.1.156,2026-04-09 09:59:59.604685+00:00,Patients
+U036,Stock Adjustment,192.168.1.8,2026-04-09 09:59:59.604689+00:00,Inventory
+U106,Stock Adjustment,192.168.1.248,2026-04-09 09:59:59.604693+00:00,Pharmacy
+U085,User Logout,192.168.1.55,2026-04-09 09:59:59.604697+00:00,Auth
+U107,Stock Adjustment,192.168.1.188,2026-04-09 09:59:59.604701+00:00,Auth
+U064,Analytics Dashboard Accessed,192.168.1.237,2026-04-09 09:59:59.604705+00:00,Auth
+U152,Exported Inventory Report,192.168.1.144,2026-04-09 09:59:59.604709+00:00,Analytics
+U068,Updated Clinic Settings,192.168.1.151,2026-04-09 09:59:59.604713+00:00,Auth
+U125,Stock Adjustment,192.168.1.178,2026-04-09 09:59:59.604717+00:00,Analytics
+U005,User Logout,192.168.1.29,2026-04-09 09:59:59.604721+00:00,Inventory
+U125,Batch Created,192.168.1.227,2026-04-09 09:59:59.604725+00:00,Inventory
+U057,Viewed Patient Vitals,192.168.1.35,2026-04-09 09:59:59.604729+00:00,Analytics
+U198,Exported Inventory Report,192.168.1.55,2026-04-09 09:59:59.604733+00:00,Auth
+U080,Viewed Patient Vitals,192.168.1.146,2026-04-09 09:59:59.604737+00:00,Patients
+U133,Prescription Issued,192.168.1.151,2026-04-09 09:59:59.604741+00:00,Auth
+U135,Viewed Patient Vitals,192.168.1.29,2026-04-09 09:59:59.604745+00:00,Settings
+U158,Updated Clinic Settings,192.168.1.120,2026-04-09 09:59:59.604749+00:00,Pharmacy
+U113,User Login,192.168.1.202,2026-04-09 09:59:59.604753+00:00,Pharmacy
+U173,Analytics Dashboard Accessed,192.168.1.190,2026-04-09 09:59:59.604757+00:00,Settings
+U166,Stock Adjustment,192.168.1.2,2026-04-09 09:59:59.604761+00:00,Settings
+U049,User Logout,192.168.1.169,2026-04-09 09:59:59.604765+00:00,Auth
+U172,Analytics Dashboard Accessed,192.168.1.228,2026-04-09 09:59:59.604769+00:00,Settings
+U081,Stock Adjustment,192.168.1.125,2026-04-09 09:59:59.604773+00:00,Settings
+U031,Prescription Issued,192.168.1.42,2026-04-09 09:59:59.604777+00:00,Analytics
+U098,Exported Inventory Report,192.168.1.119,2026-04-09 09:59:59.604781+00:00,Patients
+U065,Analytics Dashboard Accessed,192.168.1.26,2026-04-09 09:59:59.604785+00:00,Pharmacy
+U031,Generated Outbreak Alert,192.168.1.244,2026-04-09 09:59:59.604789+00:00,Auth
+U073,Exported Inventory Report,192.168.1.149,2026-04-09 09:59:59.604793+00:00,Inventory
+U071,Exported Inventory Report,192.168.1.39,2026-04-09 09:59:59.604797+00:00,Inventory
+U169,Exported Inventory Report,192.168.1.171,2026-04-09 09:59:59.604801+00:00,Settings
+U119,User Login,192.168.1.131,2026-04-09 09:59:59.604805+00:00,Auth
+U071,Analytics Dashboard Accessed,192.168.1.127,2026-04-09 09:59:59.604809+00:00,Clinical
+U070,Batch Created,192.168.1.55,2026-04-09 09:59:59.604813+00:00,Auth
+U151,Batch Created,192.168.1.201,2026-04-09 09:59:59.604817+00:00,Inventory
+U004,Viewed Patient Vitals,192.168.1.244,2026-04-09 09:59:59.604821+00:00,Settings
+U155,Viewed Patient Vitals,192.168.1.135,2026-04-09 09:59:59.604825+00:00,Settings
+U128,Batch Created,192.168.1.3,2026-04-09 09:59:59.604829+00:00,Analytics
+U023,Analytics Dashboard Accessed,192.168.1.242,2026-04-09 09:59:59.604833+00:00,Pharmacy
+U171,Stock Adjustment,192.168.1.69,2026-04-09 09:59:59.604837+00:00,Pharmacy
+U129,Generated Outbreak Alert,192.168.1.97,2026-04-09 09:59:59.604841+00:00,Settings
+U005,Prescription Issued,192.168.1.67,2026-04-09 09:59:59.604845+00:00,Analytics
+U074,Viewed Patient Vitals,192.168.1.9,2026-04-09 09:59:59.604849+00:00,Clinical
+U024,Exported Inventory Report,192.168.1.101,2026-04-09 09:59:59.604853+00:00,Analytics
+U173,User Logout,192.168.1.46,2026-04-09 09:59:59.604857+00:00,Clinical
+U083,Updated Clinic Settings,192.168.1.174,2026-04-09 09:59:59.604861+00:00,Patients
+U043,Viewed Patient Vitals,192.168.1.181,2026-04-09 09:59:59.604865+00:00,Settings
+U186,Stock Adjustment,192.168.1.164,2026-04-09 09:59:59.604870+00:00,Inventory
+U030,Analytics Dashboard Accessed,192.168.1.217,2026-04-09 09:59:59.604873+00:00,Inventory
+U146,Stock Adjustment,192.168.1.221,2026-04-09 09:59:59.604877+00:00,Clinical
+U055,Analytics Dashboard Accessed,192.168.1.51,2026-04-09 09:59:59.604881+00:00,Analytics
+U198,Analytics Dashboard Accessed,192.168.1.116,2026-04-09 09:59:59.604885+00:00,Settings
+U063,Stock Adjustment,192.168.1.32,2026-04-09 09:59:59.604889+00:00,Inventory
+U094,User Logout,192.168.1.47,2026-04-09 09:59:59.604893+00:00,Auth
+U108,Viewed Patient Vitals,192.168.1.23,2026-04-09 09:59:59.604897+00:00,Patients
+U105,Updated Clinic Settings,192.168.1.157,2026-04-09 09:59:59.604901+00:00,Patients
+U169,User Logout,192.168.1.182,2026-04-09 09:59:59.604905+00:00,Settings
+U172,Prescription Issued,192.168.1.46,2026-04-09 09:59:59.604909+00:00,Settings
+U071,Viewed Patient Vitals,192.168.1.138,2026-04-09 09:59:59.604913+00:00,Auth
+U172,Exported Inventory Report,192.168.1.219,2026-04-09 09:59:59.604917+00:00,Auth
+U018,Exported Inventory Report,192.168.1.252,2026-04-09 09:59:59.604921+00:00,Analytics
+U021,Updated Clinic Settings,192.168.1.144,2026-04-09 09:59:59.604925+00:00,Pharmacy
+U037,Viewed Patient Vitals,192.168.1.202,2026-04-09 09:59:59.604929+00:00,Settings
+U105,Batch Created,192.168.1.95,2026-04-09 09:59:59.604933+00:00,Settings
+U079,User Logout,192.168.1.204,2026-04-09 09:59:59.604937+00:00,Auth
+U067,Analytics Dashboard Accessed,192.168.1.109,2026-04-09 09:59:59.604941+00:00,Inventory
+U144,Batch Created,192.168.1.190,2026-04-09 09:59:59.604945+00:00,Analytics
+U150,Analytics Dashboard Accessed,192.168.1.117,2026-04-09 09:59:59.604949+00:00,Inventory
+U009,Prescription Issued,192.168.1.176,2026-04-09 09:59:59.604954+00:00,Analytics
+U062,User Login,192.168.1.24,2026-04-09 09:59:59.604958+00:00,Clinical
+U019,Generated Outbreak Alert,192.168.1.11,2026-04-09 09:59:59.604962+00:00,Analytics
+U082,Prescription Issued,192.168.1.101,2026-04-09 09:59:59.604966+00:00,Patients
+U168,User Logout,192.168.1.38,2026-04-09 09:59:59.604970+00:00,Analytics
+U095,Prescription Issued,192.168.1.180,2026-04-09 09:59:59.604974+00:00,Auth
+U030,Exported Inventory Report,192.168.1.3,2026-04-09 09:59:59.604978+00:00,Inventory
+U090,Prescription Issued,192.168.1.52,2026-04-09 09:59:59.604982+00:00,Pharmacy
+U076,User Login,192.168.1.144,2026-04-09 09:59:59.604985+00:00,Auth
+U150,Prescription Issued,192.168.1.155,2026-04-09 09:59:59.604989+00:00,Settings
+U034,Analytics Dashboard Accessed,192.168.1.152,2026-04-09 09:59:59.604993+00:00,Inventory
+U038,Generated Outbreak Alert,192.168.1.45,2026-04-09 09:59:59.604997+00:00,Settings
+U126,Exported Inventory Report,192.168.1.228,2026-04-09 09:59:59.605001+00:00,Analytics
+U169,Viewed Patient Vitals,192.168.1.84,2026-04-09 09:59:59.605005+00:00,Patients
+U153,Analytics Dashboard Accessed,192.168.1.160,2026-04-09 09:59:59.605009+00:00,Clinical
+U025,User Login,192.168.1.99,2026-04-09 09:59:59.605013+00:00,Auth
+U106,Updated Clinic Settings,192.168.1.27,2026-04-09 09:59:59.605018+00:00,Auth
+U143,Generated Outbreak Alert,192.168.1.129,2026-04-09 09:59:59.605021+00:00,Patients
+U046,Exported Inventory Report,192.168.1.86,2026-04-09 09:59:59.605025+00:00,Auth
+U066,User Login,192.168.1.210,2026-04-09 09:59:59.605029+00:00,Clinical
+U071,Batch Created,192.168.1.204,2026-04-09 09:59:59.605033+00:00,Patients
+U167,User Logout,192.168.1.160,2026-04-09 09:59:59.605037+00:00,Pharmacy
+U178,Prescription Issued,192.168.1.211,2026-04-09 09:59:59.605041+00:00,Settings
+U069,Stock Adjustment,192.168.1.226,2026-04-09 09:59:59.605045+00:00,Auth
+U015,Prescription Issued,192.168.1.197,2026-04-09 09:59:59.605049+00:00,Auth
+U195,User Login,192.168.1.103,2026-04-09 09:59:59.605053+00:00,Settings
+U194,Exported Inventory Report,192.168.1.251,2026-04-09 09:59:59.605057+00:00,Inventory
+U073,Analytics Dashboard Accessed,192.168.1.157,2026-04-09 09:59:59.605061+00:00,Auth
+U173,Batch Created,192.168.1.178,2026-04-09 09:59:59.605065+00:00,Settings
+U099,Viewed Patient Vitals,192.168.1.43,2026-04-09 09:59:59.605069+00:00,Inventory
+U180,Prescription Issued,192.168.1.246,2026-04-09 09:59:59.605073+00:00,Inventory
+U037,Updated Clinic Settings,192.168.1.122,2026-04-09 09:59:59.605077+00:00,Patients
+U085,Prescription Issued,192.168.1.178,2026-04-09 09:59:59.605081+00:00,Inventory
+U089,Viewed Patient Vitals,192.168.1.199,2026-04-09 09:59:59.605085+00:00,Clinical
+U032,Analytics Dashboard Accessed,192.168.1.229,2026-04-09 09:59:59.605089+00:00,Settings
+U111,Batch Created,192.168.1.87,2026-04-09 09:59:59.605093+00:00,Auth
+U119,Generated Outbreak Alert,192.168.1.243,2026-04-09 09:59:59.605097+00:00,Patients
+U011,Viewed Patient Vitals,192.168.1.31,2026-04-09 09:59:59.605101+00:00,Inventory
+U137,Exported Inventory Report,192.168.1.238,2026-04-09 09:59:59.605105+00:00,Clinical
+U067,Stock Adjustment,192.168.1.78,2026-04-09 09:59:59.605109+00:00,Pharmacy
+U181,User Login,192.168.1.141,2026-04-09 09:59:59.605113+00:00,Patients
+U097,Batch Created,192.168.1.114,2026-04-09 09:59:59.605117+00:00,Clinical
+U012,Batch Created,192.168.1.221,2026-04-09 09:59:59.605121+00:00,Patients
+U054,Batch Created,192.168.1.109,2026-04-09 09:59:59.605125+00:00,Patients
+U057,Stock Adjustment,192.168.1.10,2026-04-09 09:59:59.605129+00:00,Pharmacy
+U063,Stock Adjustment,192.168.1.16,2026-04-09 09:59:59.605133+00:00,Patients
+U106,User Logout,192.168.1.64,2026-04-09 09:59:59.605137+00:00,Analytics
+U136,Batch Created,192.168.1.38,2026-04-09 09:59:59.605141+00:00,Patients
+U004,Prescription Issued,192.168.1.37,2026-04-09 09:59:59.605144+00:00,Analytics
+U103,User Logout,192.168.1.100,2026-04-09 09:59:59.605148+00:00,Analytics
+U091,User Login,192.168.1.251,2026-04-09 09:59:59.605152+00:00,Clinical
+U052,Stock Adjustment,192.168.1.169,2026-04-09 09:59:59.605156+00:00,Auth
+U044,Stock Adjustment,192.168.1.112,2026-04-09 09:59:59.605160+00:00,Auth
+U044,Prescription Issued,192.168.1.22,2026-04-09 09:59:59.605164+00:00,Clinical
+U142,Viewed Patient Vitals,192.168.1.85,2026-04-09 09:59:59.605168+00:00,Settings
+U024,Generated Outbreak Alert,192.168.1.44,2026-04-09 09:59:59.605172+00:00,Analytics
+U004,Stock Adjustment,192.168.1.247,2026-04-09 09:59:59.605176+00:00,Clinical
+U066,Prescription Issued,192.168.1.198,2026-04-09 09:59:59.605180+00:00,Clinical
+U063,User Login,192.168.1.101,2026-04-09 09:59:59.605184+00:00,Inventory
+U084,Stock Adjustment,192.168.1.173,2026-04-09 09:59:59.605188+00:00,Clinical
+U066,Prescription Issued,192.168.1.103,2026-04-09 09:59:59.605192+00:00,Pharmacy
+U176,Viewed Patient Vitals,192.168.1.23,2026-04-09 09:59:59.605196+00:00,Analytics
+U124,User Logout,192.168.1.170,2026-04-09 09:59:59.605200+00:00,Analytics
+U086,Prescription Issued,192.168.1.88,2026-04-09 09:59:59.605204+00:00,Analytics
+U080,User Login,192.168.1.247,2026-04-09 09:59:59.605208+00:00,Pharmacy
+U119,Stock Adjustment,192.168.1.179,2026-04-09 09:59:59.605212+00:00,Inventory
+U158,Prescription Issued,192.168.1.228,2026-04-09 09:59:59.605216+00:00,Patients
+U183,Exported Inventory Report,192.168.1.72,2026-04-09 09:59:59.605220+00:00,Inventory
+U124,Stock Adjustment,192.168.1.52,2026-04-09 09:59:59.605224+00:00,Auth
+U018,Batch Created,192.168.1.239,2026-04-09 09:59:59.605228+00:00,Analytics
+U178,Stock Adjustment,192.168.1.13,2026-04-09 09:59:59.605232+00:00,Settings
+U091,Stock Adjustment,192.168.1.130,2026-04-09 09:59:59.605236+00:00,Patients
+U129,Updated Clinic Settings,192.168.1.166,2026-04-09 09:59:59.605240+00:00,Patients
+U158,Updated Clinic Settings,192.168.1.5,2026-04-09 09:59:59.605244+00:00,Clinical
+U012,Generated Outbreak Alert,192.168.1.28,2026-04-09 09:59:59.605247+00:00,Analytics
+U149,Batch Created,192.168.1.250,2026-04-09 09:59:59.605251+00:00,Settings
+U163,Prescription Issued,192.168.1.62,2026-04-09 09:59:59.605255+00:00,Auth
+U129,Exported Inventory Report,192.168.1.7,2026-04-09 09:59:59.605259+00:00,Pharmacy
+U005,Prescription Issued,192.168.1.8,2026-04-09 09:59:59.605263+00:00,Pharmacy
+U159,Analytics Dashboard Accessed,192.168.1.63,2026-04-09 09:59:59.605267+00:00,Auth
+U019,Updated Clinic Settings,192.168.1.114,2026-04-09 09:59:59.605272+00:00,Pharmacy
+U039,Exported Inventory Report,192.168.1.133,2026-04-09 09:59:59.605276+00:00,Patients
+U003,User Logout,192.168.1.245,2026-04-09 09:59:59.605279+00:00,Inventory
+U055,Prescription Issued,192.168.1.209,2026-04-09 09:59:59.605283+00:00,Clinical
+U017,Stock Adjustment,192.168.1.150,2026-04-09 09:59:59.605287+00:00,Inventory
+U025,Prescription Issued,192.168.1.137,2026-04-09 09:59:59.605291+00:00,Pharmacy
+U199,Exported Inventory Report,192.168.1.185,2026-04-09 09:59:59.605295+00:00,Analytics
+U109,Viewed Patient Vitals,192.168.1.55,2026-04-09 09:59:59.605299+00:00,Auth
+U054,Viewed Patient Vitals,192.168.1.44,2026-04-09 09:59:59.605303+00:00,Inventory
+U111,Stock Adjustment,192.168.1.211,2026-04-09 09:59:59.605307+00:00,Pharmacy
+U030,Exported Inventory Report,192.168.1.114,2026-04-09 09:59:59.605311+00:00,Auth
+U074,Updated Clinic Settings,192.168.1.178,2026-04-09 09:59:59.605315+00:00,Analytics
+U033,Prescription Issued,192.168.1.172,2026-04-09 09:59:59.605319+00:00,Clinical
+U191,Analytics Dashboard Accessed,192.168.1.238,2026-04-09 09:59:59.605323+00:00,Analytics
+U028,Viewed Patient Vitals,192.168.1.173,2026-04-09 09:59:59.605327+00:00,Analytics
+U061,Stock Adjustment,192.168.1.205,2026-04-09 09:59:59.605331+00:00,Patients
+U058,Updated Clinic Settings,192.168.1.76,2026-04-09 09:59:59.605335+00:00,Settings
+U196,Analytics Dashboard Accessed,192.168.1.220,2026-04-09 09:59:59.605339+00:00,Clinical
+U153,Stock Adjustment,192.168.1.167,2026-04-09 09:59:59.605343+00:00,Inventory
+U029,Prescription Issued,192.168.1.16,2026-04-09 09:59:59.605347+00:00,Auth
+U114,User Login,192.168.1.150,2026-04-09 09:59:59.605351+00:00,Pharmacy
+U032,User Login,192.168.1.164,2026-04-09 09:59:59.605355+00:00,Inventory
+U029,Generated Outbreak Alert,192.168.1.33,2026-04-09 09:59:59.605359+00:00,Auth
+U154,Updated Clinic Settings,192.168.1.243,2026-04-09 09:59:59.605362+00:00,Patients
+U015,Stock Adjustment,192.168.1.87,2026-04-09 09:59:59.605366+00:00,Auth
+U064,User Login,192.168.1.254,2026-04-09 09:59:59.605370+00:00,Patients
+U185,Generated Outbreak Alert,192.168.1.141,2026-04-09 09:59:59.605374+00:00,Patients
+U090,Batch Created,192.168.1.108,2026-04-09 09:59:59.605378+00:00,Clinical
+U162,Prescription Issued,192.168.1.100,2026-04-09 09:59:59.605382+00:00,Analytics
+U099,Batch Created,192.168.1.195,2026-04-09 09:59:59.605386+00:00,Settings
+U019,Generated Outbreak Alert,192.168.1.156,2026-04-09 09:59:59.605390+00:00,Auth
+U086,User Login,192.168.1.240,2026-04-09 09:59:59.605394+00:00,Clinical
+U006,User Login,192.168.1.206,2026-04-09 09:59:59.605398+00:00,Auth
+U171,Stock Adjustment,192.168.1.124,2026-04-09 09:59:59.605402+00:00,Settings
+U029,Generated Outbreak Alert,192.168.1.170,2026-04-09 09:59:59.605406+00:00,Pharmacy
+U002,Analytics Dashboard Accessed,192.168.1.228,2026-04-09 09:59:59.605410+00:00,Settings
+U077,Prescription Issued,192.168.1.149,2026-04-09 09:59:59.605414+00:00,Auth
+U183,User Login,192.168.1.6,2026-04-09 09:59:59.605418+00:00,Clinical
+U189,Prescription Issued,192.168.1.231,2026-04-09 09:59:59.605422+00:00,Patients
+U175,Stock Adjustment,192.168.1.178,2026-04-09 09:59:59.605426+00:00,Auth
+U145,User Login,192.168.1.131,2026-04-09 09:59:59.605430+00:00,Inventory
+U124,Viewed Patient Vitals,192.168.1.98,2026-04-09 09:59:59.605434+00:00,Pharmacy
+U145,Exported Inventory Report,192.168.1.199,2026-04-09 09:59:59.605438+00:00,Inventory
+U136,Prescription Issued,192.168.1.5,2026-04-09 09:59:59.605441+00:00,Auth
+U129,Analytics Dashboard Accessed,192.168.1.45,2026-04-09 09:59:59.605445+00:00,Analytics
+U087,Exported Inventory Report,192.168.1.183,2026-04-09 09:59:59.605449+00:00,Pharmacy
+U144,User Logout,192.168.1.82,2026-04-09 09:59:59.605453+00:00,Patients
+U034,User Logout,192.168.1.115,2026-04-09 09:59:59.605457+00:00,Analytics
+U154,Analytics Dashboard Accessed,192.168.1.150,2026-04-09 09:59:59.605461+00:00,Clinical
+U023,Viewed Patient Vitals,192.168.1.38,2026-04-09 09:59:59.605465+00:00,Settings
+U074,Analytics Dashboard Accessed,192.168.1.147,2026-04-09 09:59:59.605470+00:00,Settings
+U180,Batch Created,192.168.1.198,2026-04-09 09:59:59.605474+00:00,Patients
+U151,Exported Inventory Report,192.168.1.164,2026-04-09 09:59:59.605478+00:00,Clinical
+U108,Batch Created,192.168.1.102,2026-04-09 09:59:59.605482+00:00,Auth
+U030,Updated Clinic Settings,192.168.1.44,2026-04-09 09:59:59.605486+00:00,Inventory
+U090,Analytics Dashboard Accessed,192.168.1.187,2026-04-09 09:59:59.605490+00:00,Auth
+U052,Exported Inventory Report,192.168.1.55,2026-04-09 09:59:59.605494+00:00,Inventory
+U081,User Logout,192.168.1.239,2026-04-09 09:59:59.605498+00:00,Settings
+U135,Exported Inventory Report,192.168.1.109,2026-04-09 09:59:59.605502+00:00,Patients
+U106,Viewed Patient Vitals,192.168.1.144,2026-04-09 09:59:59.605505+00:00,Auth
+U095,Batch Created,192.168.1.128,2026-04-09 09:59:59.605509+00:00,Analytics
+U116,Updated Clinic Settings,192.168.1.254,2026-04-09 09:59:59.605513+00:00,Auth
+U088,User Login,192.168.1.191,2026-04-09 09:59:59.605517+00:00,Analytics
+U160,Prescription Issued,192.168.1.226,2026-04-09 09:59:59.605521+00:00,Patients
+U037,User Logout,192.168.1.107,2026-04-09 09:59:59.605525+00:00,Analytics
+U053,Updated Clinic Settings,192.168.1.172,2026-04-09 09:59:59.605529+00:00,Clinical
+U140,Exported Inventory Report,192.168.1.33,2026-04-09 09:59:59.605533+00:00,Inventory
+U099,Viewed Patient Vitals,192.168.1.96,2026-04-09 09:59:59.605537+00:00,Clinical
+U015,Exported Inventory Report,192.168.1.49,2026-04-09 09:59:59.605541+00:00,Pharmacy
+U128,Generated Outbreak Alert,192.168.1.130,2026-04-09 09:59:59.605545+00:00,Inventory
+U071,User Login,192.168.1.222,2026-04-09 09:59:59.605549+00:00,Analytics
+U051,Viewed Patient Vitals,192.168.1.133,2026-04-09 09:59:59.605553+00:00,Settings
+U148,Updated Clinic Settings,192.168.1.95,2026-04-09 09:59:59.605557+00:00,Settings
+U007,Analytics Dashboard Accessed,192.168.1.142,2026-04-09 09:59:59.605561+00:00,Auth
+U139,Updated Clinic Settings,192.168.1.114,2026-04-09 09:59:59.605565+00:00,Patients
+U082,Updated Clinic Settings,192.168.1.67,2026-04-09 09:59:59.605569+00:00,Pharmacy
+U178,Stock Adjustment,192.168.1.60,2026-04-09 09:59:59.605576+00:00,Inventory
+U026,Batch Created,192.168.1.211,2026-04-09 09:59:59.605580+00:00,Patients
+U198,Batch Created,192.168.1.19,2026-04-09 09:59:59.605584+00:00,Inventory
+U182,User Logout,192.168.1.205,2026-04-09 09:59:59.605588+00:00,Patients
+U033,Prescription Issued,192.168.1.165,2026-04-09 09:59:59.605592+00:00,Analytics
+U047,Batch Created,192.168.1.206,2026-04-09 09:59:59.605596+00:00,Analytics
+U026,Exported Inventory Report,192.168.1.134,2026-04-09 09:59:59.605600+00:00,Inventory
+U112,User Logout,192.168.1.62,2026-04-09 09:59:59.605604+00:00,Analytics
+U056,Stock Adjustment,192.168.1.222,2026-04-09 09:59:59.605608+00:00,Settings
+U091,Prescription Issued,192.168.1.5,2026-04-09 09:59:59.605612+00:00,Inventory
+U100,Generated Outbreak Alert,192.168.1.39,2026-04-09 09:59:59.605616+00:00,Settings
+U017,Generated Outbreak Alert,192.168.1.7,2026-04-09 09:59:59.605620+00:00,Analytics
+U085,Analytics Dashboard Accessed,192.168.1.158,2026-04-09 09:59:59.605623+00:00,Settings
+U029,Updated Clinic Settings,192.168.1.236,2026-04-09 09:59:59.605627+00:00,Analytics
+U174,User Logout,192.168.1.248,2026-04-09 09:59:59.605631+00:00,Pharmacy
+U006,Viewed Patient Vitals,192.168.1.108,2026-04-09 09:59:59.605635+00:00,Clinical
+U197,Stock Adjustment,192.168.1.82,2026-04-09 09:59:59.605639+00:00,Analytics
+U076,Stock Adjustment,192.168.1.115,2026-04-09 09:59:59.605643+00:00,Settings
+U082,Updated Clinic Settings,192.168.1.140,2026-04-09 09:59:59.605647+00:00,Inventory
+U001,Analytics Dashboard Accessed,192.168.1.114,2026-04-09 09:59:59.605651+00:00,Auth
+U189,Prescription Issued,192.168.1.223,2026-04-09 09:59:59.605655+00:00,Clinical
+U068,User Logout,192.168.1.55,2026-04-09 09:59:59.605659+00:00,Settings
+U191,User Logout,192.168.1.224,2026-04-09 09:59:59.605663+00:00,Analytics
+U073,Analytics Dashboard Accessed,192.168.1.185,2026-04-09 09:59:59.605667+00:00,Settings
+U006,Analytics Dashboard Accessed,192.168.1.149,2026-04-09 09:59:59.605671+00:00,Pharmacy
+U099,Generated Outbreak Alert,192.168.1.155,2026-04-09 09:59:59.605675+00:00,Auth
+U072,User Login,192.168.1.175,2026-04-09 09:59:59.605679+00:00,Analytics
+U193,Generated Outbreak Alert,192.168.1.241,2026-04-09 09:59:59.605683+00:00,Inventory
+U124,Generated Outbreak Alert,192.168.1.154,2026-04-09 09:59:59.605687+00:00,Settings
+U015,Generated Outbreak Alert,192.168.1.75,2026-04-09 09:59:59.605691+00:00,Auth
+U169,Exported Inventory Report,192.168.1.16,2026-04-09 09:59:59.605695+00:00,Inventory
+U116,Viewed Patient Vitals,192.168.1.68,2026-04-09 09:59:59.605698+00:00,Pharmacy
+U190,Updated Clinic Settings,192.168.1.226,2026-04-09 09:59:59.605702+00:00,Analytics
+U105,Stock Adjustment,192.168.1.43,2026-04-09 09:59:59.605706+00:00,Patients
+U152,User Login,192.168.1.230,2026-04-09 09:59:59.605710+00:00,Clinical
+U083,Batch Created,192.168.1.99,2026-04-09 09:59:59.605714+00:00,Auth
+U173,Analytics Dashboard Accessed,192.168.1.201,2026-04-09 09:59:59.605718+00:00,Pharmacy
+U170,Exported Inventory Report,192.168.1.112,2026-04-09 09:59:59.605722+00:00,Clinical
+U094,Updated Clinic Settings,192.168.1.59,2026-04-09 09:59:59.605726+00:00,Analytics
+U161,User Logout,192.168.1.128,2026-04-09 09:59:59.605730+00:00,Analytics
+U180,User Logout,192.168.1.199,2026-04-09 09:59:59.605734+00:00,Auth
+U057,User Logout,192.168.1.122,2026-04-09 09:59:59.605738+00:00,Clinical
+U104,Prescription Issued,192.168.1.126,2026-04-09 09:59:59.605742+00:00,Clinical
+U056,Updated Clinic Settings,192.168.1.47,2026-04-09 09:59:59.605746+00:00,Patients
+U048,User Login,192.168.1.72,2026-04-09 09:59:59.605750+00:00,Analytics
+U055,User Login,192.168.1.37,2026-04-09 09:59:59.605754+00:00,Inventory
+U126,Updated Clinic Settings,192.168.1.65,2026-04-09 09:59:59.605758+00:00,Patients
+U189,Exported Inventory Report,192.168.1.190,2026-04-09 09:59:59.605762+00:00,Analytics
+U047,Exported Inventory Report,192.168.1.183,2026-04-09 09:59:59.605765+00:00,Clinical
+U100,User Login,192.168.1.82,2026-04-09 09:59:59.605769+00:00,Pharmacy
+U082,Analytics Dashboard Accessed,192.168.1.172,2026-04-09 09:59:59.605773+00:00,Patients
+U111,Updated Clinic Settings,192.168.1.21,2026-04-09 09:59:59.605777+00:00,Analytics
+U143,Batch Created,192.168.1.154,2026-04-09 09:59:59.605781+00:00,Pharmacy
+U063,Updated Clinic Settings,192.168.1.198,2026-04-09 09:59:59.605785+00:00,Analytics
+U144,User Login,192.168.1.88,2026-04-09 09:59:59.605789+00:00,Auth
+U188,Prescription Issued,192.168.1.237,2026-04-09 09:59:59.605793+00:00,Analytics
+U142,Generated Outbreak Alert,192.168.1.30,2026-04-09 09:59:59.605797+00:00,Analytics
+U091,Prescription Issued,192.168.1.179,2026-04-09 09:59:59.605801+00:00,Settings
+U123,Viewed Patient Vitals,192.168.1.176,2026-04-09 09:59:59.605805+00:00,Patients
+U046,User Login,192.168.1.244,2026-04-09 09:59:59.605809+00:00,Patients
+U009,Viewed Patient Vitals,192.168.1.94,2026-04-09 09:59:59.605812+00:00,Clinical
+U087,Generated Outbreak Alert,192.168.1.146,2026-04-09 09:59:59.605816+00:00,Auth
+U198,User Logout,192.168.1.138,2026-04-09 09:59:59.605820+00:00,Auth
+U154,User Logout,192.168.1.165,2026-04-09 09:59:59.605824+00:00,Inventory
+U018,Exported Inventory Report,192.168.1.3,2026-04-09 09:59:59.605828+00:00,Clinical
+U075,Viewed Patient Vitals,192.168.1.133,2026-04-09 09:59:59.605832+00:00,Inventory
+U164,Updated Clinic Settings,192.168.1.169,2026-04-09 09:59:59.605836+00:00,Auth
+U196,User Login,192.168.1.107,2026-04-09 09:59:59.605840+00:00,Analytics
+U017,Prescription Issued,192.168.1.219,2026-04-09 09:59:59.605844+00:00,Inventory
+U197,Generated Outbreak Alert,192.168.1.100,2026-04-09 09:59:59.605848+00:00,Clinical
+U011,Generated Outbreak Alert,192.168.1.209,2026-04-09 09:59:59.605852+00:00,Inventory
+U027,Exported Inventory Report,192.168.1.137,2026-04-09 09:59:59.605856+00:00,Patients
+U027,Generated Outbreak Alert,192.168.1.210,2026-04-09 09:59:59.605860+00:00,Settings
+U073,Viewed Patient Vitals,192.168.1.142,2026-04-09 09:59:59.605864+00:00,Inventory
+U080,User Logout,192.168.1.127,2026-04-09 09:59:59.605868+00:00,Patients
+U099,Generated Outbreak Alert,192.168.1.50,2026-04-09 09:59:59.605872+00:00,Auth
+U033,Analytics Dashboard Accessed,192.168.1.190,2026-04-09 09:59:59.605876+00:00,Patients
+U020,Analytics Dashboard Accessed,192.168.1.49,2026-04-09 09:59:59.605880+00:00,Inventory
+U148,Exported Inventory Report,192.168.1.74,2026-04-09 09:59:59.605883+00:00,Patients
+U173,User Logout,192.168.1.127,2026-04-09 09:59:59.605888+00:00,Clinical
+U129,Prescription Issued,192.168.1.229,2026-04-09 09:59:59.605892+00:00,Clinical
+U025,Generated Outbreak Alert,192.168.1.164,2026-04-09 09:59:59.605896+00:00,Clinical
+U104,Generated Outbreak Alert,192.168.1.247,2026-04-09 09:59:59.605900+00:00,Auth
+U045,Exported Inventory Report,192.168.1.239,2026-04-09 09:59:59.605904+00:00,Analytics
+U157,Analytics Dashboard Accessed,192.168.1.203,2026-04-09 09:59:59.605908+00:00,Clinical
+U120,Batch Created,192.168.1.174,2026-04-09 09:59:59.605912+00:00,Pharmacy
+U099,Stock Adjustment,192.168.1.241,2026-04-09 09:59:59.605916+00:00,Patients
+U191,Generated Outbreak Alert,192.168.1.88,2026-04-09 09:59:59.605920+00:00,Pharmacy
+U102,User Login,192.168.1.54,2026-04-09 09:59:59.605924+00:00,Auth
+U087,Viewed Patient Vitals,192.168.1.177,2026-04-09 09:59:59.605928+00:00,Analytics
+U028,Batch Created,192.168.1.58,2026-04-09 09:59:59.605932+00:00,Auth
+U161,Stock Adjustment,192.168.1.58,2026-04-09 09:59:59.605936+00:00,Inventory
+U060,Prescription Issued,192.168.1.146,2026-04-09 09:59:59.605939+00:00,Inventory
+U032,Batch Created,192.168.1.215,2026-04-09 09:59:59.605943+00:00,Pharmacy
+U095,Updated Clinic Settings,192.168.1.21,2026-04-09 09:59:59.605947+00:00,Pharmacy
+U078,Generated Outbreak Alert,192.168.1.15,2026-04-09 09:59:59.605951+00:00,Analytics
+U106,Analytics Dashboard Accessed,192.168.1.128,2026-04-09 09:59:59.605955+00:00,Analytics
+U081,Batch Created,192.168.1.100,2026-04-09 09:59:59.605959+00:00,Clinical
+U119,Updated Clinic Settings,192.168.1.101,2026-04-09 09:59:59.605963+00:00,Inventory
+U026,Updated Clinic Settings,192.168.1.98,2026-04-09 09:59:59.605967+00:00,Analytics
+U045,Viewed Patient Vitals,192.168.1.60,2026-04-09 09:59:59.605971+00:00,Inventory
+U055,Batch Created,192.168.1.15,2026-04-09 09:59:59.605975+00:00,Inventory
+U174,Stock Adjustment,192.168.1.177,2026-04-09 09:59:59.605978+00:00,Analytics
+U116,User Login,192.168.1.160,2026-04-09 09:59:59.605982+00:00,Inventory
+U073,Prescription Issued,192.168.1.82,2026-04-09 09:59:59.605986+00:00,Inventory
+U109,Batch Created,192.168.1.78,2026-04-09 09:59:59.605990+00:00,Pharmacy
+U061,Viewed Patient Vitals,192.168.1.33,2026-04-09 09:59:59.605994+00:00,Clinical
+U068,User Login,192.168.1.120,2026-04-09 09:59:59.605998+00:00,Pharmacy
+U049,Analytics Dashboard Accessed,192.168.1.94,2026-04-09 09:59:59.606002+00:00,Inventory
+U097,Generated Outbreak Alert,192.168.1.154,2026-04-09 09:59:59.606006+00:00,Patients
+U148,Generated Outbreak Alert,192.168.1.189,2026-04-09 09:59:59.606010+00:00,Clinical
+U165,Exported Inventory Report,192.168.1.175,2026-04-09 09:59:59.606014+00:00,Pharmacy
+U039,Exported Inventory Report,192.168.1.124,2026-04-09 09:59:59.606018+00:00,Analytics
+U014,Prescription Issued,192.168.1.230,2026-04-09 09:59:59.606022+00:00,Inventory
+U043,Updated Clinic Settings,192.168.1.17,2026-04-09 09:59:59.606026+00:00,Auth
+U128,Generated Outbreak Alert,192.168.1.133,2026-04-09 09:59:59.606029+00:00,Inventory
+U003,Analytics Dashboard Accessed,192.168.1.183,2026-04-09 09:59:59.606033+00:00,Inventory
+U056,Prescription Issued,192.168.1.22,2026-04-09 09:59:59.606037+00:00,Clinical
+U179,User Login,192.168.1.33,2026-04-09 09:59:59.606041+00:00,Clinical
+U146,Viewed Patient Vitals,192.168.1.55,2026-04-09 09:59:59.606045+00:00,Auth
+U090,Exported Inventory Report,192.168.1.151,2026-04-09 09:59:59.606049+00:00,Auth
+U016,Generated Outbreak Alert,192.168.1.54,2026-04-09 09:59:59.606053+00:00,Analytics
+U147,Exported Inventory Report,192.168.1.113,2026-04-09 09:59:59.606057+00:00,Clinical
+U019,Viewed Patient Vitals,192.168.1.100,2026-04-09 09:59:59.606061+00:00,Settings
+U181,Viewed Patient Vitals,192.168.1.184,2026-04-09 09:59:59.606065+00:00,Pharmacy
+U184,Viewed Patient Vitals,192.168.1.129,2026-04-09 09:59:59.606069+00:00,Auth
+U182,Updated Clinic Settings,192.168.1.156,2026-04-09 09:59:59.606073+00:00,Pharmacy
+U176,Updated Clinic Settings,192.168.1.163,2026-04-09 09:59:59.606077+00:00,Settings
+U066,Viewed Patient Vitals,192.168.1.228,2026-04-09 09:59:59.606081+00:00,Inventory
+U189,Batch Created,192.168.1.4,2026-04-09 09:59:59.606085+00:00,Inventory
+U022,Updated Clinic Settings,192.168.1.164,2026-04-09 09:59:59.606088+00:00,Auth
+U127,Viewed Patient Vitals,192.168.1.54,2026-04-09 09:59:59.606093+00:00,Pharmacy
+U004,User Logout,192.168.1.62,2026-04-09 09:59:59.606097+00:00,Pharmacy
+U158,Batch Created,192.168.1.118,2026-04-09 09:59:59.606101+00:00,Pharmacy
+U114,Exported Inventory Report,192.168.1.165,2026-04-09 09:59:59.606105+00:00,Auth
+U078,Prescription Issued,192.168.1.229,2026-04-09 09:59:59.606109+00:00,Clinical
+U128,Batch Created,192.168.1.142,2026-04-09 09:59:59.606113+00:00,Analytics
+U065,Batch Created,192.168.1.185,2026-04-09 09:59:59.606117+00:00,Settings
+U171,Exported Inventory Report,192.168.1.224,2026-04-09 09:59:59.606120+00:00,Pharmacy
+U136,Prescription Issued,192.168.1.180,2026-04-09 09:59:59.606124+00:00,Patients
+U087,Generated Outbreak Alert,192.168.1.202,2026-04-09 09:59:59.606128+00:00,Analytics
+U136,Analytics Dashboard Accessed,192.168.1.116,2026-04-09 09:59:59.606132+00:00,Clinical
+U119,Exported Inventory Report,192.168.1.224,2026-04-09 09:59:59.606136+00:00,Pharmacy
+U089,Stock Adjustment,192.168.1.144,2026-04-09 09:59:59.606140+00:00,Settings
+U056,User Login,192.168.1.208,2026-04-09 09:59:59.606144+00:00,Pharmacy
+U065,Viewed Patient Vitals,192.168.1.216,2026-04-09 09:59:59.606148+00:00,Patients
+U103,Exported Inventory Report,192.168.1.251,2026-04-09 09:59:59.606152+00:00,Analytics
+U196,Analytics Dashboard Accessed,192.168.1.57,2026-04-09 09:59:59.606156+00:00,Settings
+U150,Stock Adjustment,192.168.1.169,2026-04-09 09:59:59.606160+00:00,Auth
+U068,Updated Clinic Settings,192.168.1.13,2026-04-09 09:59:59.606164+00:00,Settings
+U156,Analytics Dashboard Accessed,192.168.1.13,2026-04-09 09:59:59.606168+00:00,Patients
+U050,Updated Clinic Settings,192.168.1.133,2026-04-09 09:59:59.606172+00:00,Auth
+U027,Exported Inventory Report,192.168.1.203,2026-04-09 09:59:59.606175+00:00,Settings
+U139,User Login,192.168.1.109,2026-04-09 09:59:59.606179+00:00,Inventory
+U132,Viewed Patient Vitals,192.168.1.57,2026-04-09 09:59:59.606183+00:00,Settings
+U025,User Logout,192.168.1.63,2026-04-09 09:59:59.606187+00:00,Pharmacy
+U119,Generated Outbreak Alert,192.168.1.236,2026-04-09 09:59:59.606191+00:00,Auth
+U091,Exported Inventory Report,192.168.1.98,2026-04-09 09:59:59.606195+00:00,Auth
+U131,User Logout,192.168.1.166,2026-04-09 09:59:59.606199+00:00,Patients
+U098,Analytics Dashboard Accessed,192.168.1.40,2026-04-09 09:59:59.606203+00:00,Analytics
+U174,Generated Outbreak Alert,192.168.1.159,2026-04-09 09:59:59.606207+00:00,Settings
+U043,Batch Created,192.168.1.238,2026-04-09 09:59:59.606211+00:00,Auth
+U060,Generated Outbreak Alert,192.168.1.104,2026-04-09 09:59:59.606215+00:00,Analytics
+U140,User Logout,192.168.1.9,2026-04-09 09:59:59.606219+00:00,Analytics
+U061,Stock Adjustment,192.168.1.55,2026-04-09 09:59:59.606223+00:00,Clinical
+U180,Exported Inventory Report,192.168.1.33,2026-04-09 09:59:59.606226+00:00,Inventory
+U009,Stock Adjustment,192.168.1.199,2026-04-09 09:59:59.606230+00:00,Settings
+U134,Generated Outbreak Alert,192.168.1.87,2026-04-09 09:59:59.606234+00:00,Pharmacy
+U114,Analytics Dashboard Accessed,192.168.1.22,2026-04-09 09:59:59.606238+00:00,Analytics
+U159,Batch Created,192.168.1.217,2026-04-09 09:59:59.606242+00:00,Pharmacy
+U097,Generated Outbreak Alert,192.168.1.69,2026-04-09 09:59:59.606246+00:00,Settings
+U060,Batch Created,192.168.1.133,2026-04-09 09:59:59.606250+00:00,Auth
+U128,User Login,192.168.1.87,2026-04-09 09:59:59.606254+00:00,Patients
+U090,Generated Outbreak Alert,192.168.1.208,2026-04-09 09:59:59.606258+00:00,Settings
+U006,Exported Inventory Report,192.168.1.198,2026-04-09 09:59:59.606262+00:00,Settings
+U148,Prescription Issued,192.168.1.107,2026-04-09 09:59:59.606266+00:00,Analytics
+U190,Generated Outbreak Alert,192.168.1.15,2026-04-09 09:59:59.606270+00:00,Analytics
+U128,Exported Inventory Report,192.168.1.62,2026-04-09 09:59:59.606273+00:00,Patients
+U045,Exported Inventory Report,192.168.1.100,2026-04-09 09:59:59.606277+00:00,Patients
+U057,Updated Clinic Settings,192.168.1.166,2026-04-09 09:59:59.606281+00:00,Auth
+U117,Updated Clinic Settings,192.168.1.49,2026-04-09 09:59:59.606285+00:00,Settings
+U102,Viewed Patient Vitals,192.168.1.235,2026-04-09 09:59:59.606289+00:00,Analytics
+U018,User Logout,192.168.1.225,2026-04-09 09:59:59.606293+00:00,Clinical
+U159,Stock Adjustment,192.168.1.114,2026-04-09 09:59:59.606297+00:00,Pharmacy
+U162,User Logout,192.168.1.117,2026-04-09 09:59:59.606301+00:00,Analytics
+U048,Analytics Dashboard Accessed,192.168.1.189,2026-04-09 09:59:59.606305+00:00,Clinical
+U200,Stock Adjustment,192.168.1.175,2026-04-09 09:59:59.606309+00:00,Pharmacy
+U188,User Logout,192.168.1.79,2026-04-09 09:59:59.606314+00:00,Settings
+U078,Viewed Patient Vitals,192.168.1.41,2026-04-09 09:59:59.606318+00:00,Pharmacy
+U199,Viewed Patient Vitals,192.168.1.130,2026-04-09 09:59:59.606321+00:00,Patients
+U043,Prescription Issued,192.168.1.183,2026-04-09 09:59:59.606325+00:00,Patients
+U022,Analytics Dashboard Accessed,192.168.1.217,2026-04-09 09:59:59.606329+00:00,Auth
+U171,User Logout,192.168.1.212,2026-04-09 09:59:59.606333+00:00,Settings
+U150,Batch Created,192.168.1.42,2026-04-09 09:59:59.606337+00:00,Clinical
+U177,Batch Created,192.168.1.199,2026-04-09 09:59:59.606341+00:00,Patients
+U122,Viewed Patient Vitals,192.168.1.172,2026-04-09 09:59:59.606345+00:00,Clinical
+U059,Exported Inventory Report,192.168.1.9,2026-04-09 09:59:59.606349+00:00,Pharmacy
+U053,Viewed Patient Vitals,192.168.1.117,2026-04-09 09:59:59.606353+00:00,Patients
+U065,Batch Created,192.168.1.236,2026-04-09 09:59:59.606357+00:00,Auth
+U119,Exported Inventory Report,192.168.1.112,2026-04-09 09:59:59.606361+00:00,Pharmacy
+U135,Batch Created,192.168.1.188,2026-04-09 09:59:59.606365+00:00,Patients
+U053,Prescription Issued,192.168.1.251,2026-04-09 09:59:59.606369+00:00,Patients
+U148,User Login,192.168.1.54,2026-04-09 09:59:59.606373+00:00,Inventory
+U133,Batch Created,192.168.1.248,2026-04-09 09:59:59.606377+00:00,Pharmacy
+U171,Updated Clinic Settings,192.168.1.222,2026-04-09 09:59:59.606380+00:00,Analytics
+U082,User Login,192.168.1.119,2026-04-09 09:59:59.606384+00:00,Patients
+U006,Batch Created,192.168.1.235,2026-04-09 09:59:59.606388+00:00,Inventory
+U174,User Logout,192.168.1.165,2026-04-09 09:59:59.606392+00:00,Inventory
+U093,Generated Outbreak Alert,192.168.1.112,2026-04-09 09:59:59.606396+00:00,Analytics
+U131,Prescription Issued,192.168.1.18,2026-04-09 09:59:59.606400+00:00,Inventory
+U138,Exported Inventory Report,192.168.1.123,2026-04-09 09:59:59.606404+00:00,Auth
+U136,User Logout,192.168.1.7,2026-04-09 09:59:59.606408+00:00,Inventory
+U128,Batch Created,192.168.1.55,2026-04-09 09:59:59.606412+00:00,Auth
+U180,Exported Inventory Report,192.168.1.197,2026-04-09 09:59:59.606416+00:00,Clinical
+U036,User Logout,192.168.1.113,2026-04-09 09:59:59.606419+00:00,Settings
+U146,Viewed Patient Vitals,192.168.1.192,2026-04-09 09:59:59.606423+00:00,Analytics
+U114,User Logout,192.168.1.120,2026-04-09 09:59:59.606427+00:00,Analytics
+U152,Stock Adjustment,192.168.1.96,2026-04-09 09:59:59.606431+00:00,Pharmacy
+U182,Viewed Patient Vitals,192.168.1.79,2026-04-09 09:59:59.606435+00:00,Inventory
+U159,Analytics Dashboard Accessed,192.168.1.14,2026-04-09 09:59:59.606439+00:00,Auth
+U083,Stock Adjustment,192.168.1.190,2026-04-09 09:59:59.606443+00:00,Analytics
+U018,Updated Clinic Settings,192.168.1.232,2026-04-09 09:59:59.606447+00:00,Clinical
+U045,Updated Clinic Settings,192.168.1.80,2026-04-09 09:59:59.606451+00:00,Analytics
+U014,User Logout,192.168.1.53,2026-04-09 09:59:59.606455+00:00,Inventory
+U097,Prescription Issued,192.168.1.210,2026-04-09 09:59:59.606459+00:00,Inventory
+U090,Batch Created,192.168.1.120,2026-04-09 09:59:59.606463+00:00,Settings
+U027,Updated Clinic Settings,192.168.1.129,2026-04-09 09:59:59.606467+00:00,Inventory
+U151,Prescription Issued,192.168.1.229,2026-04-09 09:59:59.606471+00:00,Auth
+U093,User Logout,192.168.1.154,2026-04-09 09:59:59.606475+00:00,Patients
+U031,Generated Outbreak Alert,192.168.1.231,2026-04-09 09:59:59.606479+00:00,Analytics
+U092,User Login,192.168.1.239,2026-04-09 09:59:59.630827+00:00,Inventory
+U171,Analytics Dashboard Accessed,192.168.1.151,2026-04-09 09:59:59.630843+00:00,Auth
+U114,Generated Outbreak Alert,192.168.1.62,2026-04-09 09:59:59.630849+00:00,Settings
+U109,Batch Created,192.168.1.236,2026-04-09 09:59:59.630853+00:00,Auth
+U105,Exported Inventory Report,192.168.1.233,2026-04-09 09:59:59.630858+00:00,Auth
+U093,User Login,192.168.1.45,2026-04-09 09:59:59.630862+00:00,Settings
+U107,Updated Clinic Settings,192.168.1.126,2026-04-09 09:59:59.630867+00:00,Patients
+U097,Analytics Dashboard Accessed,192.168.1.201,2026-04-09 09:59:59.630871+00:00,Inventory
+U046,Updated Clinic Settings,192.168.1.54,2026-04-09 09:59:59.630876+00:00,Inventory
+U195,Batch Created,192.168.1.4,2026-04-09 09:59:59.630880+00:00,Patients
+U162,Analytics Dashboard Accessed,192.168.1.189,2026-04-09 09:59:59.630884+00:00,Settings
+U094,Analytics Dashboard Accessed,192.168.1.212,2026-04-09 09:59:59.630889+00:00,Inventory
+U158,Exported Inventory Report,192.168.1.97,2026-04-09 09:59:59.630893+00:00,Settings
+U076,Generated Outbreak Alert,192.168.1.59,2026-04-09 09:59:59.630897+00:00,Auth
+U182,Generated Outbreak Alert,192.168.1.122,2026-04-09 09:59:59.630900+00:00,Inventory
+U176,Viewed Patient Vitals,192.168.1.198,2026-04-09 09:59:59.630904+00:00,Pharmacy
+U038,Viewed Patient Vitals,192.168.1.71,2026-04-09 09:59:59.630908+00:00,Auth
+U166,User Logout,192.168.1.25,2026-04-09 09:59:59.630912+00:00,Patients
+U086,Updated Clinic Settings,192.168.1.248,2026-04-09 09:59:59.630916+00:00,Analytics
+U169,Updated Clinic Settings,192.168.1.72,2026-04-09 09:59:59.630920+00:00,Analytics
+U066,Batch Created,192.168.1.83,2026-04-09 09:59:59.630924+00:00,Inventory
+U021,Generated Outbreak Alert,192.168.1.162,2026-04-09 09:59:59.630928+00:00,Analytics
+U056,Batch Created,192.168.1.163,2026-04-09 09:59:59.630932+00:00,Pharmacy
+U138,Prescription Issued,192.168.1.180,2026-04-09 09:59:59.630936+00:00,Settings
+U157,Exported Inventory Report,192.168.1.199,2026-04-09 09:59:59.630940+00:00,Pharmacy
+U061,User Login,192.168.1.122,2026-04-09 09:59:59.630944+00:00,Clinical
+U049,Stock Adjustment,192.168.1.47,2026-04-09 09:59:59.630948+00:00,Analytics
+U051,Viewed Patient Vitals,192.168.1.175,2026-04-09 09:59:59.630952+00:00,Patients
+U032,User Logout,192.168.1.194,2026-04-09 09:59:59.630956+00:00,Clinical
+U114,Batch Created,192.168.1.101,2026-04-09 09:59:59.630960+00:00,Clinical
+U096,Viewed Patient Vitals,192.168.1.91,2026-04-09 09:59:59.630964+00:00,Analytics
+U001,Exported Inventory Report,192.168.1.177,2026-04-09 09:59:59.630968+00:00,Analytics
+U014,Generated Outbreak Alert,192.168.1.32,2026-04-09 09:59:59.630973+00:00,Clinical
+U127,Analytics Dashboard Accessed,192.168.1.168,2026-04-09 09:59:59.630977+00:00,Auth
+U183,Generated Outbreak Alert,192.168.1.18,2026-04-09 09:59:59.630981+00:00,Settings
+U032,Stock Adjustment,192.168.1.46,2026-04-09 09:59:59.630985+00:00,Pharmacy
+U199,Exported Inventory Report,192.168.1.127,2026-04-09 09:59:59.630989+00:00,Auth
+U172,Generated Outbreak Alert,192.168.1.217,2026-04-09 09:59:59.630993+00:00,Analytics
+U131,Analytics Dashboard Accessed,192.168.1.217,2026-04-09 09:59:59.630997+00:00,Auth
+U040,Analytics Dashboard Accessed,192.168.1.159,2026-04-09 09:59:59.631000+00:00,Patients
+U111,Batch Created,192.168.1.178,2026-04-09 09:59:59.631004+00:00,Pharmacy
+U157,User Logout,192.168.1.5,2026-04-09 09:59:59.631009+00:00,Patients
+U126,Batch Created,192.168.1.74,2026-04-09 09:59:59.631013+00:00,Clinical
+U182,Updated Clinic Settings,192.168.1.42,2026-04-09 09:59:59.631017+00:00,Settings
+U115,User Logout,192.168.1.198,2026-04-09 09:59:59.631020+00:00,Auth
+U033,Generated Outbreak Alert,192.168.1.103,2026-04-09 09:59:59.631024+00:00,Analytics
+U015,Viewed Patient Vitals,192.168.1.153,2026-04-09 09:59:59.631028+00:00,Patients
+U068,Updated Clinic Settings,192.168.1.241,2026-04-09 09:59:59.631032+00:00,Settings
+U194,Updated Clinic Settings,192.168.1.30,2026-04-09 09:59:59.631036+00:00,Analytics
+U105,User Logout,192.168.1.196,2026-04-09 09:59:59.631040+00:00,Settings
+U061,Stock Adjustment,192.168.1.57,2026-04-09 09:59:59.631044+00:00,Auth
+U066,User Login,192.168.1.209,2026-04-09 09:59:59.631048+00:00,Auth
+U025,Stock Adjustment,192.168.1.152,2026-04-09 09:59:59.631053+00:00,Analytics
+U076,Batch Created,192.168.1.79,2026-04-09 09:59:59.631057+00:00,Auth
+U096,Exported Inventory Report,192.168.1.131,2026-04-09 09:59:59.631061+00:00,Settings
+U056,Viewed Patient Vitals,192.168.1.108,2026-04-09 09:59:59.631065+00:00,Patients
+U093,Analytics Dashboard Accessed,192.168.1.2,2026-04-09 09:59:59.631069+00:00,Analytics
+U148,User Login,192.168.1.246,2026-04-09 09:59:59.631073+00:00,Settings
+U020,Batch Created,192.168.1.52,2026-04-09 09:59:59.631077+00:00,Patients
+U140,Generated Outbreak Alert,192.168.1.227,2026-04-09 09:59:59.631081+00:00,Analytics
+U025,Batch Created,192.168.1.55,2026-04-09 09:59:59.631085+00:00,Auth
+U083,Updated Clinic Settings,192.168.1.81,2026-04-09 09:59:59.631089+00:00,Inventory
+U008,User Logout,192.168.1.62,2026-04-09 09:59:59.631093+00:00,Patients
+U130,Exported Inventory Report,192.168.1.160,2026-04-09 09:59:59.631097+00:00,Auth
+U118,Analytics Dashboard Accessed,192.168.1.101,2026-04-09 09:59:59.631101+00:00,Analytics
+U076,Analytics Dashboard Accessed,192.168.1.45,2026-04-09 09:59:59.631105+00:00,Patients
+U193,Exported Inventory Report,192.168.1.9,2026-04-09 09:59:59.631109+00:00,Patients
+U095,User Login,192.168.1.24,2026-04-09 09:59:59.631113+00:00,Clinical
+U076,Updated Clinic Settings,192.168.1.112,2026-04-09 09:59:59.631117+00:00,Pharmacy
+U082,Stock Adjustment,192.168.1.170,2026-04-09 09:59:59.631121+00:00,Auth
+U085,Exported Inventory Report,192.168.1.114,2026-04-09 09:59:59.631125+00:00,Pharmacy
+U197,Analytics Dashboard Accessed,192.168.1.4,2026-04-09 09:59:59.631129+00:00,Settings
+U041,Prescription Issued,192.168.1.114,2026-04-09 09:59:59.631133+00:00,Pharmacy
+U040,User Login,192.168.1.183,2026-04-09 09:59:59.631137+00:00,Inventory
+U176,User Logout,192.168.1.95,2026-04-09 09:59:59.631141+00:00,Pharmacy
+U004,Batch Created,192.168.1.191,2026-04-09 09:59:59.631145+00:00,Analytics
+U165,Batch Created,192.168.1.151,2026-04-09 09:59:59.631149+00:00,Auth
+U075,Batch Created,192.168.1.195,2026-04-09 09:59:59.631153+00:00,Clinical
+U098,Exported Inventory Report,192.168.1.119,2026-04-09 09:59:59.631157+00:00,Analytics
+U001,Generated Outbreak Alert,192.168.1.24,2026-04-09 09:59:59.631161+00:00,Patients
+U196,Exported Inventory Report,192.168.1.235,2026-04-09 09:59:59.631165+00:00,Settings
+U064,User Login,192.168.1.53,2026-04-09 09:59:59.631169+00:00,Auth
+U140,Exported Inventory Report,192.168.1.19,2026-04-09 09:59:59.631173+00:00,Inventory
+U120,Analytics Dashboard Accessed,192.168.1.87,2026-04-09 09:59:59.631177+00:00,Settings
+U141,Viewed Patient Vitals,192.168.1.218,2026-04-09 09:59:59.631181+00:00,Settings
+U190,Batch Created,192.168.1.86,2026-04-09 09:59:59.631185+00:00,Pharmacy
+U186,Analytics Dashboard Accessed,192.168.1.62,2026-04-09 09:59:59.631189+00:00,Clinical
+U145,User Logout,192.168.1.87,2026-04-09 09:59:59.631193+00:00,Settings
+U148,Viewed Patient Vitals,192.168.1.215,2026-04-09 09:59:59.631197+00:00,Inventory
+U196,Analytics Dashboard Accessed,192.168.1.205,2026-04-09 09:59:59.631201+00:00,Settings
+U035,Viewed Patient Vitals,192.168.1.184,2026-04-09 09:59:59.631205+00:00,Clinical
+U182,Prescription Issued,192.168.1.158,2026-04-09 09:59:59.631209+00:00,Settings
+U103,Stock Adjustment,192.168.1.117,2026-04-09 09:59:59.631213+00:00,Pharmacy
+U038,Analytics Dashboard Accessed,192.168.1.33,2026-04-09 09:59:59.631217+00:00,Settings
+U128,Viewed Patient Vitals,192.168.1.242,2026-04-09 09:59:59.631221+00:00,Patients
+U176,Generated Outbreak Alert,192.168.1.28,2026-04-09 09:59:59.631225+00:00,Patients
+U197,User Logout,192.168.1.23,2026-04-09 09:59:59.631229+00:00,Auth
+U131,Analytics Dashboard Accessed,192.168.1.31,2026-04-09 09:59:59.631233+00:00,Auth
+U158,Updated Clinic Settings,192.168.1.148,2026-04-09 09:59:59.631237+00:00,Auth
+U046,Analytics Dashboard Accessed,192.168.1.128,2026-04-09 09:59:59.631241+00:00,Pharmacy
+U092,Updated Clinic Settings,192.168.1.76,2026-04-09 09:59:59.631245+00:00,Analytics
+U150,Prescription Issued,192.168.1.250,2026-04-09 09:59:59.631249+00:00,Settings
+U108,User Logout,192.168.1.180,2026-04-09 09:59:59.631253+00:00,Settings
+U155,Generated Outbreak Alert,192.168.1.11,2026-04-09 09:59:59.631257+00:00,Auth
+U143,Batch Created,192.168.1.233,2026-04-09 09:59:59.631261+00:00,Pharmacy
+U004,Generated Outbreak Alert,192.168.1.78,2026-04-09 09:59:59.631265+00:00,Clinical
+U089,Exported Inventory Report,192.168.1.59,2026-04-09 09:59:59.631269+00:00,Patients
+U155,Exported Inventory Report,192.168.1.113,2026-04-09 09:59:59.631273+00:00,Inventory
+U123,Updated Clinic Settings,192.168.1.66,2026-04-09 09:59:59.631277+00:00,Analytics
+U196,Exported Inventory Report,192.168.1.180,2026-04-09 09:59:59.631281+00:00,Auth
+U023,Stock Adjustment,192.168.1.16,2026-04-09 09:59:59.631285+00:00,Clinical
+U047,Prescription Issued,192.168.1.80,2026-04-09 09:59:59.631289+00:00,Settings
+U064,Analytics Dashboard Accessed,192.168.1.115,2026-04-09 09:59:59.631294+00:00,Clinical
+U033,Stock Adjustment,192.168.1.33,2026-04-09 09:59:59.631297+00:00,Inventory
+U121,Analytics Dashboard Accessed,192.168.1.240,2026-04-09 09:59:59.631302+00:00,Auth
+U065,Generated Outbreak Alert,192.168.1.4,2026-04-09 09:59:59.631305+00:00,Analytics
+U143,Stock Adjustment,192.168.1.226,2026-04-09 09:59:59.631309+00:00,Analytics
+U084,Updated Clinic Settings,192.168.1.142,2026-04-09 09:59:59.631313+00:00,Settings
+U156,Updated Clinic Settings,192.168.1.80,2026-04-09 09:59:59.631317+00:00,Clinical
+U058,Generated Outbreak Alert,192.168.1.140,2026-04-09 09:59:59.631321+00:00,Inventory
+U175,Updated Clinic Settings,192.168.1.69,2026-04-09 09:59:59.631325+00:00,Analytics
+U167,Viewed Patient Vitals,192.168.1.150,2026-04-09 09:59:59.631330+00:00,Patients
+U037,Exported Inventory Report,192.168.1.218,2026-04-09 09:59:59.631334+00:00,Patients
+U102,User Logout,192.168.1.187,2026-04-09 09:59:59.631338+00:00,Auth
+U171,Updated Clinic Settings,192.168.1.206,2026-04-09 09:59:59.631342+00:00,Pharmacy
+U092,Exported Inventory Report,192.168.1.209,2026-04-09 09:59:59.631346+00:00,Pharmacy
+U003,Exported Inventory Report,192.168.1.51,2026-04-09 09:59:59.631350+00:00,Analytics
+U177,User Logout,192.168.1.214,2026-04-09 09:59:59.631354+00:00,Inventory
+U006,Batch Created,192.168.1.216,2026-04-09 09:59:59.631358+00:00,Patients
+U055,Exported Inventory Report,192.168.1.166,2026-04-09 09:59:59.631362+00:00,Settings
+U003,Exported Inventory Report,192.168.1.105,2026-04-09 09:59:59.631366+00:00,Analytics
+U119,Updated Clinic Settings,192.168.1.154,2026-04-09 09:59:59.631370+00:00,Clinical
+U026,Updated Clinic Settings,192.168.1.75,2026-04-09 09:59:59.631374+00:00,Patients
+U117,Viewed Patient Vitals,192.168.1.173,2026-04-09 09:59:59.631377+00:00,Inventory
+U133,Generated Outbreak Alert,192.168.1.224,2026-04-09 09:59:59.631381+00:00,Settings
+U165,Generated Outbreak Alert,192.168.1.4,2026-04-09 09:59:59.631385+00:00,Clinical
+U041,User Logout,192.168.1.168,2026-04-09 09:59:59.631389+00:00,Settings
+U163,Exported Inventory Report,192.168.1.5,2026-04-09 09:59:59.631393+00:00,Inventory
+U085,Exported Inventory Report,192.168.1.237,2026-04-09 09:59:59.631397+00:00,Settings
+U108,Prescription Issued,192.168.1.131,2026-04-09 09:59:59.631401+00:00,Clinical
+U106,Updated Clinic Settings,192.168.1.220,2026-04-09 09:59:59.631405+00:00,Analytics
+U009,User Login,192.168.1.36,2026-04-09 09:59:59.631409+00:00,Settings
+U114,Exported Inventory Report,192.168.1.71,2026-04-09 09:59:59.631413+00:00,Pharmacy
+U098,Updated Clinic Settings,192.168.1.2,2026-04-09 09:59:59.631417+00:00,Analytics
+U176,Stock Adjustment,192.168.1.198,2026-04-09 09:59:59.631421+00:00,Clinical
+U076,Stock Adjustment,192.168.1.76,2026-04-09 09:59:59.631425+00:00,Analytics
+U180,User Login,192.168.1.5,2026-04-09 09:59:59.631429+00:00,Auth
+U092,Prescription Issued,192.168.1.4,2026-04-09 09:59:59.631433+00:00,Patients
+U003,Updated Clinic Settings,192.168.1.104,2026-04-09 09:59:59.631437+00:00,Auth
+U180,Exported Inventory Report,192.168.1.229,2026-04-09 09:59:59.631441+00:00,Clinical
+U038,Exported Inventory Report,192.168.1.212,2026-04-09 09:59:59.631445+00:00,Inventory
+U069,Stock Adjustment,192.168.1.59,2026-04-09 09:59:59.631449+00:00,Patients
+U014,Batch Created,192.168.1.247,2026-04-09 09:59:59.631453+00:00,Inventory
+U133,Batch Created,192.168.1.203,2026-04-09 09:59:59.631457+00:00,Settings
+U193,Stock Adjustment,192.168.1.143,2026-04-09 09:59:59.631461+00:00,Pharmacy
+U014,Prescription Issued,192.168.1.177,2026-04-09 09:59:59.631467+00:00,Pharmacy
+U164,Stock Adjustment,192.168.1.78,2026-04-09 09:59:59.631471+00:00,Analytics
+U028,Generated Outbreak Alert,192.168.1.98,2026-04-09 09:59:59.631476+00:00,Inventory
+U192,Stock Adjustment,192.168.1.235,2026-04-09 09:59:59.631480+00:00,Patients
+U009,User Logout,192.168.1.188,2026-04-09 09:59:59.631484+00:00,Analytics
+U146,Updated Clinic Settings,192.168.1.111,2026-04-09 09:59:59.631489+00:00,Settings
+U137,User Login,192.168.1.10,2026-04-09 09:59:59.631493+00:00,Patients
+U054,Exported Inventory Report,192.168.1.36,2026-04-09 09:59:59.631498+00:00,Pharmacy
+U038,Viewed Patient Vitals,192.168.1.8,2026-04-09 09:59:59.631502+00:00,Pharmacy
+U066,Stock Adjustment,192.168.1.57,2026-04-09 09:59:59.631507+00:00,Clinical
+U022,User Login,192.168.1.46,2026-04-09 09:59:59.631511+00:00,Auth
+U029,Stock Adjustment,192.168.1.147,2026-04-09 09:59:59.631515+00:00,Pharmacy
+U145,Analytics Dashboard Accessed,192.168.1.23,2026-04-09 09:59:59.631520+00:00,Patients
+U149,User Logout,192.168.1.245,2026-04-09 09:59:59.631524+00:00,Settings
+U180,Exported Inventory Report,192.168.1.79,2026-04-09 09:59:59.631529+00:00,Analytics
+U025,Exported Inventory Report,192.168.1.54,2026-04-09 09:59:59.631533+00:00,Clinical
+U018,Analytics Dashboard Accessed,192.168.1.193,2026-04-09 09:59:59.631537+00:00,Inventory
+U174,Stock Adjustment,192.168.1.53,2026-04-09 09:59:59.631542+00:00,Inventory
+U068,Viewed Patient Vitals,192.168.1.242,2026-04-09 09:59:59.631546+00:00,Settings
+U051,Prescription Issued,192.168.1.32,2026-04-09 09:59:59.631551+00:00,Inventory
+U022,Analytics Dashboard Accessed,192.168.1.253,2026-04-09 09:59:59.631555+00:00,Auth
+U108,User Login,192.168.1.206,2026-04-09 09:59:59.631560+00:00,Pharmacy
+U185,Updated Clinic Settings,192.168.1.211,2026-04-09 09:59:59.631564+00:00,Inventory
+U149,Generated Outbreak Alert,192.168.1.124,2026-04-09 09:59:59.631568+00:00,Auth
+U182,Prescription Issued,192.168.1.9,2026-04-09 09:59:59.631573+00:00,Patients
+U102,Batch Created,192.168.1.55,2026-04-09 09:59:59.631577+00:00,Inventory
+U072,Exported Inventory Report,192.168.1.74,2026-04-09 09:59:59.631581+00:00,Analytics
+U183,Prescription Issued,192.168.1.176,2026-04-09 09:59:59.631586+00:00,Pharmacy
+U100,Exported Inventory Report,192.168.1.153,2026-04-09 09:59:59.631590+00:00,Analytics
+U131,Batch Created,192.168.1.253,2026-04-09 09:59:59.631594+00:00,Analytics
+U098,Analytics Dashboard Accessed,192.168.1.48,2026-04-09 09:59:59.631599+00:00,Inventory
+U176,Prescription Issued,192.168.1.173,2026-04-09 09:59:59.631603+00:00,Pharmacy
+U047,User Login,192.168.1.134,2026-04-09 09:59:59.631608+00:00,Inventory
+U160,Updated Clinic Settings,192.168.1.9,2026-04-09 09:59:59.631612+00:00,Analytics
+U016,Batch Created,192.168.1.137,2026-04-09 09:59:59.631616+00:00,Auth
+U166,User Logout,192.168.1.217,2026-04-09 09:59:59.631621+00:00,Inventory
+U147,Viewed Patient Vitals,192.168.1.172,2026-04-09 09:59:59.631625+00:00,Inventory
+U135,Stock Adjustment,192.168.1.107,2026-04-09 09:59:59.631630+00:00,Patients
+U168,Analytics Dashboard Accessed,192.168.1.41,2026-04-09 09:59:59.631634+00:00,Analytics
+U002,Batch Created,192.168.1.130,2026-04-09 09:59:59.631638+00:00,Analytics
+U100,Stock Adjustment,192.168.1.238,2026-04-09 09:59:59.631643+00:00,Patients
+U184,Updated Clinic Settings,192.168.1.11,2026-04-09 09:59:59.631647+00:00,Settings
+U137,Updated Clinic Settings,192.168.1.247,2026-04-09 09:59:59.631652+00:00,Analytics
+U002,Updated Clinic Settings,192.168.1.184,2026-04-09 09:59:59.631656+00:00,Patients
+U066,Viewed Patient Vitals,192.168.1.15,2026-04-09 09:59:59.631660+00:00,Analytics
+U004,RESTOCK SUCCESS: Voluven. Added 20. New Total: 24,127.0.0.1,2026-04-09 10:10:49.361371+00:00,Inventory System

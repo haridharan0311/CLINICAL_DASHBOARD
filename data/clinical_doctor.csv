@@ -1,121 +1,121 @@
 doctor_id,user_id,clinic_id,specialization,experience_years,consultation_fee,average_rating,availability_status
-D001,U001,C010,Pediatrics,32,800,4.7,Active
-D002,U002,C035,Gynecology,28,800,3.9,Active
-D003,U006,C046,General Medicine,29,1000,4.3,Active
-D004,U007,C015,Pediatrics,31,800,4.5,Active
-D005,U008,C043,Diabetology,8,500,4.2,Active
-D006,U010,C031,Diabetology,23,800,4.1,Active
-D007,U011,C044,Pediatrics,14,600,4.0,Active
-D008,U012,C038,Pulmonology,13,600,4.3,Active
-D009,U014,C047,Diabetology,6,600,4.7,Active
-D010,U015,C010,Pulmonology,8,500,4.5,Active
-D011,U016,C048,Gynecology,2,300,4.8,Active
-D012,U017,C030,Pediatrics,17,800,4.2,Active
-D013,U018,C039,General Medicine,32,800,4.8,Active
-D014,U019,C033,Orthopedics,5,500,4.2,Active
-D015,U020,C017,Gynecology,26,1000,4.8,Active
-D016,U022,C013,General Medicine,31,1000,4.3,On-Leave
-D017,U023,C033,Pulmonology,33,800,4.0,Active
-D018,U024,C048,Pulmonology,15,500,4.4,Active
-D019,U027,C002,General Medicine,5,600,3.9,Active
-D020,U028,C019,Pediatrics,32,800,3.9,On-Leave
-D021,U032,C009,Gynecology,34,800,4.7,Active
-D022,U034,C012,General Medicine,6,500,4.5,On-Leave
-D023,U035,C049,Pulmonology,17,1000,3.9,Active
-D024,U037,C009,Pediatrics,17,800,4.5,Active
-D025,U038,C008,Gynecology,28,1000,4.8,Active
-D026,U039,C002,General Medicine,15,600,4.1,Active
-D027,U043,C029,General Medicine,27,800,4.5,Active
-D028,U045,C021,Pediatrics,21,1000,4.1,Active
-D029,U046,C027,Diabetology,6,500,4.3,Active
-D030,U048,C031,Orthopedics,8,500,4.4,Active
-D031,U049,C022,Diabetology,34,1000,3.9,Active
-D032,U051,C003,General Medicine,24,800,4.8,Active
-D033,U052,C042,General Medicine,25,1000,4.0,Active
-D034,U053,C001,Diabetology,21,800,4.5,Active
-D035,U057,C017,Orthopedics,21,800,4.8,Active
-D036,U058,C040,General Medicine,10,600,3.9,Active
-D037,U061,C018,Orthopedics,8,500,4.1,Active
-D038,U062,C035,Diabetology,15,600,4.0,Active
-D039,U063,C011,General Medicine,18,1000,4.1,Active
-D040,U064,C039,Gynecology,5,500,4.5,Active
-D041,U066,C010,Pulmonology,19,800,3.8,Active
-D042,U068,C006,General Medicine,10,600,4.0,Active
-D043,U071,C027,General Medicine,30,1000,4.4,Active
-D044,U072,C023,General Medicine,9,500,4.8,Active
-D045,U076,C014,General Medicine,11,500,4.7,Active
-D046,U077,C016,Pediatrics,11,600,3.9,Active
-D047,U078,C024,Diabetology,21,1000,4.8,Active
-D048,U080,C041,Orthopedics,4,400,4.0,Active
-D049,U083,C050,Pulmonology,17,800,4.2,Active
-D050,U084,C013,Orthopedics,28,800,4.8,Active
-D051,U085,C025,General Medicine,17,800,4.9,Active
-D052,U086,C007,General Medicine,13,600,3.8,Active
-D053,U087,C007,Gynecology,23,1000,4.7,Active
-D054,U088,C041,Orthopedics,17,1000,4.0,Active
-D055,U090,C019,General Medicine,8,600,4.8,On-Leave
-D056,U092,C050,Pediatrics,32,800,4.0,Active
-D057,U096,C019,Pulmonology,31,1000,4.1,Active
-D058,U098,C043,General Medicine,16,800,3.8,Active
-D059,U099,C003,General Medicine,14,600,4.2,Active
-D060,U100,C004,Diabetology,6,600,4.2,Active
-D061,U101,C023,Pediatrics,34,1000,4.5,Active
-D062,U105,C024,Pediatrics,23,800,3.9,Active
-D063,U106,C037,Pediatrics,18,800,4.4,Active
-D064,U107,C047,Pediatrics,18,800,3.9,Active
-D065,U109,C038,Pulmonology,29,1000,4.6,Active
-D066,U110,C011,General Medicine,22,1000,4.5,Active
-D067,U111,C025,Diabetology,34,800,4.2,Active
-D068,U112,C016,Pediatrics,14,600,3.8,Active
-D069,U116,C009,Pulmonology,29,800,4.4,Active
-D070,U117,C006,Orthopedics,14,600,4.3,Active
-D071,U119,C034,Diabetology,23,1000,4.5,Active
-D072,U120,C045,Pulmonology,9,600,4.4,Active
-D073,U121,C046,Pediatrics,28,1000,4.2,Active
-D074,U124,C013,Gynecology,20,800,4.0,Active
-D075,U125,C049,General Medicine,26,800,4.5,Active
-D076,U128,C002,Pulmonology,21,1000,4.4,Active
-D077,U129,C011,Pediatrics,2,400,4.1,Active
-D078,U130,C020,General Medicine,29,1000,4.3,Active
-D079,U132,C001,Gynecology,30,800,4.4,Active
-D080,U133,C020,General Medicine,12,500,4.1,Active
-D081,U134,C036,Diabetology,23,800,4.7,Active
-D082,U137,C044,General Medicine,17,1000,4.0,On-Leave
-D083,U139,C005,General Medicine,14,500,3.8,Active
-D084,U141,C021,Pediatrics,17,1000,4.5,Active
-D085,U144,C001,Gynecology,6,600,4.3,Active
-D086,U146,C016,Pediatrics,14,600,4.3,On-Leave
-D087,U148,C006,Pediatrics,17,800,4.5,Active
-D088,U149,C008,Pulmonology,2,300,4.7,Active
-D089,U150,C014,Pediatrics,16,800,4.7,Active
-D090,U151,C004,Pulmonology,35,1000,3.9,Active
-D091,U155,C008,General Medicine,17,800,4.3,Active
-D092,U156,C040,Diabetology,31,1000,4.8,Active
-D093,U157,C034,Pulmonology,30,1000,4.7,Active
-D094,U158,C042,Gynecology,30,800,4.6,Active
-D095,U159,C026,Pulmonology,32,1000,4.1,Active
-D096,U160,C022,Orthopedics,17,1000,4.6,Active
-D097,U162,C003,General Medicine,35,1000,4.5,Active
-D098,U163,C028,Diabetology,19,1000,3.9,Active
-D099,U165,C015,General Medicine,20,800,4.1,Active
-D100,U166,C030,Diabetology,22,800,4.0,Active
-D101,U167,C028,Pediatrics,16,1000,4.6,Active
-D102,U168,C007,Orthopedics,15,500,4.3,Active
-D103,U169,C018,Pediatrics,23,1000,4.3,Active
-D104,U173,C005,Pediatrics,15,600,4.2,Active
-D105,U176,C005,General Medicine,3,400,4.3,Active
-D106,U178,C026,Diabetology,24,1000,4.6,Active
-D107,U179,C012,Pediatrics,28,800,4.3,Active
-D108,U180,C020,Pulmonology,19,1000,4.3,Active
-D109,U181,C012,Orthopedics,26,1000,4.5,Active
-D110,U183,C037,General Medicine,27,800,4.7,Active
-D111,U184,C014,Pulmonology,10,500,4.8,Active
-D112,U185,C017,General Medicine,3,300,4.5,Active
-D113,U187,C018,General Medicine,10,600,4.0,Active
-D114,U188,C029,Gynecology,18,1000,4.2,Active
-D115,U189,C032,General Medicine,31,1000,4.2,Active
-D116,U194,C036,Orthopedics,26,1000,4.6,Active
-D117,U195,C045,General Medicine,28,1000,4.7,Active
-D118,U197,C004,Diabetology,32,800,4.6,Active
-D119,U199,C015,Diabetology,5,600,4.0,Active
-D120,U200,C032,General Medicine,6,500,4.6,Active
+D001,U001,C010,Pediatrics,32,800.00,4.7,Active
+D002,U002,C035,Gynecology,28,800.00,3.9,Active
+D003,U006,C046,General Medicine,29,1000.00,4.3,Active
+D004,U007,C015,Pediatrics,31,800.00,4.5,Active
+D005,U008,C043,Diabetology,8,500.00,4.2,Active
+D006,U010,C031,Diabetology,23,800.00,4.1,Active
+D007,U011,C044,Pediatrics,14,600.00,4.0,Active
+D008,U012,C038,Pulmonology,13,600.00,4.3,Active
+D009,U014,C047,Diabetology,6,600.00,4.7,Active
+D010,U015,C010,Pulmonology,8,500.00,4.5,Active
+D011,U016,C048,Gynecology,2,300.00,4.8,Active
+D012,U017,C030,Pediatrics,17,800.00,4.2,Active
+D013,U018,C039,General Medicine,32,800.00,4.8,Active
+D014,U019,C033,Orthopedics,5,500.00,4.2,Active
+D015,U020,C017,Gynecology,26,1000.00,4.8,Active
+D016,U022,C013,General Medicine,31,1000.00,4.3,On-Leave
+D017,U023,C033,Pulmonology,33,800.00,4.0,Active
+D018,U024,C048,Pulmonology,15,500.00,4.4,Active
+D019,U027,C002,General Medicine,5,600.00,3.9,Active
+D020,U028,C019,Pediatrics,32,800.00,3.9,On-Leave
+D021,U032,C009,Gynecology,34,800.00,4.7,Active
+D022,U034,C012,General Medicine,6,500.00,4.5,On-Leave
+D023,U035,C049,Pulmonology,17,1000.00,3.9,Active
+D024,U037,C009,Pediatrics,17,800.00,4.5,Active
+D025,U038,C008,Gynecology,28,1000.00,4.8,Active
+D026,U039,C002,General Medicine,15,600.00,4.1,Active
+D027,U043,C029,General Medicine,27,800.00,4.5,Active
+D028,U045,C021,Pediatrics,21,1000.00,4.1,Active
+D029,U046,C027,Diabetology,6,500.00,4.3,Active
+D030,U048,C031,Orthopedics,8,500.00,4.4,Active
+D031,U049,C022,Diabetology,34,1000.00,3.9,Active
+D032,U051,C003,General Medicine,24,800.00,4.8,Active
+D033,U052,C042,General Medicine,25,1000.00,4.0,Active
+D034,U053,C001,Diabetology,21,800.00,4.5,Active
+D035,U057,C017,Orthopedics,21,800.00,4.8,Active
+D036,U058,C040,General Medicine,10,600.00,3.9,Active
+D037,U061,C018,Orthopedics,8,500.00,4.1,Active
+D038,U062,C035,Diabetology,15,600.00,4.0,Active
+D039,U063,C011,General Medicine,18,1000.00,4.1,Active
+D040,U064,C039,Gynecology,5,500.00,4.5,Active
+D041,U066,C010,Pulmonology,19,800.00,3.8,Active
+D042,U068,C006,General Medicine,10,600.00,4.0,Active
+D043,U071,C027,General Medicine,30,1000.00,4.4,Active
+D044,U072,C023,General Medicine,9,500.00,4.8,Active
+D045,U076,C014,General Medicine,11,500.00,4.7,Active
+D046,U077,C016,Pediatrics,11,600.00,3.9,Active
+D047,U078,C024,Diabetology,21,1000.00,4.8,Active
+D048,U080,C041,Orthopedics,4,400.00,4.0,Active
+D049,U083,C050,Pulmonology,17,800.00,4.2,Active
+D050,U084,C013,Orthopedics,28,800.00,4.8,Active
+D051,U085,C025,General Medicine,17,800.00,4.9,Active
+D052,U086,C007,General Medicine,13,600.00,3.8,Active
+D053,U087,C007,Gynecology,23,1000.00,4.7,Active
+D054,U088,C041,Orthopedics,17,1000.00,4.0,Active
+D055,U090,C019,General Medicine,8,600.00,4.8,On-Leave
+D056,U092,C050,Pediatrics,32,800.00,4.0,Active
+D057,U096,C019,Pulmonology,31,1000.00,4.1,Active
+D058,U098,C043,General Medicine,16,800.00,3.8,Active
+D059,U099,C003,General Medicine,14,600.00,4.2,Active
+D060,U100,C004,Diabetology,6,600.00,4.2,Active
+D061,U101,C023,Pediatrics,34,1000.00,4.5,Active
+D062,U105,C024,Pediatrics,23,800.00,3.9,Active
+D063,U106,C037,Pediatrics,18,800.00,4.4,Active
+D064,U107,C047,Pediatrics,18,800.00,3.9,Active
+D065,U109,C038,Pulmonology,29,1000.00,4.6,Active
+D066,U110,C011,General Medicine,22,1000.00,4.5,Active
+D067,U111,C025,Diabetology,34,800.00,4.2,Active
+D068,U112,C016,Pediatrics,14,600.00,3.8,Active
+D069,U116,C009,Pulmonology,29,800.00,4.4,Active
+D070,U117,C006,Orthopedics,14,600.00,4.3,Active
+D071,U119,C034,Diabetology,23,1000.00,4.5,Active
+D072,U120,C045,Pulmonology,9,600.00,4.4,Active
+D073,U121,C046,Pediatrics,28,1000.00,4.2,Active
+D074,U124,C013,Gynecology,20,800.00,4.0,Active
+D075,U125,C049,General Medicine,26,800.00,4.5,Active
+D076,U128,C002,Pulmonology,21,1000.00,4.4,Active
+D077,U129,C011,Pediatrics,2,400.00,4.1,Active
+D078,U130,C020,General Medicine,29,1000.00,4.3,Active
+D079,U132,C001,Gynecology,30,800.00,4.4,Active
+D080,U133,C020,General Medicine,12,500.00,4.1,Active
+D081,U134,C036,Diabetology,23,800.00,4.7,Active
+D082,U137,C044,General Medicine,17,1000.00,4.0,On-Leave
+D083,U139,C005,General Medicine,14,500.00,3.8,Active
+D084,U141,C021,Pediatrics,17,1000.00,4.5,Active
+D085,U144,C001,Gynecology,6,600.00,4.3,Active
+D086,U146,C016,Pediatrics,14,600.00,4.3,On-Leave
+D087,U148,C006,Pediatrics,17,800.00,4.5,Active
+D088,U149,C008,Pulmonology,2,300.00,4.7,Active
+D089,U150,C014,Pediatrics,16,800.00,4.7,Active
+D090,U151,C004,Pulmonology,35,1000.00,3.9,Active
+D091,U155,C008,General Medicine,17,800.00,4.3,Active
+D092,U156,C040,Diabetology,31,1000.00,4.8,Active
+D093,U157,C034,Pulmonology,30,1000.00,4.7,Active
+D094,U158,C042,Gynecology,30,800.00,4.6,Active
+D095,U159,C026,Pulmonology,32,1000.00,4.1,Active
+D096,U160,C022,Orthopedics,17,1000.00,4.6,Active
+D097,U162,C003,General Medicine,35,1000.00,4.5,Active
+D098,U163,C028,Diabetology,19,1000.00,3.9,Active
+D099,U165,C015,General Medicine,20,800.00,4.1,Active
+D100,U166,C030,Diabetology,22,800.00,4.0,Active
+D101,U167,C028,Pediatrics,16,1000.00,4.6,Active
+D102,U168,C007,Orthopedics,15,500.00,4.3,Active
+D103,U169,C018,Pediatrics,23,1000.00,4.3,Active
+D104,U173,C005,Pediatrics,15,600.00,4.2,Active
+D105,U176,C005,General Medicine,3,400.00,4.3,Active
+D106,U178,C026,Diabetology,24,1000.00,4.6,Active
+D107,U179,C012,Pediatrics,28,800.00,4.3,Active
+D108,U180,C020,Pulmonology,19,1000.00,4.3,Active
+D109,U181,C012,Orthopedics,26,1000.00,4.5,Active
+D110,U183,C037,General Medicine,27,800.00,4.7,Active
+D111,U184,C014,Pulmonology,10,500.00,4.8,Active
+D112,U185,C017,General Medicine,3,300.00,4.5,Active
+D113,U187,C018,General Medicine,10,600.00,4.0,Active
+D114,U188,C029,Gynecology,18,1000.00,4.2,Active
+D115,U189,C032,General Medicine,31,1000.00,4.2,Active
+D116,U194,C036,Orthopedics,26,1000.00,4.6,Active
+D117,U195,C045,General Medicine,28,1000.00,4.7,Active
+D118,U197,C004,Diabetology,32,800.00,4.6,Active
+D119,U199,C015,Diabetology,5,600.00,4.0,Active
+D120,U200,C032,General Medicine,6,500.00,4.6,Active
