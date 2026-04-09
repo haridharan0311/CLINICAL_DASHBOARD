@@ -41,3 +41,11 @@ class User(AbstractUser):
 
     def __str__(self):
         return f"{self.username} - {self.role_type}"
+
+class AuditLog(models.Model):
+    user = models.ForeignKey('User', on_delete=models.SET_NULL, null=True)
+    action = models.CharField(max_length=255) # e.g., "Exported Restock Report"
+    ip_address = models.GenericIPAddressField()
+    timestamp = models.DateTimeField(auto_now_add=True)
+    resource_accessed = models.CharField(max_length=100)
+

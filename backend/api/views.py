@@ -1,8 +1,9 @@
+import re
 import csv
 from datetime import timedelta
 from django.utils import timezone
 from django.http import HttpResponse
-from django.db import models
+from django.db import models, transaction
 from django.db.models import F, Q, Count
 from django.views.decorators.cache import never_cache
 from django.utils.decorators import method_decorator
@@ -13,7 +14,8 @@ from rest_framework import status
 
 from clinical.models import Appointment
 from analytics.models import AnalyticsAlert
-from pharmacy.models import DrugMaster
+from pharmacy.models import DrugMaster, DrugBatch
+from users.models import User, AuditLog
 
 # Import our custom logic and models
 from analytics.services import get_disease_trends, detect_spikes, predict_medicine_demand
@@ -91,6 +93,79 @@ class DashboardSummaryView(APIView):
                 "medium": low_stock_drugs.filter(current_stock_level__gt=10).count()
             }
         })
+
+
+class GetNextBatchView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        drug_id = request.query_params.get('drug_id')
+        if not drug_id:
+            return Response({"error": "No drug_id provided"}, status=400)
+
+        # 1. Look for the last batch for THIS drug to find the number
+        last_batch = DrugBatch.objects.filter(drug_id=drug_id).order_by('-id').first()
+        
+        next_no = 1001 # Default starting number
+        if last_batch:
+            # Extract number from the end of any string (e.g., '1201' from 'TN-BN-1201')
+            match = re.search(r'(\d+)$', last_batch.batch_number)
+            if match:
+                next_no = int(match.group(1)) + 1
+
+        # 2. Format it into your new desired format: BAT-DR147-4756
+        candidate_id = f"BAT-{drug_id}-{next_no}"
+
+        # 3. UNIQUENESS CHECK: If this ID already exists (maybe for another drug), 
+        # keep incrementing until we find a truly empty slot.
+        while DrugBatch.objects.filter(batch_number=candidate_id).exists():
+            next_no += 1
+            candidate_id = f"BAT-{drug_id}-{next_no}"
+
+        return Response({"next_batch": candidate_id})
+
+
+class RestockBatchView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request):
+        drug_id = request.data.get('drug_id')
+        batch_no = request.data.get('batch_number')
+        qty = int(request.data.get('quantity'))
+        expiry = request.data.get('expiry_date')
+
+        try:
+            with transaction.atomic():
+                # select_for_update() prevents other users from changing stock 
+                # at the exact same millisecond as you.
+                drug = DrugMaster.objects.select_for_update().get(drug_id=drug_id)
+
+                # 1. Create the unique Batch record
+                DrugBatch.objects.create(
+                    drug=drug,
+                    batch_number=batch_no,
+                    expiry_date=expiry,
+                    quantity_received=qty,
+                    current_quantity=qty
+                )
+
+                # 2. Update Master Stock Level (CRITICAL FIX)
+                drug.current_stock_level += qty
+                drug.save()
+
+                client_ip = request.META.get('REMOTE_ADDR', '0.0.0.0')
+    
+                # 3. Audit Log with the CORRECT resulting stock value
+                AuditLog.objects.create(
+                    user=request.user,
+                    action=f"RESTOCK SUCCESS: {drug.brand_name}. Added {qty}. New Total: {drug.current_stock_level}",
+                    ip_address=client_ip,
+                    resource_accessed="Inventory System"
+                )
+
+            return Response({"message": "Stock and Batch synced successfully", "new_total": drug.current_stock_level})
+        except Exception as e:
+            return Response({"error": f"Database Error: {str(e)}"}, status=400)
 
 
 # ---------------------------------------------------------

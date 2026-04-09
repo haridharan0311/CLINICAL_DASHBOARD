@@ -6,33 +6,85 @@ from django.core.management.base import BaseCommand
 from django.utils.dateparse import parse_datetime, parse_date
 from django.utils import timezone
 
-from users.models import User
+# Updated Imports
+from users.models import User, AuditLog
 from clinical.models import Clinic, Doctor, Patient, Disease, Appointment
-from pharmacy.models import DrugMaster, Prescription, PrescriptionLine
+from pharmacy.models import DrugMaster, Prescription, PrescriptionLine, DrugBatch
 from analytics.models import AnalyticsAlert
 
 class Command(BaseCommand):
-    help = 'Seeds the database with Tamil Nadu healthcare data from CSV files'
+    help = 'Seeds the database with 12 tables of Tamil Nadu healthcare data'
 
     def handle(self, *args, **kwargs):
-        self.data_dir = os.path.join(os.getcwd(), '..', 'data')
+        # Paths based on your structure (data folder one level up)
+        self.data_dir = os.path.abspath(os.path.join(os.getcwd(), '..', 'data'))
+        self.stdout.write(self.style.WARNING(f'Using data directory: {self.data_dir}'))
+        
         self.stdout.write(self.style.WARNING('Starting the database seeding process...'))
 
-        self.seed_clinics()          # 1. Clinics
-        self.seed_users()            # 2. Users 
-        self.seed_doctors()          # 3. Doctors 
-        self.seed_patients()         # 4. Patients
-        self.seed_diseases()         # 5. Diseases
-        self.seed_drugmaster()       # 6. Drugs
-        self.seed_appointments()     # 7. Appointments
-        self.seed_prescriptions()    # 8. Prescriptions
-        self.seed_prescription_lines() # 9. Lines
-        self.seed_alerts()           # 10. Alerts
+        # SEEDING ORDER (Parent tables first)
+        self.seed_clinics()          
+        self.seed_users()            
+        self.seed_auditlog()         # NEW: Tracking security actions
+        self.seed_doctors()          
+        self.seed_patients()         
+        self.seed_diseases()         
+        self.seed_drugmaster()       
+        self.seed_drugbatch()        # NEW: Tracking medicine batches
+        self.seed_appointments()     
+        self.seed_prescriptions()    
+        self.seed_prescription_lines() 
+        self.seed_alerts()           
         
-        self.stdout.write(self.style.SUCCESS('🎉 All data successfully seeded!'))
+        self.stdout.write(self.style.SUCCESS('🎉 All 12 tables successfully seeded!'))
 
     def parse_bool(self, value):
         return str(value).strip().lower() in ['true', '1', 't', 'y', 'yes']
+
+    # --- NEW: Audit Log Seeding ---
+    def seed_auditlog(self):
+        file_path = os.path.join(self.data_dir, 'users_auditlog.csv')
+        batch_size = 500
+        objs = []
+        with open(file_path, mode='r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                ts = parse_datetime(row['timestamp'])
+                if ts and timezone.is_naive(ts):
+                    ts = timezone.make_aware(ts)
+                
+                objs.append(AuditLog(
+                    user_id=row['user_id'],
+                    action=row['action'],
+                    ip_address=row['ip_address'],
+                    timestamp=ts,
+                    resource_accessed=row['resource_accessed']
+                ))
+                if len(objs) >= batch_size:
+                    AuditLog.objects.bulk_create(objs)
+                    objs = []
+            if objs:
+                AuditLog.objects.bulk_create(objs)
+        self.stdout.write(self.style.SUCCESS('✅ Audit Logs'))
+
+    # --- NEW: Drug Batch Seeding ---
+    def seed_drugbatch(self):
+        file_path = os.path.join(self.data_dir, 'pharmacy_drugbatch.csv')
+        with open(file_path, mode='r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                DrugBatch.objects.get_or_create(
+                    batch_number=row['batch_number'],
+                    defaults={
+                        'drug_id': row['drug_id'],
+                        'expiry_date': parse_date(row['expiry_date']),
+                        'quantity_received': int(row['quantity_received']),
+                        'current_quantity': int(row['current_quantity']),
+                    }
+                )
+        self.stdout.write(self.style.SUCCESS('✅ Drug Batches'))
+
+    # --- EXISTING FUNCTIONS ---
 
     def seed_clinics(self):
         file_path = os.path.join(self.data_dir, 'clinical_clinic.csv')
@@ -62,7 +114,6 @@ class Command(BaseCommand):
         with open(file_path, mode='r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
-                # 1. Handle Timezones safely
                 created_dt = parse_datetime(row['created_at'])
                 if created_dt and timezone.is_naive(created_dt):
                     created_dt = timezone.make_aware(created_dt)
@@ -71,10 +122,8 @@ class Command(BaseCommand):
                 if last_login_dt and timezone.is_naive(last_login_dt):
                     last_login_dt = timezone.make_aware(last_login_dt)
 
-                # 2. Check if user is an admin (so they can log into the Django Admin site)
                 is_super_admin = (row['role_type'] == 'Super_Admin')
 
-                # 3. Save exactly what is in the CSV to the database
                 User.objects.get_or_create(
                     id=row['user_id'], 
                     defaults={
@@ -84,16 +133,11 @@ class Command(BaseCommand):
                         'first_name': row['first_name'],
                         'last_name': row['last_name'],
                         'email': row['email'],
-                        
-                        # Use EXACTLY what is in the CSV file, no overrides
                         'password': row['password_hash'], 
-                        
                         'date_joined': created_dt, 
                         'last_login': last_login_dt,
                         'is_active': self.parse_bool(row['is_active']),
                         'failed_login_attempts': int(row['failed_login_attempts']) if row['failed_login_attempts'] else 0,
-                        
-                        # Keep Admin permissions active
                         'is_staff': is_super_admin,
                         'is_superuser': is_super_admin,
                     }
@@ -183,7 +227,6 @@ class Command(BaseCommand):
         file_path = os.path.join(self.data_dir, 'clinical_appointment.csv')
         batch_size = 5000
         objs = []
-        
         with open(file_path, mode='r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
@@ -198,123 +241,85 @@ class Command(BaseCommand):
                     status=row['status'],
                     visit_type=row['visit_type']
                 ))
-                
                 if len(objs) >= batch_size:
                     Appointment.objects.bulk_create(objs, ignore_conflicts=True)
                     objs = []
-                    
             if objs:
                 Appointment.objects.bulk_create(objs, ignore_conflicts=True)
-                
         self.stdout.write(self.style.SUCCESS('✅ Appointments (Batch)'))
 
     def seed_prescriptions(self):
         file_path = os.path.join(self.data_dir, 'pharmacy_prescription.csv')
         batch_size = 5000
         objs = []
-        
-        valid_appts = list(Appointment.objects.values_list('appointment_id', flat=True))
-        if not valid_appts:
-            return
-        valid_app_set = set(valid_appts)
-        
+        valid_appts = set(Appointment.objects.values_list('appointment_id', flat=True))
         with open(file_path, mode='r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
+                # Handle common ID differences (AP10001 -> A10001)
                 appt_id = row['appointment_id'].replace('AP', 'A')
-                if appt_id not in valid_app_set:
-                    appt_id = random.choice(valid_appts)
-
-                objs.append(Prescription(
-                    prescription_id=row['prescription_id'],
-                    appointment_id=appt_id,
-                    date_issued=parse_date(row['date_issued']),
-                    duration_days=int(row['duration_days']) if row['duration_days'] else 0,
-                    digital_signature_flag=self.parse_bool(row['digital_signature_flag'])
-                ))
-                
+                if appt_id in valid_appts:
+                    objs.append(Prescription(
+                        prescription_id=row['prescription_id'],
+                        appointment_id=appt_id,
+                        date_issued=parse_date(row['date_issued']),
+                        duration_days=int(row['duration_days']) if row['duration_days'] else 0,
+                        digital_signature_flag=self.parse_bool(row['digital_signature_flag'])
+                    ))
                 if len(objs) >= batch_size:
                     Prescription.objects.bulk_create(objs, ignore_conflicts=True)
                     objs = []
-                    
             if objs:
                 Prescription.objects.bulk_create(objs, ignore_conflicts=True)
-                
         self.stdout.write(self.style.SUCCESS('✅ Prescriptions (Batch)'))
 
     def seed_prescription_lines(self):
         file_path = os.path.join(self.data_dir, 'pharmacy_prescriptionline.csv')
         batch_size = 5000
         objs = []
-        
-        valid_rxs = list(Prescription.objects.values_list('prescription_id', flat=True))
-        valid_drugs = list(DrugMaster.objects.values_list('drug_id', flat=True))
-        
-        if not valid_rxs or not valid_drugs:
-            return
-            
-        valid_rx_set = set(valid_rxs)
-        valid_drug_set = set(valid_drugs)
-        
+        valid_rxs = set(Prescription.objects.values_list('prescription_id', flat=True))
+        valid_drugs = set(DrugMaster.objects.values_list('drug_id', flat=True))
         with open(file_path, mode='r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 rx_id = row['prescription_id'].replace('RX-', 'PR')
                 drug_id = row['drug_id'].replace('D-', 'DR')
-                
-                if rx_id not in valid_rx_set:
-                    rx_id = random.choice(valid_rxs)
-                if drug_id not in valid_drug_set:
-                    drug_id = random.choice(valid_drugs)
-
-                objs.append(PrescriptionLine(
-                    line_id=row['line_id'],
-                    prescription_id=rx_id,
-                    drug_id=drug_id,
-                    dosage_frequency=row['dosage_frequency'],
-                    quantity_dispensed=int(row['quantity_dispensed']) if row['quantity_dispensed'] else 0
-                ))
-                
+                if rx_id in valid_rxs and drug_id in valid_drugs:
+                    objs.append(PrescriptionLine(
+                        line_id=row['line_id'],
+                        prescription_id=rx_id,
+                        drug_id=drug_id,
+                        dosage_frequency=row['dosage_frequency'],
+                        quantity_dispensed=int(row['quantity_dispensed']) if row['quantity_dispensed'] else 0
+                    ))
                 if len(objs) >= batch_size:
                     PrescriptionLine.objects.bulk_create(objs, ignore_conflicts=True)
                     objs = []
-                    
             if objs:
                 PrescriptionLine.objects.bulk_create(objs, ignore_conflicts=True)
-                
         self.stdout.write(self.style.SUCCESS('✅ Prescription Lines (Batch)'))
 
     def seed_alerts(self):
         file_path = os.path.join(self.data_dir, 'analytics_alert.csv')
         if not os.path.exists(file_path):
-            self.stdout.write(self.style.ERROR(f'❌ Cannot find file at: {file_path}'))
             return
-            
-        valid_clinics = list(Clinic.objects.values_list('clinic_id', flat=True))
-        valid_clinic_set = set(valid_clinics)
-            
+        valid_clinics = set(Clinic.objects.values_list('clinic_id', flat=True))
         with open(file_path, mode='r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 nums = re.findall(r'\d+', row['clinic_id'])
-                if nums:
-                    clinic_id = f"C{str(int(nums[0])).zfill(3)}"
-                else:
-                    clinic_id = row['clinic_id']
-                    
-                if clinic_id not in valid_clinic_set:
-                    clinic_id = random.choice(valid_clinics)
-
-                AnalyticsAlert.objects.get_or_create(
-                    alert_id=row['alert_id'],
-                    defaults={
-                        'clinic_id': clinic_id,
-                        'alert_type': row['alert_type'],
-                        'reference_id': row['reference_id'],
-                        'severity': row['severity'],
-                        'trigger_metric': row['trigger_metric'],
-                        'triggered_date': parse_date(row['triggered_date']),
-                        'is_resolved': self.parse_bool(row['is_resolved']),
-                    }
-                )
+                clinic_id = f"C{str(int(nums[0])).zfill(3)}" if nums else row['clinic_id']
+                if clinic_id in valid_clinics:
+                    AnalyticsAlert.objects.get_or_create(
+                        alert_id=row['alert_id'],
+                        defaults={
+                            'clinic_id': clinic_id,
+                            'alert_type': row['alert_type'],
+                            'reference_id': row['reference_id'],
+                            'severity': row['severity'],
+                            'trigger_metric': row['trigger_metric'],
+                            'triggered_date': parse_date(row['triggered_date']),
+                            'is_resolved': self.parse_bool(row['is_resolved']),
+                        }
+                    )
         self.stdout.write(self.style.SUCCESS('✅ Analytics Alerts'))
