@@ -8,7 +8,6 @@ const SpikeAlertPanel = () => {
     useEffect(() => {
         const fetchAlerts = async () => {
             try {
-                // Calls the Django SpikeDetectionView (GET)
                 const response = await api.get('spike-detection/');
                 setAlerts(response.data);
             } catch (error) {
@@ -17,50 +16,61 @@ const SpikeAlertPanel = () => {
                 setLoading(false);
             }
         };
-
         fetchAlerts();
     }, []);
 
-    // Helper to map severity to Bootstrap colors
     const getBadgeColor = (severity) => {
         if (severity === 'Critical') return 'bg-danger';
         if (severity === 'High') return 'bg-warning text-dark';
         return 'bg-info text-dark';
     };
 
-    if (loading) return <div className="spinner-border text-primary" role="status"></div>;
+    if (loading) return <div className="d-flex justify-content-center p-5"><div className="spinner-border text-primary text-sm"></div></div>;
 
     if (alerts.length === 0) {
-        return <div className="alert alert-success">✅ No active outbreaks detected. System nominal.</div>;
+        return <div className="p-4 text-center text-success fw-medium text-sm">✅ No active outbreaks detected. System nominal.</div>;
     }
 
     return (
-        <div className="card shadow-sm border-0">
-            <div className="card-header bg-white border-bottom-0 pt-4 pb-0">
-                <h5 className="mb-0 text-danger fw-bold">
-                    <i className="fas fa-exclamation-triangle me-2"></i> Active Spike Alerts
-                </h5>
+        <div className="card shadow-sm dashboard-card">
+            <div className="card-header bg-white border-bottom py-3 d-flex justify-content-between align-items-center">
+                <h6 className="mb-0 text-dark fw-bold">Active Spike Alerts</h6>
+                <span className="badge bg-danger rounded-pill">{alerts.length} New</span>
             </div>
-            <div className="card-body">
-                <div className="list-group list-group-flush">
-                    {alerts.map((alert) => (
-                        <div key={alert.alert_id} className="list-group-item px-0 py-3 d-flex align-items-start">
-                            <div className="ms-2 me-auto">
-                                <div className="fw-bold text-dark">
-                                    {/* Converts alert_type (e.g., 'Disease_Spike') to readable text */}
-                                    {alert.alert_type.replace('_', ' ')}
-                                </div>
-                                <span className="text-muted small">{alert.trigger_metric}</span>
-                                <div className="mt-1 text-secondary" style={{ fontSize: '0.8rem' }}>
-                                    Detected: {alert.triggered_date}
-                                </div>
-                            </div>
-                            <span className={`badge rounded-pill ${getBadgeColor(alert.severity)}`}>
-                                {alert.severity}
-                            </span>
-                        </div>
-                    ))}
-                </div>
+            
+            {/* Notice the custom class here that makes the table scrollable! */}
+            <div className="card-body scrollable-body">
+                <table className="table table-hover table-compact mb-0">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Alert Type</th>
+                            <th>Severity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {alerts.map((alert) => (
+                            <tr key={alert.alert_id}>
+                                <td className="text-secondary text-xs fw-medium" style={{ whiteSpace: 'nowrap' }}>
+                                    {alert.triggered_date}
+                                </td>
+                                <td>
+                                    <div className="fw-bold text-dark text-sm">
+                                        {alert.alert_type.replace('_', ' ')}
+                                    </div>
+                                    <div className="text-muted text-xs mt-1" style={{ maxWidth: '200px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                                        {alert.trigger_metric}
+                                    </div>
+                                </td>
+                                <td>
+                                    <span className={`badge rounded-1 fw-medium ${getBadgeColor(alert.severity)}`}>
+                                        {alert.severity}
+                                    </span>
+                                </td>
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
             </div>
         </div>
     );

@@ -1,6 +1,9 @@
 import csv
+from datetime import timedelta
+from django.utils import timezone
 from django.http import HttpResponse
-from django.db.models import F
+from django.db import models
+from django.db.models import F, Q, Count
 from django.views.decorators.cache import never_cache
 from django.utils.decorators import method_decorator
 from rest_framework.views import APIView
@@ -8,10 +11,12 @@ from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
 from rest_framework import status
 
-# Import our custom logic and models
-from analytics.services import get_disease_trends, detect_spikes, predict_medicine_demand
+from clinical.models import Appointment
 from analytics.models import AnalyticsAlert
 from pharmacy.models import DrugMaster
+
+# Import our custom logic and models
+from analytics.services import get_disease_trends, detect_spikes, predict_medicine_demand
 from .serializers import DiseaseTrendSerializer, RestockSerializer
 from rest_framework_simplejwt.views import TokenObtainPairView
 from .serializers import CustomTokenObtainPairSerializer
@@ -32,6 +37,60 @@ def get_user_clinic(user, request):
 
 class CustomTokenObtainPairView(TokenObtainPairView):
     serializer_class = CustomTokenObtainPairSerializer
+
+
+class DashboardSummaryView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        clinic_id = request.user.clinic_id if request.user.role_type != 'Super_Admin' else request.query_params.get('clinic_id')
+        today = timezone.now().date()
+        
+        # 1. Appointments/Cases Filter
+        apt_filter = Q(disease__isnull=False)
+        alert_filter = Q()
+        if clinic_id:
+            apt_filter &= Q(clinic_id=clinic_id)
+            alert_filter &= Q(clinic_id=clinic_id)
+
+        # Cases Calculations
+        cases_today = Appointment.objects.filter(apt_filter, appointment_date=today).count()
+        cases_week = Appointment.objects.filter(apt_filter, appointment_date__gte=today - timedelta(days=7)).count()
+        cases_month = Appointment.objects.filter(apt_filter, appointment_date__gte=today - timedelta(days=30)).count()
+
+        # Top Disease (Last 30 days)
+        top_disease = Appointment.objects.filter(apt_filter, appointment_date__gte=today - timedelta(days=30)) \
+            .values('disease__disease_name').annotate(count=Count('appointment_id')).order_by('-count').first()
+
+        # 2. Alerts/Spikes Calculations
+        active_spikes = AnalyticsAlert.objects.filter(alert_filter, is_resolved=False, alert_type__in=['Disease_Spike', 'Outbreak_Warning'])
+        resolved_spikes = AnalyticsAlert.objects.filter(alert_filter, is_resolved=True, alert_type__in=['Disease_Spike', 'Outbreak_Warning']).count()
+        
+        spike_breakdown = active_spikes.values('severity').annotate(count=Count('alert_id'))
+
+        # 3. Inventory Calculations (Global or Clinic level depending on your DrugMaster setup)
+        low_stock_drugs = DrugMaster.objects.filter(current_stock_level__lt=models.F('minimum_safety_buffer'))
+        total_low_stock = low_stock_drugs.count()
+
+        return Response({
+            "cases": {
+                "today": cases_today,
+                "this_week": cases_week,
+                "this_month": cases_month,
+                "top_disease_30d": top_disease['disease__disease_name'] if top_disease else "None"
+            },
+            "spikes": {
+                "active_total": active_spikes.count(),
+                "resolved_total": resolved_spikes,
+                "breakdown": {item['severity']: item['count'] for item in spike_breakdown}
+            },
+            "inventory": {
+                "low_stock_total": total_low_stock,
+                # Example rough logic for severity grouping
+                "critical": low_stock_drugs.filter(current_stock_level__lte=10).count(),
+                "medium": low_stock_drugs.filter(current_stock_level__gt=10).count()
+            }
+        })
 
 
 # ---------------------------------------------------------

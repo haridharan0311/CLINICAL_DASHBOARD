@@ -40,18 +40,29 @@ const TrendLineChart = () => {
                     diseases[item.disease_name][item.date] = item.cases;
                 });
 
-                // 3. Generate distinct colors for the lines
-                const colors = ['#0d6efd', '#dc3545', '#198754', '#ffc107', '#6f42c1', '#fd7e14'];
 
-                // 4. Format into Chart.js datasets
-                const datasets = Object.keys(diseases).map((diseaseName, index) => {
+                // NEW: Find the Top 5 Diseases to prevent the "Spaghetti Chart" effect
+                const diseaseTotals = Object.keys(diseases).map(name => {
+                    const totalCases = Object.values(diseases[name]).reduce((sum, cases) => sum + cases, 0);
+                    return { name, totalCases };
+                });
+                
+                // Sort descending and slice the top 5
+                const top5Diseases = diseaseTotals.sort((a, b) => b.totalCases - a.totalCases).slice(0, 5).map(d => d.name);
+
+                const colors = ['#0d6efd', '#dc3545', '#198754', '#6f42c1', '#fd7e14'];
+
+                // Format into Chart.js datasets, FILTERING only for the Top 5
+                const datasets = top5Diseases.map((diseaseName, index) => {
                     return {
                         label: diseaseName,
-                        // Map the cases to the sorted dates (insert 0 if no cases that day)
                         data: uniqueDates.map(date => diseases[diseaseName][date] || 0),
                         borderColor: colors[index % colors.length],
                         backgroundColor: colors[index % colors.length],
-                        tension: 0.3, // Adds a slight curve to the lines
+                        borderWidth: 1, 
+                        pointRadius: 0,
+                        pointHoverRadius: 6,
+                        tension: 0.4,
                     };
                 });
 
@@ -72,23 +83,37 @@ const TrendLineChart = () => {
 
     const options = {
         responsive: true,
+        maintainAspectRatio: false, // CRITICAL: Allows the chart to fill our custom container height
+        interaction: { mode: 'index', intersect: false }, // Better tooltip behavior
         plugins: {
-            legend: { position: 'top' },
-            title: { display: true, text: '30-Day Disease Case Trends' },
+            legend: { 
+                position: 'bottom', 
+                labels: { boxWidth: 12, usePointStyle: true, font: { size: 11 } } 
+            },
+            title: { display: false }, // We handle the title in our own HTML header
         },
         scales: {
-            y: { beginAtZero: true, title: { display: true, text: 'Number of Cases' } },
-            x: { title: { display: true, text: 'Date' } }
+            y: { 
+                beginAtZero: true, 
+                grid: { color: '#f1f5f9' }, // Very faint grid lines
+                ticks: { font: { size: 11 }, color: '#64748b' }
+            },
+            x: { 
+                grid: { display: false }, // Remove vertical grid lines completely for a cleaner look
+                ticks: { maxTicksLimit: 10, font: { size: 10 }, color: '#94a3b8' } 
+            }
         }
     };
 
-    if (loading) return <div className="spinner-border text-primary" role="status"></div>;
-    
-    if (!chartData) return <div className="alert alert-info">No trend data available for this period.</div>;
+    if (loading) return <div className="d-flex justify-content-center p-5"><div className="spinner-border text-primary"></div></div>;
+    if (!chartData) return <div className="alert alert-light text-sm p-3">No trend data available.</div>;
 
     return (
-        <div className="card shadow-sm border-0 h-100">
-            <div className="card-body">
+        <div className="card shadow-sm dashboard-card">
+            <div className="card-header bg-white border-bottom py-3">
+                <h6 className="mb-0 text-dark fw-bold">30-Day Disease Case Trends</h6>
+            </div>
+            <div className="card-body chart-wrapper">
                 <Line options={options} data={chartData} />
             </div>
         </div>

@@ -1,5 +1,6 @@
 from rest_framework import serializers
 from pharmacy.models import DrugMaster
+# backend/api/serializers.py
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 
 class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
@@ -7,10 +8,11 @@ class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
     def get_token(cls, user):
         token = super().get_token(user)
 
-        # Add our custom user data to the JWT payload!
         token['role_type'] = user.role_type
         token['clinic_id'] = user.clinic_id
         token['name'] = f"{user.first_name} {user.last_name}"
+        # --- NEW: Add Clinic Name dynamically ---
+        token['clinic_name'] = user.clinic.clinic_name if user.clinic else "Statewide Health Directorate"
         
         return token
 
