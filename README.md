@@ -1,6 +1,6 @@
-# Clinical Dashboard Backend
+# Clinical Dashboard
 
-A comprehensive Django REST API backend for a clinical dashboard system designed to manage healthcare data for clinics in Tamil Nadu. The system provides analytics, patient management, pharmacy operations, and role-based access control for healthcare professionals.
+A full-stack clinical dashboard system designed to manage healthcare data for clinics in Tamil Nadu. The system consists of a Django REST API backend and a React/Vite frontend, providing analytics, patient management, pharmacy operations, and role-based access control for healthcare professionals.
 
 ## Features
 
@@ -27,78 +27,115 @@ A comprehensive Django REST API backend for a clinical dashboard system designed
 
 ## Tech Stack
 
-- **Backend Framework**: Django 6.0.4
+### Backend
+- **Framework**: Django 6.0.4
 - **API Framework**: Django REST Framework 3.17.1
 - **Database**: SQLite (development) / MySQL (production-ready)
 - **Authentication**: Django's built-in auth system with custom User model
 - **Data Processing**: Pandas for analytics (implied in services)
 - **Deployment Ready**: ASGI/WSGI support
 
+### Frontend
+- **Framework**: React 18
+- **Build Tool**: Vite
+- **Styling**: CSS
+- **State Management**: React Context API
+- **HTTP Client**: Axios (implied in services)
+
 ## Project Structure
 
 ```
-backend/
-├── config/                 # Django project settings
-├── api/                    # REST API endpoints and serializers
-├── users/                  # Custom user model and authentication
-├── clinical/               # Patient, doctor, clinic, appointment models
-├── pharmacy/               # Drug, prescription management
-├── analytics/              # Alert system and analytics services
-└── data/                   # CSV data files for seeding
+Clinical_Dashboard/
+├── backend/                     # Django REST API Backend
+│   ├── config/                  # Django project settings
+│   ├── api/                     # REST API endpoints and serializers
+│   ├── users/                   # Custom user model and authentication
+│   ├── clinical/                # Patient, doctor, clinic, appointment models
+│   ├── pharmacy/                # Drug, prescription management
+│   ├── analytics/               # Alert system and analytics services
+│   └── data/                    # CSV data files for seeding
+├── frontend/                    # React/Vite Frontend
+│   ├── public/                  # Static assets
+│   └── src/
+│       ├── components/          # Reusable UI components
+│       ├── pages/               # Page components
+│       ├── services/            # API service functions
+│       ├── context/             # React context providers
+│       ├── hooks/               # Custom React hooks
+│       ├── utils/               # Utility functions
+│       ├── assets/              # Images, icons, etc.
+│       ├── App.jsx              # Main App component
+│       └── main.jsx             # Entry point
+└── data/                        # Root data directory (shared)
+    ├── analytics_alert.csv
+    ├── clinical_appointment.csv
+    ├── clinical_clinic.csv
+    ├── clinical_disease.csv
+    ├── clinical_doctor.csv
+    ├── clinical_patient.csv
+    ├── pharmacy_drugbatch.csv
+    ├── pharmacy_drugmaster.csv
+    ├── pharmacy_prescription.csv
+    ├── pharmacy_prescriptionline.csv
+    ├── users_auditlog.csv
+    └── users_user.csv
 ```
 
 ## Installation
 
 ### Prerequisites
 - Python 3.8+
+- Node.js 16+ (for frontend)
 - pip package manager
+- npm or yarn
 - Git
 
 ### Setup Steps
 
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd Clinical_Dashboard
-   ```
+#### 1. Clone the repository
+```bash
+git clone <repository-url>
+cd Clinical_Dashboard
+```
 
-2. **Create virtual environment**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+#### 2. Backend Setup
+```bash
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
+# Install dependencies
+pip install -r requirements.txt
 
-4. **Navigate to backend directory**
-   ```bash
-   cd backend
-   ```
+# Navigate to backend directory
+cd backend
 
-5. **Run database migrations**
-   ```bash
-   python manage.py migrate
-   ```
+# Run database migrations
+python manage.py migrate
 
-6. **Seed the database with sample data**
-   ```bash
-   python manage.py seed_data
-   ```
+# Seed the database with sample data
+python manage.py seed_data
 
-7. **Create superuser (optional)**
-   ```bash
-   python manage.py createsuperuser
-   ```
+# Create superuser (optional)
+python manage.py createsuperuser
 
-8. **Start the development server**
-   ```bash
-   python manage.py runserver
-   ```
-
+# Start the development server
+python manage.py runserver
+```
 The API will be available at `http://127.0.0.1:8000/`
+
+#### 3. Frontend Setup
+```bash
+# Navigate to frontend directory
+cd ../frontend
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+The frontend will be available at `http://localhost:5173/` (or similar)
 
 ## API Endpoints
 
@@ -146,13 +183,18 @@ The API will be available at `http://127.0.0.1:8000/`
 
 ### Running Tests
 ```bash
+# Backend tests
+cd backend
 python manage.py test
+
+# Frontend tests (when implemented)
+cd ../frontend
+npm test
 ```
 
 ### Code Style
-- Follow Django best practices
-- Use Django REST Framework conventions
-- Maintain proper separation of concerns (models, views, serializers, services)
+- **Backend**: Follow Django best practices and Django REST Framework conventions
+- **Frontend**: Follow React best practices with proper separation of concerns
 
 ### Database Seeding
 The system includes a comprehensive seeding command that loads Tamil Nadu healthcare data from CSV files:
@@ -169,7 +211,8 @@ The system includes a comprehensive seeding command that loads Tamil Nadu health
 - Configure proper SECRET_KEY
 - Set DEBUG=False
 - Configure ALLOWED_HOSTS
-- Use proper WSGI server (Gunicorn)
+- Use proper WSGI server (Gunicorn) for backend
+- Configure proper web server (nginx) for frontend
 - Set up static file serving
 - Configure CORS properly
 
@@ -195,11 +238,11 @@ ALLOWED_HOSTS=yourdomain.com
 
 ## Future Enhancements
 
-- Frontend dashboard implementation
 - Real-time notifications
 - Advanced ML models for predictions
 - Mobile app API
 - Integration with external healthcare systems
-- Multi-language support</content>
-<parameter name="filePath">E:\technospice\project_2\Clinical_Dashboard\README.md
-
+- Multi-language support
+- Enhanced UI/UX with charts and graphs
+- Telemedicine features
+- Insurance integration
